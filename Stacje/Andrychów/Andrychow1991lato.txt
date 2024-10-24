@@ -1,0 +1,37 @@
+Andrychów, lato 1991
+
+Stacja le¿y na linii 117 Kalwaria Lanckorona - Bielsko Bia³a G³ówna.
+
+Wyjazdy:
+1 - Wadowice, Kalwaria
+2 - Bielsko Bia³a
+3 - tartak
+4 - zak³ady Andropol i Andoria Mot
+
+Uk³ad stacji odwzorowany w 100%. Widok od strony budynku stacji - pó³noc znajduje siê
+"na dole". Niezelektryfikowane torowisko po prawej stronie znajduje siê poza obrêbem
+stacji - jest to posterunek bocznicowy obs³uguj¹cy bocznicê do Andropolu i Andorii.
+
+Najbli¿sza lokomotywownia:
+CM Czechowice Dziedzice, czas przyjazdu lokomotywy z szopy wynosi 90 minut.
+
+Autorem rozk³adu jazdy jest Krzysztof W¹dolny (nmwadoln@imim-pan.krakow.pl).
+
+Stacja napisana na postawie sieciowego rozk³adu jazdy pociagów z lata 1991. Sk³ady
+poci¹gów osobowych s¹ autentyczne na podstawie obserwacji autora rozk³adu. Symulacja
+obejmuje dni tygodnia od poniedzia³ku do pi¹tku.
+
+Ograniczenia:
+Brak poci¹gów towarowych.
+
+Zapraszam do symulacji innych stacji z linii 117: Bielsko Bia³a Wschód, Kozy, Kêty,
+Wadowice, Klecza Górna, Kalwaria Zebrzydowska, Kalwaria Lanckorona.
+
+Przy budowie stacji i rozk³adu pomog³y programy:
+Edytor dla Kolejarza v2.61, Path Finder v2.0 oraz eRozk³ad v0.56
+
+Przyjemnej zabawy,
+Pawe³ Okrzesik (paul@wizja.net.pl)
+
+Zapraszam:
+www.kolej.of.pl - dodatkowe informacje o linii 117 i nie tylko

@@ -1,0 +1,358 @@
+D:\priv\Kolejarz\Stacje\a\Kolobrzeg.stc
+D:\priv\Kolejarz\Stacje\Andrychów\andr1.stc
+D:\priv\Kolejarz\Stacje\Andrychów\andr2.stc
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychow.stc
+D:\priv\Kolejarz\Stacje\Banovce\Banovce_n_O.stc
+D:\priv\Kolejarz\Stacje\Bednary\bednary.stc
+D:\priv\Kolejarz\Stacje\Bielsko Bia³a G³\bbgl.stc
+D:\priv\Kolejarz\Stacje\Bielsko Bia³a Wsch\bbws.stc
+D:\priv\Kolejarz\Stacje\Bieniów\Bieniow.stc
+D:\priv\Kolejarz\Stacje\Bobowa Miasto\Bobowam.stc
+D:\priv\Kolejarz\Stacje\Bochnia\bochnia.stc
+D:\priv\Kolejarz\Stacje\Bohumin\Bohumin.stc
+D:\priv\Kolejarz\Stacje\Boles³awiec\Boleslawiec.stc
+D:\priv\Kolejarz\Stacje\Bolków\Bolkow.stc
+D:\priv\Kolejarz\Stacje\Brno\Brno.stc
+D:\priv\Kolejarz\Stacje\Brzeg\brzeg.stc
+D:\priv\Kolejarz\Stacje\Brzesko Okocim\brzesko_okocim.stc
+D:\priv\Kolejarz\Stacje\Busko Zdrój\Busko Zdr.stc
+D:\priv\Kolejarz\Stacje\B³onie\BLONIE.stc
+D:\priv\Kolejarz\Stacje\Ceska Trebova\cesktr.stc
+D:\priv\Kolejarz\Stacje\Chabówka\Chabowka.stc
+D:\priv\Kolejarz\Stacje\Che³m\Chelm_new.stc
+D:\priv\Kolejarz\Stacje\Chomutov\Chomutov.stc
+D:\priv\Kolejarz\Stacje\Cudzynowice\Cudzynowice.stc
+D:\priv\Kolejarz\Stacje\Czeskie Budziejowice\Ces_Bud.stc
+D:\priv\Kolejarz\Stacje\Czêstochowa\Czestochowa9.stc
+D:\priv\Kolejarz\Stacje\Dar³owo\darlowo.stc
+D:\priv\Kolejarz\Stacje\D¹browa Che³miñska\dabrowa.stc
+D:\priv\Kolejarz\Stacje\Dêbica\debica.stc
+D:\priv\Kolejarz\Stacje\Dêblin\Deblin.stc
+D:\priv\Kolejarz\Stacje\Dêblin\Deblin2004R.stc
+D:\priv\Kolejarz\Stacje\D³ugomilowice\dlugomilowice.stc
+D:\priv\Kolejarz\Stacje\E³k\elk.stc
+D:\priv\Kolejarz\Stacje\Fransta\fransta.stc
+D:\priv\Kolejarz\Stacje\Freising\Freising.stc
+D:\priv\Kolejarz\Stacje\Garczegorze\Garczegorze.stc
+D:\priv\Kolejarz\Stacje\Ga³kówek\galkowek2.stc
+D:\priv\Kolejarz\Stacje\Gdañsk\Gdansk Glowny.stc
+D:\priv\Kolejarz\Stacje\Gdañsk Oliwa\oliwaskm.stc
+D:\priv\Kolejarz\Stacje\Gdynia Chylonia\Chylonia.stc
+D:\priv\Kolejarz\Stacje\Gi¿ycko\Gizycko.stc
+D:\priv\Kolejarz\Stacje\Goleszów\Goleszow.stc
+D:\priv\Kolejarz\Stacje\Granowo\granowo.stc
+D:\priv\Kolejarz\Stacje\Grodzisk Maz\Grodzisk Mazowiecki.stc
+D:\priv\Kolejarz\Stacje\Grudzi¹dz\grudziadz.stc
+D:\priv\Kolejarz\Stacje\Grybów\Grybow.stc
+D:\priv\Kolejarz\Stacje\Gryfino\Gryfino.stc
+D:\priv\Kolejarz\Stacje\Gryfów Œl¹ski\Gryfow.stc
+D:\priv\Kolejarz\Stacje\Hel\Hel.stc
+D:\priv\Kolejarz\Stacje\Herby Nowe\herby.stc
+D:\priv\Kolejarz\Stacje\Hlubocky\hmu.stc
+D:\priv\Kolejarz\Stacje\Hostivice\Hostivice 1980.stc
+D:\priv\Kolejarz\Stacje\Hostivice\Hostivice_2004_poz.stc
+D:\priv\Kolejarz\Stacje\Jas³o\Jas³o.stc
+D:\priv\Kolejarz\Stacje\Jas³o Towarowe\Jas³o_Tow.stc
+D:\priv\Kolejarz\Stacje\Jawor\Jawor.stc
+D:\priv\Kolejarz\Stacje\Jaworzyna Œl¹ska\Jaworzyna.stc
+D:\priv\Kolejarz\Stacje\Jedlicze\Jedlicze.stc
+D:\priv\Kolejarz\Stacje\Jedlova\Jedlova.stc
+D:\priv\Kolejarz\Stacje\Jelenia Góra\Jelenia.stc
+D:\priv\Kolejarz\Stacje\Jelenia Góra Zach\Jel_Zach.stc
+D:\priv\Kolejarz\Stacje\Jeleœnia\Jelesnia.stc
+D:\priv\Kolejarz\Stacje\Jêdrzejów\Jedrzejow.stc
+D:\priv\Kolejarz\Stacje\Jêdrzejów\Jedrzejow78.stc
+D:\priv\Kolejarz\Stacje\Jêdrzejów w¹sk\jowwaski.stc
+D:\priv\Kolejarz\Stacje\Kalwaria\Kalwaria.stc
+D:\priv\Kolejarz\Stacje\Kalwaria\Kalwaria2006lato.stc
+D:\priv\Kolejarz\Stacje\Kalwaria Z\Kalwaria_Zeb.stc
+D:\priv\Kolejarz\Stacje\Kamenne Zehrovice\Kam_zehro.stc
+D:\priv\Kolejarz\Stacje\Kamieniec Z¹bkowicki\Kamieniec.stc
+D:\priv\Kolejarz\Stacje\Kamienna Góra\Kamienna_G.stc
+D:\priv\Kolejarz\Stacje\KarloweVary\K_Vary.stc
+D:\priv\Kolejarz\Stacje\Karpacz\Karpacz.stc
+D:\priv\Kolejarz\Stacje\Katowice\Katowice.stc
+D:\priv\Kolejarz\Stacje\Kcynia\kcynia.stc
+D:\priv\Kolejarz\Stacje\Kladno\kladno.stc
+D:\priv\Kolejarz\Stacje\Klecza Górna\Klecza_gorna.stc
+D:\priv\Kolejarz\Stacje\Kolin\Kolin.stc
+D:\priv\Kolejarz\Stacje\Koluszki\Koluszki4z.stc
+D:\priv\Kolejarz\Stacje\Koszalin\Klin_duzy.stc
+D:\priv\Kolejarz\Stacje\Koszalin\Klin_maly.stc
+D:\priv\Kolejarz\Stacje\Koszalin\Koszalin.stc
+D:\priv\Kolejarz\Stacje\Koszalin\Koszalin_duzy.stc
+D:\priv\Kolejarz\Stacje\Koszalin\Koszalin_maly.stc
+D:\priv\Kolejarz\Stacje\Koszecin\koszecin.stc
+D:\priv\Kolejarz\Stacje\Kozy\kozy.stc
+D:\priv\Kolejarz\Stacje\Koz³ów\Kozlow.stc
+D:\priv\Kolejarz\Stacje\Ko³obrzeg\Kolobrzeg.stc
+D:\priv\Kolejarz\Stacje\Kraków G³\Krakow Gl.stc
+D:\priv\Kolejarz\Stacje\Kraków Mydlniki\Krakow Mydlniki.stc
+D:\priv\Kolejarz\Stacje\Kraków P³\Krakow Plaszow.stc
+D:\priv\Kolejarz\Stacje\Kraœnik\Krasnik.stc
+D:\priv\Kolejarz\Stacje\Krosno\Krosno.stc
+D:\priv\Kolejarz\Stacje\Krotoszyn\krotoszyn.stc
+D:\priv\Kolejarz\Stacje\Krynica\Krynica.stc
+D:\priv\Kolejarz\Stacje\Kudowa Zdrój\kudowa_zdroj.stc
+D:\priv\Kolejarz\Stacje\Kwidzyñ\Kwidzyn 1994-1995.stc
+D:\priv\Kolejarz\Stacje\Kêpice\kepice.stc
+D:\priv\Kolejarz\Stacje\Kêpno\kepno.stc
+D:\priv\Kolejarz\Stacje\Kêty\kety.stc
+D:\priv\Kolejarz\Stacje\K³odzko\Klodzko.stc
+D:\priv\Kolejarz\Stacje\Legionowo\legionowo.stc
+D:\priv\Kolejarz\Stacje\Legnica\Legnica.stc
+D:\priv\Kolejarz\Stacje\Leœna\Lesna.stc
+D:\priv\Kolejarz\Stacje\Liberec\Liberec.stc
+D:\priv\Kolejarz\Stacje\Limanowa\Limanowa.stc
+D:\priv\Kolejarz\Stacje\Litomerice\Litomerice.stc
+D:\priv\Kolejarz\Stacje\Lubañ Œl\Luban.stc
+D:\priv\Kolejarz\Stacje\Luzna\Luzna_u_R.stc
+D:\priv\Kolejarz\Stacje\Lwówek Œl¹ski\Lwowek.stc
+D:\priv\Kolejarz\Stacje\Lêbork\Lebork.stc
+D:\priv\Kolejarz\Stacje\Lêbork\Lebork2.stc
+D:\priv\Kolejarz\Stacje\Maków Podhalañski\Makow_P.stc
+D:\priv\Kolejarz\Stacje\Marciszów\Marciszow.stc
+D:\priv\Kolejarz\Stacje\Ma³kinia\malkinia.stc
+D:\priv\Kolejarz\Stacje\Michalovce\Michalovce.stc
+D:\priv\Kolejarz\Stacje\Mieroszów\mieroszow.stc
+D:\priv\Kolejarz\Stacje\Mieroszów\mieroszow32.stc
+D:\priv\Kolejarz\Stacje\Milanówek\Milanowek.stc
+D:\priv\Kolejarz\Stacje\Milanówek Grudów\Milanowek Grudow.stc
+D:\priv\Kolejarz\Stacje\Mirsk\Mirsk.stc
+D:\priv\Kolejarz\Stacje\Mittenwald\mittenwald.stc
+D:\priv\Kolejarz\Stacje\Miñsk Maz\minskmaz.stc
+D:\priv\Kolejarz\Stacje\Mucharz\Mucharz.stc
+D:\priv\Kolejarz\Stacje\Muszyna\muszyna.stc
+D:\priv\Kolejarz\Stacje\Mys³akowice\Myslakowice.stc
+D:\priv\Kolejarz\Stacje\Nezamyslice\nezamy.stc
+D:\priv\Kolejarz\Stacje\Nove Sedlo\nsedlo.stc
+D:\priv\Kolejarz\Stacje\Nowogród\Nowogrod.stc
+D:\priv\Kolejarz\Stacje\Nowy S¹cz\Nowy Sacz1.stc
+D:\priv\Kolejarz\Stacje\Nowy Targ\NTt.stc
+D:\priv\Kolejarz\Stacje\Oborniki Œl¹skie\Oborniki_Sl.stc
+D:\priv\Kolejarz\Stacje\Ocypel\Ocypel.stc
+D:\priv\Kolejarz\Stacje\Oleœnica\olesnica.stc
+D:\priv\Kolejarz\Stacje\Olkusz\olkusz1.stc
+D:\priv\Kolejarz\Stacje\Olsztyn\Olsztyn2002.stc
+D:\priv\Kolejarz\Stacje\Opole G³ówne\Opole.stc
+D:\priv\Kolejarz\Stacje\Ostrava Svinov\Svinov1.stc
+D:\priv\Kolejarz\Stacje\Ostrów Wielkopolski\ostrow.stc
+D:\priv\Kolejarz\Stacje\Oœwiêcim\oswiecim.stc
+D:\priv\Kolejarz\Stacje\Piechowice\Piechowice.stc
+D:\priv\Kolejarz\Stacje\Piñczów W¹sk\Pinczow.stc
+D:\priv\Kolejarz\Stacje\Plzen\Plzen.stc
+D:\priv\Kolejarz\Stacje\Podkowa Leœna\podkowa_lesna.stc
+D:\priv\Kolejarz\Stacje\Pod³ê¿e\podleze.stc
+D:\priv\Kolejarz\Stacje\Polanica Zdrój\Polanica Zdroj 2006.stc
+D:\priv\Kolejarz\Stacje\Polesie\Polesie.stc
+D:\priv\Kolejarz\Stacje\Povazska Bystrica\Povazska_Bystrica1.stc
+D:\priv\Kolejarz\Stacje\PowroŸnik\powroznik.stc
+D:\priv\Kolejarz\Stacje\Poznañ\Poznan Glowny.stc
+D:\priv\Kolejarz\Stacje\Praha\Praha_hl_n.stc
+D:\priv\Kolejarz\Stacje\Praha Bubny\Praha_Bubny.stc
+D:\priv\Kolejarz\Stacje\Praha Hostivar\Pr_Hostivar.stc
+D:\priv\Kolejarz\Stacje\Pruszcz Gdañski\Pruszcz_Gdanski2006.stc
+D:\priv\Kolejarz\Stacje\Pruszków WKD\pruszkow_wkd.stc
+D:\priv\Kolejarz\Stacje\Przeworsk\Przeworsk2005a.stc
+D:\priv\Kolejarz\Stacje\Ptaszkowa\Ptaszkowa.stc
+D:\priv\Kolejarz\Stacje\Puszcza Mariañska\puszczamar.stc
+D:\priv\Kolejarz\Stacje\Pyrzyce\PYRZYCE.STC
+D:\priv\Kolejarz\Stacje\P³oty\Ploty.stc
+D:\priv\Kolejarz\Stacje\Radom\radom.stc
+D:\priv\Kolejarz\Stacje\Rakoniewice\rakoniewice.stc
+D:\priv\Kolejarz\Stacje\Rakovnik\Rakovnik.stc
+D:\priv\Kolejarz\Stacje\Reda\Reda.stc
+D:\priv\Kolejarz\Stacje\Reptowo\reptowo.stc
+D:\priv\Kolejarz\Stacje\Rokiciny\rokiciny-old.stc
+D:\priv\Kolejarz\Stacje\Rokiciny\rokiciny1new.stc
+D:\priv\Kolejarz\Stacje\Rosice\Rosice.stc
+D:\priv\Kolejarz\Stacje\Rybnik\Rybnik2005.stc
+D:\priv\Kolejarz\Stacje\Rzeszów\rzeszow5.stc
+D:\priv\Kolejarz\Stacje\Rêbiszów\Rebiszow.stc
+D:\priv\Kolejarz\Stacje\Sanok\sanok.stc
+D:\priv\Kolejarz\Stacje\Serock\serock.stc
+D:\priv\Kolejarz\Stacje\Siemiatycze\siemiatycze.stc
+D:\priv\Kolejarz\Stacje\Sitkówka-Nowiny\SITKOWKA-NOWINY.STC
+D:\priv\Kolejarz\Stacje\Skar¿ysko\Skarzysko4.stc
+D:\priv\Kolejarz\Stacje\Skawce\Skawce.stc
+D:\priv\Kolejarz\Stacje\Skawce\Skawce74.stc
+D:\priv\Kolejarz\Stacje\Skawina\Skawina.stc
+D:\priv\Kolejarz\Stacje\Skierniewice\skierniewice.stc
+D:\priv\Kolejarz\Stacje\Skoczów\Skoczow.stc
+D:\priv\Kolejarz\Stacje\Solec Kujawski\solec.stc
+D:\priv\Kolejarz\Stacje\Somonino\Somonino.stc
+D:\priv\Kolejarz\Stacje\Spa³a\s.stc
+D:\priv\Kolejarz\Stacje\Spytkowice\Spytkowice.stc
+D:\priv\Kolejarz\Stacje\Stalowa Wola Rozwadów\rozwadow10.stc
+D:\priv\Kolejarz\Stacje\Stara Paka\Stara_Paka.stc
+D:\priv\Kolejarz\Stacje\Starogard Gdañski\starogardgd.stc
+D:\priv\Kolejarz\Stacje\Strazske\Strazske.stc
+D:\priv\Kolejarz\Stacje\Stronie Œl¹skie\stronie.stc
+D:\priv\Kolejarz\Stacje\Strzegom\Strzegom.stc
+D:\priv\Kolejarz\Stacje\Stró¿e\stroze.stc
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_Beskidzka.stc
+D:\priv\Kolejarz\Stacje\Sycewice\sycewice.stc
+D:\priv\Kolejarz\Stacje\Syców\Sycow.stc
+D:\priv\Kolejarz\Stacje\Szepietowo\szepietowo.stc
+D:\priv\Kolejarz\Stacje\Szklarska Porêba Górna\Szklarska.stc
+D:\priv\Kolejarz\Stacje\Szpanowo\szpanowo.stc
+D:\priv\Kolejarz\Stacje\Sêdziszów\Sedziszow3.stc
+D:\priv\Kolejarz\Stacje\S³upsk\SLUPSK.STC
+D:\priv\Kolejarz\Stacje\Targowiska\Targowiska.stc
+D:\priv\Kolejarz\Stacje\Tarnów\tarnow.stc
+D:\priv\Kolejarz\Stacje\Tarnów Klikowa\Klikowa.stc
+D:\priv\Kolejarz\Stacje\Tarnów Moœcice\moscice.stc
+D:\priv\Kolejarz\Stacje\Teresin\Teresin.stc
+D:\priv\Kolejarz\Stacje\Trzciniec\trzciniec.stc
+D:\priv\Kolejarz\Stacje\Trzebie¿ Szczeciñski\trzebiez.stc
+D:\priv\Kolejarz\Stacje\Tunel\Tunel.stc
+D:\priv\Kolejarz\Stacje\Tymbark\Tymbark.stc
+D:\priv\Kolejarz\Stacje\T³uszcz\Tluszcz.stc
+D:\priv\Kolejarz\Stacje\Usti\Usti.stc
+D:\priv\Kolejarz\Stacje\Ustka\ustka.stc
+D:\priv\Kolejarz\Stacje\Ustroñ\Ustron.stc
+D:\priv\Kolejarz\Stacje\Ustroñ\Ustron2005.stc
+D:\priv\Kolejarz\Stacje\Volary\Volary.stc
+D:\priv\Kolejarz\Stacje\Vsetaty\Vsetaty.stc
+D:\priv\Kolejarz\Stacje\Vsetin\Vsetin.stc
+D:\priv\Kolejarz\Stacje\Vsetin\Vsetin2.stc
+D:\priv\Kolejarz\Stacje\Vyskov\vyskov.stc
+D:\priv\Kolejarz\Stacje\Wa-wa Okêcie\OKECIE2.STC
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice.stc
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice2006.stc
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice2006lato.stc
+D:\priv\Kolejarz\Stacje\Warszawa Centralna\wawacentr.stc
+D:\priv\Kolejarz\Stacje\Warszawa Rembertów\rembertow.stc
+D:\priv\Kolejarz\Stacje\Warszawa Wileñska\Warszawa Wilenska.stc
+D:\priv\Kolejarz\Stacje\Warszawa Wsch\wschodnia1.stc
+D:\priv\Kolejarz\Stacje\Warszawa W³ochy\W-wa Wlochy.stc
+D:\priv\Kolejarz\Stacje\Warszawa Zach\Warszawa Zach.stc
+D:\priv\Kolejarz\Stacje\Warszawa Zach\Warszawa Zachodnia.stc
+D:\priv\Kolejarz\Stacje\Warszawa Œródmieœcie\srodmiescie WKD.stc
+D:\priv\Kolejarz\Stacje\Wa³brzych\Wa³brzych.stc
+D:\priv\Kolejarz\Stacje\Wieluñ D¹browa\wielun.stc
+D:\priv\Kolejarz\Stacje\Wieluñ W¹sk\Wielun Wask.stc
+D:\priv\Kolejarz\Stacje\Wierzchucin\Wierzchucin.stc
+D:\priv\Kolejarz\Stacje\Wis³a G³êbce\Wisla_glebce.stc
+D:\priv\Kolejarz\Stacje\Wis³a Uzdrowisko\Wisla_Uzdrowisko.stc
+D:\priv\Kolejarz\Stacje\Wolsztyn\Wolsztyn.stc
+D:\priv\Kolejarz\Stacje\Wrzeœnia\wrzesnia 2005.stc
+D:\priv\Kolejarz\Stacje\Wêgliniec\Wegliniec.stc
+D:\priv\Kolejarz\Stacje\W³adys³awowo\Wladyslawowo.stc
+D:\priv\Kolejarz\Stacje\Zabreh\Zabreh.stc
+D:\priv\Kolejarz\Stacje\Zagórz\zagorz.stc
+D:\priv\Kolejarz\Stacje\Zaj¹czkowo Tczewskie\zajaczkowo2.stc
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane.stc
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane2004.stc
+D:\priv\Kolejarz\Stacje\Zamoœæ\zamosc.stc
+D:\priv\Kolejarz\Stacje\Zawada\zawada.stc
+D:\priv\Kolejarz\Stacje\Zehrovice\Zehrovice_2004_poz.stc
+D:\priv\Kolejarz\Stacje\Zielona Góra\Zielona_G.stc
+D:\priv\Kolejarz\Stacje\Zielonka\Zielonka.stc
+D:\priv\Kolejarz\Stacje\Z³otoryja\Zlotoryja.stc
+D:\priv\Kolejarz\Stacje\£ask\lask.stc
+D:\priv\Kolejarz\Stacje\£uków\Lukow.stc
+D:\priv\Kolejarz\Stacje\£upków\Lupkow.stc
+D:\priv\Kolejarz\Stacje\£ódŸ Andrzejów\ande.stc
+D:\priv\Kolejarz\Stacje\£ódŸ Fabryczna\Lodz Fabryczna.stc
+D:\priv\Kolejarz\Stacje\£ódŸ Kaliska\LKD1.stc
+D:\priv\Kolejarz\Stacje\Œwidwin\swidwin.stc
+D:\priv\Kolejarz\Stacje\Œwieradów Zdrój\Swieradow.stc
+D:\priv\Kolejarz\Stacje\Œwinoujœcie\Swinoujscie.stc
+D:\priv\Kolejarz\Stacje\¯ory\zory.stc
+D:\priv\Kolejarz\Stacje\¯yrardów\zyrardow.stc
+D:\priv\Kolejarz\Stacje\¯ywiec\Zywiec.stc
+D:\priv\Kolejarz\Stacje\¯ywiec\Zywiec2001-02.stc
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow.stc
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow2.stc
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow3.stc
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów 2\Andrychow2.stc
+D:\priv\Kolejarz\Stacje\Bydgoszcz\2002\Bydgoszcz Glowna.stc
+D:\priv\Kolejarz\Stacje\Bydgoszcz\2003\Bydgoszcz Glowna.stc
+D:\priv\Kolejarz\Stacje\Bydgoszcz\2005\Bydgoszcz Glowna.stc
+D:\priv\Kolejarz\Stacje\Bydgoszcz Fordon\1986\fordon2.stc
+D:\priv\Kolejarz\Stacje\Bydgoszcz Fordon\2003\fordon1.stc
+D:\priv\Kolejarz\Stacje\Dar³owo\2006\darlowo.stc
+D:\priv\Kolejarz\Stacje\Dêblin\1985\Deblin8085.stc
+D:\priv\Kolejarz\Stacje\Dêblin\2005\Deblin.stc
+D:\priv\Kolejarz\Stacje\Dêblin\2006\Deblin.stc
+D:\priv\Kolejarz\Stacje\Gdynia\2002\Gdynia.stc
+D:\priv\Kolejarz\Stacje\Gdynia\2003\Gdynia_03.stc
+D:\priv\Kolejarz\Stacje\Gorlice Zagórzany\1993\Gorlice_Zagorzany.stc
+D:\priv\Kolejarz\Stacje\Gorlice Zagórzany\2003\GorliceZag.stc
+D:\priv\Kolejarz\Stacje\Górzyniec\2002\Gorzn.stc
+D:\priv\Kolejarz\Stacje\Jas³o\2001\Stacja Jaslo.stc
+D:\priv\Kolejarz\Stacje\Jas³o\2002\Jas³o.stc
+D:\priv\Kolejarz\Stacje\Jeleœnia\2005\jelesnia.stc
+D:\priv\Kolejarz\Stacje\Jeleœnia\2006\jelesnia.stc
+D:\priv\Kolejarz\Stacje\Jeleœnia\2007\jelesnia.stc
+D:\priv\Kolejarz\Stacje\Karlino\2005\karlino.stc
+D:\priv\Kolejarz\Stacje\Karlino\2006\karlino.stc
+D:\priv\Kolejarz\Stacje\Kielce\1988\kielce1.stc
+D:\priv\Kolejarz\Stacje\Kielce\2002\kielce1.stc
+D:\priv\Kolejarz\Stacje\Kielce\2003\kielce1.stc
+D:\priv\Kolejarz\Stacje\Kielce\2004\Kielce1.stc
+D:\priv\Kolejarz\Stacje\Ko³obrzeg\2002\Kolobrzeg.stc
+D:\priv\Kolejarz\Stacje\Ko³obrzeg\2004\Kolobrzeg.stc
+D:\priv\Kolejarz\Stacje\Kraków G³\2002\Krakow Glowny.stc
+D:\priv\Kolejarz\Stacje\Kraków P³\2003\Krakow Plaszow 2003.stc
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\1999-2000\kkz.stc
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\2000-2001\kkz.stc
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\2002\kkz.stc
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\2003\kkz.stc
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\2004\kkz.stc
+D:\priv\Kolejarz\Stacje\Kêpice\2006\kepice.stc
+D:\priv\Kolejarz\Stacje\Lublin\1985\Lublin8095.stc
+D:\priv\Kolejarz\Stacje\Lublin\2002\Lublin.stc
+D:\priv\Kolejarz\Stacje\Lublin\2003\Lublin.stc
+D:\priv\Kolejarz\Stacje\Lublin\2003_1\Lublin.stc
+D:\priv\Kolejarz\Stacje\Lublin\2004\Lublin.stc
+D:\priv\Kolejarz\Stacje\Lublin\2005\Lublin.stc
+D:\priv\Kolejarz\Stacje\Lublin\2006\Lublin.stc
+D:\priv\Kolejarz\Stacje\Lublin\2007\Lublin.stc
+D:\priv\Kolejarz\Stacje\Malbork\1993\Malbork 1993.stc
+D:\priv\Kolejarz\Stacje\Malbork\2004\Malbork 2003.stc
+D:\priv\Kolejarz\Stacje\Milanówek Graniczna\1986-87\Milanowek Graniczna.stc
+D:\priv\Kolejarz\Stacje\Milanówek Graniczna\1993\Milanowek Graniczna.stc
+D:\priv\Kolejarz\Stacje\Miêdzychód\1932\miedzychod32.stc
+D:\priv\Kolejarz\Stacje\Miêdzychód\1986\miedzychod86.stc
+D:\priv\Kolejarz\Stacje\Miêdzychód\1993\miedzychod93.stc
+D:\priv\Kolejarz\Stacje\Poznañ\1932\poznan1932.stc
+D:\priv\Kolejarz\Stacje\Poznañ\1989\Poznan Glowny.stc
+D:\priv\Kolejarz\Stacje\Poznañ\1989\PoznanGlowny1989.stc
+D:\priv\Kolejarz\Stacje\Poznañ\1999\Poznan Glowny.stc
+D:\priv\Kolejarz\Stacje\Sanok\2000\Sanok.stc
+D:\priv\Kolejarz\Stacje\Szczecin\2002\Szczecin Glowny.stc
+D:\priv\Kolejarz\Stacje\Szczecin\2002-jesieñ\Szczecin Glowny.stc
+D:\priv\Kolejarz\Stacje\Szczecin\2002-lato\Szczecin Glowny.stc
+D:\priv\Kolejarz\Stacje\Szczecin\2003\Szczecin Glowny.stc
+D:\priv\Kolejarz\Stacje\Szubin\1986\szubin3.stc
+D:\priv\Kolejarz\Stacje\Szubin\2003\szubin4.stc
+D:\priv\Kolejarz\Stacje\S³awno\2002\slawno2.stc
+D:\priv\Kolejarz\Stacje\S³awno\2003\Slawno.stc
+D:\priv\Kolejarz\Stacje\S³awno\2004\slawno2.stc
+D:\priv\Kolejarz\Stacje\S³awno\2005\slawno3.stc
+D:\priv\Kolejarz\Stacje\S³awno\2005_1\slawno3.stc
+D:\priv\Kolejarz\Stacje\S³awno\2006\slawno.stc
+D:\priv\Kolejarz\Stacje\Ustka\2005\ustka.stc
+D:\priv\Kolejarz\Stacje\Ustka\2006\ustka.stc
+D:\priv\Kolejarz\Stacje\Usuniête\Czeremcha\Czeremcha.stc
+D:\priv\Kolejarz\Stacje\Wadowice\2006\Wadowice2006.stc
+D:\priv\Kolejarz\Stacje\Wadowice\90\Wadowice.stc
+D:\priv\Kolejarz\Stacje\Warszawa Wsch\2003\wschodnia1.stc
+D:\priv\Kolejarz\Stacje\Wejherowo\2002\wejherowo.stc
+D:\priv\Kolejarz\Stacje\Wejherowo\2003\wejherowo.stc
+D:\priv\Kolejarz\Stacje\Wis³a G³êbce\2003\Wisla Glebce.stc
+D:\priv\Kolejarz\Stacje\Wo³omin\2005\wolomin.stc
+D:\priv\Kolejarz\Stacje\Wo³omin\2006\wolomin.stc
+D:\priv\Kolejarz\Stacje\Wo³omin\2006R\wolomin.stc
+D:\priv\Kolejarz\Stacje\Wroc³aw\1989\Wroclaw Gl 1990.stc
+D:\priv\Kolejarz\Stacje\Wroc³aw\2003\Wroclaw Gl.stc
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane\Zakopane.stc
+D:\priv\Kolejarz\Stacje\£eba\2001\Leba.stc
+D:\priv\Kolejarz\Stacje\£eba\2003\Leba.stc
+D:\priv\Kolejarz\Stacje\£eba\2004\leba2.stc
+D:\priv\Kolejarz\Stacje\£eba\2005\leba2.stc
+D:\priv\Kolejarz\Stacje\£eba\2006\leba3.stc
+D:\priv\Kolejarz\Stacje\£eba\2007\leba3.stc
+D:\priv\Kolejarz\Stacje\¯ywiec\¯ywiec\Zywiec.stc

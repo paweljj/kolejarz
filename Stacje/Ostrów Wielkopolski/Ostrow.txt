@@ -1,0 +1,52 @@
+
+ 	  Ostrów Wielkopolski 2004
+ 	==================================
+ 
+ 	 Stacja wêz³owa po³o¿ona na skrzy¿owaniu linii:
+ 	  14  - £ódŸ Kaliska - Leszno- G³ogów - ¯agañ - Tuplice
+	  272 - Kluczbork - Poznañ G³
+ 	  355 - Ostrów wlkp - Grabowno
+
+ 	 Kierunki: 
+ 	 1 - Kêpno (42 km), Kluczbork (88 km)
+	 2 - Oleœnica (74 km)
+  	 3 - Krotoszyn (25 km), Leszno (99 km)
+  	 4 - Jarocin (56 km), Poznañ (114 km)
+  	 5 - Kalisz (24 km), £ódŸ Kaliska (136 km)
+  	 6 - bocznica Fabryki WAGON SA (7km)
+
+	Stacja kiedys o doœæ presti¿owym znaczeniu, dziœ g³ownie obs³ugije ruch towarowy.
+	Kursowa³o tu niegdyœ wiele pociagów poœpiesznych, hotelowych, jednak ze wzglêdu 
+	postêpuj¹c¹ degradacjê infrastruktury linii 272 i znaczy spadek szybkoœci handlowej
+	poci¹gi pospiesznie przeniesiono na inne linie (a przyk³ad przez Wroc³aw) lub 
+	ca³kowicie zlikwidowano. Pozosta³y jedynie nieliczne poci¹gi pospieszne okresowego 
+	kursowania. Ze wzglêdu na brak opcji okresowego kursowania w KOLEJARZU, 
+	pociagi te kursuj¹ kursuj¹ codziennie.
+	Wiekszoœæ ruchu, to ruch towarowy i pasa¿erski o znaczeniu regionalnym i lokalnym. 
+	Na odcinku Krotoszyn - Leszno linii 14, ruch towarowy zamar³ ca³kowicie, 
+	a pasa¿erski zosta³ znacznie ograniczony. W rozk³adzie 2002/2003 obs³ugiwany 
+	autobusami szynowaymi SA102.
+	Pociagi pospieszne pozosta³y jedynie na linii 355 ³¹cz¹cej Wroc³aw z Warszaw¹ przez
+	£ódŸ.
+	Lokomotywownia Zak³adu Taboru na miejscu obs³ugujê w 80% ruch towarowy. Na stanie 
+	posiada spor¹ iloœæ ET22, kilka ET41, kilkanascie EU07, a tak¿e SM42 i SM31. 
+	Lokomowywy SU45 przynale¿¹  do ZT Poznañ i stacjonuj¹ na sta³e w Lesznie.
+	Stacje zbudowano w odwzorowaniu 95% rzeczywistoœci uk³adu torowego.
+	Rozk³ad oparty na rozk³adach: siecowym pasa¿erskim, s³uzbowych 621 i 773.
+	Przejœcia lokomotyw wg dodatków 2C/D
+
+  	Lokomotywownia:	Zak³ad Taboru Ostrów Wlkp
+	Czas zamówienia: 5 min
+
+	==================================================================
+	
+	¯yczê mi³ego sterowania ruchem, a nie jest to ³atwe przy ustawianiu zegara 
+	gry na szybko.
+
+
+ 	Stacje zbudowano przy u¿yciu:
+ 	Edytora EDK, Path Finder 2.0 dnia 26.10.2004, eRozk³ad 0.64
+ 	==================================================================
+ 	Autor:   Roman So³tysiak
+ 	E-mail:  soltysr@op.pl
+ 	WWW:     www.sserv.republika.pl

@@ -1,0 +1,64 @@
+KIELCE 2004- dla kolejarza 1.61
+
+Autor stacji i opisu stacji: Wojciech Z. [wernyhora@o2.pl]
+Autor poprawek do stacji i rozk³adu: Marek Orlef APMO@poczta.onet.pl
+
+ STACJA KIELCE
+
+Kierunki:
+1 - Kraków, Katowice			(po³udnie)
+2 - Skar¿ysko-Kamienna, Warszawa	(pó³noc)
+3 - Kielce Herbskie, Czêstochowa	(zachód)
+4 - SHL SA
+5 - NSK-ISKRA SA  (UWAGA!!! poc. 18862 i 16868 - do fabryki "ISKRA" nale¿y odprawiæ
+    i przyj¹æ na punkt nr 5 - przed wjazdem nr 5 !!!)
+
+Wszystkie tory prowadz¹ce "donik¹d" s¹ w rzeczywistoœci nieu¿ywane
+i tak zaroœniête, ¿e ledwo je widaæ.
+Np. Dwa niezelekrtyfikowane tory "u góry" stacji, które prowadz¹ prawdopodobnie
+do SPO£EM (z reszt¹ nie ma to znaczenia, bo i tak nic po nich nie jeŸdzi).
+
+Krótki niezelektryfikowany "wyrostek" na lewo od peronu I to malutki tor, na którym
+tylko od czasu do czasu stoi jakiœ jeden wagon (...i wiêcej siê tam ju¿ nic nie zmieœci)
+
+Tory postojowe:
+- na prawo od peronu I:
+	Na elektr. stoi czasem jakiœ EZT
+	Na nieel. -wagony raczej ma³o u¿ywane (bez szyb;))
+	Do torów, które oznaczy³em jako towarowe, przyros³o chyba ju¿ na sta³e pare
+		zdezelowanych boczniaków, itp.
+- miêdzy peronem I a wyjazdem na Kraków (nr 1) jest ma³y tor postojowy, który w
+	rzeczywistoœci jest "zagrod¹" dla drezyn. (w naszym przypadku jest to SN81)
+- Przedostatni postojowy sk³ada siê z elektryfikowanego i nieel. Nie ma miedzy nimi
+	po³¹czenia, poniewa¿ stoi tam na œrodku tzw. SUG.
+- A ostatni to myjnia.
+
+Tory postojowe i lokomotywownia przy wyjezdzie 3 na prawdê znajduj¹ siê na Herbach, tote¿
+uwzglêdni³em d³u¿szy czas dojazdu lokomotywy, na któr¹ trzeba czakaæ 15 min.
+
+
+
+Uwagi: Nie widzia³em na oczy planów schematycznych, a stacjê postara³em siê odwzorowaæ
+na podstawie moich w³asnych obserwacji. Jednak nie wszêdzie siêgn¹³ mój bystry wzrok;)
+W zwi¹zku z tym nie jestem pewny uk³adu rozjazdów przy torach postojowych. Z reszt¹
+stara³em siê, jak mog³em, by wszystko by³o zgodne z rzeczywistoœci¹.
+
+Autor stacji: Wojciech Z. [wernyhora@o2.pl]
+
+
+
+Rozk³ad jazdy dla roku 2004
+
+
+obiegi sk³adów i podgl¹dy na podstawie dodatków 2b, 2c, 2d.
+obiegi loków wg obserwacji
+UWAGA!!! - moze sie zdazyc ze nie ma w szopie ani na stacji loka potrzebnego do
+wys³ania z pociagiem wg rozk³adu. W takim przypadku nalezy podpiac loka rezerwowego
+ET 22 z CM Skar¿ysko !!!
+W kielcach przktykuje siê wysy³anie dwóch poci¹gów w przeciwnych kierunkach
+z jednego toru (najczêsciej przy peronie 3).
+
+Autor rozk³adu: Marek Orlef APMO@poczta.onet.pl
+
+
+				Programy, które okaza³y siê pomocne: EdK 2.35 i PathFinder

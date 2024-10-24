@@ -1,0 +1,123 @@
+Tu stacja Dêblin, tu stacja Dêblin...
+
+
+ROZK£AD
+To jest wersja alternatywna (2004R, R jak roboty torowe) normalnego rozk³adu, dostosowana do nieco 
+zmodyfikowanej sytuacji na stacji. Zablokowane (na schemacie symbolami wykolejnic) zosta³y:
+-wjazd na tor wyci¹gowy znajduj¹cy siê poni¿ej wjazdu nr 1
+-przejazd miêdzy torem przy peronie 1 a torami "P" i "R"
+-wjazd na ca³¹ d³ugoœæ toru wjazdowego z kierunku 6.
+Wszystkie te ograniczenia zosta³y zaobserwowane podczas sporz¹dzania schematu stacji w lipcu 2004 r., a
+poniewa¿ ostatnie ograniczenie mia³o istotne komplikacje dla ruchu poci¹gów w/z kierunku Radomia
+zdecydowa³em siê na utworzenie rozk³adu "bonusowego" jako urozmaicenia.
+
+
+WJAZDY/WYJAZDY
+1. Z powodu robót torowych wjazd/wyjazd nr 6 odbywa siê jednotorowo. Natomiast zamkniêty dla ruchu 
+liniowego tor w kietunku Radomia jest wykorzystywany przez poci¹g roboczy. W rozk³adzie wylot ten ma
+numer 7, a na schemacie dla odró¿nienia jest w kolorze zielonym jak niezelktryfikowany (nie ma 
+widocznego numeru). Wszelkie przebiegi mo¿liwe w normalnym rozk³adzie zosta³y tu zablokowane, a
+jedyny pozostawiony zaczyna siê na torze oznaczonym liter¹ "D" (grupa towarowa "DBT"). St¹d nale¿y
+odprawiaæ i przyjmowaæ poci¹g roboczy.
+2. Podczas zatwierdzania przebiegu poci¹gu nale¿y zwracaæ uwagê na docelowy numer wyjazdu, poniewa¿
+nie ze wszystkich torów jest mo¿liwy wyjazd w konkretnych kierunkach. Zw³aszcza nale¿y zwróciæ uwagê
+na specyficzny potrójny wyjazd w kierunku £ukowa - wyjazdy 2/3/4. Ka¿dy z nich traktowany jest jako
+szlak jednotorowy, przy czym wyjazd nr 2 s³u¿y sk³adom towarowym, nr 3 g³ównie (ale nie tylko)
+pasa¿erskim, natomiast nr 4 jest dla mnie zagadk¹. Prawdopodobnie powsta³ w przesz³oœci w wyniku 
+przebudowy stacji po³aczonej z likwidacj¹ ³¹cznicy zapewniaj¹cej przebiegi dla relacji Warszawa -
+£uków i z powrotem, a obecnie jest traktowany jako uzupe³nienie. Przypisanie poci¹gów do 
+poszczególnych wjazdów jest losowe, skorygowane potrzebami rozk³adowymi.
+
+LOKOMOTYWOWNIA
+Przez ca³e lata MD Dêblin obs³ugiwa³a ruch pasa¿erski na liniach do Warszawy, Lublina i Radomia.
+Kilka lat temu lokomotywowniê w³¹czono do CM Lublin. Tak wiêc symbol ten zosta³ ze wzglêdu na wymogi
+Kolejarza. Po s¹siedzku zielonym kwadratem oznaczy³em opuszczon¹ i wyniszczon¹ halê wachlarzow¹ z
+torami przylegaj¹cymi do niej, na których w tej wersji umieœci³em nocuj¹ce tam spalinówki.
+
+PERONY
+1. Krótki tor dolny przy peronie pierwszym jest niewykorzystany. Kiedyœ sta³ tu "pomnik" - wagon
+radiostacja "Pszczó³ka" (w nawi¹zaniu do roli z 1944 r.).
+2. Górny tor przy peronie 2 oraz dolny tor przy peronie 3 nale¿y rezerwowaæ na bezpoœrednie przebiegi
+tranzytowe dla sk³adów poruszaj¹cych siê w relacjach 1-5/6.
+3. Górny tor przy peronie 3 jest jedynym, który mo¿e przyjmowaæ poci¹gi korzystaj¹ce z wjazdu nr 4.
+4. Jeœli tylko rozk³ad na to pozwala, sk³ady przyje¿d¿aj¹ce nie s¹ odstawiane na tory postojowe i
+potrafi¹ oczekiwaæ na odjazd z tego samego peronu nawet kilka godzin.
+
+TORY POSTOJOWE
+E/Z/T - tory postojowe dla elektrycznych zespo³ów trakcyjnych, dla których przewidziano doraŸny
+przegl¹d (s¹ tam kana³y rewizyjne). Za czasów istnienia MD Dêblin sta³y tam ³adne sznureczki 
+elektrowozów. Obecny rozk³ad przewiduje kierownie tam jednostek (podano dane dotycz¹ce poci¹gów, 
+które obs³uguj¹ po rewizji):
+2126 5.33 do Warszawy Zach.
+525 5.06 do Radomia
+117 5.14 do Lublina
+527 5.42 do Radomia
+906 12.50 do £ukowa
+133 14.07 do Che³ma
+533 14.49 do Skar¿yska Kam.
+Z toru wyci¹gowego na ty³ach grupy E/Z/T przebiegi bezpoœrednie prowadz¹ torami skrajnymi, czyli E i T.
+P - tor postojowy dla pozosta³ych jednostek.
+Dla sprawnego grania przez wiêcej ni¿ jedn¹ dobê (chodzi o ustawienie ich w odpowiedniej kolejnoœci, by
+podczas wyci¹gania ich nie trzeba by³o ruszaæ innych) opracowa³em plan postoju ezt na nastêpuj¹cych 
+torach:
+P0 - 523 4.18 do Radomia 
+P1 - 2124 4.28 do Warszawy Zach.
+E0 - (1)2126 5.33 do Warszawy Zach.
+E1 - (2)2126 5.33 do Warszawy Zach.
+E2 - 906 12.50 do £ukowa
+Z0 - 2120 3.02 do Warszawy Zach.
+Z1 - 117 5.14 do Lublina
+Z2 - 904 8.38 do £ukowa
+T0 - 2122 3.39 do Warszawy Zach.
+T1 - 525 5.06 do Radomia
+T2 - 527 5.42 do Radomia
+Taki powinien byæ uk³ad o pó³nocy. 0/1/2 - kolejne sk³ady od lewej do prawej.
+Poci¹g nr 113 odj. 4.08 do Che³ma przez ca³y czas od przyjazdu o 19.38 z Pilawy nocuje przy peronie 1.
+
+
+TORY TOWAROWE
+1. Schemat stacji jest nieco uproszczony (chodzi o czêœæ towarow¹). Wiêkszoœæ torów towarowych
+zbudowa³em z pól przeznaczonych dla peronów z uwagi na koniecznoœæ przyjmowania sk³adów 
+scharakteryzowanych przez mnie jako s³u¿bowe (próbne, inspekcyjne, robocze, podsy³y, pró¿ne do 
+naprawy). Równie umowny jest podzia³ funkcjonalny. 
+2. Ja przyj¹³em, ¿e grupa torów oznaczona symbolami "DBT" s³u¿y do tranzytowego ruchu
+w relacjach 1-6, 2-5/6, 3-6, ewentualnie z ma³ymi postojami. Tutaj tak¿e nastêpuje zmiana czo³a
+loka poci¹gu próbnego 22902/1 oraz tu widzê miejsce postoju luzaków przybywaj¹cych z kierunków 1, 2 i 3.
+Sugerujê, by na torze "B" zatrzymywaæ poci¹gi w ostatecznoœci, poniewa¿ przechodzi przez niego wiele
+przebiegów tranzytowych i zablokowanie go mo¿e spowodowaæ brak mo¿liwoœci ustawienia bezpoœredniej 
+jazdy.
+3. Grupa torów oznaczona symbolami "TOWAR" (w rzeczywistoœci bardziej rozbudowana) s³u¿y do rozrz¹du
+poci¹gów dzielonych i ³¹czonych oraz d³u¿szych postojów sk³adów towarowych. Tutaj tak¿e wje¿d¿aj¹
+luzaki przybywaj¹ce z kierunków 5 i 6. W miarê mo¿liwoœci dla loków manewruj¹cych powinny pozostaæ 
+wolne tory "O,W", gdy¿ przez nie s¹ poprowadzone przebiegi miêdzy punktami manewrowymi znajduj¹cymi 
+siê po prawej stronie grupy "TOWAR" a innymi punktami z lewej strony.
+
+
+MIEJSCA SZCZEGÓLNE:
+L - dawna lokomotywownia wachlarzowa
+R - rampa
+S - tor poci¹gu sieciowego
+T - tory zajmowane przez pojazdy robocze, drogowe i inspekcyjne (wiêcej stoi na dolnym torze T)
+
+
+TABOR
+1. Z racji ustawienia na torach postojowych po kilka sk³adów, te skrajnie prawe s¹ ledwo widoczne na
+monitorach u¿ytkowników korzystaj¹cych z mniejszych rozdzielczoœci.
+2. Poci¹gi towarowe obs³ugiwane przez przewoŸnika prywatnego "PTiGK SA Rybnik" to w wiêkszoœci 
+sk³ady prowadzone podwójn¹ trakcj¹ S200. Wobec braku ich rysunku pos³u¿y³em siê w zastêpstwie SM48. 
+Jeœli ktoœ ma lepszy pomys³ co do wyboru typu i malatury - proszê o kontakt. Natomiast pojedynczy sk³ad 
+tylko w jednym kieruku jest prowadzony elektrowozem. Byæ mo¿e to b³¹d w dokumentacji, gdy¿ brakuje 
+potwierdzenia, czy to prawda, a jeœli tak, jaki móg³by byæ to lok. Ja wybra³em maszynê ET22.
+
+
+Mi³ej zabawy!
+Zdajê sobie sprawê, ¿e nie wszystko uda³o mi siê ustaliæ ze stuprocentow¹ pewnoœci¹, wobec czego
+mog³y wyst¹piæ b³êdy. W razie ich zauwa¿enia proszê o kontakt: Micha³ Lipiñski, ltek@wp.pl
+
+Powstanie stacji by³o mo¿liwe dziêki Bartowi, z którym w lipcu 2004 r. przeszliœmy i sfociliœmy 
+wiêksz¹ czêœæ stacji, a tak¿e dziêki programom: Edytor do Kolejarza (EdK) oraz PathFinder (PF). 
+Materia³y do rozk³adu u¿yczy³ Grzegorz Piotrowski (wielkie dziêki!), a poprawki po testach 
+wprowadzi³em ju¿ korzystaj¹c z programu eRozk³ad (eR).
+
+
+Stacja Dêblin powróci... w rozk³adach z lat 1980, 1985, 1990, 1995, 2000 i 2005.

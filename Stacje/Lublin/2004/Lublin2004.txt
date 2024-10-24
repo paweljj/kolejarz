@@ -1,0 +1,136 @@
+Tu stacja Lublin, tu stacja Lublin...
+
+
+UWAGA! NOWE PODEJŒCIE DO TORÓW POSTOJOWYCH I TOWAROWYCH - PROSZÊ PRZECZYTAÆ 
+UWA¯NIE... Stacja i rozk³ad dostosowane do Kolejarza v 1.61.
+
+
+Stacja - nieco uproszczona (chodzi o œrodek ekranu, czyli wokó³ lokomotywowni), ale zrobiona
+na podstawie autentycznych planów kolejowych i po przejœciu wszerz i wzd³u¿.
+
+WJAZDY/WYJAZDY
+1 Lublin Zach. (w budowie - zreszt¹ wstrzymanej) - Radom / Dêblin - Warszawa / £uków
+2 Lublin Zemborzyce - Kraœnik - Stalowa Wola Rozwadów - Rzeszów / Przemyœl
+3 Lublin P³n. - Lubartów (niegdyœ do £ukowa) / Rejowiec - Che³m / Zamoœæ / Be³¿ec
+4 Lublin Tatary - Œwidnik (obecnie jako szlak 1-torowy; czas zwolnienia 8 min. + 2 min. wyprzedzenia)
+5 Lublin Tatary (tor manewrowy, którym oprócz poci¹gów sieciowych i roboczych s¹ podsy³ane luzaki
+  na Tatary i têdy wracaj¹ - na razie niemo¿liwe do uwzglêdnienia w Kolejarzu)
+
+LOKOMOTYWOWNIA
+Z uwagi na wymogi "Kolejarza" jest kilka modyfikacji. Lokomotywownia wachlarzowa (dawna 
+parowozownia) znajduje siê nieco "poni¿ej" zaznaczonej przeze mnie lokowni - w miejscu, gdzie
+jest zielony kwadrat. Tam de facto znajduj¹ siê hale dla spalinówek i szynobusów. Hala dla 
+elektrowozów jest z kolei nieco "powy¿ej" lokowni. W rzeczywistoœci elektrowozy i EZT zje¿d¿aj¹ 
+do hali tylko w przypadku napraw, a zazwyczaj stacjonuj¹ na torach oznaczonych "EZT" (jednostki), 
+a na tych poni¿ej jest wiele miejsc postojowych dla EU/EP/ET.
+
+PERONY
+nr 1 	- tor przy g³ównej hali dworcowej, przyjmuj¹cy wiêkszoœæ presti¿owych poci¹gów na linii
+	  Warszawa - Dorohusk
+	- tor oporowy w kierunku nastawni LbB, obecnie tylko odjazdy:
+		*wszystkie kursy autobusów szynowych do Kraœnika i Rzeczycy
+		*RegioPlus 21128 do Sochaczewa (odj. 4.02)
+		*osobowy 23331 do Rzeszowa (odj. 15.51)
+		*pospieszne:LUBLINIANIN 21108 do Warszawy Zach. (odj. 5.30),
+			  JADWIGA 23102 do Krakowa G³. (odj. 16.40),
+			  sezonowy 28502 do Œwinoujœcia (odj. 20.15)
+	- tory oporowe w kierunku nastawni LbC do obs³ugi ambulansów pocztowych, w tym rozk³adzie
+	  tylko jeden kursuj¹cy do/z Wroc³awia (zazwyczaj przetaczany na tor niezelektryfikowany)
+nr 2	- tor "górny" (na przed³u¿eniu szlaku Warszawa - Dorohusk), przyjmuj¹cy wiêkszoœæ sk³adów
+	  przelotowych z kier. Dêblina w kier. Rejowca i czêœæ dalekobie¿nych koñcz¹cych jazdê
+	- tor "dolny" (na przed³u¿eniu szlaku z Rozwadowa), przyjmuj¹cy poci¹gi z tego kierunku oraz
+	  sk³ady podmiejskie odje¿d¿aj¹ce w kier. Dêblina
+nr 3	- tory o skróconej d³ugoœci przyjmuj¹ce sk³ady miejscowe rozpoczynaj¹ce i koñcz¹ce relacjê
+nr 4	))) od wielu lat w planach )))
+
+
+TORY POSTOJOWE
+Zgodnie z opiniami u¿ytkowników programu nominalne "tory postojowe" zast¹pi³em uniwersalnymi
+(wygodniejszymi do obs³ugi i szybkiego podgl¹du) "torami towarowymi". Natomiast dotychczasowe 
+oznaczenia "torów postojowych" (zielone kwadraty) przypisa³em miejscom szczególnym - o nich poni¿ej.
+
+TORY TOWAROWE
+Wiêkszoœæ manewrów zwi¹zana z formowaniem sk³adów odbywa siê obecnie na stacji Lublin Tatary.
+W rzeczywistoœci nawet czêœæ sk³adów towarowych przelotowych przepuszcza siê torami przy peronach,
+jednak by "dolna" - towarowa czêœæ stacji nie wygl¹da³a ³yso - proponujê kierowaæ je w³aœnie tamtêdy:
+-cztery pierwsze tory (ozn. T, O, W, A) s¹ zelektryfikowane i w pe³ni uniwersalne
+-nastêpny tor (R) jest od strony nastawni LbA zelektryfikowany, ale z tej strony pe³ni tylko funkcjê
+ manewrow¹ (brak mo¿liwoœci ustawienia przebiegów poza stacjê), z kolei w kierunku LbC ma semafor 
+ szlakowy, lecz nie posiada sieci trakcyjnej
+-kolejne trzy tory (O, W, E) s¹ w czêœci zelektryfikowane, mog¹ byæ wykorzystywane tylko do manewrów
+ (w praktyce s³u¿¹ do odstawiania wagonów kasacyjnych lub do naprawy), w kierunku LbC œlepe
+-ostatnie trzy tory s¹ rzadko wykorzystywane (przebiegi tylko w obrêbie stacji), w kierunku LbC œlepe.
+
+MIEJSCA SZCZEGÓLNE (zielone kwadraty) - id¹c "od góry":
+-w obrêbie torów postojowych, "nad" nastawni¹ LbB: myjnia mechaniczna
+-powy¿ej toru oporowego przy peronie 1: tor odstawczy dla salonek, wagonów socjalnych, do niedawna 
+ sk³adu poci¹gu baga¿owego do/z Szczecina, a teraz (styczeñ 2004 r.) jest tam SN81-003 czekaj¹cy 
+ na naprawê
+-z "prawej" strony peronu 1: dwa tory do obs³ugi ambulansów pocztowych (funkcja na wymarciu...)
+-"poni¿ej" lokowni: prawdziwa lokomotywownia wachlarzowa dla spalinówek i autobusów szynowych
+-"poni¿ej" peronu 3 a z "prawej" strony lokomotywowni: grupa trzech torów z zadaszeniem, gdzie
+ odstawia siê wagony poddawane drobnym naprawom
+-miêdzy lokomotywowni¹ a torami towarowymi: grupa trzech torów, na których stacjonuj¹ poci¹gi
+ sieciowe, ratunkowe, p³ugi itp. (tam nale¿y odstawiaæ na noc poci¹g sieciowy, tak jak ustawi³em)
+
+NASTAWNIE
+Nastawnie LbA, LbB i LbC zaznaczy³em dla lepszej orientacji. Do tego celu wykorzysta³em nowy symbol 
+teoretycznie przypisany do wie¿y wodnej.
+
+
+Rozk³ad
+	- pasa¿erski autentyczny w/g SRJP 2003/4 - stan na 14.12.2003 r., zgodny z dodatkami 
+	  2a/b/c/d, moje œwiadome zmiany:
+		*opóŸnienie odjazdu poc. 415 z godz. 9.11 na 9.13, bo w tym samym czasie w tym 
+		 samym kierunku (1/2) odje¿d¿a poc. 118, a ich przebiegi siê krzy¿uj¹
+		*jednoczesne wprowadzenie poc. 28502/82503 i 27500/72501 do/z Œwinoujœcia 
+		 i Poznania, mimo, ¿e kursuj¹ zamiennie - jest to jakieœ urozmaicenie)))
+	- towarowy w wiêkszoœci fikcyjny, ale z wykorzystaniem prawdziwych danych, które uda³o mi
+	  siê zdobyæ.
+
+Tak swoj¹ drog¹ to w poprzednim rozk³adzie mimo, ¿e mia³em pe³ne dane i tak w praktyce sk³ady
+i obiegi by³y ci¹gle modyfikowane)))
+
+
+PORADY / UWAGI:
+1. 	Grupa wagonów rel. Warszawa - Lublin - Warszawa do poc. KIEV EXPRESS 12001/21000 jest 
+	zabierana przez SM42 i odstawiana na tor oporowy przy peronie 1, gdzie "siê grzeje", a
+	zabierana przez elektrowóz poci¹gu powrotnego.
+2. 	Wagony IC BYSTRZYCA 6201/2600 s¹ obecnie w nocy odstawiane na przegl¹d na stacjê Tatary
+	- to ¿aden mój wymys³!
+3.	Sk³adów poc. 82501/28500 oraz poc. 72501/27500 w³aœciwie nie trzeba roz³¹czaæ i "obrabiaæ" - 
+	mój podzia³ na grupy jest tylko organizacyjny, by widoczne by³y kuszetki i sypialny oraz 
+	czêœci sk³adu do/z Ko³obrzegu i Helu, a tak¿e do/z Poznania i Szczecina.
+4. 	"Ma³e" (brak znaku >) i "du¿e" (kolor czarny zamiast zielonego) rozk³ady nie wykazuj¹
+	potrzeby podmiany czêœci lokomotyw prowadz¹cych niektóre sk³ady towarowe - dotyczy trakcji
+	podwójnej. Tak jest za spraw¹ Kolejarza, dlatego w numerach poci¹gów towarowych 
+	wprowadzi³em dla u³atwienia zasadê, ¿e trzecia (œrodkowa) cyfra wskazuje na czynnoœæ, któr¹ 
+	trzeba wykonaæ na stacji:
+	*6 nale¿y dodaæ loka
+	*7 przy trakcji podwójnej nale¿y jednego loka od³¹czyæ
+	*8 nale¿y zmieniæ loka na innego
+	*9 lok pozostaje niezmieniony
+	Jest jeszcze jedna zasada numeracji poci¹gów towarowych zwi¹zana z dwiema pierwszymi cyframi
+	(w przypadku sieciowego - z trzema), ale domyœlcie siê sami))). Mam nadziejê, ¿e to u³atwi grê 
+	i nie trzeba bêdzie ci¹gle sprawdzaæ relacji w du¿ym rozk³adzie...
+5.	Punkty manewrowe wraz z niezelktryfikowanymi torami przy LbC powy¿ej wjazdu nr 3 to pocz¹tek 
+	starej, obecnie nieczynnej bocznicy odchodz¹cej w kier. ul. £êczyñskiej. Sprawdziliœmy - 
+	po³¹czenie z torami stacyjnymi jest, ale "karze³ki" s¹ wygaszone, a ca³oœæ poros³y imponuj¹ce 
+	krzaki, wiêc nie dziwcie siê, ¿e przebiegów tam siê nie ustawi...
+6.	Tor, gdzie postawi³em 2 x ET41 jest niezelktryfikowany, wiêc ¿eby je stamt¹d zabraæ trzeba
+	po nie wys³aæ SM42.
+7.	Dla niektórych poci¹gów podmiejskich odje¿d¿aj¹cych z peronu 3 w kier. Dêblina (np. 124 o 13.30
+	i 130 o 15.30), by odjecha³y zgodnie z rozk³adem trzeba u³o¿yæ przebieg po torze szlakowym do
+	Rozwadowa a¿ do LbA, gdzie odbijaj¹ na w³aœciwy tor.
+8.	A jeœli kogoœ zaskoczy liczba lokomotyw w tzw. "lokowni", to nie myœlcie, ¿e wszystkie ukradli
+	albo za d³ugi zajê³a je "skarbówka" (tak siê naprawdê niedawno zdarzy³o). Dziêki nowym
+	mo¿liwoœciom programu ustawi³em loki w ró¿nych miejscach, np. spalinowe s¹ w hali wachlarzowej.
+
+
+Mi³ej zabawy!
+Kontakt: Micha³ Lipiñski, ltek@wp.pl
+Bardzo dziêujê Bartowi za cenne uwagi odnoœnie schematu stacji i wspóln¹ wyprawê po stacyjnych 
+torach oraz ciekawostki zwi¹zane z organizacj¹ ruchu na obu torach w kierunku Tatar.
+Korzysta³em z programów: Edytor (stacji) dla Kolejarza (EdK) i PathFinder (PF).
+
+Stacja Lublin powróci... w specjalnym wydaniu BEST OF THE BEST... (ale mo¿e szybciej zrobiê Dêblin)))

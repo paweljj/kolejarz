@@ -1,0 +1,71 @@
+		------------------------------------------------
+			Stacja Legionowo
+		------------------------------------------------
+
+Przedstawiam u¿ytkownikom Kolejarza stacjê Legionowo. Jest to miasto, w którym od lini
+	Warszawa - Gdynia odchodzi po³¹czenie Legionowo - T³uszcz. Z tego powodu przez stacjê
+	przewijaj¹ siê poci¹gi towarowe jad¹ce zarówno na pó³noc jak i pó³nocny wschód Polski.
+        Rozk³ad z roku 2007 przedstawiony w wersji z okresu remontu szlaku Legionowo - Warszawa WPC 
+
+Uk³ad torowy zgodny z rzeczywistoœci¹ co do rozjazdu.
+
+
+	----------------------------------------------------------
+		Wjazdy/wyjazdy:
+	----------------------------------------------------------
+
+	1 - Warszawa, czas do najbli¿eszej mijanki to 11 minut;
+	2 - Nasielsk (Ciechanów, Gdynia, Olsztyn);
+	3 - Legionowo Piaski (Radzymin, T³uszcz, Bia³ystok);
+	4 - Warszawa ( dawniej tor dwukierunkowy ) ale zamkniêty dla normalnego ruchu z powodu remontu;
+	5 - Warszawa ( dawniej tor wjazdowy od Warszawy ) ale zamkniêty dla normalnego ruchu z powodu remontu;
+                6 - sk³ad wêgla w Legionowie;
+
+	------------------------------------------------------------
+		Perony
+	------------------------------------------------------------
+
+	1 - peron dwukrawêdziowy przelotowy;
+	2 - peron dwukrawêdziowy - przy górnej krawêdzi zatrzymuj¹ siê pociagi w kierunku Piasków,
+		przy dolnej - niektóre, przelotowe poci¹gi osobowe;
+	3 - peron jednokrawêdziowy, za³adunkowy. 
+            Zatrzymuj¹ siê tu sk³ady z Warszawy Pragi w celu roz³adunku drewna.
+
+
+	------------------------------------------------------------------------
+		Tory postojowe/towarowe/inne:
+	------------------------------------------------------------------------
+
+	- Przy wyjeŸdzie nr 3 zotsa³y przygotowane 2 tory dla postoju poci¹gów roboczych;
+                - Przy wylocie na Warszawê dwa zaroœniête tory postojowe oczyszczono specjalnie dla
+          wagonów mieszkalnych pracowników budowy.
+
+	--------------------------------------------------------
+		Lokomotywownia:
+	--------------------------------------------------------
+
+	- najbli¿sza umowna lokomotywownia znajduje sie na stacji Warszawa Praga;
+	- czas zamówienia  20 min.
+	- czas naprawy     90 min.
+
+
+	--------------------------------------------------------
+		Sk³ady i obiegi:
+	--------------------------------------------------------
+
+	- sk³ady poci¹gów rzeczywiste w 85% - stan aktualny: grudzieñ 2007;
+	- obiegi poci¹gów rzeczywiste w 90%;
+
+	------------------------------------------
+		AUTOR
+	------------------------------------------
+   ___________________________________________________
+1. projekt, dane, schemat stacji, 
+   opracowanie komputerowe schematu oraz rozk³adu:
+		Igor Bubicz
+		igorb@op.pl
+		gg: 7887862
+
+
+Legionowo 2007
+06-03-2008

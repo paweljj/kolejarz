@@ -1,0 +1,18 @@
+Stacja------> Spa³a
+Plan Stacji-> obserwacje w³asne
+Rozk³ad-----> PMK
+Wyjazd------> Tomaszów Mazowiecki 
+Stacja Spa³a jest maleñk¹ stacyjk¹ po³o¿on¹  prawie za p³otem  (patrz¹c w stronê koz³a oporowego)
+Oœrodka wypoczynkowego dla kolejarzy.
+ tym razem uruchomiono specjalne pociagi z okazji DoŸynek prezydenckich w dniu 16 IX 2012
+
+Ruch
+-brak przewozów towarowych
+
+-brak nastawni dwie zwrotnice przestawiane rêcznie
+
+
+Autor Adam Sosnowski
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com
+ 
+Wykorzystano  programy EDK i patfinder

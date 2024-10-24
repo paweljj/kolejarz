@@ -1,0 +1,45 @@
+USTKA 2004:
+
+Ustka jest to nadmorska miejscowoœæ w woj. pomorskim, ruch na tej stacji poza sezonem letnim jest
+praktycznie bardzo ma³y, w sezonie dochodzi poci¹gi osobowe. Niestety nie ma ju¿ poci¹gu poœpiesznego 
+"Torunianin" z Torunia.
+
+Wyjazdy:
+1- S³upsk
+2- CPN, a dalej do Portu
+3- Stocznia Ustka
+4- Zak³ady Korab
+
+
+ROZK£AD:
+Rozk³ad jazdy obejmuje okres letni 2004.
+Sk³ady i obiegi s¹ zgodne z rzeczywistoœci¹.
+Poci¹g zdawczy jest zgodny z rzeczywistoœci¹.
+Poci¹gi towarowe to moja wyobraŸnia, oznaczone s¹ jako (Dod.).
+
+
+STACJA:
+Plan stacji oparty jest na obserwacjach terenowych.
+Uk³ad torów zgodny w 73% z rzeczywistoœci¹.
+Najbli¿sza lokomotywownia jest w Gdyni, ale w S³upsku zawsze stacjonuj¹ jakieœ lokomotywy.
+Czas zamówienia lokomotywy: 25 minut, czas naprawy 120 minut.
+
+Poci¹g do i z Jednostki wojskowej powinien wjechaæ na tor 2 w celu mijanki.
+Poci¹g do i z Zak³adu Korab powinien wjechaæ na 1 tor niezelektryfikowany od góry stacji.
+Poci¹gi do i z Portu powinny wjechaæ na 2 tor peronu 1 od góry stacji w celu mijanki.
+
+
+INNE:
+Powstanie stacji przy programie Edytor dla Kolejarza EdK v2.35 kompilacja 5003.
+Powstanie stacji u³atwi³ program PathFinder 2.0.
+
+Zapraszam na moj¹ stronê internetow¹ www.pikukoplin.blog.pl
+
+
+AUTOR:
+Maciej Koplin
+e-mile: m.koplinpkp@interia.pl
+www.pikukoplin.blog.pl
+
+
+Mi³ej Zabawy!!!

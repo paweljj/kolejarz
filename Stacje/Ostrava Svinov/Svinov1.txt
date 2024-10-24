@@ -1,0 +1,12 @@
+Ostrava Svinov je stanice pojatá s fiktivním lokomotivním depem.
+Jako posunovací lokomotivu je možno použít 163, která pøijede
+v páru s osobním vlakem. Mùžete ji odvìsit a odstavit do depa. 
+Provoz je levostraný. Pozor na odstavovvání vlakù, aby se navzájem
+neblokovaly pøi odjezdu. Je možno je pøistavit i k osobním nástupištím.
+Motoráèek je jako lokomotiva a vagon, takže je zde nutno odvìsit, vagon
+"lokomotivní" motoráèek pøivìsit na opaènou stranu.
+
+Autor: ?
+Úprava souborù stc a roz pro verzi 1.35
+Jindøich Èížek
+jindrcizek@quick.cz

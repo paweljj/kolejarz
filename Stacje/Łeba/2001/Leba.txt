@@ -1,0 +1,20 @@
+                     £EBA dla KOLEJARZA
+
+£eba jest to ma³e miasteczko po³o¿one nad jeziorm £ebsko. Mieszka tu niewielu mieszkañców, jednak w wakacje £eba przepe³niona jest wczasowiczami. 
+W roku szkolnym przyje¿d¿aj¹ tu zaledwie dwa poci¹gi.Podczas wakacji jest ich wiêcej dlatego rok³ad w grze jest z wakacji 2001. 
+Manewry w £ebie ograniczaj¹ siê tylko do przepiêcia loka na drugi koniec sk³adu.
+Stacja w £ebie jest bardzo skromna:jeden peron,kilka wagonów mieszkalnych na odgrodzonym od stacji torze oraz budynek stacyjny, w którym s¹ dwie kasy biletowe oraz tabliczka z rokz³adami jazdy z £eby, Lêborka i Gdyni G³. Osob.
+Nie ma tu nastawni. Dwie zwrotnice,które s¹ u¿ywane podcza zmiany czo³a poci¹gu s¹ na napêd rêczny. Maszynista musi wyjœæ z lokomotywy i przestawiæ zwrotnicê.
+Uk³ad torowy odda³em wiernie. 
+Oto kilka wa¿nych uwag dotycz¹cych £eby:
+*poci¹gi mo¿na wpuszczaæ tylko tor przy peronie oznaczony numerem 1. 
+*drugi tor przy peronie jest  w trakcie rozbiórki i prawdopodobnie wkrótce zniknie z mojej stacji
+*lokomotywownia jest tylko na wypadek gdyby jakiœ lok przyjecha³ uszkodzony. 
+ Najbli¿sza jest w  Lêborku (chyba) st¹d te¿ czas zamówienia lokomotywy wynosi 90 minut,wiêc  uwa¿ajcie ¿eby przez przypadek nie odes³aæ lokomotywy do szopy
+*konieczne jest ustawienie wszystkich opóŸnieñ na 0 poniewa¿ w 
+ £ebie jest tylko jeden tor przy  peronie i gdy przyjad¹ dwa pociagi 
+ naraz dalsza symulacja mo¿e staæ siê niemo¿liwa
+
+¯YCZÊ MI£EGO KIEROWANIA RUCHEM W £EBIE! 
+
+                         GRZEGORZ W¥SOWICZ

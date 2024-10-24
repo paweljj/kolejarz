@@ -1,0 +1,13 @@
+Stacja Gryfino.
+Rozk³ad poci¹gów pasa¿erskich i towarowych na lato roku 2002.
+
+Kierunki:
+-1 z/do st. Daleszewo, kierunek Szczecin
+-2 z/do st. Dolna Odra, kierunek Kostrzyn
+-3 z/do st. Pyrzyce, 
+
+Do powstania stacji przyczyni³ siê program PathFinder 2.0 i Edytor Dla Kolejarza 2.35.
+
+Autor: S³awomir Wieczorek
+     
+     sakorius@poczta.onet.pl 

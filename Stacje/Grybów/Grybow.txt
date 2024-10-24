@@ -1,0 +1,39 @@
+                GRYBÓW dla KOLEJARZA
+
+Grybów jest stacj¹ po³o¿on¹ na linii Stró¿e-Nowy S¹cz. Jest tylko jeden peron jednak poci¹gów jest
+doœæ du¿o. 
+
+WYJAZDY:
+1-Kierunek: Nowy S¹cz   nastêpna stacja: Ptaszkowa
+2-Kierunek: Stro¿e      nastêpna stacja: Stró¿e
+
+W rozk³adzie nie uwzglêdni³em poci¹gów towarowych, poniewa¿ nie mam dostêpu do odpowiednich 
+rozk³adów. Planujê jednak napisanie drugiego rozk³adu z identycznymi poci¹gami pasa¿erskimi oraz fikcyjnymi
+poci¹gami towarowymi wype³niaj¹cymi luki miêdzy poci¹gami pasa¿erskimi. 
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia jest w 
+Nowym S¹czu, ale w Stró¿ach chyba te¿ jakieœ stacjonuj¹. 
+Czas zamówienia wynosi 10 minut. Przy zamawianiu lokomotywy nale¿y zwróciæ
+uwagê, aby mia³a podniesiony prawid³owy pantograf (tylny).
+
+Na niezelektryfikowanym
+torze u góry schematu stacjonuj¹ wagony mieszkalne i drezyna, natomiast dolny tor niezelktryfikowany to tor do zak³adu
+usytuowanego tu¿ obok stacji. Uk³ad torowy opracowa³em na podstawie w³asnych obserwacji. Sk³ady i obiegi loków s¹ czêœciowo fikcyjne, 
+czêœciowo na podstawie w³asnych obserwacji. 
+Rozk³ad jazdy jest z 2002 roku. 
+Przy budowie stacji korzysta³em z Edytora MK.
+
+UWAGI CO DO KIEROWANIA RUCHEM:
+-poci¹gi w kierunku Nowego S¹cza nale¿y wpuszczaæ na peron "górny", a poci¹gi
+ w kierunku Stró¿ na peron "dolny"
+-poci¹g osobowy relacji Grybów-Bobowa musi odjechaæ z podniesionymi
+ przednimi pantografami, gdy¿ w Kolejarzu na razie nie ma mo¿liwoœci 
+ zmiany tekstury gdy jednostka zmienia czo³o
+
+             ¯YCZÊ MI£EGO ZARZ¥DZANIA GRYBOWEM
+
+
+                           GRZEGORZ W¥SOWICZ       kolejoman@poczta.onet.pl
+
+       Zapraszam na www.republika.pl/kolejoman

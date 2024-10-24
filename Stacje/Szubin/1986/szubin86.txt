@@ -1,0 +1,19 @@
+Szubin86
+Uk³ad torowy odwzorowany w 100%
+
+rozk³ad jazdy zarówno towarowych jaki osobowych tak jak wrzeczywistoœci
+
+Lokomotywownia
+czas oczekiwania na loka 45 minutw przygotowaniu :
+
+w przygotowaniu
+Kcynia..
+
+Przy tworzeniu stacji pomog³y:
+PathFinder 2.0
+Edytor do Kolejarza 2.35
+StationInfo 1.0
+
+Wszelkie uwagi kierowaæ pod adres:
+Bart³omiej Jasiñski
+btmtk@poczta.fm 

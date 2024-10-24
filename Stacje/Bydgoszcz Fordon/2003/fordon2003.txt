@@ -1,0 +1,19 @@
+Bydgoszcz Fordon 2003
+
+Symulacja ukazuje jak PKP utrzymuje ruch na bocznych liniach
+(obraz nêdzy i rozpaczy)
+Uk³ad torowy odwzorowany w 100% (stan na dzieñ 29.01.2003)
+Rozk³ad jazdy i sk³ady s¹ równie¿ tak jak w rzeczywistoœci
+
+Lokomotywownia Bydgoszcz Wschód 
+czas oczekiwania na przyjazd loka 15 minut
+Lokomotywowniê wstawi³em tylko po to aby w razie zepsucia 
+siê EZT by³o czym  zabraæ ow¹ jednostkê.
+Przy tworzeniu symulacji pomog³y:
+Edk 2.35
+Station Info 1.0
+PathFinder 2.0
+
+Wszelkie uwagi kierowaæ pod adres:
+Bart³omiej Jasiñski
+btmtk@poczta.fm

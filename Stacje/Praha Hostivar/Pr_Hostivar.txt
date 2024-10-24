@@ -1,0 +1,9 @@
+Praha-Hostivaø GVD 2003
+
+Výjezd 1: smìr Praha Vršovice
+Výjezd 2: smìr Praha Uhøínìves - Benešov - Tábor - È. Budìjovice
+Výjezd 3: smìr Praha Libeò
+Výjezd 4: Vleèka Kovošrot
+Výjezd 5: Vleèka INPRO
+
+Ve stanici je fiktivní depo, aby stanice fungovala ve v.1.35.

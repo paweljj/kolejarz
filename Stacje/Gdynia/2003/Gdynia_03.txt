@@ -1,0 +1,153 @@
+		___________________________________
+
+			 GDYNIA G£ÓWNA OSOBOWA
+		___________________________________
+
+Du¿a stacja wêz³owa. Z niej rozpoczyna bieg du¿o ekspresów i poci¹gów pospiesznych - dziennych i
+nocnych. W Kolejarzu obejmuje wszystkie poci¹gi pasa¿erskie (w tym SKM). 
+		
+		__________________________________
+
+			   ROZK£AD 2003
+		__________________________________
+
+*Rozk³ad jest oparty na okresie letnim (19 VI - 1 IX). 
+*Sk³ady oparte s¹ na dok³adnym dniu, a mianowicie na pi¹tku (kiedy to kilka poci¹gów ma parê
+wagonów wiêcej).
+*Obiegi i sk³ady poci¹gów dalekobie¿nych wed³ug dodatku 2b do SRJP 02/03 z uwglêdnieniem poprawek do SRJP.
+*Obiegi i sk³ady EZT wg danych ZPR Gdynia i Bydgoszcz
+*Rzecz¹ nieprawid³ow¹ s¹ dwie lokomotywy (SM42 + SP42) do³¹czane do sk³adu nr 93123 (o. 9:36) na
+Hel. Nie znalaz³em ¿adnego innego sposobu, aby os/pos 51504 (Hel - £ódŸ Kaliska p 14:18) przyje¿d¿a³
+z lokomotyw¹ spalinow¹ (SP42) z Helu. Wczeœniej, poci¹g ten przyje¿d¿a³ z EU07a CM Gdynia, gdy¿ ¿aden
+lok do tego poci¹gu nie by³ zdefiniowany. SMrodek wraca póŸniej z jednym osobowym.
+	
+		__________________________________
+
+			      STACJA
+		__________________________________
+
+Stacja jest uproszczona, nieznacznie zmieniona do poprzedniej wersji:
+*dojazd od torów postojowych do lokomotywowni Gdynia Grabówek, loki jad¹ tamtêdy po odstawieniu
+sk³adu na Gdyni Postojowej
+*na schemacie stacji (podobnie jak w Warszawie Zachodniej) widoczne s¹ "punkty SBL" w postaci
+strza³ek. S¹ w miejscu stacji Gdynia Stocznia SKM, której ze wzglêdów technicznych nie da siê
+umieœciæ na schemacie. W przypadku opóŸnienia jednego SKM-u te punkty u³atwiaj¹ zachowanie
+p³ynnoœci jazdy.
+
+*autokuszety stacjonuj¹ na torach postojowych u góry stacji
+*wagony pocztowe stacjonuj¹ na drugich torach postojowych od góry stacji
+*wymagana rozdzielczoœæ to 1024x768 (chocia¿ na 800x600 te¿ da siê graæ, ale ledwo widaæ ca³¹ stacjê)
+*wjazdy/wyjazdy:
+- nr 1 - Gdañsk, Malbork, Warszawa
+- nr 2 - SKM kier. Gdañsk G³ówny
+- nr 3 - Koœcierzyna, Kartuzy
+- nr 4 - SKM kier. Wejherowo (w czasie du¿ego natê¿enia ruchu s³u¿y te¿ jako wjazd dla poci¹gów
+dalekobie¿nych z kierunku S³upska)
+- nr 5 - S³upsk, Koszalin, Szczecin
+- nr 6 - Gdynia Port
+- nr 7 - wjazd z Gdynii Portu
+- nr 8 - Gdynia Port
+		
+		____________________________________________
+
+		  KWESTIA WYJAZDU NR 5 NA S£UPSK,KOSZALIN:	
+		____________________________________________
+
+Rozk³ad jazdy przewiduje minimum 5, maksimum 8 minut na przejazd z Gdyni G³ównej do Chylonii,
+ale czasem poci¹gi wyje¿d¿aj¹ w tym kierunku w odstêpie 3 minut. Po drodze s¹ ustawione semafory
+blokady liniowej, ale ich nie uwzglêdni³em, poniewa¿ fa³szywie skróci³by siê w grze czas zwolnienia
+wyjazdu. Zatem poci¹g jad¹cy 3 minuty po poprzednim zostaje opóŸniony o 1-2 minuty (w rzeczywistoœci
+jedzie on zgodnie z rozk³adem). W czasach najwiêkszego natê¿ênia ruchu poci¹gi jad¹æe od Chylonii
+s¹ kierowane na tory SKM i na Gdyniê G³ówn¹ wje¿d¿aj¹ wjazdem nr 4.
+ 
+		___________________________________
+
+		        KWESTIA PRZYJAZDÓW:
+		___________________________________
+
+*tabela przyjazdów niepoprawnie wyœwietla przyjazdy loków w poci¹gach:
+-9328 z Helu, p. 18:35 (trzyczêœciowy - wyœwietlane s¹ dwie, przyje¿d¿a tylko jedna lokomotywa:
+SM42 CM Gdynia
+-75101 MIESZKO z Poznania G³ównego, p. 20:24 (dwuczêœciowy), zamiast dwóch wyœwietlanych przyje¿d¿a
+tylko EU07 CM Gdynia
+-45103 z Krakowa/Katowic/£odzi Kal. (trzyczêœciowy), zamiast dwóch przyje¿d¿a jedna ET22 CM Gdynia
+Powy¿sze "anomalie" spowodowane s¹ tym, ¿e w Kolejarzu brakuje zdefiniowanych typów poci¹gu (np.
+rozpoczyna bieg, przelotowy). Obiegi sk³adów s¹ skomplikowane i inaczej nie mo¿na ich zdefiniowaæ,
+aby poprawnie dzia³a³y.
+
+		___________________________________
+
+		        KWESTIA PERONU II:
+		___________________________________
+
+Nie wiedz¹c czemu, mimo poprawnego zdefiniowania w pliku stacji, peron II (jego dolny tor) "dziwnie
+siê zachowuje". Zaznaczyæ poci¹g na nim mo¿na jednynie na klikanie jego punktów skrajnych. Klikanie
+na punkt œrodkowy nie powoduje zaznaczenia poci¹gu!
+P.S. Otrzyma³em tak¿e sygna³, ¿e poci¹gi wpuszczone na ten tor znikaj¹. Osobiœcie siê z tym nie
+spotka³em i mam nadziejê, ¿e by³ to pojedynczy przypadek.
+		_____________________________________
+
+		  ZMIANY ZE WZGLÊDÓW TECHNICZNYCH:	
+		_____________________________________
+
+*pos nr 83702 (NOCNY EXPRESS rel. Ko³obrzeg - Kraków P³aszów) p. 23:46, o. 0:06 - ze wzglêdu na to,
+¿e Kolejarz  niepoprawnie odczytuje poci¹gi przyje¿d¿aj¹ce przed 24:00, a odje¿d¿aj¹ce po 0:00
+zmieni³em na odpowiednio 23:46 i 23:59
+*pos nr 81204 (pos PODLASIAK rel. Szczecin - Bia³ystok) powinien przyje¿d¿aæ o 23:58, a odje¿d¿aæ o 0:14,
+zmieni³em na odpowiednio: 0:06 i 0:20, ze wzglêdu powy¿szych
+*pusty sk³ad (nr 10917) o. 23:56 zmieniony z 0:03
+*sk³ad do Krynicy/Zakopanego przyje¿d¿a o 13:35, a odje¿d¿a o 16:22, ale nastêpnego dnia (s¹ trzy
+sk³ady w obiegu). W Kolejarzu nie by³o to mo¿liwe - wiêc czasem odjazd ca³ego poci¹gu jest opóŸniony.
+
+
+		__________________________________
+
+			     POPRAWKI
+		__________________________________
+
+
+*02.03.2003 
+- zmienienie sk³adu (3 œrodkowe wagony) i loka (EP09 CM Kraków) IC Lajkonik
+- zmiany w opisie pliku stacji (wyprzedzenie, z jakim poci¹gi pojawiaj¹ siê na wjeŸdzie)
+*28.03.2003
+- zmiany w rysunkach loków i w sk³adach
+*27.08.2003
+-uwzglêdnienie poprawek do SRJP (zmiany sk³adów, godzin odjazdów)
+-poprawienie pliku stacji
+
+
+		__________________________________
+
+			       INNE
+		__________________________________
+
+*powstanie rozk³adu u³atwi³ program StationInfo 1.0
+*powstanie stacji program Edytor dla Kolejarza (EdK) Wersja 2.35 kompilacja 5003 oraz PathFinder 2.0
+*Wszelkie uwagi nt. stacji, przebiegów, sk³adów itp. proszê przesy³aæ na mój e-mail: 
+
+		__________________________________
+
+			  PODZIÊKOWANIA
+		__________________________________
+
+*dla Mixera, który oœwieci³ mnie w kwestii wyjazdu na Gdyniê Chyloniê i nades³a³ plik z numerami
+peronów, na które wje¿d¿aj¹ poci¹gi (który nieznacznie musia³em zmieniæ) 
+
+		_____________________________________
+ 		                     
+			  mk_koszalin@pf.pl
+                _____________________________________
+
+Najnowsze moje rozk³ady i rysunki taboru na:
+
+		_____________________________________
+ 		                     
+			www.mk.koszalin.prv.pl
+                _____________________________________
+
+		
+Gratulujê przebrniêcia przez ca³¹ instrukcjê stacji i ¿yczê mi³ej zabawy!!!
+Marek Skrzypkowski
+http://www.mk.koszalin.prv.pl
+e-mail: mk_koszalin@pf.pl
+gg 4386994

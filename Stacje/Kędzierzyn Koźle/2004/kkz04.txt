@@ -1,0 +1,45 @@
+                  K DZIERZYN-KOèLE ZACHODNIE  dla Kolejarza
+
+Zapraszam do symulacji jednej z kilku stacji na terenie mojego
+rodzinnego miasta-KÍdzierzyna Koüla.
+KÍdzierzyn-Koüle Zachodnie jest stacjπ po≥oøonπ na linii KÍdzierzyn Koüle-Nysa.
+
+WYJAZDY:
+1-KÍdzierzyn-Koüle nastÍpna stacja: KÍdzierzyn-Koüle Przystanek
+2-Nysa  nastÍpna stacja: Pokrzywnica
+3-BaborÛw nastÍpna stacja: ReÒska Wieú  (linia zniszczona przez powÛdü)
+
+UK£AD TOROWY:
+Realistyczny, na podstawie w≥asnych obserwacji.
+
+LOKOMOTYWOWNIA:
+Lokomotywownia jest w KÍdzierzynie-Koülu.
+Czas zamÛwienia: 20 minut
+Gdy przyjedzie pociπg z zepsutπ lokomotywπ naleøy najpierw odes≥aÊ uszkodzonego loka
+do szopy a dopiero potem zamÛwiÊ nowego. 
+Przy zmianie lokomotywy w pociπgu jadπcym w kierunku KÍdzierzyna-Koüla lokomotywa
+z szopy musi przyjechaÊ niew≥aúciwym torem, tak wiÍc naleøy z lokomotywowni
+wybieraÊ trasÍ od razu na peron 1.
+
+SK£ADY I LOKI:
+Sk≥ady czÍúciowo fikcyjne, czÍúciowo na podstawie w≥asnych obserwacji.
+Jeúli chodzi o loki to nie ma regu≥y. Raz moøe przyjechaÊ SU46, raz SU45
+a innym razem jeszcze coú innego.
+W symulacji jednak musi byÊ zawsze ta sama lokomotywa, wiÍc zrobi≥em
+mniej wiÍcej tyle samo pociπgÛw z SU46 co z SU45.
+
+ROZK£AD JAZDY:
+Rok 2004
+Na podstawie rozk≥adu wiszπego na stacji oraz kieszonkowego rozk≥adu
+jazdy stacji KÍdzierzyn-Koüle.
+Pociπgi towarowe sπ w 100% fikcyjne (nie mam dostÍpu do odpowiednich rozk≥adÛw).
+
+
+Podczas budowy schematu stacji korzysta≥em z Edytora MK.
+
+ØYCZ  MI£EGO ZARZ•DZANIA K DZIERZYNEM-KOèLEM ZACHODNIM!!!!
+
+Grzegorz Wπsowicz    kolejoman@poczta.onet.pl     
+Zapraszam na www.republika.pl/kolejoman
+                          
+

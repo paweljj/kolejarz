@@ -1,0 +1,92 @@
+*************
+Zakopane 2004
+*************
+
+Slowo o zmianach w schemacie stacji:
+-------------------------------------
+*Dawne niezelektryfikowane tory postojowe powyzej budynku stacji
+ sa dzis zabezpieczone wykolejnica i juz niewykorzystywane do postoju
+ kuszetek. W ciagu dnia stacjonuje tam SM42 - na czas jej wjazdu/wyjazdu
+ otwierana jest wykolejnica
+
+*Tor wyciagowy w kierunku Spyrkowki jest rowniez zabezpieczony wykolejnica
+ i nieuzywany
+
+*Zwrotnica miedzy peronami 1 i 2 jest znowu uzywana - najczesciej
+ dla 'objechania' skladu Ex Tatry, ktory wraca z tym samym lokiem
+
+* Rampa u dolu schematu sluzy do postoju autokuszet i tam nalezy je odstawic.
+
+* Punkty oznaczone strzalkami to semafory wyjazdowe na Spyrkowce - ich rola
+  jest taka, jak 'punktow SBL' w Wwie Zachodniej - mozna tam wyslac sklad z peronu,
+  a nastepnie na szlak. Przebiegi te sa jednokierunkowe, wiec pociagu z tego punktu
+  nie mozna cofnac!
+
+Slowo o prowadzeniu manewrow:
+-----------------------------
+* Wszystkie manewry ze skladami wykonuje tylko SM42, EU07 'robi' za wagon, nawet
+  jesli jest polaczona ze skladem. Podstawianie skladu wyglada tak, ze wagony+EU07
+  sa najzwyczajniej wpychane przez SM42 na odpowiedni tor.
+
+* Sklad NEx nie jest odstawiany na stacje postojowa - caly dzien stoi na torze 6
+  (ponizej peronu 2 przy rampie)
+
+
+Slowo o rozkladzie:
+-------------------
+Dwa dolaczone pliki rozkladu dotycza: dni roboczych (D) 
+i weekendow (C). Rozklad dotyczy okresu wakacyjnego,
+kiedy natezenie ruchu jest najwieksze.
+
+Uwagi odnosnie skladow:
+-----------------------
+Wszystkie sklady, rodzaje wagonow, lokomotywy wraz z ich przydzialem
+i numerami zostaly odwzorowane na podstawie obserwacji wlasnych.
+
+Pare informacji odnosnie niektorych pociagow:
+W zaleznosci od rozkladu niektore zestawienia wagonow roznia sie, i tak:
+
+-w (D) NEx z Gdyni prowadzi wagon BDdsu, w weekendy tego wagonu brak, jest za
+ to dodatkowy Bc. W obu bedacych w obiegu skladach NEx sa zawsze 2 kuszetki w
+ starym malowaniu.
+
+-Pospieszny P53505/35504 z Gdyni/Olsztyna w (C) posiada jeden wagon 2 kl. wiecej
+
+-Pospieszny do Szczecina (P38201) posiada kuszetke w nowym malowaniu IC (!),
+ natomiast drugi sklad w obiegu ma jeden wagon (zdeklasowana 1kl.) wiecej. 
+ W Kolejarzu pociag ten jest reprezentowany przez sklad z nowym wagonem Bc.  
+
+- Ex Tatry ma wszystkie wagony w nowym malowaniu IC, sklad kursujacy w weekendy
+  ma 2 wagony Bdnu zielone.
+
+- Ex Witkacy ma rowniez wszystkie wagony w nowym malowaniu! 
+
+-Jezeli chodzi o ezt, EN57/71 w nowym malowaniu widzialem bardzo rzadko. 
+ Zdarzalo sie, ze ten sam pociag w ciagu trzech dni obslugiwal inny typ ezt!
+ (ED72, EN71, EN57+71). Nie zauwazylem, by do Zakopanego jezdzil EN57 z 1klasa
+ w nowym malowaniu. Zaobserwowalem natomiast sklad EN57+EN71 w nowym malowaniu;
+ sklad ten odjezdza o 18:19 do Suchej B.
+ 
+Lokomotywy i obiegi
+--------------------
+Na podstawie 7miodniowych obserwacji obiegi lokomotyw i przydzialy
+wygladaja nastepujaco:
+
+CM Szczecin: EP07-385 lub EP07-371 lub EU07-532: Ex Tatry w obie strony
+CM Lodz: EP07-450 z P53507/35506 w obie strony
+CM Gdynia: EU07-222 z P53505/35504 w obie strony. Co drugi dzien z tym pociagiem
+jezdzila EU07 z CM Krakow!
+
+Ponadto EU07-078 lub 212 w obie strony z NEx 53700/35701
+
+CM Poznan: EU07-013 w obie strony z Podhalaninem
+CM Krakow: ET21-261 lub 357 w obie strony z P38201/83200
+           EU07-028/EP07-158 przyjazd z Nosalem, odjazd z 55120
+           EU07-067 z Ex Witkacy w obie strony
+           EP07-410 przyjazd z Warmia 17:43, odjazd z Nosalem o 22:30
+           EU07-117 przyjazd z 55121, odjazd z Warmia o 7:31
+
+Przyjemnej gry,
+Rafal Moszczynski (ramosz@web.de)
+
+ 

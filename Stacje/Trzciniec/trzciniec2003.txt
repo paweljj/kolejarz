@@ -1,0 +1,20 @@
+Trzciniec 2003
+
+Niewielka stacyjka 9 km od Bydgoszczy w kier. na Inowroc³aw
+Lokomotywownia:
+czas oczekiwania na loka 20 minut
+
+Ograniczenia :
+brak ruchu towarowego
+
+W przygotowaniu :
+Sierpc ,£ask
+
+Do budowy stacji u¿yto nastêpuj¹cych programów:
+Edk 2.35
+PathFinder 2.0
+StationInfo 1.0
+
+Bart³omiej Jasiñski 
+btmtk@poczta.fm
+Bydgoszcz

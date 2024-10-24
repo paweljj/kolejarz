@@ -1,0 +1,28 @@
+Stacja------> Spa³a
+Plan Stacji-> obserwacje w³asne
+Rozk³ad-----> Rejonowy rozklad jazdy poci¹gów £ódŸ 1988/89
+Wyjazd------> Tomaszów Mazowiecki prêdkoœæ szlakowa 30 km/godz
+Stacja Spa³a jest maleñk¹ stacyjk¹ po³o¿on¹  prawie za p³otem  (patrz¹c w stronê koz³a oporowego)
+Oœrodka wypoczynkowego dla kolejarzy.
+
+
+Ruch
+-brak przewozów towarowych
+-godziny odjazdu poci¹gow s³u¿bowych podane s¹ w przybli¿eniu
+--poci¹gi kursowaly w dni œwi¹teczne i wolne od pracy do 25.IX
+-brak nastawni dwie zwrotnice przestawiane rêcznie
+
+jest to pierwsza w moim ¿yciu stacja przepraszam wiêc za ewentualne niedoci¹gniêcia   
+
+
+Autor Adam Sosnowski
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com
+
+Wykorzystano  programy EDK i patfinder
+w przygotowaniu
+Koluszki
+Miko³ajów
+Pêkowice
+¯akowice Po³udniowe
+i inne stacje woj. ³ódzkiego 
+

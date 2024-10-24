@@ -1,0 +1,36 @@
+                         SUCHA BESKIDZKA
+
+Sucha Beskidzka jest stacj¹ po³o¿on¹ na linii Kraków-Zakopane.
+
+WYJAZDY:
+1-kierunek Kraków P³aszów
+2-kierunek Zakopane
+3-kierunek ¯ywiec
+
+LOKOMOTYWOWNIA:
+Na potrzeby gry lokomotywownia jest w miejscu hali do 
+naprawy EZT. Lokomotywownia zosta³a zlikwidowana w 1975, 
+a na jej miejscu jest naprawa EZT (EN71 i EN57).
+Najbli¿sza lokomotywownia znajduje sie w Krakowie P³aszowie.
+W Suchej Beskidzkiej stacjonuje wyremontowana lokomotywa 
+elektryczna ET21-98.
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Widok na uk³ad torów od strony budynku stacji.
+Przy dolnym torze niezelektryfikowanym znajduje siê rampa.
+
+SK£ADY I LOKI:
+Na podstawie w³asnych obserwacji.
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie elektronicznego rozk³adu jazdy
+HAFAS z roku 2003 oraz dodatku 4B do WRJP.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Czas do zmiany kierunku jazdy jest bardzo krótki 
+i trzeba siê spieszyæ by odczepiæ i zaczepiæ elektrowóz.
+
+AUTOR:
+Krzysztof W¹dolny            nmwadoln@imim-pan.krakow.pl

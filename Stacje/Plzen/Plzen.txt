@@ -1,0 +1,20 @@
+Stanice Plzeò leží na trati 170 Praha - Cheb. Dále zde zaèínají tratì:
+160 - Plzeò - Žatec - neelektrifikovaná
+180 - Plzeò - Fürth im Wald - neelektrifikovaná
+183 - Plzeò - Klatovy - Železná Ruda
+190 - Plzeò - Èeské Budìjovice
+
+Výjezd 1 smìr: Horní Bøíza, Kaznìjov, Plasy, Mladotice, Blatno u Jesenice, Žatec
+Výjezd 2 smìr: Rokycany, Zbiroh, Zdice, Beroun, Praha
+Výjezd 3 smìr: Plzeò-Koterov, Nezvìstice, Nepomuk, Horažïovice pøedmìstí, Strakonice,
+               Protivín, Èíèenice, Èeské Budìjovice
+Výjezd 4 smìr: Plzeò-Jižní pøedmìstí, Støíbro, Svojšín, Mariánské Láznì, Cheb - DB
+Výjezd 5 smìr: Plzeò-Jižní pøedmìstí, Nýøany, Holýšov, Domažlice, Èeská Kubice - DB
+Výjezd 6 smìr: Plzeò-Valcha, Pøeštice, Klatovy, Janovice n/Úhlavou, Železná Ruda - DB
+
+Grafikon osobní a nákladní dopravy - rok 2003.
+Vzhled stanice je znaènì zjednodušen a upraven.
+Obìhy lokomotiv a souprav jsou smyšlené.
+
+Jindøich Èížek
+jindrcizek@quick.cz

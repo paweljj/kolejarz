@@ -1,0 +1,31 @@
+Stacja------> Podkowa Leœna G³ówna
+Plan Stacji->Dostarczony przez Piotra Go³êbiowskiego
+Rozk³ad-----> S³u¿bowy Rozk³ad Jazdy poci¹gów zeszyt I-10 z 1984
+Wyjazd---1-->Nowa Wieœ,Komorów,Pruszków,Opacz,Warszawa Œródmieœcie
+Wyjazd---2-->  Kazimierówka ,Grodzisk Mazowiecki
+Wyjazd---3--> Polesie ,Milanówek Graniczna
+Ruch
+-pasa¿erski znaczny towarowy niewielki 
+-godziny odjazdu poci¹gow s³u¿bowych s¹ dok³adne
+--poci¹gi kursowaly w dni œwi¹teczne i wolne od pracy do 25.IX
+-jedna nastawnia
+- ogromne podziêkowania dla Piotra Go³êbiowskiego za garœæ cennych uwag na temat planu stacji
+-jest to czwarta w moim ¿yciu stacja    
+-ze wzglêdu na zmianê planu stacji przedefiniowa³em kilka poci¹gów koñcz¹cych bieg na stacji
+na przelotowe
+-usun¹³em kilka b³êdów  natury logicznej w rozk³adzie
+13.07.2005- dodano rozklad w dni wolne od pracy i usuniêto kilka b³êdów w obiegach
+-OBIEGI I ZESTAWIENIA:
+WERSJA C --- ŒWIÊTA-1.X-31.I  OPRÓCZ 1.V 1.XI 26.XII ORAZ WOLNE SOBOTY
+WERSJA A ---DNI ROBOCZE CA£OROCZNIE ORAZ ŒWIÊTA- 1.VII-31.IX,1.V,1.XI , 26.XII
+Autorzy 
+ PLIK ROZ
+Adam Sosnowski
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com
+PLIK STC
+Piotr Go³êbiowski 
+e-mail: hgolebiowski[wytnij to]@interia.pl
+ www.ryflak.za.pl 
+Wykorzystano  programy EDK i patfinder i Eroz
+w przygotowaniu
+Ga³kówek 2002 i 2004

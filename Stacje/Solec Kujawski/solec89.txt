@@ -1,0 +1,48 @@
+Solec Kujawski 1989
+
+Miejscowoœæ po³o¿ona w województwie kujawsko-pomorskim
+
+Stacja Solec Kujawski jest stacj¹ poœredni¹ osobowo-towarow¹ trzeciej 
+klasy po³o¿ona na kilometrze 138,699 lini nr 18 Kutno-Pi³a G³.
+
+Wjazdy
+
+1-Bydgoszcz,Pi³a,Gdynia
+2-Toruñ,Kutno,Olsztyn
+3-bocznica Solbet
+4-bocznica Nasycalni
+5-bocznica Polmozbyt(nieczynna)
+
+Uk³ad torowy jest odwzorowany w 100%
+Dokona³em uproszczeñ na punktach zdawczo-odbiorczych przy wjazdach
+na bocznice.
+Rozk³ad jazdy obowi¹zuj¹cy wykonany jest wed³ug s³u¿bowych rozk³adów
+jazdy.
+Sk³ady poci¹gów towarowych s¹ moim wymys³em.
+Reszta sk³adów wykonana jest wed³ug dodatków 2B i 2C do s³u¿bowych
+rj.
+W symulacji za³o¿y³em ,¿e jest to czas jeszcze przed elektryfikacj¹
+odc.Bydgoszcz-Pi³a gdy¿ wówczas zmieni³yby siê obiegi lokomotyw.
+
+Lokomotywownia
+Najbli¿¹ lokowni¹ jest Bydgoszcz Wsch.(elektryki) i Bydgoszcz G³.
+(spalinki)
+Czas oczekiwania na przyjazd loka wynosi: 20 minut
+Czas naprawy loka: 180 minut
+
+Przy budowie stacji pomog³y:
+EDK 2.35
+PathFinder 2.0
+StationInfo 1.0
+
+Wszelkie uwagi 
+kierowaæ pod adres:
+Bart³omiej Jasiñski
+btmtk@poczta.fm
+
+Chcia³bym przekazaæ podziêkowania dla Jerzego Paw³owskiego ,a 
+w szczególnoœci dla Grzegorz Petki za merytoryczn¹ pomoc i 
+dostarczenie materia³ow dziêki ,którym powsta³a ta stacja.
+
+
+Mi³ej zabawy !!

@@ -1,0 +1,14 @@
+Stacja------> Koluszki
+Plan Stacji-> autentyczny na podstawie planu urz¹dzeñ srk i planu œwietlnego i obserwacji w³asnych
+Rozk³ad-----> 2004 wed³ug s³u¿bowych zeszytów 101,161,171,180,272, 2abcd 4b +Œcienny odj/przyj
+Wjazd-1---->Skierniewice,Kutno,£owicz,warszawa,Terespol,Ma³aszewicze
+Wjazd-8 u góry---->Wagonownia i baza remonta¿owo monta¿owa,Bocznica Odlewni ¿eliwa(nieczynna),Jednostka wojskowa Regny(nieczynna) kilka razy do roku je¿d¿a tam wagony do naprawy na polecenie dyspozytora nie s¹ ujête w s³u¿bowym rozk³adzie jazdy
+Wjazd-2---->CPN,baza magazynowo-prze³adunkowa NAFTOBAZY obecnie PKN ORLEN
+Wjazd-3---->S³otwiny,Tomaszówmazowiecki,Drzewica,Radom,Skar¿ysko-kamienna,Idzikowice(po³aczenie z CMK)
+Wjazd-4---->praktycznie tylko przyjazdy EN57 z £odzi Fabr i niektóre towarowe
+Wjazd-5---->Piotrków trybunalski,Radomsko,Czêstochowa,Gliwice,Katowice,Kraków,Zabrzeg Czarnolesie,Praga,Budapeszt
+Wjazd-6---->Ga³kówek, £ódŸ Kaliska-lokomotywownia,£ódŸ Olechów-stacja rozrz¹dowa,lokomotywownia,postój
+            pustych EZT ,Zgierz,Kutno,P³ock,Bydgoszcz,Gdañsk,Poznañ,Rzepin,Sieradz,ostrów wielkopolski
+            Franfurkt n/Odr¹,Wroc³aw,
+rozk³ad 2002/2003 jest ostatnim rozk³ademw którym kursowa³y pociagi ³ódŸ fab-gliwice i ³ódŸ warszawa o 19 z ³odzi
+w kolejnych rozk³adach widaæ degradacjê ruchu dalekobieznego

@@ -1,0 +1,107 @@
+S£AWNO 2004 Lato:
+
+POPRAWKI 30.08.2004r.
+
+- doda³em 3 nowe poci¹gi w tym poci¹g specjalny
+- zmiany w sk³adach
+
+
+
+Ruch na tej stacji w okresie letnim jest œredni, a w okresie zimowym jest nie wielki, ale wystêpuj¹
+równie¿ mijanki.
+
+
+WJAZDY:
+1- Wyjazd: S³upsk,
+2- Wyjazd: Koszalin,
+3- Wyjazd: Dar³owo (poci¹g promocyjny ma 1 maja)
+
+
+STACJA:
+
+Uk³ad stacji 92%,
+Widok od budynku stacji.
+Najbli¿sza lokomotywownia znajdujê siê w Gdyni (150 min), ale w S³upsku zawsze stacjonuj¹ jakieœ loki.
+Czas zamówienia lokomotywy: oko³o 30 min.
+Czas naprawy lokomotywy: oko³o 120 min.
+
+Punkty na stacji:
+1 - Tor CPN,
+2 - Tor CPN (zamkniêty),
+3 - Rampa,
+4 - Rampa,
+5 - Waga (nieczynna),
+6 - Nastawnia,
+7 - Nastawnia,
+8 - Nastawnia (nieczynna),
+9 - Dawny wyjazd na Korzybie (linia rozebrana),
+11 - Tory postojowe, a dalej dawna parowozownia (nieczynne),
+13 - Punkt postojowy drezeny.
+
+Perony:
+Tor 3 (od góry stacji) zamkniêty (dawniej poci¹gi wyje¿d¿a³y z tego toru do Korzybia)
+Tor 3 (od do³u stacji) jest torem przelotowym.
+
+Tor 2 (od góry stacji) s³u¿y do mijanek.
+Tor 2 (od do³u stacji) s³u¿y do mijanek i jako tor awaryjny.
+
+Tor 1 (od góry stacji) jest zamkniêty.
+Tor 1 (od do³u stacji) s³u¿y do mijanek poci¹gów towarowych.
+
+
+ROZK£AD:
+Rozk³ad oparty na okresie letnim 2004.
+Mog¹ wystêpowaæ b³êdy w sk³adach i obiegach EZT i LOK.
+Sk³ady poci¹gów sezonowych s¹ orientacyjne.
+B³êdy w sk³adach proszê przesy³aæ na mój e-mile: m.koplinpkp@interia.pl Dziêkuje!
+
+Poci¹g zdawczy:
+Czêœæ z cysternami trzeba odstawiæ na tor 1 (u do³u).
+Wagon kryty na tor nr 3 (rampa).
+W rzeczywistoœci poc. zdawczy przyje¿d¿a z jednym sk³adam i wraca z drugim niestety w Kolejarzu jest
+to niemo¿liwe.
+Sk³ad taki sam jak w rozk³adzie 2003.
+
+Poci¹gi oznaczone jako "Dod.", s¹ to poci¹gi dodatkowe.
+
+Drezyna stacjonuje na punkcie postojowym (nr 13), kursuje ona tylko, gdy jest to potrzebne, wiêc rozk³ad
+do niej jest moim wymys³em.
+
+
+INNE:
+Powstanie stacji przy programie Edytor dla Kolejarza Edk v2.35.
+Powstanie stacji u³atwi³ program PathFinder 2.0.
+
+
+PODZIÊKOWANIA:
+Szczególne podziêkowania kieruje do Marka Skrzypkowskiego za pomoc przy rozk³adzie i za sk³ady poci¹gów.
+Zapraszam na jego stronê internetow¹ www.mk.koszalin.prv.pl oraz dla Grupy Dyskusyjnej pl.misc.kolej
+
+
+POPRAWKI:
+- zmienione sk³ady poci¹gów, 
+Sk³ady zaczerpniête ze strony www.mk.koszlin.prv.pl
+Dziêkuje Markowi Skrzypkowskiemu za udostêpnienie sk³adów,
+- stacja i rozk³ad zosta³y przerobione dla nowej wersji Kolejarza v.1.61,
+- poprawionie b³edów
+
+POPRAWKI 02.05.2004r.
+
+- nowe sk³ady wagonów, nowe wagony: ABdnu, Bdhrnu,
+- dodany kurs szynobusu SA109, który odby³ siê dnia 1 maja
+- dodanie nowych poci¹gów zgodnie z poprawkami
+
+
+AUTOR:
+
+Maciej Koplin
+
+e-mile:maciejkoplin@interia.pl
+www.pikukoleje.republika.pl
+www.mk-piku.prv.pl
+gg:2576587
+ICQ: 299-295-546
+
+
+
+Mi³ej zabawy!!!

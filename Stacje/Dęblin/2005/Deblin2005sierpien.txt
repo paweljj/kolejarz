@@ -1,0 +1,173 @@
+Tu stacja Dêblin, tu stacja Dêblin...
+
+
+WJAZDY/WYJAZDY
+Podczas zatwierdzania przebiegu poci¹gu nale¿y zwracaæ uwagê na docelowy numer wyjazdu, poniewa¿
+nie ze wszystkich torów jest mo¿liwy wyjazd w konkretnych kierunkach. Zw³aszcza nale¿y zwróciæ uwagê
+na specyficzny potrójny wyjazd w kierunku £ukowa - wyjazdy 2/3/4. Generalnie "dwójka" obs³uguje
+przyjazdy sk³adów towarowych, "trójka" - odjazdy wszystkich sk³adów, a "czwórka" - przyjazdy jednostek.
+Ka¿dy z nich potraktowa³em jednak jako szlak jednotorowy, bo w ka¿dym z tych przypadków zdarzaj¹ siê
+wyj¹tki - tj. poci¹gi s³u¿bowe i jedno "brutto", którego rozk³ad koliduje z przebiegiem ezt z Warszawy.
+
+LOKOMOTYWOWNIA
+Przez ca³e lata MD Dêblin obs³ugiwa³a ruch pasa¿erski na liniach do Warszawy, Lublina i Radomia.
+Kilka lat temu lokomotywowniê w³¹czono do CM Lublin. Dlatego te¿ od tego rozk³adu inaczej, ni¿ 
+poprzednio, jej symbol umieœci³em w pobli¿u wjazdu nr 5, a parametry czasowe ustawi³em, jak gdyby 
+naprawdê lok mia³ przyjechaæ z Lublina - 75 minut, w tym ok. 3 minut na zajêcie wjazdu (na wys³anie 
+i naprawê: 240 minut, w tym te¿ kilka minut na zajêcie wyjazdu). Jednak w³aœciwie mo¿na siê obejœæ 
+bez pomocy CM Lublin, bo na stacji Dêblin umieœci³em kilka rezerwowych loków (tak, jak jest w 
+rzeczywistoœci). Tylko w przypadku koniecznoœci naprawy loka od³¹czanego w Dêblinie, nale¿y go wys³aæ 
+do Lublina, a jeœli w tym czasie na stacji zabraknie sprawnego loka, który jest rozk³adowo przypisany 
+do obs³ugi jakiegoœ poci¹gu, nale¿y podpi¹æ stosown¹ "rezerwê" (ET41, ET22 lub SM48). A naprawiony lok 
+wróci do pracy w nastêpnej dobie, zastêpuj¹c "rezerwê", która - zgodnie z przejœciami - powinna wróciæ 
+na stacjê. Tym bardziej, ¿e po namyœle zupe³nie inaczej potraktowa³em kwestiê "naszej" lokowni. 
+Aby omin¹æ ograniczenia Kolejarza, zwi¹zane z obs³ug¹ tablic prawdopodobieñstwa, CM Lublin zosta³a 
+potraktowana jak ka¿dy inny obcy zak³ad taboru. Natomiast "nasze", przypisane do Dêblina loki s¹ opisane 
+w³aœnie jako "rezerwa" (w domyœle z CM Lublin). To samo dotyczy jednostek (w domyœle z PZ Lublin), bo 
+sprawnymi "rezerwami" mo¿na wspomagaæ zusterkowane, bez koniecznoœci pod³¹czania jakiœ spalinówek. 
+W uzupe³nieniu: zielonym kwadratem oznaczy³em opuszczon¹ i wyniszczon¹ halê wachlarzow¹ starej 
+lokomotywowni. W jej pobli¿u stoj¹ czêsto spalinówki.
+
+TORY POSTOJOWE
+E/Z/T - tory postojowe dla elektrycznych zespo³ów trakcyjnych, dla których przewidziano doraŸny
+przegl¹d (s¹ tam kana³y rewizyjne). Za czasów istnienia MD Dêblin sta³y tam ³adne sznureczki 
+elektrowozów. Obecny rozk³ad przewiduje kierownie tam jednostek (podano dane dotycz¹ce poci¹gów, 
+które obs³uguj¹ po rewizji):
+111 4.07 do Che³ma
+521 4.18 do Radomia
+900 4.20 do £ukowa
+523 4.55 do Radomia 
+115 5.13 do Lublina
+525 6.07 do Radomia
+535 18.31 do Radomia
+537 20.22 do Radomia
+Jednak w tej wersji praktycznie wszystkie tam nocuj¹, bo musia³em wydzieliæ tor dla "konkurencji", czyli
+sk³adów Kolei Mazowieckich. Natomiast w ci¹gu dnia kilka niewymienionych wy¿ej sk³adów mo¿e zostaæ 
+ustawionych i na torze P, i na grupie E/Z/T, i przy peronach, jeœli do odjazdu nie bêd¹ przeszkadzaæ.
+Z toru wyci¹gowego na ty³ach grupy E/Z/T przebiegi bezpoœrednie prowadz¹ torami skrajnymi, czyli E i T.
+P - tor postojowy dla pozosta³ych jednostek, w tej wersji g³ównie Kolei Mazowieckich.
+Dla sprawnego grania przez wiêcej ni¿ jedn¹ dobê (chodzi o ustawienie ich w odpowiedniej kolejnoœci, by
+podczas wyci¹gania ich nie trzeba by³o ruszaæ innych) opracowa³em plan postoju ezt na nastêpuj¹cych 
+torach:
+P0 - 21030 3.33 do Grodziska Maz.
+P1 - 2120 4.26 do Warszawy Zach.
+P2 - 21032 5.04 do Warszawy Zach.
+P3 - 2122 5.37 do Warszawy Zach.
+P4 - 2124 7.25 do Warszawy Zach.
+P5 - rezerwa
+E0 - 111 4.07 do Che³ma
+E1 - 900 4.20 do £ukowa
+E2 - 521 4.18 do Radomia
+E3 - 115 5.13 do Lublina
+Z0 - (2) 523 4.55 do Radomia
+Z1 - (1) 523 4.55 do Radomia
+Z2 - rezerwa
+T0 - 904 12.40 do £ukowa
+T1 - 137 17.05 do Che³ma
+T2 - 525 6.06 do Radomia
+Taki powinien byæ uk³ad o pó³nocy. 0/1/2/3/4 - kolejne sk³ady od lewej do prawej.
+
+W tej wersji próbnie informacjê o tym, gdzie ustawiæ ezt w dzieñ i w nocy umieœci³em w polu "nazwa poci¹gu"
+w du¿ej tabeli przyjazdów.
+
+TORY TOWAROWE
+1. Schemat stacji jest nieco uproszczony - chodzi zw³aszcza o czêœæ towarow¹. Wszystkich torów 
+towarowych wraz z rozjazdami nie uda³oby siê zmieœciæ w poziomie, bo w pionie jeszcze jakaœ rezerwa jest.
+2. Grupa torów oznaczona symbolami "DBT" s³u¿y do tranzytowego ruchu w relacjach 1-6, 2-5/6, 3-6, 
+ewentualnie z krótkimi postojami. Tutaj tak¿e nastêpuje zmiana czo³a:
+  -loka poci¹gu próbnego 22902/1 z/do ZNTK w Hrubieszowie,
+  -luzaków 952284/925493 i 952496/925491 z/do Pu³aw Azotów, 
+  -loków 23970/1 oraz w podwójnej trakcji z Lublina do ZNTK w Nowym S¹czu i Gliwicach oraz 32970/1 
+   z powrotem,
+  -podsy³u 933392/933491 ze Œwier¿a Górnego i do Jaszczowa
+  -podsy³u manewrówki 90150/1 na przegl¹d ze Œwier¿a Górnego i z powrotem
+Tu wreszcie mo¿e byæ formowany i rozformowany poci¹g 9950/1 do robót torowych.
+Sugerujê, by na torze "B" zatrzymywaæ poci¹gi w ostatecznoœci, poniewa¿ przechodzi przez niego wiele
+przebiegów tranzytowych i zablokowanie go mo¿e spowodowaæ brak mo¿liwoœci ustawienia bezpoœredniej 
+jazdy. Co prawda w Dêblinie2004 na podstawie niepe³nej dokumentacji myli³em siê, ¿e coœ przeje¿d¿a przez 
+Dêblin w ogóle bez zatrzymania (poza BYSTRZYC¥). Wszystkie sk³ady maj¹ (choæby krótkie) postoje - 
+jak nie w Dêblinie to w Dêblinie Towarowym (w tej wersji wprowadzi³em próbnie informacjê, gdzie które
+sk³ady siê zatrzymuj¹ - jest ona w du¿ej tabeli przyjazdów w polu "nazwa poci¹gu").
+3. Grupa torów oznaczona symbolami "TOWAR" s³u¿y do rozrz¹du poci¹gów dzielonych i ³¹czonych oraz 
+d³u¿szych postojów sk³adów towarowych. W miarê mo¿liwoœci dla loków manewruj¹cych powinny pozostaæ 
+wolne tory "O,W", gdy¿ przez nie s¹ poprowadzone przebiegi miêdzy punktami manewrowymi znajduj¹cymi 
+siê po prawej stronie grupy "TOWAR" a innymi punktami z lewej strony. 
+4. Trzy niezelktryfikowane tory manewrowe poni¿ej grupy "TOWAR" s¹ te¿ zaznaczone symbolicznie i maj¹ 
+u³atwiæ odstawianie grup wagonów miêdzy sk³adami. Rozrz¹dzanie odbywa siê "z prawej" strony grupy, 
+natomiast "z lewej" wpisa³em tylko kilka podstawowych przebiegów do najbli¿szych punktów, by mo¿na by³o 
+manewrowaæ lokami solo.
+
+MIEJSCA SZCZEGÓLNE:
+L - dawna lokomotywownia wachlarzowa
+R - rampa
+S - tor poci¹gu sieciowego
+T - tory zajmowane przez pojazdy robocze, drogowe i inspekcyjne (wiêcej stoi na dolnych torach T,
+    bo tam w rzeczywistoœci jest ca³a grupa torów postpjowych tego sprzêtu)
+
+ROZK£AD
+1. Pasa¿erski autentyczny w/g SRJP 2004/5 - stan w sierpniu 2005 r., zgodny z dodatkami 2a/b/c/d. 
+Co prawda po zmianach w lutym i kwietniu sam musia³em skorygowaæ obiegi, a liczba jednostek 
+w sk³adach ci¹gle siê zmienia³a, wiêc pozostawi³em zgodne z pocz¹tkowym dodatkiem. Obiegi sk³adów 
+Kolei Mazowieckich musia³em rozpisaæ sam, a zrobi³em to, by jak najbardziej uproœciæ odstawianie i 
+podstawianie sk³adów na perony. Ta wersja symuluje stan z sezonu wakacyjnego przy jednoczesnych
+zmianach rozk³adu wynikaj¹cych z robót torowych prowadzonych na odcinkach: Pu³awy - Pu³awy Azoty,
+Stawy - Okrzeja, Pionki - Jedlnia oraz w Warszawskim WêŸle Kolejowym.
+2. Towarowy autentyczny w godzinach, podstawowych relacjach i wymianie grup, natomiast zestawienie 
+sk³adów oraz relacje wymienianych grup s¹ wynkiem mojej fantazji. Luzaki w³aœciwie powracaj¹ w relacjach 
+powrotnych, w rzeczywistoœci s¹ to podsy³y do sk³adów.
+3. Wprowadzi³em tylko kilka i to nieznacznych korekt godzin, by dostosowaæ rozk³ad do Kolejarza. 
+Najwiêcej fikcji jest w rozk³adach luzaków, bo obecny rozk³ad nie ujawnia ich, wiêc opar³em siê 
+na zdobytych w ostatnich miesi¹cach zeszytach z poprzednich rozk³adów.
+4. Niektóre zmiany wprowadzone w stosunku do wersji Dêblin2005kwiecien:
+	- nowe poci¹gi: 21032 oraz 9952/3
+	- korekty minutowe dotycz¹ce poci¹gów: 112, 119, 136, 137, 520, 524, 528, 535, 536, 
+	  902 (korekta techniczna), 903, 906, 909, 1131, 2124, 12101, 12107, 12113, 12411, 13109, 
+	  21040, 21100, 21108, 21130, 8500, 72003 oraz koliduj¹cych z nimi poci¹gów towarowych
+	- zmiana relacji poci¹gów: 12101 i 21106
+	- urealnienie sk³adów poc.: 12001/21000, 12113/21100 i 28100/82101
+	- przejêcie obs³ugi poc. 21410/12411 oraz 82503/28502 przez CM Lublin oraz przywrócenie 
+	  obs³ugi poc. 82101/28100 przez CM Gdynia, a w ruchu towarowym wprowadzenie (na podstawie
+	  obserwacji) obs³ugi dwóch par poci¹gów przez ET22 z CM Ostrów Wlkp.
+
+TABOR
+1. Z racji ustawienia na torach postojowych po kilka sk³adów, te skrajnie prawe s¹ ledwo widoczne na
+monitorach u¿ytkowników korzystaj¹cych z mniejszych rozdzielczoœci.
+2. Poci¹gi towarowe obs³ugiwane przez przewoŸnika prywatnego "PTiGK SA Rybnik" to w wiêkszoœci 
+sk³ady prowadzone podwójn¹ trakcj¹ S200. Wobec braku ich rysunku pos³u¿y³em siê w zastêpstwie TEM2. 
+Natomiast pojedynczy sk³ad tylko w jednym kieruku jest prowadzony elektrowozem. Byæ mo¿e to b³¹d w 
+dokumentacji, gdy¿ brakuje potwierdzenia, czy to prawda, a jeœli tak, jaki móg³by byæ to lok. 
+Ja wybra³em maszynê ET22.
+3. Obecny rozk³ad opiera siê na tablicach prawdopodobieñstwa, które przewiduj¹ pojawianie siê na stacji
+ró¿nych loków. Jest po kilka tekstur EU07, EP07, ET21, ET22 i ET41. Ta ró¿norodnoœæ powinna 
+uprzyjemniæ grê, choæ z moich obserwacji gry w Kolejarzu v.1.77 wynika, ¿e niektóre tablice czasem mog¹ 
+nie dzia³aæ - prawdopodobnie zostanie to naprawione w kolejnych wersjach Kolejarza.
+
+UWAGI / PORADY
+1. W ci¹gu ostatniego roku zosta³ rozebrany krótki tor dolny przy peronie pierwszym. Kiedyœ sta³ tu 
+"pomnik" - wagon radiostacja "Pszczó³ka" (w nawi¹zaniu do roli z 1944 r.).
+2. Górny tor przy peronie 2 oraz dolny tor przy peronie 3 nale¿y rezerwowaæ na bezpoœrednie przebiegi
+tranzytowe dla sk³adów poruszaj¹cych siê w relacjach 1-5/6.
+3. Górny tor przy peronie 3 jest jedynym, który mo¿e przyjmowaæ poci¹gi korzystaj¹ce z wjazdu nr 4.
+4. Jeœli tylko rozk³ad na to pozwala, sk³ady przyje¿d¿aj¹ce nie s¹ odstawiane na tory postojowe i
+potrafi¹ oczekiwaæ na odjazd z tego samego peronu nawet kilka godzin - podpowiedzi zawrte w polu
+"nazwa poci¹gu" w du¿ej tabeli przyjazdów.
+5. Poci¹g 14763 powinien mieæ w Dêblinie zmieniany lok z ET22 na ET41. Jednak by wszystko siê zgadza³o
+w kilku przypadkach musia³em pozamieniaæ ET22 na ET41 lub na odwrót, a w tym konkretnym do ET22 z 
+CM Skar¿ysko-Kam. nale¿y podpi¹æ jako podsy³ drugiego "byka" z CM Warszawa. Uwaga! Kolejarz w 
+ma³ym rozk³adzie odjazdów nie sygnalizuje takiej koniecznoœci, trzeba o tym pamiêtaæ!
+6. Jeœli ktoœ jest zainteresowany szczegó³owymi informacjami, na której czêœci stacji powinny stawaæ
+poszczególne sk³ady towarowe, proszê o korzystanie z podpowiedzi zawartych w du¿ej tabeli przyjazdów
+w polu "nazwa poci¹gu" - tam testowo wprowadzi³em dok³adne opisy. Jednoczeœnie proszê o uwagi, czy
+takie podpowiedzi u³atwiaj¹ grê, czy nie - adres mailowy poni¿ej.
+
+Mi³ej zabawy!
+Zdajê sobie sprawê, ¿e nie wszystko uda³o mi siê ustaliæ ze stuprocentow¹ pewnoœci¹, wobec czego
+mog³y wyst¹piæ b³êdy. W razie ich zauwa¿enia proszê o kontakt: Micha³ Lipiñski, ltek@wp.pl
+
+Powstanie stacji by³o mo¿liwe dziêki Bartowi, z którym w lipcu 2004 r. przeszliœmy i sfociliœmy 
+wiêksz¹ czêœæ stacji, a tak¿e dziêki programom: eRozk³ad (eR), Edytor do Kolejarza (EdK) oraz 
+PathFinder (PF). Wielkie dziêki za pomoc rozk³adow¹ Markowi D¹browskiemu.
+
+
+Stacja Dêblin powróci... w rozk³adach z lat 1980, 1985, 1990, 1995 i 2000, o ile pozwoli mi na to
+obecny rozrzut miêdzy Lublinem a Warszaw¹. Ale najpierw Dêblin2006.

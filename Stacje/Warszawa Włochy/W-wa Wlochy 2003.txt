@@ -1,0 +1,50 @@
+Warszawa W³ochy 2003
+
+Wstêp.
+Warszawa W³ochy to stacja (w³aœciwie dla poc. dalekobie¿nych posterunek odga³êŸny ) znajduj¹ca siê 3 km. na zachód od stacji Warszawa Zachodnia. jej rola polega na rozdzieleniu potoku poci¹gów wyje¿d¿aj¹cych z Warszawy w kierunku zachodnim. Jej schemat mo¿na po³¹czyæ z Warszaw¹ Zachodni¹ autorstwa Arkadiusza Mizerskiego. Wyjazdy nr 5 we W³ochach odpowiadaj¹ wyjazdom nr 1 na Zachodniej, natomiast nr 4 odpowiada kierunkowi 2.
+
+Historia powstania.
+Stacjê zacz¹³em tworzyæ na pocz¹tku czerwca 2003 roku po zdanej maturze, ale szybko przerwa³em moj¹ pracê, poniewa¿ czeka³y mnie egzaminy na Politechnikê Warszawsk¹ (które uda³o mi siê pomyœlnie zdaæ). Do tworzenia W³och powróci³em w po³owie wrzeœnia tego roku. Obecna paŸdziernikowa wersja poprawia b³êdy w podgl¹dzie sk³adów oraz zawiera mo¿liwoœæ cofniêcia poci¹gu z SBL.
+
+Schemat stacji...
+Odpowiada rzeczywistoœci prawie w 100%. Umieœci³em w nim rozwi¹zanie znane z W-wy Zach. i z Gdynii G³. tj. SBL, punkty manewrowe to w rzeczywistoœci semafory z których radzê podobnie korzystaæ jak z blokady liniowej. Wyjazdy:
+1 - Grodzisk Maz., ¯yrardów, Skierniewice (ruch podmiejski)
+2 - CMK, Skierniewice, £ódŸ Fabryczna, itd.
+3 - Sochaczew, £owicz G³., Kutno, Bydgoszcz G³., Poznañ, Wroc³aw, Berlin, Szczecin itd. (E20)
+4 - Warszawa Wschodnia (ruch podmiejski)
+5 - Warszawa Wschodnia (ruch dalekobie¿ny)
+Na schemacie umieœci³m szopê z Olszynki Grochowskiej. Bli¿ej W³och znajduje siê jednak lokomotywownia w Odolanach jednak z powodu utrudnionego przejazdu (lok. z Odolan musia³by jechaæ do Go³¹bek i po zmiania czo³a wyje¿d¿aæ z kierunku 3 lub jechaæ do Zachodniej i znów po zmianie czo³a wyje¿d¿aæ z nr 5) oraz braku lok. serii EP09 i EP08 zrezygnowa³em z jej umieszczenia. W szopie na Olszynce nie ma byków. Wszystkie poci¹gi z Warszawy w kierunku zach. s¹ obs³ugiwane przez tê lokomotywowniê. Czas zamówienia to 60 min.
+WA¯NE:
+Nie radzê bawiæ siê w zmianê loka w przypadku jego uszkodzenia w przelotowych poci¹gach z powodu mo¿liwoœci zatamowania ruchu. Jeœli przyjedzie uszkodzony kibel z kierunku 4 nale¿y wpuœciæ go na górn¹ krwêdŸ peronu 2, a lokomotyw¹ podjechaæ do pierwszego od prawej punktu manewrowego na trasie od 5 do 2. Z tego miejsca mo¿liwy jest przejazd poci¹gu przebiegiem do peronu 2 tak jak to jest pokazane na za³¹czpnym pliku help.jpg. Przejazd tego loka w rzeczywistoœci wygl¹da³by tak: po przejechaniu po torach dalekobie¿nych do Pruszkowa zmieni³by on czo³o, a nastêpnie pojecha³ z powrotem po torze dla poc podmiejskich. Pocz¹tkowo na schemacie umieœci³em punkt manewrowy tu¿ przy wyjeŸdzie nr 3, ale z powodu b³êdu "Kolejarza" nie da³o siê z niego korzystaæ.
+
+Rozk³ad.
+Rozk³ad oparty jest na ka¿dym pi¹tku (oprócz 15.VIII) wakacji 2003. Umieœci³em tam równie¿ dwie pary poci¹gów baga¿owych, których kursowanie PKP PR zaprzesta³o 1.VII.2003 roku. Sk³ady poci¹gów na podstawie dodatków 2a,2b, w³asnych opserwacji, str. internetowej www.ic.pkp.pl, wraz ze zmianami tj. g³ównie na dodaniu lub odjêciu wagonów sypialnych lub z miejscami do le¿enia w niektórych poci¹gach oraz umieszczeniu, a czasami odjêciu od kilku sk³adów wagonów baga¿owych. W stosunku do kilku poci¹gów podmiejskich jad¹cych z kierunku Siedlec i Miñska Maz. zmieni³em rozk³ad lub relacjê zgodnie z HAFASem, co jest spowodowane remontem na tej linii. Przy tworzeniu rozk³adu kibli korzysta³em z dodatku 2d, dziêki temu rysunki EN57 dostosowane s¹ do obiegu np. s³abo pomazany kibel wraz czystym jedzie do Grodziska a nastêpnie ten sam sk³ad z odwróonymi patykami zgodnie z obiegiem wraca do Warszawy. Godziny odjazdów pustych kibli s¹ orientacyjne, czêsto zdarza siê tak, ¿e za jad¹cym poci¹giem rozk³adowym z Grodziska jedzie w odleg³oœci jednego semafora s³u¿bowy kibel. 
+
+Wskazówki i uwagi.
+Gra mo¿e byæ dosyæ nudna i monotonna, ale mam nadiejê, ¿e bêdzie dobr¹ namiastk¹ przed powstaj¹cymi symulacjami Warszawy Wschodniej i Zachodniej 2003. 
+Kible z kierunku 3 po wjeŸdzie na peron 2 korzystaj¹ z regu³y z pierwszego rozjazdu, aby zjechaæ na tor w kierunku 4.
+Czasami zdarza siê, ¿e przerwy miêdzy poci¹gami jad¹cymi w tym samym kierunku 5 min. co mo¿e powodowaæ, ¿e poci¹g przyje¿d¿aj¹cy wczeœniej jeszcze nie opuœci³ stacji, a ju¿ na wjeŸdzie pojawia siê nowy sk³ad, wtedy radzê korzystaæ z SBL lub semaforów (punktów manewrowych). Przy szybko ustawianych przebiegach do takich sytuacji nie powinno dochodziæ.
+Rano w dwóch przypadkach zdarza siê, ¿e poc. dalekobie¿ny jad¹cy z 5 do 3 i kibel jad¹cy z 4 do 3 maj¹ tê sam¹ godzinnê odjazdu w tej sytuacji nale¿y na chwilê przytrzymaæ kibla. W rzeczywistoœci na wiadukcie s¹ umiesczone semafory, które pozwalaj¹ wyjechaæ poci¹gowi z peronu 2, ja jednak z powodów technicznych "Kolejarza" ich nie umieœci³em.
+Z powodu krytycznych uwag graczy postanowi³em umo¿liwiæ cofniêcie poci¹gu z SBL (oprócz punktu przy wjeŸdzie nr 1) na peron. Jest to niezgodne z rzeczywistoœci¹, ale pozwala kontynuawaæ grê w przypadku, kiedy pomy³kowo wys³aliœmy tam poci¹g. Radzê nie nad³u¿ywaæ korzystania z SBL, jako punktu manewrowego.
+
+ród³a:
+Rejonowy Rozk³ad Poci¹gów 2003 Warszawa wraz najnowszymi poprawkami,
+S³u¿bowy Rozk³ad Poci¹gów 2003 dotycz¹cy CMK oraz E20
+HAFAS
+www.ic.pkp.pl.
+Dodatki s³u¿bowe: 2a,2b oraz 2d Warszawa
+W³asne obserwacje dotycz¹ce planów stacji oraz sk³adów poci¹gów.
+
+W przygotowaniu...
+na razie nic :-), ale jeœli zdobêdê rozk³ad poci¹gów towarowych, postaram siê zrobiæ stacjê Grodzisk Mazowiecki.
+
+Przy tworzeniu schematu stacji oraz rozk³adu korzysta³em z programów:
+StationInfo 1.0
+PathFinder 2.0
+Edytor dla Kolejarza wersja 2.40 kompilacja 2002 
+
+Pozdrawiam oraz ¿yczê przyjemnej gry.
+Adam Wojciechowski
+wajak@wp.pl         
+
+paŸdziernik 2003 

@@ -1,0 +1,115 @@
+Stacja Bydgoszcz G³ówna 2003 Kolejarz v 1.31
+
+Autor:Kiler e-mail: 1kiler/@wp.pl
+
+Poniewa¿ w poprzedmiej wersji jest doœæ dok³adny opis stacji, wjazdów, wyjazdów itp.
+pominê ten punkt i proponujê skorzystaæ w razie potrzeby z opisu tam zawartego.
+
+------------------------------------------------------------------------------------------------
+
+STACJA
+
+Na stacji pojawi³o siê trochê kilka nowych punktów postojowych, które powinny u³atwiæ manewry.
+
+-------------------------------------------------------------------------------------------------
+
+ROZK£AD
+Podczas prac korzysta³em z rozk³adu zakupionego w kasie w grudniu dlatego nie zawiera RZADNYCH
+uaktualnieñ (niestety).Dlatego nale¿y to traktowaæ jako rozk³ad 2003 ale z okolic stycznia.
+Niestety nie ma autobusu SA106.Byæ mo¿e uka¿e siê kiedyœ bardziej aktualny.
+Sk³ady poci¹gów s¹ wed³ug dodatków 2a/b/c oraz skorygowane w³asnymi obserwacjami(na PKP nic nie
+jest pewne nawet jak jest na papierze). Sk³ady w poci¹gów w zak³adach PESA zmyœli³em.
+Niestety nie ma poci¹gów towarowych oprócz 2 koñcz¹cych bieg w Bydgoszczy.
+Obs³uga trakcyjna te¿ do koñca nie jest taka jaka powinna byæ z racji tego ¿e nie dotar³em do 
+rzadnych informacji.Szczególnie tyczy siê to poci¹gów osobowych do Pi³y, Krzy¿a, Torunia, 
+poœpiesznych do Zakopanego i do Ko³obrzegu.
+
+Poniewa¿ w Lublinie zmiana wagonu barowego w Wieniawskim nie wchodzi w grê a gdzieœ to musi siê 
+dziaæ dlatego zrobi³em to w sposób nastpuj¹cy:
+wagon barowy jest dostarczany do/z Gdyni poci¹giem pocztowo-baga¿owym.
+Istania³a jeszcze mo¿liwoœæ zmiany wagonu z Niemena który tak¿e jest z Gdyni, jednak w dodatku
+2b jest wagon barowy w sk³adzie poci¹gu pocztowo-bag.
+
+------------------------------------------------------------------------------------------------
+
+W najnowszej wersji postanowi³em dorobiæ znajduj¹ce siê niemal na stacji zak³ady "PESA" dawne ZNTK.
+
+Opis Zak³adw:
+
+Zak³ady PESA wykonuj¹ naprawy rewizyjne lokomotyw spalinowych SU45, ST44, SM48, ST43
+wagonów Bhp, Bdhpumn,Bdmnu,Z1,Wlab, EN57 oraz g³ówne Bdu, Adu, rosyjskich sypialnych oraz ostatnio
+BDHPUMN(bardzo ³adne z klejonymi szybami i piknie wykoñczonym wnêtrzem).Produkuj¹ autobusy szynowe
+SA106, ostatnio wagon Sypialny dla PKP oraz nied³ugo tramwaje dla MZK Bydgoszcz.
+
+* Wjazdy/wyjazdy
+6 - wjazd do hal naprawczych
+7 - wyjazd prowadzi do dalszej czêœci zak³adów min. do dzia³u napraw wagonów osobowych, który
+    znajduje siê na koñcu tych zak³adów.
+8 - wjazd do hal naprawczych
+9 - wjazd do hal naprawczych
+
+W rzeczywistoœci do hali naprawczej oprócz wjazdu 8 i 9 prowadz¹ jeszcze cztery, które pomino³em.
+Musia³em oczywiœcie uproœciæ pewne sprawy a mianowicie do hal wszelaki tabor jest wpychany(chyba
+¿e s¹ to hale przelotowe) niestety w Kolejarzu nie ma takiej mo¿liwoœci. Dlatego musi byæ tak jak 
+jest. Wyj¹tkiem jest wyjazd/wjazd nr 6 gdzie sk³ady mo¿emy wpychaæ. I tu ma³e wyjaœnienie.
+Post¹pi³em trochê wbrew regu³om, gdy¿ zrobi³em mo¿liwoœæ wjechania/wyjechanie z 6 na punkt postojowy.
+a nie na tor towarowy nr 7, chocia¿ ta druga opcja te¿ jest mo¿liwa.
+Jeœli wybierzemy pierwsz¹ opcjê mamy wtedy mo¿liwoœæ wepchania sk³adu oraz odjechania wczeœniej 
+ni¿ godz.odjazdu(30 min).
+
+* TORY TOWAROWE
+
+2 - Tory te znajdyj¹ siê trochê dalej od zak³adów oko³o 300-400 m.Chc¹c jeschaæ dalej dojechalibyœmy 
+    do jeszcze jednej hali. Torów tych jest znacznie wiêcej jednak torów zdawczo-odbiorczych
+    jest dwa.
+3 - Tory te znajduj¹ ju¿ siê na terenia zak³adu i równie¿ s¹ to tory zdawczo-odbiorcze.Tory te s¹
+    doœæ d³ugie wiêc bez obaw mo¿emy ustawiaæ tam d³ugie sk³ady.
+4 - z torów tych jest mo¿liwy wjazd do hal, zwykle stoj¹ tam wagony Bhp, Bdmnu, WLAB.
+    Nie s¹ one pojemne zmieœcimy na nich maksymalnie 1 sk³ad Bhp.
+5 - Na torach tych zwykle stoj¹ lokomotyw spalinowe oraz wagony towarowe oczekuj¹ce naprawy.
+    Tory pojemne do 8(?) lokomotyw.
+    Lokomotywy tam stoj¹ce zwykle poruszaj¹ siê o w³asnych si³ach(niestety w grze niedostêpne)
+6 - Tory przed wjazdem do hak naprawczychna których zawsze coœ stoi, od EN57 po wagony.
+    Tory niskopojemne max. 1Bhp.
+Oczywiœcie w Zak³adzie nie obowi¹zuje rzaden rozk³ad, poci¹gi nie maj¹ numerów dlatego rozk³ad ten 
+jest fikcyjne, jednak wszystko co jest w grze zosta³o przeze mnie zaobserwowane.
+Niestety nie uda³o mi siê ustaliæ poza poci¹giem JAZDA PRÓBNA i wagonami które przyje¿d¿a³y z poci¹gami 
+planowymi, w jaki sposób wagony trafiaj¹ do zak³adu.Zazwyczaj najpierw stoj¹ na torach nr 2 a potem
+dopiero s¹ wci¹gane lub wpychane na teren zak³adu.Dlatego musi zostaæ tak jak jest ale myœlê ¿e 
+mocno nie odbiega to od rzeczywistoœci.w Dodatku 2b poci¹gi z wagonami do naprawy koñcz¹ bieg
+na Bydg. G³.
+Wagony ze stacji zabiera i podstawia lokomotywa zak³adowa.
+
+--------------------------------------------------------------------------------------------------------
+
+Wprowadzi³em tak¿e pewnn¹ innowacjê.
+Otórz lokomotywy oprócz nazwy lokomotywowni zawieraj¹ równie¿ numer inwentarzowy.
+Numeru nie posiadaj¹ lok. z CM BYdgoszcz i Gdynia .
+OCzywiœcie przy graniu wiêcej ni¿ jedn¹ dobê traci to jakikolwiek sens.
+To samo tyczy siê poci¹gów Wieniawski , Szklarka , Niemen które odje¿d¿aj¹ i przyje¿d¿aj¹ z tym 
+samym lokiem nie dojechawszy do stacji koñcowej.
+W innych przypadkach mo¿emy zobaczyæ obieg danej lokomotywy.
+Mam nadziejê ¿e nie zostanê przez to wyklêty.
+Czasami lok EU07 303E z wysokim numerem wygl¹da jak 4E , z racji tego ¿e chcia³em aby by³o jak 
+najwiêcej rysunków a nie ma du¿a rysunków EU07 303E.
+
+---------------------------------------------------------------------------------------------------------
+
+DOBRE RADY
+
+Poniewa¿ w PESA opóŸniena siê nie zdarzaj¹ dlatego proponujê ustawiæ opóŸnienia tak aby dla poc
+towarowych nie wystêpowa³y gdy¿ jeœli jakiœ poci¹g siê opóŸni zdarzy siê sytuacje ¿e pojawi¹ siê dwie SM42 
+o tym samym numerze.
+
+Poniewa¿ manewrywykonuje 1 lokomotywa a o niektórych godzinach jest niez³y kocio³ radzê zawczasu
+ obmyœliæ dobry plan.Do takich gor¹cych okresów nale¿y godz. 6.00 - 7.00 gdzie naprawdê mo¿na 
+siê nie wyrobiæ.
+
+Mam nadziejê ¿e o niczym wa¿nym nie zapomnia³em napisaæ, jakby co zapraszam do gor¹cej dyskusji.
+
+
+stacja Stworzona przy pomocy programów: Edytor, PathFinder, oraz w³asnej g³owy.
+W razie jakichkolwiek problemów podanie i 3 zdjêcia nale¿y kierowaæ na adres  1kiler@wp.pl.
+
+¯yczê mi³ej zabawy.
+----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+Stacja------> Koluszki
+Plan Stacji-> autentyczny na podstawie planu urz¹dzeñ srk i planu œwietlnego i obserwacji w³asnych
+Rozk³ad-----> Wyci¹g z elektronicznego wewnêtrznego rozk³ady jazdy pociagów (KWR modu³ SKPZ)
+aktualizacja wed³ug czerwcowych poprawek za wyjatkiem skróconego pociagu towarowego z tomaszowa do ³odzi olechowa (kursowa³ po korekcie od koluszek)
+KONTAKT:
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com

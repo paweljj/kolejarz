@@ -1,0 +1,60 @@
+S£AWNO 2002:
+
+S³awno to moja rodzinna miejscowoœæ, ruch na tej stacji jest œredni, ale wystêpuj¹ liczne mijanki.
+
+
+WJAZDY:
+1- Wyjazd: S³upsk,
+2- Wyjazd: Koszalin,
+3- Wyjazd: Dar³owo (brak poci¹gów).
+
+
+STACJA:
+1- Tor CPN,
+2- Tor CPN (zamkniêty),
+3- Rampa,
+4- Rampa,
+5- Waga (nieczynna),
+6- Nastawnia,
+7- Nastawnia,
+8- Nastawnia (nieczynna),
+9- Dawny wyjazd na Korzybie (linia rozebrana),
+11- Tory postojowe, a dalej dawna parowozonia (nieczynne),
+13- Punkt postojowy dryzeny.
+
+Uk³ad stacji 95%, znacznie lepszy ni¿ w rozk³adzie 2003.
+Najbli¿sza lokomotywownia znajdujê siê w Gdyni (150 min), ale w S³upsku zawsze stacjonuj¹ jakieœ loki.
+Czas zamówienia lokomotywy: oko³o 30 min .
+Czas naprawy lokomotywy: oko³o 120 min.
+
+
+ROZK£AD:
+Rozk³ad oparty na okresie letnim 2002.
+Sk³ady zgodne z rzeczywistoœci¹.
+Mog¹ wystêpowaæ b³êdy w sk³adach i obiegach EZT i LOK.
+
+Poci¹g zdawczy:
+Czêœæ z cysternami trzeba odstawiæ na tor 1 (u do³u).
+Wagon kryty na tor nr 3 (rampa).
+W rzeczywistoœci poc. zdawczy przyje¿d¿a z jednym sk³adam i wraca z drugim niestety w Kolejarzu jest
+to niemo¿liwe.
+
+Drezyna stacjonuje na punkcie postojowym (nr 13), kursuje ona tylko, gdy jest to potrzebne, wiêc rozk³ad.
+do niej jest moim wymys³em.
+
+
+INNE:
+Powstanie stacji przy progragmie Edytor dla Kolejarza Edk v2.35.
+Powstanie stacji u³atwi³ program PathFinder 2.0.
+
+
+AUTOR:
+
+Maciej Koplin
+
+e-mile:m.koplinpkp@interia.pl
+www.pikukoplin.blog.pl
+
+
+
+Mi³ej zabawy!!!

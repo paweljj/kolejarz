@@ -1,0 +1,40 @@
+Tu stacja Reda, tu stacja Reda...
+
+KIERUNKI:
+1 - Gdynia
+2 - Wejherowo
+3 - Puck
+
+ROZK£AD:
+Pasa¿erski prawdziwy z 2003 roku przygotowany na podstawie s³u¿bowych dodatków 2b/c/d
+datowanych na pierwszy dzieñ obowi¹zywania rozk³adu (15.12.2002). PóŸniejsze zmiany
+wprowadzone w zestawieniach, zw³aszcza w sezonie wakacyjnym, nie zosta³y uwzglêdnione.
+Natomiast zarówno zestawienia, jak i obiegi sk³adów spó³ki SKM Trójmiasto s¹ losowe, bo nie
+obejmuje ich ju¿ dodatek 2d.
+Towarowy fikcyjny, ale u³o¿ony na podstawie rozk³adów stacji okolicznych: Gdynia G³., Wejherowo, Hel.
+Jedynie grupa wagonów od³¹czana w Redzie jest moim wymys³em.
+
+LOKOMOTYWOWNIA...
+...najbli¿sza to CM Gdynia.
+
+UWAGI:
+1. Pierwsze dwa poci¹gi podczas pierwszego uruchomienia musz¹ przyjechaæ z opóŸnieniem. Wynika to
+ze specyficznego obs³ugiwania przez Kolejarza poci¹gów w okolicach pó³nocy. Podczas dalszego grania
+w nastêpnych dobach poci¹gi przyje¿d¿aj¹ normalnie.
+2. W tym rozk³adzie po raz pierwszy wprowadzi³em tablicê prawdopodobieñstwa, która losowo
+generuje obs³ugê wiêkszoœci loków. Oznacza to, ¿e mimo wpisania EU07 do obs³ugi danego sk³adu mo¿e, 
+ale nie musi przyjechaæ ET22 albo EP07. Zreszt¹ samych tekstur EU07 i EP07 jest kilka. Pozwoli to
+urozmaiciæ grê. Podobnie jest z przypadkowoœci¹ pojawiania siê zamiennie SU42 i SP42 przy niektórych
+poci¹gach. Opcja ta w tym rozk³adzie zosta³a wprowadzona testowo. Test wypad³ zadowalaj¹co, wiêc
+w nastêpnych rozk³adach mo¿na siê spodziewaæ jeszcze wiêkszego urozmaicenia.
+
+AUTORZY:
+Pliku stacji - Arek Mizerski (arekmiz@onet.pl)
+Pliku rozk³adu - Micha³ Lipiñski (ltek@wp.pl) + urozmaicenie zestawieñ sk³adów - Arek Mizerski
+
+W PLANACH:
+Razem z Arkiem planujemy Gdyniê Chyloniê, jeœli siê uda dla rozk³adu 2005 (lub 2003), ale najpierw
+zabiorê siê za Lublin 2005 i Dêblin 2005.
+
+Mi³ej zabawy!
+ML

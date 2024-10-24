@@ -1,0 +1,41 @@
+Gdañsk Oliwa SKM:
+
+SKM- Szybka Kolej Miejska
+
+
+STACJA:
+
+Stacja cechuje siê du¿ym natê¿eniem ruchu samych SKM-ów
+Uk³ad stacji bez stacji PKP, czyli same SKM
+Uk³ad torów zgodny z 95%
+Lokomotywownia miêdzy torami to mój wymys³, w stacji nie ma zwrotnic, ¿eby mo¿na by³o
+przyczepiæ lok. Najbli¿sza lokomotywownia jest w Gdyni (ok. 20 min)
+Czas oczekiwania na lok: 20 min
+Czas naprawy: 60 min
+
+Wyjazdy \ Wjazdy
+2,4 - kierunek: Gdañsk Przymo¿e (SKM), Gdañsk G³ówny
+1,3, - kierunek: Sopot Wyœcigi (SKM), Sopot, Gdynia G³,
+
+
+ROZK£AD:
+Rozk³ad oparty na okresie letnim, a dok³adniej w pi¹tek, kiedy ruch jest najwiêkszy
+Sk³ady stara³am siê zachowaæ w rzeczywistoœci
+Prószê wybaczyæ jak bêd¹ jakieœ b³êdy w rozk³adzie, jednoczeœnie proszê przesy³aæ je na e-mile:
+
+
+INNE:
+Powstanie stacji przy programie Edytor dla Kolejarza (EdK) Wersja 2.35 kompilacja 5003 oraz PathFinder 2.0
+Wszelkie uwagi proszê kierowaæ na:
+e-mile: m.koplinpkp@interia.pl
+
+POPRAWKI:
+- poprawienie b³êdu nazwy stacji
+- zmiany w rysunkach EZT
+W przygotowaniu jest poc. dalekobierznych, ale to dopiero za 2 miesi¹ce.
+
+Maciej Koplin
+www.pikukoplin.blog.pl
+
+Zapraszam te¿ na mojego kolegi:
+www.mk.koszalin.prv.pl

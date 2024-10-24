@@ -1,0 +1,33 @@
+Stacja------> £ódŸ Andrzejów
+Plan Stacji-> obserwacje w³asne
+Rozk³ad-----> rozk³ady pasa¿erskie srj  zeszyty 101,161,zestawienia EZT jak w rzeczywistoœæi wg dodatku 2D z roku 2004
+,a towarowe wg zeszytu 171 z roku 2004
+Wyjazd1-----> Koluszki,Warszawa najbli¿sza stacja Bedoñ
+Wyjazd2-----> £ód¿ Fabryczna £ódŸ Kaliska, Zgierz najbli¿sza stacja £ódŸ Widzew
+stacja jest ujêta w tabeli 601 SRJP 
+Ruch
+-ma³o przewozów towarowych-jakieœ drobne kamyki dla firm produkuj¹cych bruk
+-ruch pasa¿erski znaczny 
+-jedna nastawnia ,budynek dworca w op³akanym stanie,od momentu zamkniêcia kas biletowych 
+zabity deskami w 2003r
+-zestawienia poci¹gów poœpiesznych s¹ fikcyjne ,ale mog¹ zostaæ poprawione , jeœli ktoœ podeœle mi skany
+dodatków 2A 2B
+ PKT 1 jezeli przyjedzie zepsuty EZT kierunku 2 (opóŸnienie >=120 minut )
+to nale¿y ok 12 minut przed  jego przyjazdem zamawiamy lokomotywê , nastêpnie kiedy 
+zepsuty EZT pojawi siê na wjeŸdzie to puszczamy loka prosto z szopy na punkt manewrowy
+miêdzy peronem 2 a wyjazdem 1 potem puszczamy EZT na peron 2 cofamy loka i sprzêgamy go z popsutym EZT
+i wyprawiamy natychmiast NIEZASTOSOWANIE SIÊ DO POWY¯SZEJ WSKAZÓWKI SPOWODUJE KONIECZNOŒÆ ROZPOCZÊCIA
+GRY OD NOWA !!!
+PKT 2
+Jezeli przyjedzie popsuty EZT z  kierunku 1 to równie¿ czynimy podobnie 
+PKT 3
+opóznienia na trasie w rzeczywistoœci zdarzaj¹ siê bardzo rzadko i wynosz¹ maxymalnie 80 minut
+
+to druga stacja mojej produkcji   
+
+
+Autor Adam Sosnowski
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com
+w tej wersji  poprawiono schemat stacji 
+a teraz poprawi³em rozk³ad jazdy poci¹gów pasa¿erskich i towarowych
+Wykorzystano  programy EDK i pathfinder

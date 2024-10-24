@@ -1,0 +1,28 @@
+eleznièní stanice Ústí nad Labem hlavní nádraí leí v km 516,925 dvoukolejné elektrifikované tratì 
+Praha-Bubeneè - Dìèín hlavní nádraí. (tra 090 v simulaci vjezd 1-2)
+Je stanicí odboènou pro tratì:
+Ústí nad Labem hl.n. - Chomutov (tra 130 vjezd 3)
+Ústí nad Labem hl.n. - Ústí n.L. západ (tzv. Krásnobøezenská spojka - KB kolej vjezd 4)
+Stanice je øízena dvìma vıpravèími ve smìnì, reléovım zabezpeèovacím zaøízením.
+ 
+Mezi vjezdy 3 a 4 je tzv. staré depo zvané Plato kde je provádìna údrba a úklid osobních vozù a souprav 
+Pro potøeby chodu simulace jsme zde umístili i depo - ve skuteènosti je umístìno a cca o 4. km dále 
+smìrem po trati 130.
+U vjezdu 2 jsou tøi odstavné koleje zvané "Pod Marijánskou skálou" slouí k odstavení souprav pøi denních 
+špièkách. 
+Nad kolejí èíslo 1 je kusá kolej ve skuteènosti oznaèená 1a - tzv. bílinskı šturc - odtud odjídí vìtšinou 
+osmsetdesítky smìr Bílina.
+Jinak jsme museli vjezdové zhlaví od Choutova (3) mírnì upravit pro potøeby simulace.
+
+Grafikon vlakové dopravy je stávající 2001/2002 - všední den - zpracovanı dle platnıch pomùcek. 
+Vlaky nákladní dopravy a vlaky pro kamiónovou dopravu zde samozøejmì projídí. Mírnì jsme byli donuceni
+upravit i obìhy nìkterıch souprav, nebo tyto dojídí nebo odjídí formou posunu po KB koleji do obvodu
+Ústí n.L. západ. Rovnì jsme nepøeèíslovávali vlaky - ve smìru Dìèín - Chomutov z lichého na sudé 
+a obrácenì.  
+
+Závìrem nám dovolte, abychom touto cestou podìkovali Gustavovi Czivišovi za velkou podporu pøi sestavování
+nádraí - bez nìj bychom to nikdy nedali dohromady.
+
+Rádi uvítáme Vaše postøehy a poznatky na e-mailu  Vysoky.Jakub@seznam.cz
+
+S pozdravem Vysokı Jakub a František 

@@ -1,0 +1,56 @@
+Stacja Brzeg - rozk³ad 1986/1987
+
+Miasto Brzeg jest po³o¿one nad Odr¹, w odleg³oœci 40 km zarówno od Wroc³awia jak i Opola,
+choæ administracyjnie le¿y w województwie Opolskim (niestety).
+Narazie dostêpne s¹ rozk³ady z lat 1986/1987 oraz 2004. Ruch na stacji jest umiarkowany.
+Obs³uguj¹ go 3 nastawnie:
+[Bg] - dysponuj¹ca,
+[Bg1] - wykonawcza,
+[Bg2] - wykonawcza.
+
+WJAZDY/WYJAZDY:
+1 - Wroc³aw G³ówny
+2 - Opole G³ówne
+3 - Grodków (a stamt¹d do Nysy lub do Strzelina przez Przeworno)
+4 - Strzelin - Z¹bkowice Œl¹skie
+5 - Zak³ady Mechaniczne "Agromet"
+6 - Olejarnia, oraz Zak³ady Przemys³u T³uszczowego
+7 - bocznica jednostki wojskowej (1. Brygada Saperów)
+8 - Przedsiêbiorstwo Wyrobów Cukierniczych "Odra"
+
+PERONY:
+1
+tor 1.[górna krawedŸ peronu] - Opole -> Wroc³aw
+tor 2.[dolna krawêdŸ peronu] - Wroc³aw -> Opole
+
+2
+tory 6. i 12. - poci¹gi ze Strzelina, Nysy, Kamieñca Z¹bkowickiego itd.
+
+LOKOMOTYWOWNIA:
+Jest niezelektryfikowana. Stacjonuj¹ tam g³ównie lokomotywy serii SM42 i SP42.
+
+TORY POSTOJOWE:
+S¹ tylko 2 i doœæ krótkie. Jeœli na stacji w danym momencie by³o wiêcej sk³adów, to te które siê nie
+zmieszcz¹ stoj¹ przy peronie 2.
+
+W RAZIE AWARII ...
+Jeœli przyjedzie na stacjê zepsuta lokomotywa, musimy œci¹gn¹æ coœ zapasowego z
+lokomotywowni. W rzeczywistoœci rezerwowego loka œci¹gano z Wtoc³awia b¹dŸ Opola.
+
+ROZK£ADY:
+Poci¹gów pasa¿erskich: SRJP 1986/1987,
+Poci¹gów towarowych i specjalnych: moja wyobraŸnia (odpowiednich rozk³adów nie mia³em,
+a to co jest odzwierciedla ruch towarowy na stacji Brzeg).
+
+SCHEMAT:
+Autentyczny, przerysowany z kilku ró¿nych punktów obserwacyjnych, z dok³adnoœci¹ do
+zwrotnicy. Widok na stacjê od strony magazynów Garbarni (budynek stacji jest powy¿ej
+peronu 1).
+
+PODZIÊKOWANIA:
+Szczególne podziêkowania dla £ukasza Myczki, który udostêpni³ mi tabele z SRJP
+dla stacji Brzeg.
+
+Stacja powsta³a przy pomocy EdK oraz PathFindera.
+
+Darek Dawidowicz <ddaw@wp.pl>

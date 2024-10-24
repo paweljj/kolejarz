@@ -1,0 +1,230 @@
+Tu stacja Lublin, tu stacja Lublin...
+
+
+STACJA - nieco uproszczona (chodzi o œrodek ekranu, czyli wokó³ lokomotywowni), ale zrobiona
+na podstawie autentycznych planów kolejowych.
+
+
+WJAZDY/WYJAZDY
+1 Lublin Zach. (w budowie - zreszt¹ wstrzymanej) - Radom / Dêblin - Warszawa / £uków
+2 Lublin Zemborzyce - Kraœnik - Stalowa Wola Rozwadów - Rzeszów / Przemyœl
+3 Lublin P³n. - Lubartów (niegdyœ do £ukowa) / Rejowiec - Che³m / Zamoœæ / Be³¿ec
+4 Lublin Tatary - Rejowiec - Che³m - Dorohusk
+
+
+LOKOMOTYWOWNIA
+Z uwagi na wymogi "Kolejarza" jest kilka modyfikacji. Lokomotywownia wachlarzowa (dawna 
+parowozownia) znajduje siê nieco "poni¿ej" zaznaczonej przeze mnie lokowni - w miejscu, gdzie
+zrobi³em tor postojowy dla autobusu szynowego. Tam de facto znajduj¹ siê hale dla spalinówek,
+a hale dla elektrowozów s¹ z kolei nieco "powy¿ej" lokowni. W rzeczywistoœci wszelakie loki, 
+a tak¿e EZT i szynobusy zje¿d¿aj¹ do hal tylko w przypadku napraw, a zazwyczaj stacjonuj¹ na
+torach miêdzy nasz¹ lokowni¹ a torami szlakowymi do wyjazdów 1 i 2 (tory nr 1, 2 i 3), czyli na
+torze nr 5 EZT, a na dalszych jest wiele miejsc postojowych dla EU/EP/ET oraz SU/ST.
+
+
+PERONY
+nr 1 	- tor nr 82 oporowy
+	- tor nr 52 przelotowy (na przed³u¿eniu toru szlakowego nr 2), z g³ównej hali dworcowej
+	  wychodzi siê w³aœnie wprost na ten tor
+	- tor nr 54 oporowy dodatkowy do obs³ugi ambulansów pocztowych
+	- tor nr 56 oporowy (jedyny niezelktryfikowany) g³ówny do obs³ugi ambulansów pocztowych
+nr 2	- tor nr 51 przelotowy (na przed³u¿eniu toru szlakowego nr 1)
+	- tor nr 53 przelotowy (na przed³u¿eniu toru stacyjnego nr 3, a ten z kolei jest
+	  przed³u¿eniem toru nr 1 linii nr 68 Lublin - Rozwadów)
+nr 3	- tor nr 55 przelotowy o skróconej d³ugoœci
+	- tor nr 57 przelotowy o skróconej d³ugoœci
+nr 4	))) od wielu lat w planach )))
+
+
+TORY POSTOJOWE
+nr 5			 - zelektryfikowany przelotowy dla potrzeb EZT (w rzeczywistoœci od strony
+			   wyjazdów 1 i 2 zablokowany wykolejnic¹ i nieu¿ywany, ale komplikuj¹ siê
+			   manewry EZT, st¹d pomys³ PZ Lublin, by do tej funcji zdegradowaæ te¿ tor
+			   nr 3, ale na razie zgody na to nie ma)
+nry 4, 6, 8, 10 	 	- zelektryfikowane przelotowe do odstawiania sk³adów pasa¿erskich
+nry 12, 14, 16, 18 	- niezelektryfikowane przelotowe do odstawiania sk³adów pasa¿erskich
+nry 20, 22		 - niezelektryfikowane przelotowe do manewrów (w grze tor nr 20 jest
+			   traktowany te¿ dla odstawiania sk³adów pasa¿erskich)
+nr 84 / 84a		 - niezelktryfikowany oporowy dla wagonów baga¿owych i socjalnych oraz salonek
+			   (chodzi o tor nr 84a po³o¿ony w s¹siedztwie toru nr 82, bo na tym z numerem
+			   84 znajduje siê myjnia mechaniczna, u nas zaznaczona jako tor postojowy -
+			   proponujê nie wykorzystywaæ)
+nry 86, 88, 90, 92, 94, 96 - niezelktryfikowane oporowe do odstawiania sk³adów pasa¿erskich
+"poni¿ej" lokowni  - de facto hala lokomotywowni wachlarzowej, do odstawiania szynobusów (a
+			   skoro tak, to przebiegi mo¿na ustawiaæ tylko do punktów, gdzie mo¿e byæ
+			   ca³y sk³ad)
+
+TORY TOWAROWE
+Wiêkszoœæ manewrów zwi¹zana z formowaniem sk³adów odbywa siê obecnie na stacji Lublin Tatary.
+nry 101, 103, 105, 107 - zelektryfikowane przelotowe
+nr 109		 - niezelktryfikowany, od strony zachodniej ma funkcjê manewrow¹ (brak 
+			   mo¿liwoœci ustawienia przebiegów poza stacjê)
+nry 27 ("poni¿ej" toru nr 107), 111, 113, 115, 117, 119, 121, 123 - niezelktryfikowane oporowe,
+			   obecnie nieu¿ywane, albo do odstawiania z³omu
+nry 54, 56		 - patrz PERONY
+nry 351, 353, 355 (miêdzy torem nr 59 a grup¹ torów towarowych) - do odstawiania uszkodzonych
+			   wagonów pasa¿erskich (w grze jako jeden "towarowy")
+
+
+Rozk³ad
+	- pasa¿erski w 100% autentyczny ze wszystkimi szczegó³ami w/g SRJP 2002/3 (wraz z
+	  dodatkami 2a/b/c/d), po korektach wprowadzonych w ¿ycie 1.02.2003 (dot. poc. 419, 420
+	  i 31302), jedyna moja dowolnoœæ - przypisanie lokomotyw EP07 do kilku poci¹gów 
+	 (w dodatkach s¹ niewyró¿nione);
+	- towarowy w wiêkszoœci fikcyjny, ale z wykorzystaniem prawdziwych danych, które uda³o mi
+	  siê zdobyæ.
+
+
+UWAGA! "Ma³e" (brak znaku >) i "du¿e" (kolor czarny zamiast zielonego) rozk³ady nie wykazuj¹
+potrzeby podmiany czêœci lokomotyw prowadz¹cych niektóre sk³ady towarowe - dotyczy trakcji
+podwójnej. Tak jest za spraw¹ Kolejarza v. 1.15.
+
+
+BONUS: na podstawie planu pracy lokomotyw manewrowych opracowa³em (i nieco dostosowa³em dla
+wygody P.T. Kolejarzy) harmonogram manewrów SM41 oraz jednostek SN81 i EN57. Wystarczy wczytaæ
+zapisany plik Lublin2003hlp.sav (niestety, wówczas brak jest dostêpu do opcji "uwagi", ale mo¿na
+wydrukowaæ tekst z pliku Lublin2003.txt).
+
+Lublin 2003 - manewry sm42/sn81/en57 wg formatu:
+*godz./opcja - od strony której nastawni nale¿y manewrowaæ (np. od LbB)/z którego toru/dok¹d/
+ nr poci¹gu (w przypadku sk³adów odstwianych pierwszy manewr z numerem poci¹gu przyje¿d¿aj¹cego)
+*szopa A/B/C - tor postojowy (nr 5) dla EZT po³o¿ony powy¿ej lokomotywowni a poni¿ej grupy
+ torów szlakowych (nr 1, 2 i 3) w kier. 1 i 2; miejsca postojowe: A - pierwsze z prawej (czyli
+ od strony peronów): A - B - C; z szopyB mo¿na ustawiæ przebieg tylko do A lub C
+*szopa (bez literki) - w³aœciwa lokomotywownia, do jednej z hal zje¿d¿a SN81
+*nastawnie
+	- LbA usytuowana przy zachodniej g³owicy rozjazdowej (miêdzy wyjazdami 1 i 2 a grup¹
+	  torów postojowych (nr 4 - 22);
+	- LbB znajduje siê miêdzy grup¹ torów postojowych (nr 4 - 22) a peronami;
+	- LbC jest na wysokoœci wschodniej g³owicy rozjazdowej (miêdzy peronami a wyjazdami 3 i 4).
+*w rzeczywistoœci naraz pracuj¹ dwie "manewrówki" SM42, tyle samo wystarczy w grze (nie licz¹c
+ SM42, które wyje¿d¿aj¹ na szlak
+
+3.15 z szopyA na 52 21128
+3.45 z szopyB na 55 111
+4.10 z 16 na 52 ca³y 23100
+4.40 z 90 na 82 ca³y 21108
+5.05 z 57 do szopyA 110
+5.05 z 86 na 52 ca³y 25400
+5.10 z 8 na 57 ca³y 22521
+5.25 z 55 do szopy 412
+5.45 od LbB z 53 na 96 ca³y 82501 i odczepiæ 25102 (2/4)
+5.50 z 96 na 94 25102 (5)
+5.55 z szopyA na 57 115
+6.00 z 96 na 94 25102 (4)
+6.10 z 4 na 52 ca³y 2600
+6.10 od LbB z 51 na 16 ca³y 52501 i odczepiæ 26200 (3)
+6.15 od LbA z 16 na 18 25500 (1-2)
+6.20 z 88 na 96 25102 (1)i doczepiæ (2)
+6.25 z 96 na 88 25102 (1-2) i doczepiæ (3)
+6.30 z 88 na 94 25102(1-3)
+6.40 z 51 do szopyA 117
+6.45 z szopyC przez LbA na 51 119
+7.00 z 53 na 6 ca³y 114
+8.00 z szopy na 82 415
+8.15 z 52 na 3 przy szopieA 116
+8.20 od LbB z 55 na 92 ca³y 62501
+8.50 od LbC z 52 na 8 ca³y 82201 i odczepiæ wszystko oprócz 28200 (1)
+8.55 od LbB z 8 na 54 28200 (1)
+9.00 od LbC z 53 na 16 ca³y 62201 i odczepiæ wszystko oprócz 26100 (4)
+9.00 od LbA z 8 na 4 28200 (3)
+9.05 z 16 na 12 26100 (4) i doczepiæ 26100 (3)
+9.10 z 3 przy szopieA przez LbA na 82 118
+9.10 z 12 na 16 26100 (3,4) i doczepiæ 26100 (2)
+9.10 od LbA z 8 na 4 28200 (2)
+9.15 z szopyA na 55 125
+9.20 z 16 na 12 26100 (2-4)
+9.25 od LbA z 8 zabraæ 72003 (2) i czekaæ na (1)
+9.40 z 20 na 52 ca³y 21100
+9.50 z 84 na 82 ca³y 28908
+9.55 od LbB z 53 na 86 ca³y 12501
+10.25 z 57 do szopyB 120
+10.25 od LbB z 16 na 18 25500 (3)
+10.30 z 51 na 10 ca³y 32432
+10.30 z 53 do szopyA 12127
+10.35 od LbB z 16 na 54 26200 (4)
+10.50 od LbA z 14 na 82 ca³y 417
+11.00 od LbB z 6 na 55 ca³y 127
+11.20 od LbB z 52 na 90 ca³y 32103
+11.40 z 94 na 52 ca³y 25102
+11.40 z 57 do szopy 416
+12.00 z 56 na 54 26100 (1) i doczepiæ 26200 (4)
+12.10 z 54 na 56 26200 (4) i 26100 (1) i odczepiæ 26200 (4)
+12.15 z 56 na 14 26100 (1) i przepi¹æ na lok od LbA
+12.25 od LbA z 14 na 12 26100 (1)
+12.30 od LbB z 51 na 84 ca³y 82911
+12.55 z szopyA na 53 126
+13.00 z 55 do szopyA 122
+13.30 z szopy na 82 419
+13.40 z 12 na 52 ca³y 26100
+13.45 od LbB z 51 na 14 ca³y 12101 i odczepiæ 21106 (1)
+13.50 z 14 na 8 21106 (2)
+14.00 z 14 na 8 21106 (1)
+14.15 od LbA z 10 na 82 ca³y 23331
+14.20 z 55 na 10 ca³y 418
+14.30 z szopyA na 53 130
+15.10 od LbB z 52 na 20 ca³y 62101 (3) i odczepiæ 26200(2)
+15.15 od LbA z 20 na 12 26200 (1) i 26100 (3) i odczepiæ 26100 (3)
+15.20 od LbA z 12 na 20 26200 (1)
+15.30 z 90 na 52 ca³y 23102
+15.40 z szopyB na 53 137
+15.50 od LbB z 51 na 94 ca³y 52101 i odczepiæ 28500 (2)
+15.55 z 94 na 88 25102 (1/3) i 28500 (1) i odczepiæ 25102 (3)
+16.00 z 88 na 94 25102 (1) i 28500 (1) i odczepiæ 28500 (1)
+16.05 z 94 na 88 25102 (1)
+16.30 od LbB z 16 na 20 26200 (3)
+16.40 z 86 na 52 ca³y 21500
+16.45 z 57 do szopy 420
+17.00 od LbA z 10 na 82 ca³y 421
+17.15 od LbC z 57 na 6 ca³y 134
+17.25 z 55 do szopyA 12129
+17.30 z 8 na 52 ca³y 21106
+18.30 z 53 do szopyB przez LbA 136
+18.50 od LbB z 51 na 90 ca³y 12109
+19.20 z 54 na 10 28200 (1) i przepi¹æ na lok od LbA
+19.30 od LbA z 10 na 4 28200 (1)
+19.55 z 4 na 52 ca³y 28200
+20.05 z 53 na 8 ca³y 22520
+20.05 z 94 na 82 ca³y 28500
+20.50 z 51 na 4 ca³y 6201
+21.00 z 18 na 51 ca³y 25500
+21.10 od LbB z 20 na 52 ca³y 26200
+21.15 od LbB z 53 na 86 ca³y 52401
+21.20 z 56 na 52 26200 (4) i doczepiæ do (3)
+21.40 z 92 na 82 ca³y 26500
+21.40 od LbC z 53 na 20 ca³y 12107 i odczepiæ 21100 (2)
+21.50 od LbB z 20 na 18 21100 (1)
+21.55 z 57 na 14 ca³y 424
+22.00 z szopy na 57 425
+22.05 z 6 na 55 ca³y 143
+22.25 z 53 do szopyC przez LbA 144
+22.30 od LbA z 18 na 20 21100 (1)
+22.40 od LbC z 52 na 18 ca³y 32101 i odczepiæ wszystko oprócz 23100 (1)
+22.45 od LbB z 18 na 16 23100 (1)
+22.55 od LbB z 18 na 16 23100 (2)
+23.05 od LbB z 18 na 56 26100 (1)
+
+¯eby wszystko siê zgadza³o z tym harmonogramem, o pó³nocy, kiedy zaczyna siê gra, na torach
+postojowych powinny staæ nastêpuj¹ce sk³ady (wg formatu: nr toru - nr poci¹gu):
+4  - 2600
+8  - 22521
+12 - 26100 (3)
+14 - 417
+16 - 23100 (1-2)
+20 - 21100 (1-2)
+56 - 26100 (1)
+84 - 28908
+86 - 25400
+88 - 25102 (1/3)
+90 - 21108
+szopaA - 21128
+szopaB - 111
+szopaC - 119
+
+Mi³ej zabawy!
+Kontakt: Micha³ Lipiñski, ltek@wp.pl
+Korzysta³em z programów: Edytor (stacji) dla Kolejarza (EdK), PathFinder (PF) oraz z pomocy
+Paw³a JóŸwickiego.
+
+Stacja Lublin powróci... w rozk³adzie 1985/6 lub w specjalnym wydaniu BEST OF THE BEST...
+a najszybciej w wersji ze zmianami, które PKP wprowadz¹ od 1.07.2003.

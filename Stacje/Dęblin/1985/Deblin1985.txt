@@ -1,0 +1,243 @@
+Tu stacja Dêblin, tu stacja Dêblin...
+
+UWAGA! 
+1.	Gra ze wzglêdu na rozmiary stacji nie jest dostêpna dla u¿ytkowników mniejszych monitorów.
+2.	W Kolejarzu do v.1.77 na schemacie nie bêdzie widocznych kilku symboli graficznych, które
+	odpowiadaj¹ za pochy³e koz³y oporowe, a które maj¹ byæ wprowadzone od nastêpnej wersji
+	nie-testowej. Nie wp³ywa to jednak na sam¹ grê.
+
+
+WJAZDY/WYJAZDY
+Podczas zatwierdzania przebiegu poci¹gu nale¿y zwracaæ uwagê na docelowy numer wyjazdu, poniewa¿
+nie ze wszystkich torów jest mo¿liwy wyjazd w konkretnych kierunkach. Zw³aszcza nale¿y zwróciæ uwagê
+na specyficzny potrójny wyjazd w kierunku £ukowa - wyjazdy 2/3/4. Generalnie "dwójka" obs³uguje
+przyjazdy sk³adów towarowych, "trójka" - odjazdy wszystkich sk³adów, a "czwórka" - przyjazdy jednostek.
+Podwójne wjazdy i wyjazdy o identycznym numerze 6 wprowadzi³em z uwagi na specyfikê rozpoznawania 
+kierunku jazdy. Symbole wewnêtrzne odpowiadaj¹ za ruch w/z kierunku Dêblina, a zewnêtrzne za ruch w/z 
+kierunku nr 5.
+
+
+LOKOMOTYWOWNIA (tory LOK, 69-77, zielony kwadrat, symbol lokowni)
+Przez ca³e lata MD Dêblin obs³ugiwa³a ruch pasa¿erski na liniach do Warszawy, Lublina, £ukowa i Radomia.
+Zielonym kwadratem oznaczy³em halê wachlarzow¹ bêd¹c¹ schronieniem dla parawozów i spalinówek.
+Natomiast elektrowozy mia³y do dypozycji trzy tory z kana³ami rewizyjnymi z grupy nazwanej przeze mnie LOK. 
+Ja w tej symulacji przyj¹³em, ¿e ich wjazd nastêpowa³ od strony zachodniej, natomiast wyjazd przewa¿nie 
+poprzez przed³u¿enie toru towarowego T (z grupy TOWAR). Pod symbolem lokowni umieœci³em te¿ kilka 
+rezerwowych loków i ezt - gdyby zabrak³o podstawowego taboru. Tylko w przypadku koniecznoœci naprawy 
+"siódemki" z Dêblina, proponujê j¹ podmieniaæ na inn¹ stoj¹c¹ na torach LOK (jest ich nadmiar 
+w stosunku do planu przejœæ). Natomiast do pozosta³ych zepsutych loków proponujê pod³¹czaæ "rezerwê". 
+Po namyœle, dostosowuj¹c siê do ówczesnych realiów przynale¿noœci taborowej, kwestiê "naszej" lokowni 
+potraktowa³em tak, ¿e MD Dêblin zosta³a potraktowana dwojako: przy sk³adach rozk³adowych funkcjonuje 
+jako "Dêblin", a Kolejarz traktuje to oznaczenie jak ka¿dy inny obcy zak³ad taboru. Natomiast jako 
+"nasze", przypisane do Dêblina loki s¹ opisane jako "rezerwa". Wynika to st¹d, ¿e do MD Dêblin nie by³o 
+przypisanych ani ET22, ani ET41, ani EN57. Tak opisane e-loki oraz ezt mog¹ wspomagaæ inne - 
+zusterkowane, bez koniecznoœci pod³¹czania jakiœ spalinówek. A co do taboru niezelektryfikowanego, 
+to i tak wszystkie takie loki by³y wymieniane w Dêblinie, wiêc zepsuty nale¿y odstawiæ do naprawy, 
+a sprawnych powinno byæ znacznie wiêcej od liczby wymaganej przez rozk³ad. Jeœli jednak jak¹œ seriê 
+taboru dotknie plaga usterek i zabraknie nam jej, to nale¿y podmieniæ na coœ innego, np. Ty51 na ST44, 
+SP42 na Ty2, SM42 na SM30 itp. Przejœcia loków zrobi³em "wstecznie", czyli jeœli wyœlemy coœ niezgodnie 
+z rozk³adem, to za jakiœ czas ten nietypowy lok wróci na nasz¹ stacjê - ten plan pracy jest fikcyjny. 
+Z symbolu lokowni przebiegi prowadz¹ tylko do zielonego kwadratu - symbolu parowozowni wachlarzowej 
+oraz dla elektrowozów i ezt do ka¿dego z torów z grupy nr 69-77, przy czym ustawianie przebiegów 
+na te tory mo¿e wygl¹daæ nieco dziwnie - to skutek moich kombinacji za cenê zmieszczenia ich na 
+schemacie - najwa¿niejsze, ¿e dzia³a, tylko trzeba klikaæ do skutku, a¿ siê trafi i nie przejmowaæ siê 
+komunikatem "brak trasy miêdzy wskazanymi punktami".
+
+TORY POSTOJOWE (tory WAG, PP, R)
+Nie wiem, gdzie w tamtych czasach odstawiano sk³ady wagonowe. Zastanawia³a mnie jednak grupa torów, 
+któr¹ nazwa³em WAG, odchodz¹ca od toru wyci¹gowego równoleg³ego do wjazdu nr 1. Odk¹d pamiêtam 
+tory te s¹ puste, kilka prowadzi do zamkniêtego budynku, który móg³ byæ swoist¹ kryt¹ wagonowni¹, 
+inne wokó³ koñcz¹ siê œlepo na otwartej przestrzeni. Ca³a ta grupa torów jest obecnie ogrodzona i 
+niedostêpna. Byæ mo¿e na krótki postój sk³ady takie odstawiano na tor R, czyli przy rampie, bez 
+koniecznoœci uci¹¿liwego manewrowania przez tor wyci¹gowy.
+Natomiast sk³ady elektrycznych zespo³ów trakcyjnych by³y odstawiane na oba tory oznaczone przez mnie 
+liter¹ P - dolny, który do chwili obecnej pe³ni tê sam¹ funkcjê oraz górny, na przed³u¿eniu toru 
+prowadz¹cego z peronu 1. Górny jednak o niektórych porach musi byæ pusty, by mo¿na by³o na peron 1 
+wpuœciæ wybrane sk³ady z Warszawy. Ponadto, jeœli nie powodowa³o to perturbacji w planowym 
+przyjmowaniu pociagów, niektóre sk³ady mo¿na zostawiaæ na torach przy peronie 1 i 2 (dolnym).
+
+
+TORY TOWAROWE (TOWAR, poni¿ej TOWAR, 69-77, DBT, 19-27, powy¿ej peronu 3)
+1. Schemat stacji jest ci¹gle nieco uproszczony - chodzi zw³aszcza o czêœæ towarow¹. Wszystkich torów 
+towarowych wraz z rozjazdami nie uda³oby siê zmieœciæ, mimo, ¿e do obecnego rozk³adu, po przekazaniu mi
+przez Barta planów sieci trakcyjnej, narysowa³em schemat mocno rozbudowany. Jednak Dêblin Towarowy
+w wielu miejscach to ci¹gle dla mnie zagadka.
+2. Grupa torów oznaczona symbolami TOWAR s³u¿y do rozrz¹du poci¹gów dzielonych i ³¹czonych oraz 
+d³u¿szych postojów sk³adów towarowych, w tym tak¿e tych, które mia³y zmieniane lokomotywê na parow¹ 
+lub spalinow¹. W miarê mo¿liwoœci dla loków manewruj¹cych powinny pozostaæ wolne tory T i O.
+3. Tory poni¿ej grupy "TOWAR" maj¹ prawdopodobnie u³atwiaæ odstawianie grup wagonów prze³¹czanych 
+miêdzy sk³adami. Za³o¿y³em, ¿e nie mo¿na z nich ustawiæ przebiegów poza stacjê. Rozrz¹dzanie odbywa siê 
+"z prawej" strony grupy. Liczba torów (oprócz ostatniego niezelektryfikowanego, który zastêpuje 
+trzy takie tory w rzeczywistoœci - brak miejsca), ich d³ugoœæ oraz pod³¹czenie do sieci - zrobi³em to 
+na podstawie planów sieci, które jednak w kilku miejscach s¹ mocno dziwne. 
+4. Grupa torów oznaczona symbolami DBT s³u¿y do tranzytowego ruchu w relacjach 1/2-5/6, ewentualnie 
+z krótkimi postojami. Tam mog¹ rozpoczynaæ i koñczyæ jazdê luzaki maj¹ce relacje w kierunkach 5 lub 6.
+Tam te¿ wyj¹tkowo staj¹ sk³ady s³u¿bowe z wagonami do i z naprawy do ZNTK w Nowym S¹czu, gdzie
+do³¹czana i wy³¹czana jest grupa wagonów z WDOKP (ja gra³em tak, ¿e nawet obukierunkowo). 
+Sugerujê, by na torze B zatrzymywaæ poci¹gi w ostatecznoœci, poniewa¿ przechodzi przez niego wiele 
+przebiegów tranzytowych i zablokowanie go mo¿e spowodowaæ brak mo¿liwoœci ustawienia bezpoœredniej 
+jazdy. 
+5. Grupa torów nr 19-27, znajduj¹ca siê poni¿ej grupy DBT, obecnie nie istnieje - widaæ tylko
+pozosta³oœci po bramkach i s³upach trakcyjnych oraz bodaj jeden czy dwa œlepe tory. Jej wygl¹d i liczbê 
+torów stworzy³em "poszlakowo". Wygl¹da na to, ¿e przed elektryfikacj¹ szlaku z £ukowa, co nast¹pi³o 
+w 1988 roku, na torach tych podmieniano loki na elektryczne w bruttach tranzytowych (poza tymi, które 
+by³y rozrz¹dzane na grupie TOWAR). Z pozosta³oœci uk³adu torowego (z tego, co dotrwa³o do dziœ) wynika, 
+¿e z torów nr 25-27 mo¿na by³o pojechaæ tylko w obrêb stacji Dêblin Towarowy, dlatego w mojej symulacji
+maj¹ one charakter tranzytowy i awaryjny - nie mo¿na z nich bezpoœrednio ustawiæ przebiegu poza stacjê. 
+Poci¹gi radzê kierowaæ torami 19-23. Tam tak¿e mog¹ rozpoczynaæ i koñczyæ jazdê luzaki maj¹ce relacje 
+w kierunkach 5 lub 6.
+6. Dwa tory zelektryfikowane znajduj¹ce siê powy¿ej peronu 3 w tym rozk³adzie s³u¿¹ do postoju poci¹gów
+towarowych zmierzaj¹cych do wyjazdu nr 1 oraz do formowania poci¹gów technologicznych. Awaryjnie, dla
+sk³adów zmierzaj¹cych w przeciwnym kierunku, mo¿e zastêpowaæ zajête tory z grupy DBT.
+7. Tory nr 69-77 maj¹ dla mnie niejasn¹ funkcjê. Wydaje mi siê, ¿e kilka razy widzia³em na nich loki
+luzem, zatem wykorzysta³em je jako pomocnicze dla lokomotywowni. Z uwagi na brak miejsca na ekranie
+zamiast znajdowaæ siê w jednym pionie, co grupa TOWAR, usytuowa³em je w wolnym miejscu, w s¹siedztwie
+lokomotywowni.
+
+
+MIEJSCA SZCZEGÓLNE:
+R - rampa
+S - tor poci¹gu sieciowego (tak¿e powy¿ej toru S)
+T - tory zajmowane przez pojazdy robocze, drogowe i inspekcyjne (wiêcej stoi na dolnych torach TOR,
+    bo tam w rzeczywistoœci jest ca³a grupa torów postojowych tego sprzêtu, gdzie s¹ te¿ baraki na ko³ach.)
+
+ROZK£AD
+1. Rozk³ad pasa¿erski autentyczny w/g SRJP 1985/6 (wraz z dodatkami 2a/b/c/d).
+Moje zmiany:
+	  a) przypisanie lokomotyw ET22 Lok. Lublin - zamiast EU07 Lok. Dêblin do kilku poci¹gów 
+	     sezonowych (w dodatkach rzadko wskazane, ale jest to zgodne z praktyk¹)
+	  b) numery poci¹gów s³u¿bowych typu 0530 musia³em zamieniæ na np. 990530, bo inaczej 
+	     mielibyœmy dwa ró¿ne sk³ady o numerze 530 - Kolejarz ignoruje 0 na pocz¹tku numeru
+	  c) przypisanie poszczególnych sk³adów do peronów zrobi³em sam
+	  d) pominiête poci¹gi kursuj¹ce kilka razy w roku:
+		21446/12445 Zamoœæ - Warszawa Zach. - Zamoœæ
+		24501/42502 Dêblin - Bytom - Dêblin
+		24504/42503 Lublin - Gliwice - Lublin
+	  e) ekspres BYSTRZYCA ju¿ po miesi¹cu od wprowadzenia zosta³ propagandowo wyd³u¿ony do 
+	     "miasta PKWN", czyli Che³ma, ale przyj¹³em stan z pocz¹tku obowi¹zywania rozk³adu
+	  f) poci¹gi sezonowo zestawiane z ezt (zamiast tradycyjnych sk³adów kl. 1-2):
+		531/532 Dêblin - Radom - Dêblin
+		9940/9941 Dêblin - Pilawa - Dêblin
+		24125/42126 Dêblin - Gliwice - Dêblin
+		24548/42547 Lublin - Gliwice - Lublin
+		21126/12123 Che³m - £ódŸ Fabr. - Che³m
+	  g) z uwagi na nadmiar loków EU07 i niedobór SP42 na koniec doby poci¹g nr 21022 do £ukowa
+	     zamiast SP42 ma wpisan¹ Ty2, a sk³ad s³u¿bowy nr 53941 zamiast mieæ ET22 na ca³ym 
+	     odcinku z Warszawy Wschodniej Rozrz¹dowej do Skar¿yska, ma wpisan¹ do Dêblina 
+	     odolañsk¹ ET21, a dalej EU07
+2. Rozk³ad poci¹gów towarowych jest fikcyjny, ale relacje, numeracjê i ³adunki odnios³em do 
+autentycznych rozk³adów z lat 2004-2006. Oczywiœcie za³o¿y³em kilka istotnych korekt, by lepiej 
+oddaæ realia lat 80-tych. Po pierwsze za³o¿y³em, ¿e przewozy by³y wówczas wy¿sze o circa 50%, zatem 
+wybrane relacje s¹ obs³ugiwane zwielokrotnion¹ liczb¹ sk³adów. Po drugie uwzglêdni³em d³u¿sze czasy
+postoju dla poci¹gów zmieniaj¹cych trakcjê z elektrycznej na parow¹ lub spalinow¹ oraz na odwrót.
+Jedyny mój wymys³, ale te¿ maj¹cy Ÿród³o w dodatku 2c, to ró¿na numeracja kursów wahad³a B¹kowiec - 
+Sarnów k/Wysokiego Ko³a - B¹kowiec. Mo¿e to oznaczaæ, ¿e kilka kursów przewidywa³o oprócz wagonu
+osobowego tak¿e kilka wagonów towarowych, tak wiêc sk³ad by³ mieszany. Jednak wagon osobowy by³
+od³¹czany po przybyciu do B¹kowca, a lok SM30/SP30 zje¿d¿aj¹cy do lokowni w Dêblinie jecha³ nie luzem,
+lecz z lekkim bruttem.
+
+
+TABOR
+1. Z racji ustawienia na torach postojowych po kilka sk³adów, te skrajnie prawe s¹ ledwo widoczne na
+monitorach u¿ytkowników korzystaj¹cych z mniejszych rozdzielczoœci.
+2. Obecny rozk³ad opiera siê na pojedynczych teksturach loków, bez tablic prawdopodobieñstwa. Ten brak
+urozmaicenia wynika z faktu, ¿e nie pamiêtam, jakie malowania wtedy stosowano. Wydaje mi siê, ¿e dopiero
+po 1985 roku malowano ¿ó³ty pas na lokach, ale pewnoœci nie ma, wiêc nie przejmowa³em siê tym
+zagadnieniem. Tekstury w tym przypadku proszê potraktowaæ symbolicznie. Mam nadziejê, ¿e wagony
+wybra³em staranniej, choæ one akurat by³y wówczas przewa¿nie oliwkowe.
+
+
+UWAGI / PORADY
+1. 	Górny tor przy peronie 2 oraz dolny tor przy peronie 3 nale¿y rezerwowaæ na bezpoœrednie 
+	przebiegi tranzytowe dla sk³adów poruszaj¹cych siê w relacjach 1-5/6.
+2. 	Górny tor przy peronie 3 jest jedynym, który mo¿e przyjmowaæ poci¹gi pasa¿erskie korzystaj¹ce z 
+	wjazdu nr 4.
+3. 	Nowoœci¹, jak¹ przyniós³ Kolejarz w wersji 1.77, jest mo¿liwoœæ w³asnego definiowania poci¹gów. 
+	Oto ma³a œci¹gawka pomocna przy czytaniu oznaczeñ:
+	C (TCH) - poci¹gi technologiczne (drogowe, sieciowe, inspekcyjne, ratunkowe itp.)
+	L (LOK) - lokomotywy luzem, podsy³y
+	S (S£U) - poci¹gi s³u¿bowe
+	Rozró¿nienie to powinno pomóc w identyfikowaniu poci¹gów i zarz¹dzaniu ruchem na stacji. 
+	Wiêkszoœæ z nich zosta³a wydzielona z dotychczasowej pojemnej kategorii Z - s³u¿bowe. 
+	Co prawda wówczas nie funkcjonowa³o miano poci¹gów "technologicznych", ale d¹¿ê do
+	ujednolicania nowinek technicznych w swych rozk³adach. Aha, autodefiniowanie w Kolejarzu 
+	v.1.77 ma te¿ taki minus, ¿e "nadpisywanie" w³asnych definicji przenosi siê na kolejne rozk³ady, 
+	które u¿ytkownik wczytuje w czasie tej samej sesji, zatem mo¿e dojœæ do b³êdnego czytania 
+	danych, niezale¿nego od intencji autorów rozk³adów. By tego unikn¹æ nale¿y przed wczytaniem 
+	tego rozk³adu i przed wczytaniem kolejnego zainicjowaæ now¹ sesjê Kolejarza.
+4.	"Ma³e" (brak znaku >) i "du¿e" (kolor czarny zamiast zielonego) rozk³ady nie wykazuj¹ potrzeby 
+	podmiany czêœci lokomotyw prowadz¹cych niektóre sk³ady towarowe. Dotyczy poci¹gu nr 21896, 
+	w którym nale¿y wymieniæ ET41 ze Skar¿yska na 2 x ET21 z Warszawy Odolany oraz poci¹gu nr 
+	2110 z Lublina do Warszawy, który ma podejrzanie wyd³u¿ony postój - mimo wpisanych 
+	odpowiednio przejœæ nie widaæ tego, zatem kto ma ochotê mo¿e podmieniæ siódemki, a kto nie - 
+	niech uzbroi siê w cierpliwoœæ zanim ta maszyna wróci do macierzystej szopy.
+5	Zwracam uwagê na ustawienie na stacji taboru bez okreœlonego rozk³adu. Wœród nich bryluje 
+	"Pszczó³ka" - historyczny wagon z rozg³oœni¹ z okresu II wojny œwiatowej, który przez wiele lat 
+	sta³ na torze oporowym przy peronie 1, a¿ znikn¹³... sam nie wie kiedy i co siê z nim sta³o? 
+	Tych wagonów nie powinno siê ich w³aœciwie ruszaæ... ale jak ktoœ siê uprze, to sposobem to 
+	mo¿na zrobiæ, ale nie biorê odpowiedzialnoœci wówczas za widok pojedynczych wagonów 
+	zasuwaj¹cych solo po stacji.))) Tym bardziej, ¿e nie zawsze bêdzie je mo¿na odstawiæ na miejsce.
+6.	Wœród taboru stacjonuj¹cego w rezerwie s¹ jednostki EN57. Dziêki takiemu rozwi¹zaniu mo¿na te 
+	rezerowe pojazdy doczepiæ do zusterkowanych ezt - tych zepsutych nie mo¿na co prawda 
+	podmieniæ, jak to siê dzieje naprawdê, ale lepszy, ni¿ widok SM42 pod³¹czanej do wszystkiego, 
+	co zusterkowane, jest widok ukrotnionych ezt.
+7.	Poniewa¿ Dêblin jest stacj¹ macierzyst¹ czêœci loków, wiêc i tak to my - jako dysponenci w 
+	lokomotywowni - decydujemy co odjedzie z danym poci¹giem: która EU/ET (oraz analogicznie 
+	SP/SM/ST lub "teigreki"), a Kolejarz zadba, by ze stacji zwrotnej dany lok wróci³ z nale¿ytym 
+	sk³adem - tym razem te "wteczne" przejœcia zrobi³em "na oko". Dotyczy to loków podpinanych na 
+	stacji.
+8.	Analiza dodatków z 1985 roku przynios³a dodatkow¹ wiedzê na temat podsy³ania sk³adów do 
+	naprawy. Obecnie wagony nienadaj¹ce siê do u¿ytkowania i zusterkowane w stopniu nie 
+	pozwalaj¹cym na dokonanie naprawy na stacji, s¹ formowane w specjalne sk³ady s³u¿bowe do 
+	ZNTK. Wówczas, z powodu	znacznie wiêkszych niedostatków sprawnych wagonów, ju¿ same 
+	dodatki zawiera³y informacjê o zestawieniach sk³adów w teorii i praktyce. W wielu przypadkach 
+	np. 4 z 5 planowanych teoretycznie wagonów w sk³adzie ju¿ na etapie druku dodatku istnia³a 
+	tylko w teorii (oznaczenie B - brak wagonu, który mia³ byæ uzupe³niony w miarê dostaw nowego 
+	taboru, tylko te, jeœli ju¿ by³y, zastêpowa³y wagony kasowane). Oto najlepszy dowód na hipokryzjê 
+	w³odarzy PRL-u, którzy w papierach mieli "Polskê malowan¹", zupe³nie nieprzystaj¹c¹ do realiów. 
+	W praktyce propaganda PKP z roku na rok tworzy³a nowe poci¹gi, których nie mia³a z czego 
+	zestawiaæ. Dlatego te¿, zusterkowane wagony w drogê do ZNTK udawa³y siê jako poci¹g 
+	s³u¿bowy od Dêblina, a np. z Che³ma do Dêblina by³y podsy³ane w poci¹gach sta³ego 
+	kursowania. W tej symulacji wagony wy³¹czane i w³¹czane w Dêblinie z poci¹gu z/do Nowego 
+	S¹cza maj¹ obieg niezahaczaj¹cy o inne obiegi. Jedyny œlad innego postêpowania w 2b to numery 
+	sk³adu trzech EN57 wyprawianych z Lublina do ZNTK Miñsk Maz. jako 21960 (powrót jako 
+	12961), niestety bez godzin - zatem rozk³ad sam wymyœli³em.
+9.	Nie wiem, jakie serie loków by³y wówczas wykorzystywane do manewrowania. Ja wystawi³em do 
+	odstawiania i podstawiania wagonów pasa¿erskich Ty2, a do rozrz¹dzania towarowych - SM30, 
+	ale ka¿dy mo¿e sam zdecydowaæ. Nie brakuje w koñcu nawet SM42.
+10.	Loki zepsute poruszaj¹ce siê ³¹cznic¹ 5-6/6-5 nale¿y puœciæ dalej, nie próbuj¹c kierowaæ ich na
+	stacjê.
+11.	Jeœli jednoczeœnie pojawi¹ siê poci¹gi na obu wjazdach nr 6 (rozk³ad u³o¿y³em bezkolizyjnie, ale
+	opóŸnienia...), to priorytet maj¹ sk³ady wje¿d¿aj¹ce na stacjê. Podobnie jest w drug¹ stronê, przy
+	wyjazdach. Chodzi o to, ¿e przebiegi na ³¹cznicy przechodz¹ przez wewnêtrzne symbole wjazdu i 
+	wyjazdu. Inaczej nie mo¿naby zasymulowaæ odstêpu na linii.
+12.	Z toru wyci¹gowego przy grupie WAG mo¿na na perony 2 i 3 podstawiaæ sk³ady manewruj¹c tylko 
+	po "lewej" stronie peronów, ale wymaga to kilkukrotnej zmiany kierunku jazdy, ale mo¿na 
+	te¿ skorzystaæ z przebiegów przez tory P lub R oraz przez tor przy peronie 1 (oczywiœcie 
+	jeœli te tory s¹ wolne) - wówczas tylko raz zmieniamy kierunek jazdy.
+13.	Poci¹gi s³u¿bowe do/z B¹kowca i Pu³aw maj¹ podane perony orientacyjne, ale jeœli sytuacja 
+	ruchowa na stacji bêdzie wymaga³a innego rozwi¹zania nie nale¿y ich traktowaæ obligatoryjnie. 
+	Nie ma te¿ b³êdu w przypisaniu dwóch kolejnych poci¹gów s³u¿bowych do tego samego 
+	jednotorowego peronu I, bo kolejarze nie musz¹ mieæ podstawianego poci¹gu na wiêcej ni¿ 
+	5 minut przed odjazdem, a i tak te sk³ady by³y dla tych, którzy mieli fajrant dopiero o 18.00.
+14.	W trakcie testów nie uda³o mi siê wyeliminowaæ b³êdnego opisu poci¹gu nr 536 z Radomia 
+	przyje¿d¿aj¹cego o godzinie 23.57. Ju¿ na wjeŸdzie pojawia siê opis poci¹gu odje¿d¿aj¹cego 
+	ze stacji nad ranem.
+15.	Dopiero po zakoñczeniu testów uzmys³owi³em sobie, ¿e wówczas w numeracji poci¹gów 
+	stosowano inn¹, ni¿ obecnie praktykê przechodzenia numerów z parzystych na nieparzyste 
+	i odwrotnie. Dlatego te¿ w przypadku poci¹gów korzystaj¹cych z ³¹cznicy wystêpuje 
+	niekonsekwencja - numery sk³adów pasa¿erskich s¹ prawdziwe z ówczesnych wydawnictw 
+	rozk³adowych, natomiast, jak siê rzek³o brutta stworzy³em w odniesieniu do obecnych realiów.
+16.	Poniewa¿ w tym rozk³adzie wiele jest jednak fikcji, tym razem nie zamieszczam dodatkowych 
+	informacji o miejscach postoju taboru i fakcie kierowania na PK. Jeœli ktoœ nie bêdzie sobie 
+	radzi³ z rozmieszczeniem taboru - proszê napisaæ, na w³asny u¿ytek zrobi³em parê pomocniczych 
+	rozpisek, np. o sposobach podstawiania jednostek, konkretnych torach przy peronach, na które 
+	lepiej wpuœciæ poci¹gi, by nie kolidowa³y z nastêpnymi. Zainteresowanym przeœlê tego typu info, 
+	choæ warto pog³ówkowaæ samemu - wszak Kolejarz to gra logiczna.
+
+
+Mi³ej zabawy!
+Kontakt: Micha³ Lipiñski, ltek@wp.pl
+Korzysta³em z programów: Edytor (stacji) dla Kolejarza (EdK), PathFinder (PF) oraz eRozk³ad (eR).
+
+Stacja Dêblin powróci... w rozk³adach z lat 1980-...-90-95-2000.

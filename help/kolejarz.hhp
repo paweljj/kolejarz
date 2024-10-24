@@ -1,0 +1,36 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=kolejarz.chm
+Contents file=kolejarz.hhc
+Default Window=Kolejarz
+Default topic=01_wstep.html
+Display compile progress=No
+Full-text search=Yes
+Language=0x415 Polski
+Title=Pomoc dla gry Kolejarz
+
+[WINDOWS]
+Kolejarz="Pomoc dla programu Kolejarz","kolejarz.hhc",,"01_wstep.html",,,,,,0x63420,,0x387e,[0,0,661,624],,,,,,,0
+
+
+[FILES]
+01_wstep.html
+02_nowosci.html
+03_historia.html
+04_ekran_glowny.html
+05_kierowanie_ruchem.html
+06_rodzaje_pociagow.html
+07_rozklad_jazdy.html
+08_punkty_karne.html
+09_plik.html
+10_rozklad.html
+11_opcje.html
+12_pomoc.html
+13_budowa_stacji.html
+14_plik_stc.html
+15_budowa_rozkladu.html
+16_plik_roz.html
+17_tworzenie_rysunkow.html
+
+[INFOTYPES]
+

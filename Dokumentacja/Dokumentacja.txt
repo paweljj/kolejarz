@@ -1,0 +1,54 @@
+ **********************************************************************
+ *** FORMAT PLIKU ZE STACJA                                         ***
+ **********************************************************************
+ 00000,  - wersja
+ szerokosc,
+ wysokosc,
+ rysunek stacji,
+ ilosc tras,
+ trasy - czy_dwukierunkowa (1/0) - czy zelektryfikowana - poczatek - srodek - koniec - 0
+ ilosc punktow postojowych, pojemnosc wszystkich bocznic,
+ punkt postojowy - rodzaj - maksymalna pojemnosc - wpolrzedne - numer,
+ lokomotywownia:
+  - pojemnosc,
+  - ilosc naprawianych jednoczesnie,
+  - czas zamawiania
+  - czas naprawy
+ jednostka taktowania zegara
+
+
+ **********************************************************************
+ *** FORMAT PLIKU Z ROZKLADEM                                       ***
+ **********************************************************************
+ 00000, - wersja
+ co ma byc w lokomotywowni
+	- typ loka
+	- ilosc
+ ilosc pociagow w rozkladzie,
+ pociag - rodzaj pociagu,
+	- planowa godzina przyjazdu,
+	- numer punktu wjazdowego,
+	- wskaznik do opisu skad przyjechal,
+	- rodzaj lokomotywy,
+	- planowa godzina odjazdu,
+	- numer punktu wyjazdowego,
+	- wskaznik do opisu dokad odjezdza,
+	- rodzaj lokomotywy wyjazdowej,
+        - numer
+        - numer
+	- czy bedzie rozlaczany i gdzie jest opis drugiej czesci,
+	- czy bedzie laczony i z ktorym pociagiem,
+	- rodzaj pociagu,
+	- dni w ktore kursuje,
+	- stan pociagu,
+ godzina rozpoczecia gry,
+ ilosc nazw stacji,
+ nazwa stacji,
+
+ **********************************************************************
+ *** FORMAT PLIKU ZE STANEM GRY                                     ***
+ **********************************************************************
+ lokomotywoania,
+ tablica stan,
+ tablica stan_postojowych,
+ rozklad

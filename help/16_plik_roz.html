@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=iso-8859-2" />
+  <meta name="Description" content=" [wstaw tu opis strony] " />
+  <meta name="Keywords" content=" [wstaw tu slowa kluczowe] " />
+  <meta name="Author" content=" [dane autora] " />
+  <meta name="Generator" content="kED2" />
+
+  <title> [tytuł strony] </title>
+
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+
+<h3>Opis pliku rozkładu</h3>
+
+<ul>Po każdej opisanej liczbie jest wstawiony przecinek.
+	<li>3,</li> 
+	<li>nazwa pliku z opisem stacji bez kropki i rozszerzenia</li>
+	<li>ilość różnych typów  lokomotyw w lokomotywowni,</li>
+	<li>opis lokomotyw w lokomotywowni:<br/>
+		-	typ lokomotywy - patrz punkt 4 budowy rozkładu jazdy,<br/>
+		-	ilość lokomotyw,<br/>
+		-	numer nazwy lokomotywowni,<br/>
+		-	współrzędna początkowa,<br/>
+		-	pozycja w punkcie,<br/>
+		-	tor w grupie torów postojowych,</li>
+	<li>ilość pociągów w rozkładzie,</li>
+	<li>opis poszczególnych pociągów:<br/>
+		-	rodzaj pociągu<br/>
+			+	0 - pociąg kończy bieg na naszej stacji<br/>
+			+	1 - pociąg rozpoczyna bieg na naszej stacji<br/>
+			+	2 - pociąg przelotowy<br/>
+			+	3 - drugi i kolejne człony pociągu rozłączanego,<br/>
+			+	4 - drugi i kolejne człony pociągu rozłączanego kończącego bieg na naszej stacji,<br/>
+			+	5 - pociąg nie zatrzymujący się na stacji,<br/>
+			+	6 - drugi i kolejne człony pociągu łączonego rozpoczynającego bieg na naszej stacji,<br/>
+		-	 planowana godzina przyjazdu - np. 12:37 -> 1237<br/>
+		-	współrzędna punktu wjazdowego,<br/>
+		-	numer nazwy stacji skąd przyjeżdża pociąg,<br/>
+		-	rodzaj jednostki lub 0,<br/>
+		-	planowa godzina odjazdu,<br/>
+		-	współrzędne punktu wyjazdowego,<br/>
+		-	numer nazwy stacji dokąd pociąg odjeżdża,<br/>
+		-	indeks lokomotywowni lub 0,<br/>
+		-	numer pociągu wjeżdżającego,<br/>
+		-	numer pociągu wyjeżdżającego,<br/>
+		-	jeżeli pociąg jest rozłączany - gdzie jest opis rozłączanej części, w przeciwnym przypadku 0,<br/>
+		-	jeżeli pociąg będzie łączony - gdzie jest opis drugiej części składu, w przeciwnym przypadku 0,<br/>
+		-	rodzaj pociągu przyjeżdżającego<br/>
+			+	0 - towarowy<br/>
+			+	1 - SKM<br/>
+			+	2 - osobowy<br/>
+			+	3 - WKD<br/>
+			+	4 - pospieszny<br/>
+			+	5 - TLK<br/>
+			+	6 - ekspres<br/>
+			+	8 - InterCity<br/>
+			+	10 - EuroCity<br/>
+			+	12 - hotelowy<br/>
+			+	13 - nocny ekspres<br/>
+			+	14 - pocztowy<br/>
+			+	16 - bagażowy<br/>
+			+	18 - EuroNight<br/>
+			+	20 - służbowy<br/>
+			+	22 - Regio Plus<br/>
+			+	24 - InterRegioN<br/>
+			+	102 - S-Bahn<br/>
+			+	103 - Regional Bahn<br/>
+			+	104 - Regional Express<br/>
+			+	106 - InterRegio<br/>
+			+	108 - InterCity Night<br/>
+			+	110 - InterCity Express<br/>
+			+	202 - TER - pociąg regionalny<br/>
+			+	204 - Corail <br/>
+			+	206 - Eurostar <br/>
+			+	208 - TGV <br/>
+			+	212 - Train de Nuit <br/>
+		-	rodzaj pociągu odjeżdżającego,<br/>
+		-	stan pociągu<br/>
+			+	1 - jest już na stacji,<br/>
+			+	0 - przyjedzie.<br/>
+		-	numer wagonu symbolizującego skład lub 0 dla jednostek nierozłączalnych,<br/>
+		-	odnośnik do zestawienia wagonów,<br/>
+		-	numer peronu wjazdowego,<br/>
+		-	numer peronu wyjazdowego,<br/>
+		-	indeks nazwy pociągu przyjeżdżającego,<br/>
+		-	indeks nazwy pociągu odjeżdżającego,<br/>
+		-	współrzędna początkowa,<br/>
+		-	pozycja w punkcie,<br/>
+		-	tor w grupie torów postojowych,<br/>
+		-	0,</li>
+	<li>godzina rozpoczęcia gry,</li>
+	<li>	ilość przejść lokomotyw,</li>
+	<li>przejścia lokomotyw<br/>
+		-	rodzaj lokomotywy,<br/>
+		-	indeks lokomotywowni,<br/>
+		-	indeks pociągu, z którym lokomotywa przyjeżdża,<br/>
+		-	indeks pociągu, z którym lokomotywa odjeżdża,<br/>
+		-	numer tablicy prawdopodobieństw</li>
+	<li>ilość nazw rysunków lokomotyw,</li>
+	<li>ilość wierszy w tablicy prawdopodobieństw,</li>
+	<li>kolejne wiersze tablicy prawdopodobieństw,</li>
+	<li>ilość zestawień składów,</li>
+	<li>zestawienia składów (każde zestawienia musi być zakończone zerem)<br/>
+		-	ilość wagonów danego typu,<br/>
+		-	numer typu wagonu,</li><br/>
+	<li>ilość nazw rysunków wagonów,</li>
+	<li>opis poszczególnych rysunków lokomotyw<br/>
+		-	nazwa pliku bez kropki i rozszerzenia<br/>
+		-	spacja<br/>
+		-	nazwa typu lokomotywy<br/>
+		-	numer typu<br/>
+			+	1 - elektryczny zespól trakcyjny<br/>
+			+	3 - lokomotywa elektryczna<br/>
+			+	2 - autobus szynowy - spalinowy odpowiednik 1<br/>
+			+	4 - lokomotywa spalinowa<br/>
+			+	5 - parowóz<br/>
+		-	stopień lokomotywy w hierarchii lokomotyw</li>
+	<li>nazwy rysunków wagonów,</li>
+	<li>ilość nazw lokomotywowni,</li>
+	<li>nazwy lokomotywowni,</li>
+	<li>ilość nazw stacji,</li>
+	<li>nazwy stacji,</li>
+	<li>ilość nazw pociągów,</li>
+	<li>nazwy pociągów,</li>
+	<li>ilość nowych wpisów dla tablicy z rodzajami pociągów</li>
+	<li>numer wpisu w tablicy z rodzajami pociągów 0 - 249; spacja; kategoria pociągu; spacja; trzyliterowy skrót rodzaju pociągu; spacja; jednoliterowy skrót rodzaju pociągu;</li>
+	<li>informacje wyświetlane w okienku po wczytaniu rozkładu.</li>
+</ul>
+
+<p class="pogr">Autorzy zastrzegają sobie prawo do modyfikacji sposobu opisu rozkładu w kolejnych wersjach gry. </p>
+
+
+</body>
+</html>

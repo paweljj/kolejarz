@@ -1,0 +1,67 @@
+******************** INFORMACJE O STACJI ********************
+
+--- OGÓLNE ---
+Stacja: Skierniewice
+Rozk³ad: opracowany na podstawie SRJP (14.12.2003-11.12.2004)
+Obiegi EZT: na podstawie dodatków do SRJP
+Schemat stacji: plan torowy
+
+--- WYJAZDY ---
+WYJAZD nr 1: ¯yrardów, Warszawa
+WYJAZD nr 2: Koluszki, £ódŸ
+WYJAZD nr 3: Pilawa, £uków
+WYJAZD nr 4: £owicz, Kutno
+WYJAZD nr 5: Skierniewice Rawka (z wyjazdu korzystaj¹ dwa poranne poci¹gi osobowe do Warszawy
+oraz kilka poci¹gów towarowych; przed przystankiem Skierniewice Rawka tory w³¹czaj¹ siê do torów
+w kierunku Warszawy).
+
+WYJAZD nr 6: oznaczenie techniczne wyjazdu do £owicza. Pozwoli³o na wprowadzenie do rozk³adu
+poci¹gów korzystaj¹cych z ³¹cznicy pomiêdzy wjazdami 2 i 4. Jest to kilka poci¹gów towarowych oraz
+dwie pary okresowych poci¹gów pasa¿erskich. Nie znaczy to, ¿e s¹ osobne tory do/z £owicza, ale by³
+to jedyny sposób na wprowadzenie prawid³owych parametrów dla tego typu po³¹czeñ. W przypadku
+nadjechania uszkodzonej lokomotywy z któregoœ z ww. kierunków nale¿y ustaliæ przebieg jak dla
+normalnego poci¹gu.
+
+
+--- PERONY I TORY POSTOJOWE ---
+PERON 1: poci¹gi do Warszawy,
+PERON 2 (pó³nocny): wszystkie poci¹gi przelotowe wyje¿d¿aj¹ce w kierunku £odzi b¹dŸ £owicza,
+Na ten peron nie mog¹ wjechaæ poci¹gi z kierunku £ódŸ/£owicz.
+PERON 2 (po³udniowy): poci¹gi koñcz¹ce lub rozpoczynaj¹ce bieg z/w kierunku £odzi b¹dŸ £owicza,
+a tak¿e dwa poranne jad¹ce do Warszawy (3.47 i 6.17). Coby poci¹gi nie musia³y czekaæ na zwolnienie
+peronu, poci¹g osobowy z £odzi Fabrycznej planowo przyje¿d¿aj¹cy o 9:17 przesun¹³êm na 9:12
+(wtedy osobowy z Kutna o 9:21 wje¿d¿a bez opóŸnienia).
+
+TORY POSTOJOWE DLA POC. OSOBOWYCH: na torach pó³nocnych stoj¹ jednostki do/z kierunku
+Warszawy, na pozosta³ych (za peronem 2) jednostki z/do kierunku £ódŸ i £owicz.
+
+--- LOKOMOTYWOWNIA ---
+Czas oczekiwania na przyjazd lokomotywy (CM £ódŸ): 1 godzina (60 minut)
+Czas naprawy lokomotywy: 3 godziny (180 minut)
+Lokomotywy wykorzystywane do zmiany znajduj¹ siê na stacji.
+
+--- ROZK£AD ---
+Rozk³ad jazdy poci¹gów pasa¿erskich jest dok³adnym odzwierciedleniem ruchu na stacji.
+Rozk³ad jazdy poci¹gów towarowych jest stworzony na podstawie s³u¿bowego rozk³adu jazdy poci¹gów
+towarowych obowi¹zuj¹cego w 1999 roku. Jednak zosta³ przeze mnie trochê urozmaicony poprzez
+zastosowanie od³¹czania i przy³¹czania grup wagonów. Zmiany lokomotyw tak¿e s¹ fikycjne.
+
+--- W PRZYGOTOWANIU ---
+Stacje: Gorzów Wielkopolski, Mszczonów, Puszcza Mariañska, Siedlce, Siemiatycze.
+Niebawem powstan¹ te¿ Skierniewice z lat wczeœniejszych.
+
+--- AUTOR ---
+Micha³ Rudnicki, Skierniewice
+m.rudnicki@gazeta.pl
+www.transport.rar.pl
+
+Proszê o wszelkie uwagi na podany wy¿ej adres e-mail.
+
+--- PODZIÊKOWANIA ---
+Stacja nie powsta³aby gdyby nie pomoc innych osób. Dziêkujê:
+- Arielowi Ciechañskiemu (za udostêpnienie planu torowego stacji)
+- £ukaszowi Myczka (za stworzenie komputerowej wersji planu)
+- Micha³owi Lipiñskiemu (za pomoc przy tworzeniu rozk³adu jazdy)
+
+*************************************************************
+

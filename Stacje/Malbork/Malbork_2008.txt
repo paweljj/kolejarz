@@ -1,0 +1,31 @@
+Witam w Malborku !
+
+Przygotowana symulacja jest zgodna z rozk³adem jazdy na sierpieñ 2008.
+Sk³ady poci¹gów na podstawie w³asnych obserwacji, ze strony PKP Przewozy Regionalne i
+strony PKP InterCity. Obiegi lokomotyw tak¿e na podstawie w³asnych obserwacji 
+oraz danych z zeszytów z rozk³adami (573,565). Schemat stacji sporz¹dzony na podstawie 
+planu dostêpnego w grze z rozk³adu 2004, w³asnych dok³adnych obserwacji w terenie.
+Niestety rozk³ad poci¹gów towarowych choæ realny ale z roku 2006. Przydzia³ peronów 
+zgodny z informacjami zamieszczonymi na dworcu PKP Malbork.
+
+Uwagi co do ruchu poci¹gów:
+
+Tory postojowe w okolicach lokomotywowni zajmuj¹ zwykle EZT do Gdyni i I³awy. 
+Jeœli sk³ad z Kwidzynia lub Grudzi¹dza  ma planowany d³u¿szy postój tak¿e jest odstawiany 
+na te tory. Przy peronie 1 znajduje siê dworzec, za nim widaæ tory postojowe. Mieœci siê 
+tam punkt roz³adunkowy wêgla, dystrybutory ( pewnie dla cystern z paliwem ) oraz sk³ad budowlany.
+Na lewo od tego miejsca koñcz¹ bieg lub zatrzymuj¹ siê poci¹gi jad¹ce od stacji Prabuty, I³awa.
+Aby mog³y opuœciæ stacjê jad¹c do Zaj¹czkowa Tcz. lub Gdyni przemieszczaj¹ siê na tory postojowe
+w górnej czêœci schematu. Analogicznie dzieje siê z poci¹gami z kierunku Elbl¹ga, które hamuj¹ w 
+prawym górnym rogu schematu... Na torze postojowym miêdzy peronami stacjonuj¹ najczêœciej 
+lokomotywy czekaj¹ce na swój sk³ad. 
+
+Wyjazdy:
+
+1 - Szymankowo, Tczew, Gdañsk, Gdynia
+
+2 - D¹brówka Malb. Prabuty, I³awa, Warszawa
+
+3 - Stare Pole, Elbl¹g, Braniewo, Olsztyn
+
+4 - Sztum, Kwidzyn, Grudzi¹dz

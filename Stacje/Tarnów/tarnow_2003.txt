@@ -1,0 +1,134 @@
+_________________________________________________________________________________________
+
+              Opis stacji TARN”W:
+_________________________________________________________________________________________
+Uk≥ad torowy stacji: 
+      w 100% zgodny z orgina≥em, napisany na podstawie obserwacji
+   przy pomocy programu Edytor MK ver.1.04 dla Kolejarza v.0.59.
+      
+      Widok przedstawiony na monitorze jest analogiczny do mapy, czyli
+   pÛ≥noc jest u gÛry.
+     
+      Budynek stacyjny znajduje siÍ przy zelektryfikowanym torze peronu 1.
+
+ SkrÛty wystÍpujπce przy stacji:
+ BS - Budynek Stacyjny
+ ND - Nastawnia Dysponujπca
+ GW - Granicznik Wπtok - wjazd do lokomotywowni od wschodniej strony stacji
+ GZ - Granicznik ZachÛd - wjazd do lokomotywowni od zachodniej strony stacji
+ ISE - sekcja eksploatacji - postÛj drezyny
+CMST - Sekcja Utrzymania i Napraw Taboru Trakcyjnego Zak≥adu Taboru N.Sπcz - lokomotywownia (opisana poniøej) 
+
+Lokomotywownia: 
+      W rzeczywistoúci lokomotwownia w Tarnowie obs≥uguje w wiÍkszoúci
+   lokomotywy serii: SM42, ET41, ET21 oraz jednostki serii EN57. Terenem
+   lokomotywowni sπ wiec takøe dwie grupy postojowe zelektryfikowane
+   u do≥u stacji. Administracyjnie naleøy do PKP Cargo i jest sekcjπ
+   Zak≥adu Taboru w Nowym Sπczu (CM Nowy Sπcz).
+   PojemnoúÊ: 30
+   Czas oczekiwania: 3 minuty
+   
+
+Perony:
+    [1]- przylegajπcy do budynku stacyjnego - obejmuje 3 tory:
+          *tor nr 8 (z lewej strony budynku stacyjnego)-"niezelektryfikowany"-
+                - do roku 2000 obs≥ugiwa≥ pociπci o sk≥adzie SP42+4*Bhp do Szczucina,
+                  obecnie stacjonuje tam p≥ug odúnieøny
+          *tor nr 6 (przy budynku stacyjnym) 
+                - obs≥uguje pociπgi osobowe w kierunku Krakowa, Rzeszowa, Przemyúla
+                     oraz pociπgi bagaøowe
+          *tor nr 4 (poniøej toru nr 6 - wπski peron miÍdzy torem 4 i 6)
+                - obs≥uguje pociπgi osobowe do Rzeszowa, Przemyúla, DÍbicy
+    [2]- peron przy torach g≥Ûwnych, obs≥uguje pociπgi tranzytowe przejeødøajπce
+              przez TarnÛw - obejmuje 2 tory:
+          *tor nr 1 - kierunek DÍbica, ZamoúÊ, RzeszÛw, Przemyúl, ZagÛrz, Nowy Sπcz,
+                          Krynica, Koszyce, Budapeszt, Bukareszt
+          *tor nr 2 - kierunek KrakÛw, Wroc≥aw, Gliwice, Zielona GÛra, Szczecin, PoznaÒ, 
+                          åwinoujúcie, Warszawa, CzÍstochowa, Gdynia
+    [3]- peron najbardziej oddalony - obejmuje 2 tory:
+          *tor nr 7 
+                   } - obs≥ugujπ niektÛre pociπgi tranzytowe oraz osobowe do Krakowa i Krynicy
+          *tor nr 9  
+    [ ]- obok budynku stacyjnego - stanowi bocznicÍ dla urzÍdu pocztowego
+
+Tory towarowe:
+        * grupa 3 torÛw pod wjazdem nr 1  - sπ to bocznice-øeberka przy rampach 
+        * grupa 3 torÛw (1 nieprzejezdny) nad wjazdem nr 2 - bocznice do sk≥adu wÍgla
+        * grupa 3 torÛw w lewym dolnym rogu stacji - postÛj wagonÛw gospodarczych Zak≥adu
+                 Naprawy Infrastruktury z DÍbicy
+        * tory nad peronem nr 1 - teren Sekcji Eksploatacji Zak≥adu Infrastruktury - postÛj drezyny 
+        * pozosta≥e tory rÛwnoleg≥e do peronÛw - postÛj, mijanka, manewry sk≥adÛw towarowych
+
+Tory postojowe:
+        * 2 grupy niezelektryfikowane nad lokomotywowniπ - postÛj sk≥adÛw do Rzeszowa
+        * 2 grupy zelaktryfikowane obok lokomotywowni - postÛj jednostek EZT 
+
+Kierunki:
+   *[<--],[-->] - nr 1 - kierunek KrakÛw, najbliøsza stacja TarnÛw Moúcice 
+   *[<--],[-->] - nr 2 - kierunek DÍbica, najbliøsza stacja Wola RzÍdziÒska
+   *[<->]       - nr 3 - (dla pociπgÛw pasaøerskich) kierunek StrÛøe, 
+                    z ominiÍciem stacji TarnÛw Filia, najbliøsza mijanka K≥okowa
+   *[<->]       - nr 4 - (dla pociπgÛw towarowych) do stacji rozrzπdowej TarnÛw Filia
+   *[<->]       - nr 5 - kierunek Szczucin k/Tarnowa, najbliøsza mijanka £ukowa Tarnowska 
+   *[<->]       - nr 6 - bocznica do Zak≥adÛw Mechanicznych w Tarnowie
+
+Punkty manewrowe dla lokomotyw o szczgÛlnym przeznaczeniu:
+   * zakoÒczenie øeberka nad wyjazdem nr 1, obok wyjazdÛw nr 6 i 5
+   * 2 punkty po prawej stronie od peronu nr 3
+          - s≥uøπ do postoju lokomotyw od pociπgÛw osobowych z Rzeszowa oraz ≥πcznika
+              expresu PIENINY z Nowego Sπcza (EU07 z CM KrakÛw lub CM Øurawica)
+
+_________________________________________________________________________________________
+
+Ruch:
+   Stacja charakteryzuje siÍ natÍøonym ruchem tranzytowym z postojem lub bez w relacjach 
+     1-->2, 2-->1, 1-->3/4, 3/4-->1. Uruchamia takøe wiele pociπgÛw osobowych do Krakowa, 
+     Rzeszowa i Krynicy. Niewielki jest ruch manewrowy, gdyø rozrzπd pociπgÛw towarowych 
+     odbywa siÍ na pobliskiej stacji TarnÛw Filia. 
+  
+ * rozk≥ad jazdy pociπgÛw pasaøerskich i towarowych odwzorowany w 100% na podstawie
+     wiarygodnych ürÛde≥ i odzwierciedla sytuacjÍ letniego rozk≥adu 2003 
+ * podglπdy sk≥adÛw sπ opisane na podstawie w≥asnych obserwacji
+ * obiegi niektÛrych sk≥adÛw sπ zaobserwowane, pozosta≥e sπ domyúlne
+_________________________________________________________________________________________
+
+Fikcja:
+ Ca≥kowicie nieprawdziwe jest, to iø do Szczucina kursujπ autobusy szynowe. Sπ to co prawda
+plany lokalnego samorzπdu i Zak≥adu PrzewozÛw Regionalnych z Krakowa, ale skutecznie
+blokowane przez brak úrodkÛw.
+ Godziny odjazdu pociπgÛw do Szczucina oraz Dπbrowy Tarnowskiej i ich numery sπ zaczerpniÍte 
+z rozk≥adu 1999/2000. Autobusy powinny stacjonowaÊ na torze 8 przy peronie 1  
+(niezelektryfikowany úlepy peron u gÛry)
+
+Niezgoznoúci z rzeczywistoúciπ spowodowane brakiem danych:
+ * fikcyjne godziny odjazdu oraz numery pociπgÛw s≥uøbowych  
+ * fikcyjne godziny odjazdu oraz numery i sk≥ady pociπgÛw towarowych w kierunkach nr 5 i 6 
+ * domyúlne podglπdy niektÛrych sk≥adÛw towarowych
+ * przejazd transportu wojskowego z Niemiec na poligon na UkrainÍ
+          - kiedyú widzia≥em taki pociπg, ale to by≥o dawno :-) 
+
+_________________________________________________________________________________________
+
+WskazÛwki:
+ * w zwiπzku z duøym natÍøeniem ruchu wskazane jest kierowanie siÍ hierarchiπ
+    rodzajÛw pociπgÛw, wiÍc pociπgi towarowe, nawet te tranzytowe naleøy 
+    w przypadku oczekiwania pasaøerskich odstawiaÊ na boczny tor w celu mijania. 
+_________________________________________________________________________________________
+
+èrÛd≥a:
+  * Elektroniczny Rozk≥ad Jazdy PociπgÛw HAFAS 2003
+  * Elektroniczny Rozk≥ad Jazdy PociπgÛw HAFAS 1999/2000
+  * S≥uøbowy Rozk≥ad Jazdy PociπgÛw Towarowych - zeszyt 322
+  * Kieszonkowy Rozk≥ad Jazdy PociπgÛw Stacji KrakÛw G≥Ûwny 2003
+  * Atlas Lokomotyw 2002 autorstwa Paw≥a TerczyÒskiego
+  * w≥asne obserwacje
+_________________________________________________________________________________________
+s.d.k.K.M._______________________________________________________________________________
+
+Autor: 
+  £ukasz Grocholski
+
+E-mail:
+  xuk@wp.pl
+
+23.08.03

@@ -1,0 +1,85 @@
+.....::::: Wrzeœnia 2005 ::::......
+
+Wrzeœnia w Kolejarzu zosta³a obrócona o 90 stopni w prawo. 
+Poznañ znajduje siê na pó³nocy mapy (wjazdy 2,3) Warszawa na 
+po³udniu (1) Jarocin po lewej stronie (4) Gniezno po prawej (5).
+Trasy w kierunku Poznania ³¹cz¹ siê podnownie w Podstolicach. 
+poci¹gi zatrzymuj¹ce siê na stacji wg aktualnego rozk³adu. 
+Godziny przejazdów sk³adów spó³ki Intercity wg obserwacji. 
+Zestawienie wagonów wg dodatku 2B oraz obserwacji. 
+
+
+
+.....::::: OPIS STACJI ::::......
+
+Wjazd/ wyjazd nr 1
+Kierunek Warszawa
+
+Wjazd/wyjazd nr 2
+Kierunek Poznañ (dla nie zatrzymuj¹cych siê na stacji)
+
+Wjazd/ wyjad nr 3
+Kierunek Poznañ (dla zatrzymuj¹cych siê na stacji)
+
+Wjazd/ wyjazd nr 4
+Kierunek Jarocin
+
+Wjazd/ wyjazd nr 5
+Kierunek Gniezno
+
+Wjazd/ wyjazd nr 6
+Bocznica do Centrali Paliw i Rozpuszczalników
+
+Wjazd/ wyjazd nr 7
+
+Bocznica do zak³adów przemys³owych. Nie u¿ytkowana.
+
+.....::::: UWAGI ::::......
+
+* Przy peronie 1 na ogó³ zatrzymuj¹ siê poci¹gi Jarocin - Gniezno
+Przy peronie 2 prawie wszystkie poci¹gi pasa¿erskie z/do Poznania
+
+* Na torach powy¿ej peronów zatrzymujemy poci¹gi towarowe zatrzymuj¹ce siê na stacji.
+
+* EZT, który przyje¿dza rano i wraca o 14:25 do Poznania stawiamy na 
+torach miêdzy peronami.
+
+* W rzeczywistoœci tory E20 znajduj¹ siê na wiadukcie nad lini¹ do Gniezna 
+tutaj trzeba zatrzymaæ jeden sk³ad. 
+
+* Poci¹gi zatrzymujemy na peronie zgodnym
+z prawostronnym kierunkiem jazdy dziêki czemu unikamy kolizji. 
+
+* Czas oczekiwania na lokomotywê to 60 minut. Czas naprawy 180 minut. 
+Uk³ad torowy zmusi³ mnie do zrobienia "bocznicy" chocia¿ w 
+rzeczywistoœci ewntualny przyjazd loka nast¹pi z Poznania.
+
+* Przyje¿dzaj¹cy szynobus o 11:25 na ogó³ czeka za Ga³czyñskim. 
+Tak samo o 18 szynobus oczekuje za osobowym do Poznania.
+
+*Drezynê MW15A ustawiamy na torach w pobli¿u wie¿y.
+
+*Poci¹g towarowy z Niwnicy zatrzymujemy na 2 torze od góry. 
+Lokomotywê mo¿na odes³aæ do lokomotywni.
+
+* Wagony Gagst stoj¹ tak od kilku lat.
+
+* Poci¹g do Strza³kowa ustawiamy na torze pod peronem 1
+
+* Sk³ad EN Jan Kiepura stworzony z wagonów dostêpnych w grze. 
+
+* Poci¹gi maj¹ce zbli¿one odjazdy w kierunku 1 (z peronu i z wyjazdu 2) 
+Przepuszczamy oczywiœcie poci¹gi kwalifikowane, towarowe wstrzymujemy.
+
+_______________________________________________________________________________
+
+Wrzeœnia 2005
+
+autor: Hubert Wietrzyñski
+hubwie@op.pl
+
+wspó³praca: Maciej Koplin
+maciejkoplin@interia.pl
+www.mk-piku.prv.pl
+
+SMK S2

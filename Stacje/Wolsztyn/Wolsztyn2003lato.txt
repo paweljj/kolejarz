@@ -1,0 +1,84 @@
+Wolsztyn
+lato 2003
+
+Wersja poprawiona:
+- zmodyfikowany schemat stacji
+- poprawione wyœwietlanie poci¹gu 77782 w tablicy przyjazdów
+- poprawiony rysunek Tr5
+
+KIERUNKI
+1 - Grodzisk Wlkp, Poznañ, najbli¿sza czynna stacja Rakoniewice 18 minut
+2 - Nowa Sól, najbli¿sza czynna stacja Konotop 36 minut
+3 - Leszno, najbli¿sza stacja Nowa Wieœ Mochy 15 minut
+4 - Sulechów, najbli¿sza stacja Powodowo 6 minut
+5 - Zb¹szyñ, najbli¿sza stacja Tuchorza 7 minut
+6 - bocznica do Wolsztyñskiej Fabryki Mebli "Szynaka-Meble"
+
+BST - budynek stacyjny
+N - nastawnie (po lewej WL, po prawej WL1)
+W - wachlarz parowozowni
+WW - wie¿a wodna
+Z - zasieki wêglowe, poni¿ej dwie wie¿e do nawêglania, ¿uraw i kana³ oczystkowy
+D - baza drogowców
+
+STACJA
+Widok na stacjê od strony budynku stacyjnego, pó³noc znajduje siê po prawej. Uk³ad torów dok³adny
+w 99%, niezgodnoœci - jeden rozjazd w pó³nocnej g³owicy (wspó³rzêdna 840) powinien byæ prawy a jest
+lewy, reszta tak jak w rzeczywistoœci. W miejscu gdzie jest klocek lokomotywowni znajduje siê obrotnica.
+"Tory postojowe" na pó³nocnej g³owicy to niewielki gara¿ dla WM15 - nic wiêkszego siê tam w rzeczywistoœci
+nie zmieœci, wiêc proszê nie wciskaæ tam Bip czy czegoœ takiego :)
+
+LOKOMOTYWOWNIA
+Czas oczekiwania na wyjazd lokomotywy z parowozowni wynosi 30 minut, czas naprawy 60 minut. Hala
+wachlarzowa posiada 8 stanowisk.
+
+ROZK£AD JAZDY
+Rozk³ad jazdy poci¹gów pasa¿erskich napisany na podstawie dodatku 2C i SRJP 2002/03, obiegi sk³adów
+poprawne. Obiegi parowozów, wg rozk³adu ze strony www.parowozy.com.pl, prawie tak jak w rzeczywisto-
+œci, jednak z powodu ograniczeñ "Kolejarza" parowóz na poci¹g 33234 jedzie do Zb¹szynka towarowym
+a wraca z Leszna razem z SU45 z poci¹giem 33237 opóŸniaj¹c go o 3 minuty (w rzeczywistoœci jecha³ do
+Zb¹szynka oraz wraca³ z Leszna luzem). Prócz parowozów poci¹gi pasa¿erskie obs³ugiwane by³y planowo
+przez SU45, ale zdarza³y siê te¿ SU46 - st¹d "suki" na trzech obiegach. Obiegi lokomotyw spalinowych to
+moje domys³y wiêc mog¹ zawieraæ drobne b³êdy.
+
+Rozk³ad jazdy poci¹gów towarowych napisany wg rozk³adu ze strony www.parowozy.com.pl oraz dodatku
+4B, wersja w symulacji obowi¹zywa³a w 1,3,5 - w 2,4 zamiast trzech zdawek jeŸdzi³y dwie d³u¿sze, do
+W³oszakowic (kierunek Leszno) i Konotopu. Ruch towarowy obs³ugiwany by³ przez jeden parowóz Pt47.
+
+Kurs drezyny zosta³ dodany dla urozmaicenia, jej rozk³ad jest moim wymys³em.
+
+UWAGI:
+- Poniewa¿ w "Kolejarzu" nie ma mo¿liwoœci obracania lokomotyw, parowozy je¿d¿¹ tendrem w lewo.
+- Nale¿y pamiêtaæ o uzupe³nianiu zapasów wêgla i wody w parowozach w punkcie do tego przeznaczonym
+  (pod literk¹ Z). Zabieg taki trwa oko³o 15 minut.
+- Sk³ad z wagonem z rozsuwanymi œcianami nale¿y odstawiaæ do roz³adunku na tor przy placu ³adunkowym
+  na dole stacji, bli¿ej peronów - tory ³adunkowe po lewej zajête s¹ przez sznury trupiej¹cych parowozów.
+- Dwie wêglarki nale¿y przetoczyæ na tor nad literk¹ Z w celu roz³adunku wêgla dla parowozowni.
+- W po³udniowej g³owicy na przeciêciu toru biegn¹cego od obrotnicy pod plac ³adunkowy z torem z kierun-
+  ku 2 (wspó³rzêdna 1217) nie ma rozjazdu krzy¿owego tylko zwyk³e skrzy¿owanie torów - nale¿y o tym pa-
+  miêtaæ o tym przy manewrach.
+- Aby zdawka do Rakoniewic wyjecha³a bez opóŸnienia nale¿y wczeœniej przetoczyæ odpowiedni¹ grupê
+  wagonów na tor 4 przy peronie 2 (wtedy osobówka musi wjechaæ tor dalej) - nie ma chyba innego wyjœcia.
+  W rzeczywistoœci poci¹gi towarowe i tak nigdy nie jeŸdzi³y zgodnie z rozk³adem.
+- Aby zwiêkszyæ realizm symulacji ograniczy³em przebiegi pociagowe (tak jak w rzeczywistoœci):
+
+- poci¹gi z kierunku 1 przyjmowaæ mo¿na na tory 4, 5,
+- poci¹gi w kierunku 1 wyprawiaæ mo¿na z torów  4, 6,
+- poci¹gi z kierunku 2 przyjmowaæ mo¿na na tory 2, 4,
+- poci¹gi w kierunku 2 wyprawiaæ mo¿na z torów  2, 4,
+- poci¹gi z kierunku 3 przyjmowaæ mo¿na na tory 1, 2,
+- poci¹gi w kierunku 3 wyprawiaæ mo¿na z torów  1, 2, 3
+- poci¹gi z kierunku 4 przyjmowaæ mo¿na na tory 2, 3, 4, 6
+- poci¹gi w kierunku 4 wyprawiaæ mo¿na z torów  2, 5
+- poci¹gi z kierunku 5 przyjmowaæ mo¿na na tory 1, 2, 3
+- poci¹gi w kierunku 5 wyprawiaæ mo¿na z torów  1, 2
+
+Mile widzane wszelkie uwagi dotycz¹ce symulacji, które proszê kierowaæ na adres paul@wizja.net.pl
+Zapraszam do odwiedzenia mojej strony internetowej: http://www.kolej.of.pl
+
+Do stworzenia stacji i rozk³adu wykorzysta³em programy: EdK 2.61, PathFinder 2.0, eRozk³ad 0.56
+Podziêkowania dla Krzysztofa W¹dolnego za kilka szczegó³ów dotycz¹cych rozk³adu jazdy
+oraz dla Micka M. za informacje o przebiegach.
+
+¯yczê mi³ej zabawy,
+Pawe³ Okrzesik

@@ -1,0 +1,138 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Pomoc dla programu PathFinder 2.0</TITLE>
+<META content="text/html; charset=windows-1250" http-equiv=Content-Type>
+<META http-equiv=Reply-to content=mixer@eranet.pl>
+<META http-equiv=Content-Language content=pl>
+<META content="Kolejarz, PathFinder, kolej, nastawnia" name=Keywords>
+<META content="Pomoc dla programu PathFinder 2.0" name=Description>
+<META content="Przemysław Rydel" name=Author>
+</HEAD>
+<BODY background="PF2hlp00.gif">
+<FONT face="Tahoma CE, Tahoma, Arial CE, Arial, Verdana" size="3" color=#000000>
+<TABLE align="center" width="100%" border="0"><TR><TD align="center"><FONT size="7" color="#000080"><IMG src="PF2hlp31.gif" border="0"> PathFinder 2.0 <FONT size="6" color="#000000">for</FONT> <IMG src="PF2hlp32.gif" border="0"> Kolejarz 0.89+</FONT></TD></TR></TABLE>
+<CENTER><H2><FONT color="#800000">dodatek do programu 'Kolejarz' w wersjach 0.89 i wyższych, <BR>wspomagający projektowanie stacji</FONT></H2></CENTER>
+<BR>
+<H3>Preferencje:</H3>
+<P>Bardzo rekomendowana rozdzielczość ekranu: minimum 1024 x 768.<BR>
+Wskazane <IMG src="PF2hlp35.gif" border="0"> Windows 95 lub nowsze, kolorowy monitor.</P>
+<H3><U>Użycie:</U><BR><I><FONT color="#ff0000">Uwaga!</FONT> Aby zrozumieć i poznać działanie programu, należy uważnie i w całości przeczytać poniższy tekst!</I></H3>
+<H3>Utworzenie pliku stacji i jego otwarcie</H3>
+<P>Po uruchomieniu programu, kliknięciu menu <I>Plik/Otwórz</I>, bądź też naciśnięciu <IMG src="PF2hlp02.gif" border="0"> wybieramy plik <I>.stc</I>, stworzony np. świetnym i bardzo wygodnym programem <IMG src="PF2hlp33.gif" border="1"> <A href="http://www.edytorstacji.prv.pl"><I>'Edytor dla Kolejarza'</I></A> autorstwa <A href="mailto:Mateo66@poczta.fm"><I>Mateusza Majchrzyckiego</I></A>, dostępnym na oficjalnej <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm"><I>stronie 'Kolejarza'</I></A>. Wystarczy, aby w pliku tym zawarte były jedynie początkowe linijki z ilością wierszy i kolumn oraz graficzną definicją obiektów i torów (uwaga: inny program do edycji stacji, <IMG src="PF2hlp34.gif" border="0"> <I>'Edytor MK 1.04'</I>, dodaje zbędne dane w każdym wierszu i należy je ręcznie pousuwać, w przeciwnym wypadku <I>'PathFinder'</I> nie wczyta stacji poprawnie). <U>Bardzo ważną rzeczą</U> jest to, że <I>'PathFinder'</I>, otwierając plik <I>.stc</I>, <B>nie</B> odczyta żadnych danych, zapisanych <B>po</B> graficznej definicji stacji, zatem nawet jeżeli plik ten zawiera w sobie już np. jakiekolwiek trasy czy też ponumerowane przez nas wjazdy i wyjazdy, zdefiniowaną szopę itd., to program nie będzie tego "widział".<BR>
+Na ekranie ukaże się widok stacji, powyżej niego m.in. menu oraz ilość wierszy i kolumn, poniżej zestaw przycisków, podzielony na siedem grup. Grupy te, to kolejne etapy tworzenia stacji, przez które przechodzimy, od lewej strony do prawej. <BR><BR>
+<IMG src="PF2hlp01.gif" border="0" width="980" height="735"></P>
+<H3>Zmiana rozmiarów stacji</H3>
+<P>Jeżeli ukaże się komunikat <BR><BR>
+<CENTER><IMG src="PF2hlp19.gif" border="0"></CENTER><BR><BR>to oznacza to, że co najmniej jeden bok stacji jest pusty, przy czym szerokość wolnego pasa jest większa od jednej kratki.<BR><BR>
+<CENTER><IMG src="PF2hlp36.gif" border="0"></CENTER><BR><BR>
+Z każdej strony okna ze stacją umieszczony jest <I>slider</I> (suwak). Służą one:
+<UL type="square">
+<LI> <I>slider</I> z lewej strony do ograniczenia górnego rozmiaru stacji,
+<LI> <I>slider</I> z prawej strony do ograniczenia dolnego rozmiaru stacji,
+<LI> <I>slider</I> na górze do ograniczenia rozmiaru stacji z lewej strony,
+<LI> <I>slider</I> na dole do ograniczenia rozmiaru stacji z prawej strony.</UL>
+Kolorem niebieskim wewnątrz pasków <I>sliderów</I> oznaczone są proponowane docelowe rozmiary stacji.<BR>
+Przyciskiem <IMG src="PF2hlp04.gif" border="0"> ograniczamy rozmiary stacji wg ustawionych <I>sliderów</I>, przyciskiem <IMG src="PF2hlp03.gif" border="0"> rezygnujemy ze zmian. Po naciśnięciu któregoś z tych przycisków <I>slidery</I> znikają, pojawia się stacja ograniczona do wybranych rozmiarów wraz z <I>rulerami</I> (numeracją kolumn i wierszy). Ustawienie kursora myszy w oknie stacji powoduje pokazanie numeru kratki wg specyfikacji <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm"><I>'Kolejarza'</I></A>.<BR><BR>
+<CENTER><IMG src="PF2hlp37.gif" border="0" width="980" height="370"></CENTER></P>
+<H3>Ustawienie opcji wyświetlania i wyszukiwania tras</H3>
+<P>Przed rozpoczęciem wyszukiwania można zdecydować, wciskając przycisk <IMG src="PF2hlp06.gif" border="0">, czy mają być znajdowane trasy przebiegające przez jakiekolwiek obiekty typu perony, tory postojowe, punkty manewrowe, szopę itd. (opcja <I>'Przejazd przez obiekty'</I>), a jeżeli tak, to czy trasy mogą przebiegać przez perony lub tory towarowe (opcja <I>'Przejazd przez perony'</I>), przez szopę (opcja <I>'Przejazd przez szopę'</I>), przez tory postojowe (opcja <I>'Przejazd przez tory postojowe'</I>) oraz przez wjazdy i wyjazdy (opcja <I>'Przejazd przez wjazdy/wyjazdy'</I>). Można także zdecydować o tym, czy trasy mogą przebiegać wielokrotnie przez jeden punkt (opcja <I>'Zezwalaj na wielokrotny przejazd przez element...'</I>) (uwaga, choć <I>'PathFinder'</I> stara się wyłapywać sytuacje krytyczne, <FONT color="#ff0000">może to doprowadzić nawet do zawieszenia programu!</FONT>), czy mogą być dłuższe niż 59 elementów (takie jest ograniczenie <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm"><I>'Kolejarza'</I></A>) (opcja <I>'Zezwalaj na długie trasy'</I>), czy mogą prowadzić na perony wyłącznie z wjazdów oraz z peronów wyłącznie do wyjazdów (opcja <I>'Przejazd z wjazdu tylko na peron...'</I>), czy mają być wybierane trasy jedno- bądź dwukierunkowe (opcje <I>'Kierunki tras'</I>) oraz zelektryfikowane bądź nie (opcje <I>'Elektryfikacja tras'</I>), wreszcie czy tory mają być wyświetlane jako punkty czy jako kreski (opcje <I>'Kształt torów'</I>). Można zmienić nazwę pliku (okienko <I>'Nazwa pliku z trasami'</I>), w którym przechowywane są trasy znalezione po naciśnięciu przycisku <IMG src="PF2hlp09.gif" border="0"> lub <IMG src="PF2hlp08.gif" border="0">. Plik ten nie jest kasowany przy wyjściu z programu, zatem można, jeżeli zaistnieje taka potrzeba, obejrzeć trasy w przeglądarce przebiegów, wbudowanej w program <A href="http://www.edytorstacji.prv.pl"><I>'EdK'</I></A>.<BR><BR>
+<CENTER><IMG src="PF2hlp15.gif" border="0"></CENTER></P>
+<H3>Wstępna analiza stacji</H3>
+<P>Po naciśnięciu przycisku <IMG src="PF2hlp05.gif" border="0">, w oknie widoku stacji zaznaczone zostaną na pomarańczowo wszystkie punkty, w których zaczynać się będą trasy, a na biało punkty wewnątrz peronów i torów towarowych, o ile w opcjach umożliwiony został przejazd przez perony. Warto sprawdzić, czy punkty te znajdują się wszędzie tam, gdzie się tego spodziewamy. Jeżeli nie, należy zapoznać się z ograniczeniami <I>'PathFindera'</I> oraz sprawdzić, czy od wszystkich spodziewanych miejsc odchodzą tory i czy połączenia torowe są ciągłe i zgodne z zasadami.<BR><BR>
+<CENTER><IMG src="PF2hlp14.gif" border="0" width="980" height="370"></CENTER><BR><BR>
+Po dokonaniu analizy stacji możliwe jest zdefiniowanie właściwości obiektów. Ustawienie kursora myszy powoduje teraz wyświetlenie, oprócz numeru kratki, także nazwy tego, co się pod nim znajduje. W przypadku obiektów kursor zmienia kształt na <IMG src="PF2hlp38.gif" border="0">, a kliknięcie w tym miejscu powoduje przejście do odpowiedniego okna właściwości danego obiektu. Jeżeli nie ustawimy wszystkiego w tym etapie, program sam zapyta o dane, których nie wpisaliśmy, później - podczas zapisu gotowej stacji.<BR><BR>
+<CENTER><IMG src="PF2hlp16.gif" border="0"></CENTER><BR><BR>
+Jeżeli stacja posiada rozjazdy krzyżowe (wg definicji graficznej <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm"><I>'Kolejarza'</I></A> są to elementy <IMG src="PF2hlp40.gif" border="0"> o numerach 24-27 i 240-270), to dla każdego z nich można wybrać przebiegi. W tym celu, jeżeli wcześniej dokonana była analiza stacji przyciskiem <IMG src="PF2hlp05.gif" border="0">, wystarczy kliknąć na rozjazd i wybrać żądany przebieg - kursor myszy przyjmuje wtedy postać <IMG src="PF2hlp39.gif" border="0">. Należy dokonać tego jeszcze przed wyszukiwaniem tras, gdyż ma to dla tego procesu kluczowe znaczenie. Domyślnie wszystkie rozjazdy tego typu zdefiniowane są jako najpełniejsza i chyba najczęściej spotykana w rzeczywistości opcja, a do wyboru jest jeszcze sześć innych kombinacji.<BR><BR>
+<CENTER><IMG src="PF2hlp17.gif" border="0"></CENTER></P>
+<H3>Powiększenie widoku stacji w trybie Zoom</H3>
+<P>Można obejrzeć stację w znacznym powiększeniu, przyciskając przycisk <IMG src="PF2hlp07.gif" border="0">. W tym trybie nie można dokonywać żadnej edycji, za to pokazana jest kombinacja każdego rozjazdu krzyżowego podwójnego, przez co widać każde połączenie dokładniej. Przewijanie okna klawiszami kursora lub <I>scrollbarami</I>.<BR><BR>
+<CENTER><IMG src="PF2hlp18.gif" border="0" width="980" height="717"></CENTER></P>
+<H3>Wyszukiwanie tras</H3>
+<P>Po ustaleniu opcji i właściwości obiektów oraz wstępnej analizie stacji można przystąpić do wyszukiwania tras. Istnieją dwa sposoby: <B>automatyczny</B> i <B>ręczny</B>. Po naciśnięciu przycisku <IMG src="PF2hlp08.gif" border="0">, program sam znajdzie i zapisze do tymczasowego pliku tekstowego, którego nazwę ustala się w opcjach (domyślnie <I>'trasy.txt'</I>), w katalogu ze stacją <U>wszystkie trasy</U>, zgodnie z zadanymi opcjami. Będzie się zatrzymywał <U>jedynie</U> w sytuacjach krytycznych, takich jak przechodzenie trasy dwa razy przez ten sam punkt lub też przepełnienie wewnętrznych zasobów programu. <BR><BR>
+<CENTER><IMG src="PF2hlp43.gif" border="0"> <IMG src="PF2hlp41.gif" border="0"> <IMG src="PF2hlp42.gif" border="0"></CENTER><BR><BR>
+Po naciśnięciu przycisku <IMG src="PF2hlp09.gif" border="0">, program wyświetli każdą trasę, zaznaczając tory na czerwono, a punkt początkowy na niebiesko. <BR><BR>
+<CENTER><IMG src="PF2hlp44.gif" border="0"></CENTER><BR><BR>
+Następnie, jeżeli trasa odpowiada postawionym warunkom, program zapyta, czy ma być ona zaliczona do właściwych (czyli zaakceptowana), czy do niewłaściwych (czyli odrzucona) i zapisze każdą właściwą do pliku tymczasowego. <BR><BR>
+<CENTER><IMG src="PF2hlp45.gif" border="0"></CENTER><BR><BR>
+Jeżeli trasa nie spełnia wymagań, program wyświetli odpowiedni komunikat, np. jeśli wykryte zostanie, że trasa przechodzi wielokrotnie przez jeden punkt, a w opcjach zostało to zabronione (przykład: stacja <I>Kostrzyn</I> z włączoną opcją przejazdu przez tory postojowe), program wyświetli błąd i ewentualnie zapyta o dalsze losy trasy. <BR><BR>
+<CENTER><IMG src="PF2hlp46.gif" border="1"> <IMG src="PF2hlp63.gif" border="1"><BR><IMG src="PF2hlp64.gif" border="1"> <IMG src="PF2hlp65.gif" border="1"></CENTER><BR><BR>
+W trakcie wyszukiwania tras na górze ekranu na bieżąco wyświetlane są takie dane, jak dwukierunkowość i elektryfikacja danej trasy, ilość połączeń i znalezionych i względnie uznanych przez nas tras (jedna trasa dwukierunkowa to dwa połączenia: jedno w jedną stronę, drugie w drugą), wskaźnik postępu <I>'Progress'</I> i wskaźnik wykorzystania wewnętrznego stosu <I>'Stack usage'*</I>. <BR>
+<FONT size="1">* Nie ma on w zasadzie dla użytkownika żadnego znaczenia.</FONT><BR><BR>
+<CENTER><IMG src="PF2hlp47.gif" border="0"></CENTER><BR><BR>
+Wyszukiwanie tras w trybie ręcznym można przerwać, przyciskając w okienku z pytaniem o zaliczenie trasy przycisk <IMG src="PF2hlp51.gif" border="0"> (przycisk <IMG src="PF2hlp48.gif" border="0"> zatwierdza trasę, <IMG src="PF2hlp49.gif" border="0"> odrzuca, podobnie jak przycisk <IMG src="PF2hlp50.gif" border="0"> w okienkach z pytaniami o zaliczanie tras wątpliwych również zatwierdza trasę, a <IMG src="PF2hlp51.gif" border="0"> odrzuca). Po zakończeniu wyszukiwania tras, wyświetlane jest okienko informacyjne z rezultatami prac, z których najważniejsza jest środkowa liczba z ilością właściwych tras. <BR><BR>
+<CENTER><IMG src="PF2hlp20.gif" border="0"></CENTER></P>
+<H3>Zaawansowana selekcja tras</H3>
+<P>Użycie przycisków <IMG src="PF2hlp09.gif" border="0"> i <IMG src="PF2hlp08.gif" border="0"> powoduje znalezienie wszystkich tras, spełniających zadane wcześniej warunki, jednakże taki zestaw zwykle nie jest jeszcze całkowicie gotowy do zaprzęgnięcia go do pracy w <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm"><I>'Kolejarzu'</I></A>. Powodem jest pokrywanie się odcinków tras i przez to niemożność prawidłowego ich funkcjonowania podczas gry. Do wyeliminowania takich tras służy <IMG src="PF2hlp10.gif" border="0">, której okno zawiera dwie główne części: po lewej stronie znajduje się lista grup, powstała po przeanalizowaniu utworzonego wcześniej tymczasowego pliku z trasami, po prawej znajdziemy listę tras zawartych w danej grupie. <BR><BR>
+<CENTER><IMG src="PF2hlp21.gif" border="0"></CENTER><BR><BR>
+<U>Grupa jest to zbiór wszystkich tras, prowadzących z jednego punktu (czyli w zasadzie obiektu) do drugiego</U>. Okno z grupami pokazuje numer grupy, współrzędną kratki początkowej, końcowej oraz jak duży jest zbiór tras w danej grupie. Pole wyboru <I>(checkbox)</I> służy do zaznaczenia, czy cała dana grupa tras zostanie uwzględniona, <U>niezależnie</U> od tego, czy którakolwiek trasa została zaznaczona, a w czasie edycji może nam służyć do orientacji, czy dana grupa została już przez nas wyedytowana, czy nie. Inaczej mówiąc, <U>o tym, czy dana trasa przejdzie do finału, decyduje jednocześnie i zaznaczenie trasy i zaznaczenie grupy</U>. Po analizie tymczasowego pliku z trasami <U>automatycznie zaznaczone zostają i trasy w grupach i same grupy, które zawierają jedną lub dwie trasy</U>, dlatego, że w takich przypadkach trasy zawsze posiadają <I>unikalne punkty jednoznaczności</I> (czyli że kliknięcie na taki punkt w <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm"><I>'Kolejarzu'</I></A> jednoznacznie identyfikuje wybraną trasę), a wyjątkiem są te grupy dwutrasowe, dla których punkt początkowy i końcowy jest ten sam, o ile wcześniej zgodziliśmy się na zaliczenie takich tras (tylko po co?). <U>Wszystkie inne grupy i trasy pozostają odznaczone</U>. <BR><BR>
+<CENTER><IMG src="PF2hlp52.gif" border="0"></CENTER><BR><BR>
+Okno tras pokazuje numer trasy z wybranej grupy, czy jest ona zelektryfikowana czy nie oraz czy jest dwukierunkowa czy nie, czy przechodzi przez wjazd lub wyjazd, wjazd-wyjazd, peron, tory postojowe, punkt postojowy, punkt postojowy dla lokomotyw, szopę i tory towarowe oraz jaka jest jej długość. Pole wyboru <I>(checkbox)</I> służy do zaznaczenia, czy trasa ma być ostatecznie zaliczona, czy nie. Wybranie trasy powoduje zaznaczenie jej torów na czerwono w oknie widoku stacji. Kliknięcie na podświetlonej już trasie powoduje pokazanie w kolorze niebieskim jej <I>punktów jednoznaczności</I>, o ile trasa jest zaznaczona.<BR><BR>
+<CENTER><IMG src="PF2hlp53.gif" border="0"></CENTER><BR><BR>
+Proces selekcji tras na tym etapie polega na zaznaczaniu <U>kolejnych</U> tras we wszystkich lub tylko wybranych grupach. Dokonuje się tego przez podświetlenie grupy na liście grup, kliknięcie <IMG src="PF2hlp23.gif" border="0"> i następnie podświetlanie i zaznaczanie <I>checkboxem</I> lub spacją kolejnych tras na liście tras, <U>zaczynając zawsze od najważniejszych</U>. <FONT color="#000080"><I>Trasy najważniejsze, to najczęściej te najbardziej oczywiste, najmniej "pokręcone", przechodzące przez jak najmniej obiektów itd. - wszystko zależy od koncepcji autora stacji.</I></FONT> Jeżeli podczas zaznaczania kolejnej trasy program stwierdzi, że mogłoby to spowodować utratę przez wcześniej już zaznaczoną trasę <I>punktów unikalnych</I> (czyli pokrycie całości trasy przez odcinki innych tras), nie dopuści do zaznaczenia tej trasy. Tak samo, jeżeli świeżo zaznaczana trasa nie ma ani jednego takiego <I>punktu</I> (czyli pokrywa się w całości z odcinkami zaznaczonych już tras), program również nie pozwoli jej zaznaczyć.<BR><BR>
+<CENTER><IMG src="PF2hlp54.gif" border="0"> <IMG src="PF2hlp55.gif" border="0"></CENTER><BR><BR>
+Jeżeli stwierdzimy, że bieżąca trasa musi być zaznaczona, a program sprzeciwia się temu, należy poszukać i odznaczyć trasę stojąca na przeszkodzie (może ich być więcej niż jedna) i powrócić do trasy pożądanej. Należy pamiętać, iż <U>niektóre trasy nie mogą istnieć współbieżnie</U>, choćbyśmy nie wiem jak tego chcieli, gdyż po prostu nie będą one funkcjonowac poprawnie w <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm"><I>'Kolejarzu'</I></A>. Ten etap selekcji tras służy do eliminacji takich przypadków i dlatego <U>tak ważne jest, żeby zaczynać zaznaczanie tras w danej grupie od tych przebiegów, które wydają się dla nas najważniejsze</U>. Jeżeli próba zaznaczenia zakończyła się sukcesem, kolorem niebieskim oznaczone będą wszystkie <I>punkty unikalne</I>. Są one unikalne w tej danej chwili, ponieważ dalsze zaznaczanie tras w bieżącej grupie może zmniejszyć ich liczbę. <BR><BR>
+<TABLE align="center" width="100%" border="2"><TR><TD align="center"><FONT color="#800000">Niestety, etap selekcji tras jest tym etapem, przez który autor stacji nie może przejść automatycznie, chociażby z tego powodu, że <I>'PathFinder'</I> nie wie, które trasy z danej grupy są ważniejsze, a które mniej ważne. Co gorsza, pozostawienie tego etapu bez naszej ingerencji (np. kliknięcie od razu <IMG src="PF2hlp29.gif" border="0">) spowoduje brak w pliku stacji lwiej części tras i to nierzadko <U>tych bardzo ważnych!</U><BR> Tak samo, przycisku <IMG src="PF2hlp28.gif" border="0"> powinno używać się wyłącznie w specyficznych okolicznościach (np. w sytuacji podwójnego punktu).<BR><I>No chyba, że nie zależy nam na tym, aby grający w symulację naszej stacji byli zadowoleni z gry, a wręcz przeciwnie. :-)</I></FONT></TD></TR></TABLE><BR> Aby jedynie obejrzeć listę tras w danej grupie należy kliknąć <IMG src="PF2hlp22.gif" border="0">. Po zaznaczeniu wybranych tras na liście tras należy potwierdzić to, przyciskając <IMG src="PF2hlp24.gif" border="0">. Przycisk <IMG src="PF2hlp25.gif" border="0"> służy do odznaczenia wszystkich grup, przycisk <IMG src="PF2hlp26.gif" border="0"> - do zaznaczenia. Przycisk <IMG src="PF2hlp27.gif" border="0"> służy do odznaczenia wszystkich tras w grupie, przycisk <IMG src="PF2hlp28.gif" border="0"> - do zaznaczenia, przy czym należy pamiętać o potencjalnej wspomnianej utracie <I>punktów unikalnych</I> dla niektórych tras. Okienko między listami pokazuje zawartość początkowego i końcowego punktu podświetlonej grupy. <BR><BR>
+<CENTER><IMG src="PF2hlp56.gif" border="0"></CENTER><BR><BR>
+Wskaźnik postępu <I>(progress bar)</I> obrazuje stan zaawansowania wszystkich operacji. Przyciskiem <IMG src="PF2hlp29.gif" border="0"> kończymy edycję.<BR>
+<FONT color="#800000">Należy mieć na uwadze, że z powodu dużej ilości wykonywanych obliczeń, pozwalających na skuteczny i łatwy wybór tras, przy sporej ilości wcześniej znalezionych tras, czas trwania niektórych operacji może być długi. Program został zoptymalizowany pod względem wykorzystania pamięci po to, żeby umożliwić jego poprawne działanie na słabszych komputerach, stąd też niektóre operacje trwają dłużej.</FONT></P>
+<H3>Wpisanie jednostki czasowej i komentarza</H3>
+<P>Wartość taktu oraz komentarz można wpisać po naciśnięciu przycisku <IMG src="PF2hlp11.gif" border="0">. Do wyboru jest 12 różnych jednostek zegarowych od 1 do 60, zgodnie z założeniami <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm"><I>'Kolejarza'</I></A>. W oknie tym możemy także się dowiedzieć, ile na stacji jest obiektów oraz jaka jest łączna ilość miejsca na torach postojowych. Okno to pokazuje się także podczas następnego etapu, zapisu stacji.<BR><BR>
+<CENTER><IMG src="PF2hlp30.gif" border="0"></CENTER></P>
+<H3>Zapisywanie gotowej stacji do pliku</H3>
+<P>Gdy już przeszliśmy mozolnie wszystkie etapy przygotowywania danych, możemy śmiało i z nieukrywaną radością przystąpić do zapisania na dysku pliku ze stacją. Wystarczy nacisnąć przycisk <IMG src="PF2hlp12.gif" border="0">. Program wyświetli okno do edycji taktu i komentarza, tak na wypadek, gdybyśmy wcześniej zapomnieli je wpisać. Podobnie, jeżeli wcześniej zapomnieliśmy określić niezbędne dane, dotyczące niektórych obiektów, program pozwoli nam je wyedytować. Jeszcze na koniec tylko zostaniemy zapytani o nazwę pliku ze stacją. Po zapisie stacji na dysk, należy przeczytać końcowy komunikat. Po tym można cofnąć się do któregoś z dostępnych etapów, o ile nie jesteśmy zadowoleni z wyników pracy lub wyjść z programu (tak jak i w każdej chwili) przyciskiem <IMG src="PF2hlp13.gif" border="0">. W każdej chwili, o ile jesteśmy na głównej planszy oraz jeżeli w katalogu, z którego uruchamiano program, znajduje się plik <I>'PathFinder089-20.htm'</I>, można skorzystać z pomocy, co polega na wyświetleniu w oknie przeglądarki <I>'IE'</I> niniejszej strony.</P>
+<BR>
+<H3>Ograniczenia:</H3>
+<P><UL type="square">
+<LI> perony i tory towarowe muszą być ustawione poziomo,<BR><BR>
+<CENTER><IMG src="PF2hlp57.gif" border="1"></CENTER><BR>
+<LI> obiekty nie mogą być bezpośrednio ze sobą połączone (przykład: <I>Kostrzyn, Dębno</I>),<BR><BR>
+<CENTER><IMG src="PF2hlp58.gif" border="1"></CENTER><BR>
+<LI> jeżeli szlak zawiera połączenia typu 'pod mostem', należy chwilowo przedefiniować graficznie stację, aby ujawnić programowi te połączenia (przykład: <I>Kostrzyn, Chojnice</I>),<BR><BR>
+<CENTER><TABLE><TR><TD><IMG src="PF2hlp59.gif" border="1"></TD><TD><FONT size="7">&gt;</FONT></TD><TD><IMG src="PF2hlp60.gif" border="1"></TD></TR></TABLE></CENTER><BR>
+<LI> nie są pokazywane trasy od punktów wjazdowych i wyjazdowych oraz peronów i torów towarowych, od których tory odbiegają w kierunkach północnym oraz południowym (przykład: <I>Suwałki</I>),<BR><BR>
+<CENTER><IMG src="PF2hlp61.gif" border="1"></CENTER><BR>
+<LI> nie są pokazywane trasy kończące się 'niczym' (przykład: <I>Puck, Zduńska Wola</I>).<BR><BR>
+<CENTER><IMG src="PF2hlp62.gif" border="1"></CENTER></UL></P>
+<H3>Historia:</H3>
+<P>
+<H4>2.0</H4>
+<UL type="disc">
+<LI> ulepszenie algorytmów i poprawienie błędów,
+<LI> poprawienie błędnego wyświetlania elementów interfejsu użytkownika,
+<LI> możliwość ograniczenia rozmiarów stacji,
+<LI> zaawansowana selekcja tras,
+<LI> edycja właściwości obiektów i danych dotyczących stacji,
+<LI> automatyzacja tworzenia gotowego pliku <I>.stc</I>,
+<LI> przeniesienie Pomocy z pliku tekstowego do pliku <I>.htm</I>.</UL></P>
+<P>
+<H4>1.1</H4>
+<UL type="disc">
+<LI> powiększony widok na stację <I>(zoom)</I>,
+<LI> dalsze opcje wyboru tras,
+<LI> możliwość wyjechania poza punkt wjazdowy/wyjazdowy (przykład: szopa w <I>Zduńskiej Woli</I>),
+<LI> możliwość wielokrotnego przejechania przez jeden element.</UL></P>
+<P>
+<H4>1.0</H4>
+<DL><DD>Pierwsza działająca wersja programu, wyszukująca trasy w dość ograniczonym zakresie.</DL></P>
+<H3>Planowane ulepszenia:</H3>
+<P>Czyż ten program nie jest już doskonały? ;-) Ale na serio: czekam na propozycje.</P>
+<H3>Disclaimer:</H3>
+<P>Program przeznaczony jest do darmowego użycia <I>(freeware)</I>, jednakże jeżeli za jego pomocą utworzona i opublikowana jest jakakolwiek stacja, autor stacji jest <B>zobowiązany</B> poinformować o tym autora programu oraz zawrzeć informację o użyciu programu w pliku stacji oraz ewentualnie w dokumentacji dołączonej do tejże stacji.<BR>
+Jeżeli jednak uważasz swój czas za cenny, a użycie programu pozwoliło Ci zaoszczędzić wiele godzin, które musiałbyś spędzić na żmudnym wyszukiwaniu i analizie tras, to zrekompensuj autorowi <I>'PathFindera'</I> godziny zainwestowanie w jego napisanie (bite 4 tygodnie) chociażby częściowo, niewielką kwotą.<BR>
+Autor programu nie ponosi odpowiedzialności za ewentualne szkody wynikłe z użycia programu.</P>
+<H3>Uwagi:</H3>
+<P>Jeżeli program nie działa prawidłowo, najlepiej poinformować o tym autora programu, w razie potrzeby dosyłając niezbędne pliki i opis błędu, ustawienie opcji, sytuację, w której błąd wystąpił itd.<BR>
+Jakiekolwiek pytania, uwagi i propozycje również należy kierować do autora programu.<BR>
+Przykłady stacji zostały podane jedynie w celach informacyjnych i szkoleniowych.</P>
+<H3>Podziękowania:</H3>
+<P><A href="mailto:jareks@3net.pl">Jarosław Dominik "Chester" Stawarz</A><BR>
+<A href="mailto:pawelj@klub.chip.pl">Paweł "Kaktus" Jóźwicki</A><BR>
+<A href="mailto:pcrulez@klub.chip.pl">Grzegorz Piotrowski</A><BR>
+i inni.</P>
+<P>
+<I>(c) 2002 Przemysław Rydel<BR>
+E-mail: <A href="mailto:mixer@eranet.pl">mixer@eranet.pl</A></I><BR>
+Galerie fotografii i filmów o tematyce kolejowej:<BR> <A href="http://www.sp6pwr.dsi.pl/kolej/foto/galerie.htm">http://www.sp6pwr.dsi.pl/kolej/foto/galerie.htm</A></P>
+<H3>Aktualizacja: <FONT color="#ff0000">07.08.2002</FONT></H3>
+</FONT></BODY></HTML>

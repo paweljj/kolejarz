@@ -1,0 +1,53 @@
+£ask 2003
+
+1) O stacji 
+Stacja lezy na dawnej kolei warszawsko-kaliskiej .
+Dzisiaj jest po³ozona w kilometrze 30,849 lini nr.14 £odz Kal.-Tuplice
+(granica panstwa).
+
+2) wjazdy i wyjazdy
+1-Zdunska Wola
+2-£odz
+3-Zelow (bocznica)
+
+3) O Zelowie
+
+Ciekawostk¹ jest fakt ,ze bocznice biegnaca do Zelowa chciano 
+przed³u¿yæ do Belchatowa i przeksztalcic ja w linie kolejowa 
+uzytku publicznego.Jednak tak sie nie stalo.
+
+4)Plan stacji
+Schemat torowy odwzorowany w 100%
+
+5)Rozklad Jazdy
+Rozklad jazdy pociagow pasazerskich 2003 jest podstawa ca³ego rozk³adu
+dla stacji.
+Czasy pociagow nie zatrzymuj¹cych siê na stacji podano orientacyjnie.
+Pociagi pasazerskie nie ujete w sieciowy rjp wzia³em z s³uzbowego rjp
+waznego od 30 maja 99 (stad puste sklady,rozne dziwne relacje jak
+W-wa Gdanska i pociag doswiadczalny)
+Pociagi pocztowy i zdawcze do Zelowa sa wytworem mojej wyobrazni
+Ograniczenia:
+Brak pociagow towarowych je¿eli ktos dysponuje takimi informacjami to
+zapraszam do wspo³pracy.
+
+6)Lokomotywownia 
+Najblizsza lokomotywownia znajduje w Zdunskiej Woli Karsznicach
+Jednak na tej lini kroluja loki z Lodzi Olechowa i tam tez
+umiescilem swoja lokomotywownie.
+czas oczekiwania na przyjazd loka 40 minut
+
+7)W przygotowaniu...
+Sierpc (juz nie d³ugo) 
+
+8)Pomoc
+Przy tworzeniu stacji pomogly nastepuj¹ce programy:
+Edytor do Kolejarza 2.35
+PathFinder 2.0
+StationInfo 1.0
+
+
+Wszelkie uwagi i spostrzezenia kierowac pod adres:
+Bartlomiej Jasinski
+btmtk@poczta.fm
+Bydgoszcz 

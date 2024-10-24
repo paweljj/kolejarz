@@ -1,0 +1,42 @@
+                  WADOWICE dla Kolejarza 1.81
+
+WYJAZD:
+1-kierunek Kalwaria Zebrzydowska Lanckorona
+2-kierunek Bielsko-Bia³a
+3-kierunek Spytkowice
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje sie w Krakowie P³aszowie. 
+Czas oczekiwania na lokomotywe - 80 minut.
+
+UK£AD TOROWY:
+Uk³ad torowy stacji jest napisany z dok³adnoœcia co do rozjazdu.
+Pierwszy peron zosta³ wybudowany w po³owie lat dziewiêdziesi¹tych
+zosta³ w ukoñczony i tor przy nim zosta³ pod³¹czony od strony po³udniowej.
+Natomiast zosta³o zlikwidowane po³¹czenie z bocznica do papierni BESKIDY
+oraz tory przy rampie i magazynie.
+Litery BS na schemacie stacji oznaczaj¹ budynek stacji.
+Litera N na schemacie stacji oznacza nastawnie.
+Litera M na schemacie stacji oznacza magazyny.
+Litery RA na schemacie stacji oznaczaj¹ krótk¹ rampê wy³adowcz¹ 
+przy zlikwidowanym dolnym torze .
+Widok na uk³ad torów od strony budynku stacji.
+ 
+SK£ADY I LOKOMOTYWY:
+Obiegi EZT fikcyjne
+
+ROZK£AD JAZDY:
+Napisany na postawie sieciowego rozk³adu jazdy pociagów 2015,
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+Od roku 2010 sk³ady towarowe ze Spytkowic nie kursuj¹.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby lokomotywa spalinowa z lokomotywowni wjecha³a na stacje nale¿y wybraæ trasê 
+do pierwszego punktu manewrowego od wjazdu pierwszego lub trzeciego 
+(wynika to z faktu, ¿e odleg³oœæ do lokomotywowni jest jednakowa 
+z obu wyjazdów).
+
+AUTOR:
+Krzysztof Wadolny                             nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1
+

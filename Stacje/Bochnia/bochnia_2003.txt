@@ -1,0 +1,58 @@
+		
+                       >>> Stacja Bochnia<<<
+
+  Œrednia stacja na mogistrali E30 Kraków - Medyka. Tak wiêc nr 1 to
+kierunek Kraków, nr 2 to kierunek Tarnów. Kierunek nr 3 to bocznica zak³adu Stalprodukt S.A., a nr 4 to linia do 
+przepompowni gazu. 
+
+Tory postojowe u do³u strony stacji s³u¿¹ jako postój 
+dla drezyny, gdy¿ w Bochni znajduje siê sekcja Zak³adu Napraw Infrastruktury.
+
+Poci¹g sieciowy oraz drezyna s¹ w rodzaju poci¹gu wpisany jako S³u¿bowy
+(mo¿liwoœæ taka zosta³a wprowadzona w Kolejarzu 1.35). Moj¹ innowacj¹ jest 
+wprowadzenie dla tych poci¹gów relacji do stacji "szlak", gdy¿ s¹ to kursy 
+awaryjne/wypadkowe.
+
+Uk³ad torowy odwzorowany jest w 100%, podobnie jest z rozk³adem poci¹gów
+towarowy oraz pasa¿erskich. Natomiast kursy s³u¿bowe (drezyna i sieciowy)
+nie s¹ nigdzie normowane, wiêc ich rozk³ad jest w ca³oœci moim pomys³em.
+
+Lokomotywownia to w rzeczywistoœci "œlepy" tor, na którym stacjonuje
+manewrówka SM42 (w rzeczywistoœci jedna, ale dla potrzeb gry wiêcej). 
+St¹d bierze siê niska pojemnoœæ (4 lokomotywy) i krótki czas oczekiwania
+(2 minuty).
+
+Stacja cechuje siê du¿ym natê¿eniem ruchu w relacjach 1-->2, 2-->1.
+W Bochni zatrzymuje siê wiêkszoœæ poci¹gów pasa¿erskich, wzmo¿ony jest
+te¿ ruch manewrowy.
+
+S³usznie zauwa¿one jest znaczne podobieñstwo tej stacji do poprzednich
+moich dzie³ - stacji Tarnów Moœcice, Brzesko Okocim i Pod³ê¿e.
+
+S¹ one bowiem wraz z wieloma innymi stacjami do siebie bardzo podobne.
+Rozk³ad jazdy ró¿ni siê pojedynczymi poci¹gami oraz godzinami.
+
+Tak wiêc je¿eli nic nie stanie na przeszkodzie, to w planie mam tworzenie do 
+"Kolejarza" takich stacji jak:
+	 Bogumi³owice, Biadoliny, K³aj 
+
+Zapraszam równie¿ do pobrania ju¿ istniej¹cych.
+
+ród³a:
+	-Elektroniczny RJP Hafas 2003
+	-S³u¿bowy RJP Towarowych 2003
+                -w³asne obserwacje
+
+		
+Z uwagi na bardzo du¿¹ liczbê poci¹gów w rozk³adzie proszê wybaczyæ mi
+niedoci¹gniêcia natury logicznej (np. pokrywanie siê godzin odjazdów w tym
+samym kierunku). Wszelkie b³êdy i uwagi z wdziêcznoœci¹ przyjmê pod adresem:
+
+							xuk@wp.pl 
+
+		¯yczê mi³ej pracy na stanowisku dy¿urnego ruchu. :-)
+
+ Autorzy:   £ukasz Grocholski (rozk³ad pasa¿erski i towarowy, opis pliku)
+                  Piotr £ach (przebieg manewrów, uwagi)  
+
+   

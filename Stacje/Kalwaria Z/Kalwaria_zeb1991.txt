@@ -1,0 +1,33 @@
+           KALWARIA ZEBRZYDOWSKA dla Kolejarza 1.62
+
+WYJAZD:
+1-kierunek Kalwaria Zebrzydowska Lanckorona
+2-kierunek Wadowice
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje sie w Krakowie P³aszowie. 
+Czas oczekiwania na elektrowóz - 70 minut.
+
+UK£AD TOROWY:
+Uk³ad torowy stacji jest napisany z dok³adnoœcia co do rozjazdu. 
+Widok na uk³ad torów od strony budynku stacji.
+Obecnie stacja jest w stanie likwidacji i tory sa juz zaroœniête 
+i maj¹ byæ rozebrane. Docelowo ma pozostaæ tylko tor przelotowy.
+Peron nie zosta³ wybudowany ze wzglêdu na spodziewan¹ likwidacje lini.
+
+SK£ADY I LOKOMOTYWY:
+Jednostki sa autentyczne na postawie obserwacji w³asnych. 
+Przewozy towarowe na tej trasie nie s¹ prowadzone.
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie sieciowego rozk³adu jazdy pociagów z lata 1991.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz z lokomotywowni wjecha³ na stacje nale¿y wybrac trase do 
+pierwszego punktu manewrowego od wjazdu pierwszego.
+
+AUTOR:
+Krzysztof Wadolny            nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1
+

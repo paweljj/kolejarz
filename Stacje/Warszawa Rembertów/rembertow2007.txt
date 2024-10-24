@@ -1,0 +1,100 @@
+		------------------------------------------------------------------------
+			Stacja Warszawa Rembertów
+		------------------------------------------------------------------------
+
+Oto Warszawa Rembertów - stacja "rozrz¹dowa" wêz³a Wschodniego dla poci¹gów jad¹cych ze wschodu.
+	Tutaj tory rozga³êziaj¹ siê na grupê podmiejsk¹ i dalekobie¿n¹ (id¹ce do Warszawy Wschodniej),
+	oraz towarow¹, biegn¹c¹ do Warszawy Wschodniej Towarowej.
+Schemat obejmuje czêœæ osobow¹ z jedynym peronem na stacji, oraz czêœæ towarow¹, w tym rampy
+	roz³adowcze do materia³ów sypkich. A po lewej stronie przedstawi³em wiernie odwzorowane
+	wiadukty do bezkolizyjnego rozdzielenia torów.
+
+Uk³ad torowy - w czêœci pasa¿erskiej - zgodny z rzeczywistoœci¹ co do rozjazdu. Jedyny czêœci b³¹d
+	czêœci towarowej, to mniejsza iloœæ torów w rampach wy³adowczych, ale moim zdaniem b³¹d
+	nieistotny, gdy¿ i tak poci¹gów nie ma du¿o.
+Obecnie - po modernizacji - torami g³ównymi s¹ tory dalkobie¿ne, a g³ównymi dodatkowymi
+	- podmiejskie. W ten sposób poci¹gi dalekobie¿ne mog¹ przeje¿d¿aæ	przez stacjê bez zwolnieñ.
+
+
+	----------------------------------------------------------
+		Wjazdy/wyjazdy:
+	----------------------------------------------------------
+
+	1 - Warszawa Wschodnia Osobowa - poci¹gi podmiejskie (KM);
+	2 - Warszawa Wschodnia Osobowa - poci¹gi dalekobie¿ne (PR, IC);
+	3 - Warszawa Wschodnia Towarowa+przelotowe poci¹gi towarowe na drug¹ stronê Wis³y;
+	4 - Miñsk Mazowiecki;
+	5 - Zielonka i dalej na Bia³ystok;
+	6 - Elektrociep³ownia Kawêczyn;
+
+
+	------------------------------------------------------------------------
+		Tory postojowe/towarowe/inne:
+	------------------------------------------------------------------------
+
+	- Tory niezelektryfikowane mniej wiêcej na œrodku schematu, na górze, to wspomniane rampy
+		do materia³ów sypkich oraz tory, sk¹d odje¿d¿aj¹ sk³ady do EC Kawêczyn;
+	- tory postojowe z prawej strony peronu zosta³y wybudowane z myœl¹ o postojach SKM-ek,
+		kiedy doje¿d¿a³y ode tylko do Rembertowa. Obecnie, w wyniku przed³u¿enia trasy
+		do Sulejówka, w Rembertowie staj¹ tylko dwa sk³ady SKM. Tory te mo¿na swobodnie
+		wykorzystywaæ w przypadku uszkodzonych lokomotyw - wtedy lok dobry, po przyjeŸdzie
+		na stacjê mo¿e poczekaæ na sk³ad w³aœnie na tych torach;
+	- peron jest tylko jeden, wyspowy; przy nim zatrzymuj¹ siê wszystkie "osobówki", natomiast
+		wszystkie sk³ady przelotowe przeje¿d¿aj¹ przez stacjê torami "dalekobie¿nymi".
+
+
+	--------------------------------------------------------
+		"Semafory stacyjne"
+	--------------------------------------------------------
+
+	Aby usprawniæ ruch na stacji i jednoczeœnie bardziej go urealniæ, wprowadzi³em na torach
+		g³ównych i g³ównych dodatkowych wychodz¹cych w "lew¹" stronê stacji strza³ki,
+		oznaczaj¹ce semafory wyjazdowe. Zasada dzia³ania jest prosta:
+	- semafor wyjazdowy - dotyczy poci¹gów, które nie mog¹ opuœciæ stacji z powodu zajêtego
+		wyjazdu. Wtedy podje¿d¿amy sk³adem pod semafor (strza³kê) i czekamy na zwolnienie
+		wyjazdu. Tym samym nasz poci¹g zwalnia miejsce w peronach lub na wjeŸdzie z Siedlec
+		lub Zielonki - poprawia siê ruch na stacji i elimunuje czêœciowe opóŸnienia.
+
+
+	--------------------------------------------------------
+		Lokomotywownia:
+	--------------------------------------------------------
+
+	- najbli¿sza to oczywiœcie Warszawa Olszynka Grochowska;
+	- czas zamówienia 30 min.
+	- czas naprawy 120 min.
+	- przy wjeŸdzie do elektrociep³owni umieœci³em pole postojowe z dwoma tamarami. S¹ to
+		lokomotywy nale¿¹ce do EC Kawêczyn, które wci¹gaj¹ wêgiel do zak³adu i wyci¹gaj¹
+		puste wêglarki z powrotem na stacjê. Kolejarz nie pozwala na przyjazd lokomotywy
+		luzem i powrót ze sk³adem, dlatego w symulacji tamary s¹ "œci¹gane" w³aœnie z tego
+		pola. Jest to chyba najbardziej zbli¿ony manewr do realnego.
+
+
+	--------------------------------------------------------
+		Sk³ady i obiegi:
+	--------------------------------------------------------
+
+	- sk³ady poci¹gów nierzewczywiste brak odpowiednich danych;
+	- obiegi poci¹gów SKM i dalekobieznych rzeczywiste - za stronami internetowymi PKP;
+	- rozk³ady jazdy poci¹gów osobowych, SKM i dalekobie¿nych zgodne z "ceg³¹" na rok 2007;
+	- rozk³ad poc. towarowych - relacje na podstawie innych symulacji, godziny wedle wyobraŸni;
+
+
+	------------------------------------------
+		AUTORZY
+	------------------------------------------
+   ___________________________________________________
+1. pomys³:
+		Mateusz Bia³kowski
+		mati1215@poczta.onet.pl
+		gg: 5524737
+   _______________________________________________
+2. przygotowanie danych,
+     opracowanie komputerowe schematu oraz rozk³adu:
+		Adam Kamiñski
+		adam@bopos.pl
+		gg: 6676645
+
+
+Wo³omin 2007
+2007-02-27

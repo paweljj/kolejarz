@@ -1,0 +1,24 @@
+Stacja Warszawa Wschodnia to moje pierwsze "dzie³o" do Kolejarza.
+Przy jej tworzeniu korzysta³em z Edytora do budowy stacji oraz 
+(bardzo pomocnego) programu PathFinder - to jemu stacja zawdziêcza
+swój rozmiar ;)). 
+
+Sk³adam podziêkowania dla Paw³a JóŸwickiego - bez
+jego fachowych porad stacja nie powsta³aby w ogóle, jest on jakby
+"ojcem chrzestnym" tego "dzie³a". 
+
+Przy takiej iloœci poci¹gów trudno by³o nie pope³niæ b³êdów - za 
+wszelkie krytyczne uwagi autor bêdzie zobowi¹zany. 
+Zestawienia wagonów s¹ wytworem mojej wyobraŸni, podobnie przebiegi 
+lokomotyw. Tak¿e uk³ad torów na stacji daleki jest od rzeczywistoœci -
+je¿eli ktoœ mai³by lepsz¹ koncepcjê, s³u¿ê pomoc¹ przy wykonaniu.
+
+Rozk³ad jazdy odzwierciedla stan do 14.12.2002.
+
+Je¿eli ktoœ nie wie jak zabraæ siê do tworzenia stacji, a posiada jej
+plan i rozk³ad jazdy, to chêtnie pomogê przy jej wykonaniu.
+
+Wszelkie uwagi proszê kierowaæ na adres:
+pk45@wp.pl lub pawel_k@acid.ch.pw.edu.pl
+
+Pawe³ K³opotowski, W-wa, 10.05.2002

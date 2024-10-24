@@ -1,0 +1,61 @@
+
+		>>> Stacja Brzesko Okocim<<<
+
+ Typowa stacja przelotowa, jakich wiele na magistrali E30 Kraków --> Medyka.
+Tak wiêc wyjazd i wyjazd nr 1 to kierunek Kraków, nr 2 to kierunek Rzeszów.
+Wjazd/wyjazd nr 3 to 3-kilometrowa bocznica do Browaru Okocim z odga³êzieniem
+do Fabryki Opakowañ Blaszanych POL-AM-PACK.
+
+Tory postojowe w prawym dolnym rogu s³u¿¹ jako postój dla drezyny,
+gdy¿ w Brzesku znajduje siê sekcja drogowa.
+Poci¹g sieciowy oraz drezyna jest w rodzaju poci¹gu wpisany nie jako Towarowy
+lecz jako X. Moj¹ innowacj¹ jest tak¿e wprowadzenie dla tych poci¹gów relacji
+do stacji "szlak", gdy¿ s¹ to kursy awaryjne/wypadkowe
+
+Poci¹gi wyje¿d¿aj¹ce w kierunku nr 3 nale¿y odprawiaæ z lookomotyw¹ zak³adow¹
+z Browaru Okocim.
+Manewry na stacji polegaj¹ w³aœciwie tylko na przyjêciu 2 i odprawieniu 2
+poci¹gów wielogrupowych z/do Bochni i wys³anie ich pojedynczo w odpowiednich
+kierunkach.
+¯eberka - tory towarowe to bocznica na sk³ad wêgla. Nale¿y tam odstawiaæ
+wagony z wêglem, które równie¿ przyjad¹ poci¹giem wielogrupowym z Bochni.  
+
+Uk³ad torowy odwzorowany jest w 100%, podobnie jest z rozk³adem poci¹gów
+towarowy oraz pasa¿erskich. Natomiast kursy s³u¿bowe (drezyna i sieciowy)
+nie s¹ nigdzie normowane, wiêc ich rozk³ad jest w ca³oœci moim pomys³em.
+
+Lokomotywownia to w rzeczywistoœci miejsce postoju kilku manewrówek w Bochni.
+Czas oczekiwania na lokomotywê to 15 min.
+
+Stacja cechuje siê du¿ym natê¿eniem ruchu w relacjach 1-->2, 2-->1,
+w wiêkszoœci bez zatrzymania.
+Urozmaiceniem jest obs³uga manewrów oraz prowadzenie ruchu w kierunku nr 3.
+
+S³usznie zauwa¿one jest znaczne podobieñstwo tej stacji do poprzedniego
+mojego dzie³a - stacji Tarnów Moœcice.
+
+S¹ one bowiem wraz z wieloma innymi stacjami do siebie bardzo podobne.
+Rozk³ad jazdy ró¿ni siê pojedynczymi poci¹gami oraz godzinami.
+
+Tak wiêc je¿eli nic nie stanie na przeszkodzie w planie mam tworzenie do 
+"Kolejarza" takich stacji jak:
+	Bochnia, Pod³ê¿e, Bogumi³owice, Biadoliny, K³aj i tym podobnych.
+
+ród³a:
+	-Elektroniczny RJP Hafas 2003
+	-Sieciowy RJP 2003  
+	-S³u¿bowy RJP Towarowych 2003
+
+		
+Z uwagi na bardzo du¿¹ liczbê poci¹gów w rozk³adzie proszê wybaczyæ mi
+niedoci¹gniêcia natury logicznej (np. pokrywanie siê godzin odjazdów w tym
+samym kierunku). Wszelkie b³êdy i uwagi z wdziêcznoœci¹ przyjmê pod adresem:
+
+							xuk@wp.pl 
+
+		¯yczê mi³ej pracy na stanowisku dy¿urnego ruchu. :-)
+
+Autor: 
+	£ukasz Grocholski
+
+   

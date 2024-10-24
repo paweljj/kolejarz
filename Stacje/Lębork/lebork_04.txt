@@ -1,0 +1,67 @@
+LÊBORK 2004 Lato:
+
+
+
+Ruch na tej stacji w okresie letnim jest du¿y, a w okresie zimowym jest œredni, ale wystêpuj¹
+równie¿ mijanki, poci¹gi do £eby, towarowe, oraz liczne obiegi EZT
+
+
+WJAZDY:
+1- Wyjazd: Wejherowo, Gdynia (Warszawa)
+2- Wyjazd: S³upsk, Koszalin, (Szczecin)
+3- Wyjazd: £eba
+4- Wyjazd: Siemirowice (linicz nieczynna, chodŸ od wrzeœnia 2004 s¹ prowadzone poc. towarowe)
+5- Wyjazd: Elewator, nieczynne
+
+
+
+STACJA:
+
+Plan stacji dosta³em od kolegi, wiecej info. w e-milu.
+Uk³ad stacji 90%,
+Widok od torów postojowych (budynek stacji u góry planu)
+Najbli¿sza lokomotywownia znajdujê siê w Gdyni (60 min)
+Czas zamówienia lokomotywy: oko³o 60 min.
+Czas naprawy lokomotywy: oko³o 120 min.
+
+Punkty na stacji:
+E - tor tylko do potrzeby gry, miejsce w którym stacjonuj¹ elektrowozy
+S - tory postojowe lokomotyw spalinowych
+P - miejsce postojowe dla EZT i sk³adów + tor towarowy zaraz nad nimi
+- na dole planu stacjonuj¹ pojazdy drogowców
+- na samej górze planu nale¿y umieœciæ poci¹g zdawczy z wêglem (punkt roz³adunkowy)
+
+Perony:
+Tor 1 (od góry stacji) u¿ywany czasem do mijanego lub postuju EZT
+Tor 2 (od góry stacji) jest torem przelotowym.
+Tor 2a (od góry stacji) s³u¿y do mijanek, czasem rozpoczynaj¹ z niego biegi EZT
+Tor 3 (od góry stacji) startuj¹ z niego poci¹gi osobowe i EZT
+Tor 3 (od góry stacji) przeznaczony dla poci¹gów osobowych
+
+
+
+ROZK£AD:
+Rozk³ad oparty na okresie letnim 2004.
+Mog¹ wystêpowaæ b³êdy w sk³adach i obiegach EZT i LOK.
+Poci¹gi oznaczone jako "Dod.", s¹ to poci¹gi dodatkowe.
+
+
+
+INNE:
+Powstanie stacji przy programie Edytor dla Kolejarza Edk v2.35.
+Powstanie stacji u³atwi³ program PathFinder 2.0.
+
+
+
+AUTOR:
+
+Maciej Koplin
+
+e-mile:maciejkoplin@interia.pl
+www.pikukoleje.republika.pl
+www.mk-piku.prv.pl
+gg:2576587
+
+
+
+Mi³ej zabawy!!!

@@ -1,0 +1,24 @@
+Stacja------> Rokiciny
+Plan Stacji-> obserwacje w³asne
+Rozk³ad-----> Rejonowy rozklad jazdy poci¹gów £ódŸ 1990/92  SRJ poc pasa¿erskich zeszyt 101 +dod 2C,2D SRJ poc tw zeszyt 121 z roku 1990
+Wyjazd-1---->Koluszki £ódŸ Warszawa
+Wyjazd-2---->Piotrków trybunalski Czêstochowa Katowice  
+Stacja Rokiciny by³a wa¿n¹ stacj¹ do momentu wybudowania linii kolejowej z Koluszek do £odzi - kursowa³y st¹d powozy konne
+poprawi³em plan stacji
+
+Ruch
+-towarowy i pasa¿erski znaczny
+-godziny odjazdu poci¹gow s¹ dok³adne
+-jedna nastawnia
+-w przypadku nieœcis³oœci natury logicznej -  pokrywanie siê godzin odjazdów w tym
+samym kierunku zwlaszcza poci¹gów dodatkowych do rzeczywistego czasu odjazdu  takowych doda³em
+jedn¹ minutê
+z powodu braku dodatków 2A 2B zestawienia poci¹gow dalekobie¿nych s¹ fikcyjne
+natomiast zestawienia towarowych nie s¹ nigdzie normowane
+Autor Adam Sosnowski
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com
+w rzeczywistoœci torów jest wiêcej , ale s¹ zaroœniête i nie u¿ywane w symulatorze jak i w rzeczywistoœci
+
+Wykorzystano  programy EDK i Pathfinder i Eroz
+zgodnie z obietnic¹ do³o¿y³em nowe rozk³ady 2000 i 2002 ale tylko poci¹gów towarowych 
+pozdrawiam wszystkich mi³oœników Kolejarza

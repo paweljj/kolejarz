@@ -1,0 +1,25 @@
+Szepietowo, to niedu¿a stacja linii Warszawa 
+	- KuŸnica Bia³ostocka, le¿¹ca miêdzy Ma³kini¹, a £apami.
+
+Uk³ad torowy zgodny z rzeczywistoœci¹ w 98%.
+
+Wjazdy/wyjazdy:
+
+	1 - Ma³kinia (Warszawa);
+	2 - £apy (Bia³ystok);
+	
+Lokomotywownia:
+	- najbli¿sza, to Bia³ystok;
+	- czas zamówienia 60 min.
+	- czas naprawy 120 min.
+
+Sk³ady i obiegi:
+	- obiegi sk³adów fikcyjne;
+	- poc. osobowe i pospieszne wg "ceg³y";
+	- poc. towarowe ca³kowicie fikcyjne;
+	- osobowy do Bia³egostoku 4:30 po przyjeŸdzie nocuje przy peronie 1.
+
+----------------------
+Adam Kamiñski
+adas_kaminski@o2.pl
+28-09-2005

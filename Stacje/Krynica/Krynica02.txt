@@ -1,0 +1,33 @@
+                            KRYNICA dla KOLEJARZA
+
+WYJAZDY:
+Jedyny wyjazd jest na Muszynê.
+
+LOKOMOTYWOWNIA:
+Wszystko stacjonuje w po³o¿onym nieopodal PowroŸniku.
+Czas zamówienia: 15 minut
+
+SK£ADY I LOKI:
+Na podstawie w³asnych obserwacji.
+
+ROZK£AD JAZDY:
+Rok 2002
+
+UWAGI DO RUCHU POCI¥GÓW:
+Manewry w Krynicy ograniczaj¹ siê tylko do zmiany czo³a poci¹gu.
+Wszystkie prace manewrowe wykonywane s¹ w oddalonym o 5km
+PowroŸniku. Tam te¿ stacjonuj¹ wszystkie sk³ady i lokomotywy.
+EZT najlepiej wpuszczaæ na tor znajduj¹cy siê najni¿ej na schemacie.
+Przepiêcie loka na drugi koniec sk³adu jest mo¿wliwe tylko na
+dwóch "górnych" torach. Tam w³aœnie nale¿y wpuszczaæ wszystkie
+pospieszne, ekspresa i te osobowe, które nie s¹ EZT.
+
+AUTOR:
+
+Piotr Kilczuk
+
+Poprawki i przystosowanie do najnowszej wersji Kolejarza: Grzegorz W¹sowicz
+
+¯YCZYMY MI£EGO ZARZ¥DZANIA KRYNIC¥!!!
+
+2004

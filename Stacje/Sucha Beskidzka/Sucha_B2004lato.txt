@@ -1,0 +1,44 @@
+           SUCHA BESKIDZKA dla KOLEJARZa wersja 1.63
+
+Sucha Beskidzka jest stacj¹ po³o¿on¹ na linii Kraków P³aszów-Zakopane.
+
+WYJAZDY:
+1-kierunek Kraków P³aszów
+2-kierunek Zakopane
+3-kierunek ¯ywiec
+
+LOKOMOTYWOWNIA:
+Na potrzeby gry lokomotywownia jest w miejscu hali napraw EZT. 
+W Suchej Beskidzkiej lokomotywownia zosta³a zlikwidowana w 1975, 
+a na jej miejscu jest naprawa EZT (EN71 i EN57). Najbli¿sza
+lokomotywownia znajduje sie w Krakowie P³aszowie.
+Czas zamówienia: 10 minut
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Widok na uk³ad torów od strony budynku stacji.
+Przy dolnym torze niezelektryfikowanym
+znajduje siê rampa wy³adowcza.
+
+SK£ADY I LOKOMOTYWY:
+Na podstawie w³asnych obserwacji.
+Obiegi sk³adów EZT na podstawie dodatku 2D.
+
+ROZK£AD JAZDY:
+Na podstawie Komputerowego Rozk³adu Jazdy Poci¹gów HAFAS
+z lata 2004 oraz dodatkow 2D i 4B.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Dolny tor przy peronie 1 nie jest wykorzystywany do przyjmowania 
+poci¹gów i s³u¿y jako tor postojowy dla EZT.
+Czas do zmiany kierunku jazdy jest bardzo krótki 
+i trzeba siê spieszyæ by odczepiæ i zaczepiæ elektrowóz.
+
+AUTOR:
+Krzysztof W¹dolny       nmwadoln@imim-pan.krakow.pl
+
+PODZIÊKOWANIA:
+Bardzo dziekujê Pani Danucie Korbel Naczelnik Przewozów Pasa¿erskich
+stacji Sucha Beskidzka za udostêpnienie obiegu autobusu szynowego SA109-2
+oraz Panu mgr in¿. Janowi Mamajko za udostêpnienie rozk³adu jazdy poci¹gów
+towarowych.

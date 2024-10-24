@@ -1,0 +1,34 @@
+STACJA OBORNIKI WIELKOPOLSKIE - LATO 2009
+
+OBORNIKI WLKP. to stacja pasa¿ersko - towarowa obecnie o ma³ym znaczeniu,
+na linii Poznañ G³ówny - Pi³a G³ówna. Powsta³a ona 15.05.1879 r.,
+a zelektryfikowano j¹ 21.11.1990 roku. Istnia³a  tu jeszcze od 01.02.1910 r.
+linia Oborniki Wlkp. - Wronki, któr¹ z braku zainteresowania przewozami
+pasa¿erskimi i towarowymi ostatecznie 01.06.2008 roku rozebrano.
+
+Rozk³ad pasa¿erski autentyczny z lata 2009 roku.
+Rozk³ad towarowy wed³ug w³asnych obserwacji.
+Lokomotywownia CM Poznañ Franowo. Czas zamówienia loków 120 minut.
+
+Parowóz Pt 47-65 MT Wolsztyn czynny w chwili tworzenia symulatora oraz u¿ywany
+sk³ad w kolorze oliwkowym w specjalnym poci¹gu „Pod par¹” umieœci³em
+z sympatii do parowozów.
+
+Odzwierciedlenie torowiska w 90%. Ruch sterowany jest semaforami œwietlnymi.
+Stacja posiada 2 niezadaszone perony w sumie o 3 krawêdziach.
+Wyœwietlanie PERONÓW - Opcje/Ustawienia/Kolory/Zaznaczamy - Wyœwietlaj
+rysunek jako t³o dla schematu stacji.
+
+UWAGA! Zalecane ustawienie zegara symulatora: 4 - 4,5.
+
+Kierunki:
+1. Bocznice zak³adów „Metalplast” - kierunek po³udniowo - wschodni
+2. Poznañ G³ówny, Katowice, Kraków, Wroc³aw - kierunek po³udniowy
+3. Pi³a g³ówna, Ko³obrzeg, Koszalin, S³upsk - kierunek pó³nocny
+
+Autor: Szymon Woelke
+graf_pol@poczta.onet.pl
+
+
+
+Stacja zosta³a stworzona 2009-11-01 przy pomocy programu PathFinder 2.0., EdyTorTor 1.01 i eRozk³ad 0.72.

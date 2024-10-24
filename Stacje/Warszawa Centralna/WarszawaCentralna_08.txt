@@ -1,0 +1,19 @@
+Stacja Warszawa Centralna 2008
+
+Plan stacji:
+
+1) kierunek W-wa Zachodnia
+2) kierunek W-wa Wschodnia
+3) kierunek W-wa Zachodnia
+4) kierunek W-wa Wschodnia
+
+-perony 1,2,3,4 nale¿¹ do stacji Warszawa Centralna.
+-peron w dolnej czêœci schematu to przystanek osobowy Warszawa Œródmieœcie.
+
+//lokomotywownia (W-wa Olsz. Grochowska) jest po³¹czona z obiema stacjami na schemacie.//
+//w celu dotarcia lokomotywy do uszkodzonych poci¹gów umieœci³em ,,ukryte,, rozjazdy, 
+  których w rzeczywistoœci nie ma, dlatego s¹ one niewidoczne.//
+
+¯yczê mi³ej zabawy!!!
+
+Igor Bubicz

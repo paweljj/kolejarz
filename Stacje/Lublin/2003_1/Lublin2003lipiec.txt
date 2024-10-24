@@ -1,0 +1,95 @@
+Tu stacja Lublin, tu stacja Lublin...
+
+
+STACJA - nieco uproszczona (chodzi o œrodek ekranu, czyli wokó³ lokomotywowni), ale zrobiona
+na podstawie autentycznych planów kolejowych.
+
+
+WJAZDY/WYJAZDY
+1 Lublin Zach. (w budowie - zreszt¹ wstrzymanej) - Radom / Dêblin - Warszawa / £uków
+2 Lublin Zemborzyce - Kraœnik - Stalowa Wola Rozwadów - Rzeszów / Przemyœl
+3 Lublin P³n. - Lubartów (niegdyœ do £ukowa) / Rejowiec - Che³m / Zamoœæ / Be³¿ec
+4 Lublin Tatary - Rejowiec - Che³m - Dorohusk
+
+
+LOKOMOTYWOWNIA
+Z uwagi na wymogi "Kolejarza" jest kilka modyfikacji. Lokomotywownia wachlarzowa (dawna 
+parowozownia) znajduje siê nieco "poni¿ej" zaznaczonej przeze mnie lokowni - w miejscu, gdzie
+zrobi³em tor postojowy dla autobusów szynowych. Tam de facto znajduj¹ siê hale dla spalinówek,
+a hale dla elektrowozów s¹ z kolei nieco "powy¿ej" lokowni. W rzeczywistoœci wszelakie loki, 
+a tak¿e EZT i szynobusy zje¿d¿aj¹ do hal tylko w przypadku napraw, a zazwyczaj stacjonuj¹ na
+torach miêdzy nasz¹ lokowni¹ a torami szlakowymi do wyjazdów 1 i 2.
+
+
+PERONY (id¹c "z góry"):
+nr 1 	- "z lewej" tor oporowy dla krótszych sk³adów odje¿d¿aj¹cych w kier. Dêblina i Rozwadowa
+	- "poni¿ej" tor przelotowy, z g³ównej hali dworcowej wychodzi siê w³aœnie wprost na ten tor
+	- "z prawej" tory oporowe do niedawna do obs³ugi ambulansów pocztowych (tam stoj¹ odstawione)
+nr 2	- "powy¿ej" tor przelotowy (na przed³u¿eniu toru szlakowego z Dêblina)
+	- "poni¿ej" tor przelotowy (na przed³u¿eniu toru szlakowego z Lublina Tatary)
+nr 3	- tory przelotowy o skróconej d³ugoœci
+nr 4	))) od wielu lat w planach )))
+
+
+TORY POSTOJOWE
+"poni¿ej" torów szlakowych
+ w kier. 1 i 2 		 - zelektryfikowany przelotowy dla potrzeb EZT (w rzeczywistoœci od strony
+			   wyjazdów 1 i 2 zablokowany wykolejnic¹ i nieu¿ywany)
+"powy¿ej" torów szlakowych
+ w kier. 1 i 2 		 - (nie)zelektryfikowane przelotowe do odstawiania sk³adów pasa¿erskich
+"powy¿ej" toru oporowego przy
+ peronie 1 "z lewej"	 - niezelktryfikowany oporowy dla wagonów baga¿owych i socjalnych oraz salonek,
+			   teraz jest tam odstawiony do rezerwy szynobus SN81-003 (a na przed³u¿eniu 
+			   znajduje siê myjnia mechaniczna, u nas zaznaczona te¿ jako tor postojowy -
+			   proponujê nie wykorzystywaæ)
+dalej "powy¿ej"		 - niezelktryfikowane oporowe do odstawiania sk³adów pasa¿erskich
+"poni¿ej" lokowni  	 - de facto hala lokomotywowni wachlarzowej, do odstawiania szynobusów (a
+			   skoro tak, to przebiegi mo¿na ustawiaæ tylko do punktów, gdzie mo¿e byæ
+			   ca³y sk³ad)
+
+TORY TOWAROWE
+Wiêkszoœæ manewrów zwi¹zana z formowaniem sk³adów odbywa siê obecnie na stacji Lublin Tatary.
+Wœród przelotowych torów towarowych jest jeden niezelktryfikowany, który od strony zachodniej ma 
+funkcjê manewrow¹ (brak mo¿liwoœci ustawienia przebiegów poza stacjê)
+
+
+ROZK£AD
+	- pasa¿erski w 100% autentyczny ze wszystkimi szczegó³ami w/g SRJP 2002/3 (wraz z
+	  dodatkami 2a/b/c/d), po korektach wprowadzonych w ¿ycie 15.07.2003, jedyna moja dowolnoœæ 
+	  to przypisanie lokomotyw EP07 do kilku poci¹gów (w dodatkach s¹ niewyró¿nione);
+	- towarowy w wiêkszoœci fikcyjny, ale z wykorzystaniem prawdziwych danych, które uda³o mi
+	  siê zdobyæ.
+
+ZMIANY W PORÓWNANIU Z SYMULACJ¥ LUBLIN2003:
+1. wycofanie ze sk³adów pasa¿erskich wagonów baga¿owych i ambulansów pocztowych
+2. odwo³anie kursowania poci¹gów:
+	- poc. 28908/82911 Lublin - Szczecin - Lublin (by³ to s³ad DDD)
+	- poc. 22521/22520 Lublin - Stalowa Wola Rozwadów - Lublin (weekendowy przyspieszony)
+3. zmiana rozk³adu poc. lokalnych na szlaku Lublin - Rozwadów
+	a) skrócenie trasy wiêkszoœci poc. do Rzeczycy - ostatniej stacji na linii
+	   znajduj¹cej siê w woj. lubelskim
+	b) korekty godzin odjazdów i przyjazdów oraz peronów
+	c) wprowadzenie do eksploatacji autobusu szynowego SA107-001
+	d) nowe obiegi sk³adów pasa¿erskich (dot. piêtrusów i szynobusów)
+4. korekty godzinowe w rozk³adzie
+	- poc. 28500 Lublin - Ko³obrzeg odjazd przyspieszony o 3 min. na obecny: 21.00
+	- poc. 909 £uków - Che³m przyjazd opóŸniony o 1 min. na obecny: 20.04
+	- poc. towarowe - dostosowanie do nowej wersji Kolejarza (d³u¿sza zajêtoœæ szlaku)
+5. zmiana EU07 CM Kraków obs³uguj¹cej poc. 23100/32101 Lublin - Kraków P³./Bielsko-Bia³a G³. -
+   Lublin na EU06 CM Kraków zgodnie z rzeczywistoœci¹
+Podsumowanie: 	na + wiêcej szynobusów, na - bez baga¿owych i pocztowych nudniej (mniej grup
+		wagonów, mniej manewrów, i po co ja te "pocztowe" dorabia³em...?)
+
+
+UWAGA! "Ma³e" (brak znaku >) i "du¿e" (kolor czarny zamiast zielonego) rozk³ady nie wykazuj¹
+potrzeby podmiany czêœci lokomotyw prowadz¹cych niektóre sk³ady towarowe - dotyczy trakcji
+podwójnej. Tak jest za spraw¹ Kolejarza.
+
+
+Mi³ej zabawy!
+Kontakt: Micha³ Lipiñski, ltek@wp.pl
+Korzysta³em z programów: Edytor (stacji) dla Kolejarza (EdK), PathFinder (PF) oraz z pomocy
+Paw³a JóŸwickiego.
+
+Stacja Lublin powróci... w rozk³adzie 1985/6 (ruch nieporównywalnie wiêkszy), a nastêpnie 
+w specjalnym wydaniu BEST OF THE BEST... To siê bêdzie dzia³o!!!

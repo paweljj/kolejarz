@@ -1,0 +1,24 @@
+Pozor!!! protoe je v rozpisu asi 250 vlakù,tak je nutné zmìnit volbu zobrazování
+grafikonu - jinak hra kolabuje!!! Je to v menu: Opcje/ Ustawienia / Rozk³ad 
+zaškrtnout volbu pierwszych a dopsat èíslo - tøeba 30 to úplnì staèí !!!
+
+Stanice Praha hlavní nádraí.Kolejištì je situováno z pohledu od
+vıpravèí budovy.Nákladní koleje slouí pro odstavení motorovıch vlakù z Turnova
+a ( Ml.Boleslav.).Pro vyplnìní èasu je zaøazeno nìkolik vlakù Èeské pošty.Ty však
+od vybudování poštovního terminálu v Praze-Malešicích na hlavní nádraí nejezdí.
+Nezapomeòte u motoráèkù z Turnova pøevìsit motorák na druhou stranu vlaku.Pouze asi 
+u dvou,které jezdí z a do odst.nádraí samozøejmì né.
+Vjezdy a vıjezdy		è.1  odstavné nádraí Vršovice
+			è.2  Øíèany - trati è.221 a è.210
+			è.3  Smíchovské nádraí,Beroun - trati è.122 a è.171
+			è.4  Kolín - tra è.011 
+			è.5  Lysá nad Labem - tra è.231
+			
+Grafikon je z jara 2003.Snail jsem se dodret i pøesné øazení vagonù.Bohuel pouze
+asi u 2/3 vlakù.Více jsem zatím nikde nezjistil.Moná,e nìkterı typ vagonu se Vám
+barevnì nelíbí,ale bohuel pøi pøevodu souboru z *.gif do 256 barev *.bmp se stává
+nepøíjemná "strkatost" barev.Za to se pøedem omlouvám.
+Vagonové sestavy vznikly díky stránce http://zelpage.webz.cz/razeni/index.htm
+za co prvozovatelùm stránky nesmírnì dìkuji. 
+S pozdravem Cziviš Gustav.
+czivis@volny.cz

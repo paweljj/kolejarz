@@ -1,0 +1,51 @@
+Linia 213 Reda-Hel
+Rozk³ad: lato 2008, weekend
+
+W³adys³awowo to stacja po³o¿ona mniej wiêcej w po³owie trasy z Gdyni do Helu w miejscu, gdzie zaczyna
+siê Pó³wysep Helski. Kilka lat temu otwarto tam nowoczesne centrum sterowania ruchem, które obs³uguje
+ca³oœæ trasy z Redy do Helu (z wy³¹czeniem tych stacji). Za wyj¹tkiem jednej pary szynobusu pe³ni funkcjê
+przelotow¹ i jednoczeœnie najwa¿niejszej mijanki na trasie. Ze wzglêdu na ograniczon¹ powierzchniê
+monitorów zmuszony by³em minimalnie zawêziæ wspomniany odcinek do dwóch skrajnych stacji, czyli
+Mrzezino oraz Jastarnia.
+
+KIERUNKI
+1 - Gdynia G³ówna, najbli¿sza stacja Reda Rekowo, najbli¿sza mijanka Reda (12 minut)
+2 - Hel, najbli¿sza stacja Jurata, najbli¿sza mijanka Hel (19 minut)
+
+UK£AD TOROWY
+Stacje - zgodny z rzeczywistoœci¹ w 99%
+Tory szlakowe - zgodny max w 10%, gdy¿ inaczej nie "upcha³bym" wszystkiego na ekranie
+
+ROZK£AD JAZDY
+Poci¹gi pasa¿erskie na podstawie SRJP 2007/2008, sk³ady i obiegi na podstawie dodatków 2B, 2C,
+www.intercity.pl oraz obserwacji w³asnych. Godziny odjazdów Ex "JANTAR" przesun¹³em o 5 minut do
+przodu w celu wyeliminowania opóŸnieñ spowodowanych wiêksz¹ dla ekspresów prêdkoœci¹ szlakow¹.
+Brak danych dotycz¹cych poci¹gów towarowych
+
+LOKOMOTYWOWNIA
+Najbli¿sza lokomotywownia znajduje siê w Gdyni, czas przyjazdu 45 minut, czas naprawy 120 minut
+
+UWAGI DO PROWADZENIA RUCHU
+Poniewa¿ (jak zapewne siê Graczu ju¿ zd¹¿y³eœ zorientowaæ) ta gra obejmuje faktycznie nie jedn¹, ale
+kilka stacji, wiêc wynika z tego kilka specyficznych problemów:
+1) godziny przyjazdów i odjazdów podane s¹ dla stacji Mrzezino oraz Jastarnia
+2) ze wzglêdu na ograniczenia "Kolejarza" trasy w grze prowadz¹ jedynie miêdzy s¹siednimi stacjami
+3) czasy przejazdów trasami zosta³y urealnione, to znaczy czas przejazdu wg wskazañ zegara "Kolejarza"
+jest identyczny jak w rzeczywistoœci (np: przejazd miêdzy stacjami Cha³upy i W³adys³awowo Port zajmie
+rozk³adowe 9 minut)
+4) szynobus relacji Gdynia - W³adys³awowo - Gdynia musi niestety posiadaæ kategoriê "s³u¿bowy" zamiast
+osobowy, ze wzglêdu na koniecznoœæ dojazdu zgodnie z rozk³adem do W³adys³awowa (osobowy by³by
+"zablokowany" w Mrzezinie przez 5 minut); jego planowy odjazd ze stacji W³adys³awowo to 4:23
+5) zainteresowanych szczegó³ami dotycz¹cymi miejsc mijanek i miejsc postojów odsy³am na www.pkp.pl;
+ambitniejsi gracze sobie na pewno poradz¹ bez tego :)
+
+PODZIÊKOWANIA
+Dla Arka Mizerskiego za dok³adne schematy stacji
+
+Przy tworzeniu stacji wykorzystano program Edytor dla Kolejarza (EdK)
+
+Mile widziane wszelkie uwagi - nawet krytyczne - dotycz¹ce stacji :)
+Adres mailowy dostêpny na: http://www.glowny-szlak-beskidzki.cba.pl/kontakt.html
+
+Mi³ej zabawy i ¿adnych opóŸnieñ!
+Kamil Kasperek

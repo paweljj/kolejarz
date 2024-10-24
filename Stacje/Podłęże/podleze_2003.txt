@@ -1,0 +1,62 @@
+		
+                       >>> Stacja Pod³ê¿e<<<
+
+Œrednia stacja wêz³owa na mogistrali E30 Kraków - Medyka. Tak wiêc nr 1 to
+kierunek Kraków, nr 2 to kierunek Tarnów. Szlak dwutorowy nr 3 to linia do
+stacji Kraków Batowice przez kompleks stacji Kraków Nowa Huta.
+Kierunek nr 4 to 3-kilometrrowa linia do stacji Niepo³omice. Kilka lat temu,
+gdy jeszcze jej sieæ trakcyjna nie by³a zdegradowana, kursowa³y w tamtym 
+kierunku sk³ady EZT z Krakowa (podobnie jak do Wieliczki). Obecnie ruch na 
+szlaku, tak pasa¿erski, jak i towarowy jest zawieszony.   
+
+Tory postojowe w miêdzytorzu z lewj strony stacji s³u¿¹ jako postój 
+dla poci¹gu sieciowego, gdy¿ w Pod³ê¿u znajduje siê sekcja elektrotrakcji.
+Poci¹g sieciowy oraz drezyna jest w rodzaju poci¹gu wpisany nie jako Towarowy
+lecz jako X. Moj¹ innowacj¹ jest tak¿e wprowadzenie dla tych poci¹gów relacji
+do stacji "szlak", gdy¿ s¹ to kursy awaryjne/wypadkowe.
+
+Do stcji doda³em równie¿ obs³ugê posterunków odga³êŸnych Rudzice (przy 
+kierunku nr 1) oraz Podgrabie (przy kierunku nr 3), które razem z Pod³ê¿em
+stanowi¹ charakterystyczny trójk¹t ze skrzy¿owaniami bezkolizyjnymi.
+
+Uk³ad torowy odwzorowany jest w 100%, podobnie jest z rozk³adem poci¹gów
+towarowy oraz pasa¿erskich. Natomiast kursy s³u¿bowe (drezyna i sieciowy)
+nie s¹ nigdzie normowane, wiêc ich rozk³ad jest w ca³oœci moim pomys³em.
+
+Lokomotywownia znajduje siê przy stacji Kraków Prokocim, a jej asortyment
+jest zbli¿ony do rzeczywistoœci (tylko potrzebne do tej stacji lokomotywy).
+Czas oczekiwania na lokomotywê to 15 min.
+
+Stacja cechuje siê du¿ym natê¿eniem ruchu w relacjach 1-->2, 2-->1, 3-->2,
+2-->3 w wiêkszoœci bez zatrzymania.
+
+S³usznie zauwa¿one jest znaczne podobieñstwo tej stacji do poprzednich
+moich dzie³ - stacji Tarnów Moœcice oraz Brzesko Okocim.
+
+S¹ one bowiem wraz z wieloma innymi stacjami do siebie bardzo podobne.
+Rozk³ad jazdy ró¿ni siê pojedynczymi poci¹gami oraz godzinami.
+
+Tak wiêc je¿eli nic nie stanie na przeszkodzie w planie mam tworzenie do 
+"Kolejarza" takich stacji jak:
+	Bochnia, Bogumi³owice, Biadoliny, K³aj i tym podobnych.
+
+Zapraszam równie¿ do pobrania ju¿ istniej¹cych.
+
+ród³a:
+	-Elektroniczny RJP Hafas 2003
+	-Sieciowy RJP 2003  
+	-S³u¿bowy RJP Towarowych 2003
+
+		
+Z uwagi na bardzo du¿¹ liczbê poci¹gów w rozk³adzie proszê wybaczyæ mi
+niedoci¹gniêcia natury logicznej (np. pokrywanie siê godzin odjazdów w tym
+samym kierunku). Wszelkie b³êdy i uwagi z wdziêcznoœci¹ przyjmê pod adresem:
+
+							xuk@wp.pl 
+
+		¯yczê mi³ej pracy na stanowisku dy¿urnego ruchu. :-)
+
+Autor: 
+	£ukasz Grocholski
+
+   

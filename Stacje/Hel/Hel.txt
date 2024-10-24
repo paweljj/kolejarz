@@ -1,0 +1,11 @@
+Wjazd/wyjazd 1 jest na Gdyniê. Wjazd/wyjazd 3 to bocznica do terenów wojskowych, jeŸdzi tam tylko towarowy z wêglem (1 wagon œrednio raz na dwa tygodnie), ograniczenie do 10 km/h na ca³ej trasie, w sumie pó³ godziny siê wlecze. Nie ma co siê dziwiæ - bocznica bez nadzoru, wagon na popych i jazda na widocznoœæ z kabiny. Kolorowo byæ nie mo¿e i w Kolejarzu trzeba go wysy³aæ z lokomotyw¹ z przodu z torów towarowych. A co najwa¿niejsze:-) Towarowy wje¿d¿a w tory przy peronach i równie¿ z nich wyje¿dza . Wjazd/wyjazd 2 to bocznica do portu rybackiego i tamtejszego zak³adu przetwórstwa rybnego - nie u¿ywana. Niestety kolej zosta³a wyparta przez TIR-y. :-(
+
+Lokomotywownia, która tam siê znajduje jest tylko na potrzeby symulacji. Spowodowane jest to tym, ¿e w razie przyjazdu uszkodzonej lokomotywy trzeba j¹ poprostu zmieniæ. Lokomotywy do sk³adów s¹ przydzielone przypadkowo, bo na Hel poci¹gi wysy³a siê z czym popadnie. Wyj¹tkiem jest "Jantar", który zawsze ma SU46 (chocia¿ na pmk ktoœ pisa³, ¿e jecha³ ze SMrodem). Sk³ad przyje¿d¿aj¹cy o 7:45 wyje¿d¿a 8:00 powinien dostaæ loka od poci¹gu o 7:11 (z Krakowa), ale na Helu siê tym za bardzo chyba nie przejmuj¹ i wyprawiaj¹ go z 5-cio minutowym opóŸnieniem. Poci¹g towarowy pojawia siê tam œrednio raz na dwa tygodnie, ale w symulacji jest codziennie. Oczywiœcie opóŸnienia s¹ tam do kilku minut i nale¿y odpowiednio ustawiæ opcje programu.
+
+W zestawieniach poci¹gów mog¹ wyst¹piæ b³êdy w iloœci wagonów, bo wszystkich sk³adów nie zapamiêta³em i by³em zmuszony do wpisywania ich z roku 2000.
+To tyle uwag, zapraszam do testowania i przesy³ania uwag i pytañ.
+
+Piotr Wawrzyniak
+warzywko.warzywko@interia.pl
+
+

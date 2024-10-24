@@ -1,0 +1,78 @@
+		--------------------------------------------------------------
+			Stacja Legionowo
+		--------------------------------------------------------------
+
+Przedstawiamy u¿ytkownikom Kolejarza stacjê Legionowo. Jest to miasto, w którym od lini
+	Warszawa - Gdynia odchodzi po³¹czenie Legionowo - T³uszcz. Z tego powodu przez stacjê
+	przewijaj¹ siê poci¹gi towarowe jad¹ce zarówno na pó³noc jak i pó³nocny wschód Polski.
+
+Uk³ad torowy zgodny z rzeczywistoœci¹ co do rozjazdu.
+
+
+	----------------------------------------------------------
+		Wjazdy/wyjazdy:
+	----------------------------------------------------------
+
+	1 - Warszawa (Warszawa Centralna, Warszawa Wola);
+	2 - Nowy Dwór Mazowiecki (Ciechanów, Gdynia, Olsztyn);
+	3 - Legionowo Piaski (Radzymin, T³uszcz, Bia³ystok);
+	4 - Warszawa Praga (przy wiêkszym ruchu na stacji, poci¹gi towarowe s¹ kierowane tu
+		w celu ust¹pienia wyjazdu 1 poci¹gom pasa¿erskim);
+	5 - sk³ad wêgla w Legionowie (w rozk³adzie 2007 ruch na tej lini zosta³ zawieszony).
+
+	------------------------------------------------------------
+		Perony
+	------------------------------------------------------------
+
+	1 - peron dwukrawêdziowy przelotowy;
+	2 - peron dwukrawêdziowy - przy górnej krawêdzi zatrzymuj¹ siê pociagi w kierunku Piasków,
+		przy dolnej - niektóre, przelotowe poci¹gi osobowe z Warszawy do Dzia³dowa;
+	3 - peron jednokrawêdziowy, za³adunkowy. 
+            Zatrzymuj¹ siê tu sk³ady z Warszawy Pragi w celu roz³adunku drewna.
+
+
+	------------------------------------------------------------------------
+		Tory postojowe/towarowe/inne:
+	------------------------------------------------------------------------
+
+	- "E" miejsce postoju drezyny roboczej;
+	- Poci¹gi towarowe z wjazdów 3 – 4/1, 1/4 – 3 powinny przeje¿d¿aæ torem
+		miêdzy peronem I i II i tak maj¹ ustawione przebiegi.
+
+	--------------------------------------------------------
+		Lokomotywownia:
+	--------------------------------------------------------
+
+	- najbli¿sza to oczywiœcie Warszawa Odolany;
+	- czas zamówienia  45 min.
+	- czas naprawy     60 min.
+
+
+	--------------------------------------------------------
+		Sk³ady i obiegi:
+	--------------------------------------------------------
+
+	- sk³ady poci¹gów rzeczywiste w 90% - stan aktualny: luty 2007;
+	- obiegi poci¹gów rzeczywiste w 95%;
+	- rzeczywisty obieg stonki przy sk³adach z Haubergen Trai i Warszawy Pragi jest inny,
+		ni¿ przedstawiony w symulacji - stonka jest jedna, a nie dwie i wraca z Piasków
+		luzem. Niestety w Kolejarzu nie da³o siê zobrazowaæ tego inaczej.
+
+
+	------------------------------------------
+		AUTORZY
+	------------------------------------------
+   ___________________________________________________
+1. projekt, pomys³, rysunki, dane, schemat stacji:
+		Igor Bubicz
+		igorb@op.pl
+		gg: 7657537
+   _______________________________________________
+2. opracowanie komputerowe schematu oraz rozk³adu:
+		Adam Kamiñski
+		adam@bopos.pl
+		gg: 6676645
+
+
+Wo³omin & Legionowo 2007
+2007-02-27

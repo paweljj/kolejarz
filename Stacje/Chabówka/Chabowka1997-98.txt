@@ -1,0 +1,16 @@
+Stacja: CHABÓWKA
+Rozk³ad Jazdy: 1997/1998
+Wersja: 2.00
+
+Co nowego:
+Stacjê przesun¹³em trochê do góry, doda³em te¿ 4-ty wyjazd prowadz¹cy do skansenu kolejowego.
+
+Uwaga:
+W Chabówce trzeba opóŸnienia dla poci¹gów osobowych i pospiesznych ustawiæ na góra 10 minut. W przeciwnym razie mo¿e zaistnieæ nastêpuj¹ca sytuacja: poci¹g relacji Kraków P³aszów - Zakopane przez Rabkê Zdrój bêdzie opóŸniony o 30 minut, i wczeœniej przyjedzie planowy ten sam poci¹g z Rabki do Zakopanego.
+
+W tej wersji nie ma jeszcze poci¹gów towarowych, bêd¹ w wersji póŸniejszej.
+
+Przy tworzeniu stacji korzysta³em z programów EdytorMK oraz Pathfinder.
+
+Autor: Rafa³ Kolczyñski
+e-mail: Meteorkkr@wp.pl

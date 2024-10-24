@@ -1,0 +1,43 @@
+------------------OGÓLNE----------------------------------------------------------
+Stacja: S³upsk
+Rozk³ad:
+-osobowe na podstawie Rejonowego RJP 2003
+-towarowe na podstawie informacji od Rafa³a Moszczyñskiego i Micha³a Marcinowicza,
+na rok 2002. W celu p³ynnoœci rozk³adu musia³em niektóre godziny poprawiæ +/-,
+aby nie kolidowa³y z osobowymi.
+
+Schemat stacji: na podstawie obserwacji.
+
+Sk³ady: na podstawie dodatku 2b,2c,2d do SRJ wraz z dostêpnymi uaktualnieniami.
+Najœwie¿sze zmiany loków (kilka EP07, zamiast EU07) na podstawie strony Henryka Gwardaka.
+Z informacji o zawieszeniach zdjêty wieczorny poci¹g do/z Szczecinka.
+-----------------WYJAZDY/WJAZDY---------------------------------------------------
+Linie jednotorowe zelektryfikowane:
+nr 1: kierunek Lêbork, Gdynia;
+nr 2: kierunek Ustka;
+nr 3: kierunek S³awno, Koszalin, Szczecin;
+Linia jednotorowe niezelektryfikowana:
+nr 4: kierunek Miastko, Szczecinek;
+----------LOKOMOTYWOWNIA-----------------------------------------------------------
+Najbli¿sza lokom.: Gdynia (CM Gdynia)
+Czas oczekiwania na przyjazd lokomotywy: 90 minut.
+Czas naprawy lokomotywy: 45 minut
+----------DODATKOWE INFORMACJE-----------------------------------------------------
+Loki podsylane sa poc.LPEc058421 o 5:29 z Gdyni, a wracaja poc.LPEc085420
+o 18:45 (nie uwzglednione w grze - brak opcji). Oprócz tego wysylane sa SM42 do 
+tankowania w Gdyni.
+W grze loki trzeba zamawiaæ z lokomotywowni w Gdyni na poczatku gry. Oprócz EU07 
+CM Gdynia (rezerwowa) wszystkie sa niezbedne. Dwie SM42 prowadza lokalne pociagi
+towarowe,jedna manewrowa. Pociagi towarowe zdawcze nie wszystkie kursuja codziennie,
+dlatego potrzebne sa cztery lokomotywy SM42.
+Loki nocuj¹ pod go³ym niebem. Istniejaca dawniej lokomotywownia zostala zlikwidowana.
+Poci¹gi w ikerunku Ustki odje¿d¿aj¹ z peronu 2 górna krawêŸ, a do Szczecinka z 1 
+dolna krawêdŸ. Czasmi z braku miejsca podstawia siê dwa sk³ady na ten sam tor.
+---------------------AUTOR---------------------------------------------------------
+Marek Junklewicz - marekjj@poczt.onet.pl
+wspólpraca:
+Grzegorz Mikosz - dyga3@wp.pl
+Rafa³ Moszczyñski
+Dziêkujê Grzegorzowi i Rafa³owi za pomoc przy budowie rozk³adu
+oraz cenne uwagi na temat stacji.
+=============================================================

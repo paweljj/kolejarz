@@ -1,0 +1,32 @@
+                  WIS£A G£ÊBCE dla Kolejarza 1.61
+
+WYJAZD:
+1-kierunek Goleszów
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znaduje sie w Czechowicach Dziedzicach. 
+Czas oczekiwania na elektrowóz - 80 minut.
+
+UK£AD TOROWY:
+Uk³ad torowy stacji jest napisany z dok³adnoœcia co do rozjazdu. 
+Widok na uk³ad torów od strony budynku stacji.
+
+SK£ADY I LOKOMOTYWY:
+Lokomotywy, wagony oraz jednostki sa autentyczne na postawie obserwacji 
+w³asnych. Przewozy towarowe na tej trasie nie s¹ prowadzone.
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie sieciowego rozk³adu jazdy pociagów z lata 1988.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz z lokomotywowni wjecha³ na stacje nale¿y wybrac trase do 
+pierwszego punktu manewrowego od wjazdu. Tory postojowe istniej¹, ale wjazd 
+na nie jest dozwolony tylko na odpowiedzialnoœæ pracownika kolei. 
+Wagon sypialny z Gdyni jest po przyjeŸdzie przetaczany na peron trzeci 
+i tam czeka na pociag do Bielska-Bialej.
+
+AUTOR:
+Krzysztof Wadolny            nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1
+

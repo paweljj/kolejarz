@@ -1,0 +1,33 @@
+------------------OGÓLNE----------------------------------------------------------
+Stacja: S³upsk
+Rozk³ad:osobowe na podstawie Rejonowego RJP 2002
+	towarowe na podstawie informacji od Rafa³a Moszczyñskiego i Micha³a Marcinowicza
+Schemat stacji: na podstawie obserwacji
+Sk³ady: na podstawie dodatku 2b,2c,2d do SRJ 
+-----------------WYJAZDY/WJAZDY---------------------------------------------------
+Linie jednotorowe zelektryfikowane:
+nr 1: kierunek Lêbork, Gdynia;
+nr 2: kierunek Ustka;
+nr 3: kierunek S³awno, Koszalin, Szczecin;
+Linia jednotorowe niezelektryfikowana:
+nr 4: kierunek Miastko, Szczecinek;
+----------LOKOMOTYWOWNIA-----------------------------------------------------------
+Najbli¿sza lokomotywownia: Gdynia (CM Gdynia)
+Czas oczekiwania na przyjazd lokomotywy: 90 minut.
+Czas naprawy lokomotywy: 45 minut
+----------DODATKOWE INFORMACJE-----------------------------------------------------
+Poc.10942 o 5:53 z Gdyni prowadzi loki EU07+SM42+SM42+ET22 po tankowaniu i wracaj¹,
+gdy skoñczy siê paliwo poc.10940 o 12:43. (nie uwzglednione w grze - brak opcji).
+W grze loki trzeba zamawiaæ z lokomotywowni w Gdyni na poczatku gry. Oprócz EU07 
+CM Gdynia (rezerwowa) wszystkie sa niezbedne. Cztery SM42 prowadza lokalne pociagi
+towarowe,jedna manewrowa. Pociagi towarowe zdawcze nie wszystkie kursuja codziennie,
+dlatego potrzebne sa dwie dodatkowe lokomotywy SM42.
+Loki nocuj¹ pod go³ym niebem. Istniejaca dawniej lokomotywownia zostala zlikwidowana.
+---------------------AUTOR---------------------------------------------------------
+Marek Junklewicz - marekjj@poczt.onet.pl
+wspólpraca:
+Grzegorz Mikosz - dyga3@wp.pl
+Rafa³a Moszczyñski
+Dziêkujê Grzegorzowi i Rafa³owi za pomoc przy budowie rozk³adu
+oraz cenne uwagi na temat stacji.
+==================================================================================

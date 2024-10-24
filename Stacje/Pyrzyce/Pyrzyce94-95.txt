@@ -1,0 +1,14 @@
+Stacja Pyrzyce.
+Rozk³ad poci¹gów pasa¿erskich 1994/95.
+
+Kierunki:
+-1 z/do st. Stargard Szczeciñski
+-2 z/do st. Lipiany, kierunek Kostrzyn
+-3 z/do st. Trzciñsko Zdrój, kierunek Godków
+-4 z/do st. Gryfino 
+
+Do powstania stacji przyczyni³ siê program PathFinder 2.0 i Edytor Dla Kolejarza 2.35.
+
+Autor: S³awomir Wieczorek
+     
+     sakorius@poczta.onet.pl 

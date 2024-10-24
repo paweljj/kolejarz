@@ -1,0 +1,63 @@
+Tu stacja Kraœnik...
+
+STACJA - uwagi
+W(y)jazd nr 1 - Stalowa Wola Rozwadów, najbli¿sza mijanka w Szastarce (ok. 10 min.)
+W(y)jazd nr 2 - Lublin, najbli¿sza mijanka w Wilko³azie Wsi (ok. 12 min.)
+W(y)jazd nr 3 - bocznica do Fabryki £o¿ysk Tocznych i Jednostki Wojskowej
+	(œredni czas przejazdu ok. 10 min.)
+Najbli¿sza lokomotywownia znajduje siê w Lublinie - lok luzem jedzie tylko 35 minut (jeœli nie musi
+czekaæ na mijankach).
+Poci¹gi przelotowe przeje¿d¿aj¹ce tranzytem maj¹ tylko 1 mo¿liwy przebieg torem
+g³ównym szlakowym.
+
+ROZK£AD - pakiet zawiera dwa pliki rozk³adów:
+Kraœnik2004 obrazuje aktualn¹ wg rozk³adu 2003/4 sytuacjê przewozow¹ wraz z poci¹gami 428/427
+uruchomionymi "po og³oszeniu" (F). Jak widaæ stacja jest senna, tylko z rzadka o¿ywia siê, gdy  
+mijaj¹ siê tu po dwa lub nawet trzy sk³ady. Rozk³ad jest rzeczywisty, z ma³ymi poprawkami niezbêdnymi 
+z uwagi na techniczne ograniczenia "Kolejarza".
+-podsy³ loka luzaka ma zmieniony numer z 0427 na 90427
+-zwrot loka do CM Lublin ze zmienionym numerem z 0426 na 90426 i z dodatkowym wagonem,
+ którego w rzeczywistoœci nie ma
+-jeœli gra siê d³u¿ej ni¿ jedn¹ dobê, "Kolejarz" nie realizuje póŸniej podsy³u loka i trzeba go "rêcznie"
+ zamówiæ
+-poci¹gi, których godziny przyjazdu i odjazdu s¹ to¿same maj¹ planowy postój 0,5 minuty
+-zdawki z Tatar do Szastarki niekoniecznie musz¹ zawieraæ grupê wagonów do/z Kraœnika, choæ
+ rozk³ad przewiduje rezerwê czasow¹ na od³¹czenie/przy³¹czenie wagonów i manewry (robi to
+ SM42 od sk³adu)
+
+Kraœnik2004F (F jak future - przysz³oœæ lub fiction - fikcja, jak kto woli))) obrazuje planowan¹ od
+1 maja 2004 r.  sytuacjê przewozow¹. Wedle tych planów PZ Lublin ma uruchomiæ piêæ wahade³
+relacji Lublin - Kraœnik - Rzeczyca i z powrotem ze œredni¹ czêstotliwoœci¹ co godzinê. Cztery z
+nich maj¹ obs³ugiwaæ autobusy szynowe (po dwa SA107 i SN81), poniewa¿ na razie nie planuje siê
+zakupu kolejnego - pi¹te wahad³o prawdopodobnie ma byæ zestawiane z tradycyjnego wagonu B 
+i loka, o ile oczywiœcie plany bêd¹ wdro¿one w maksymalnym rozmiarze.
+-wedle najœwie¿szych informacji parze 428/427 nie grozi zawieszenie / odwo³anie / likwidacja
+-w tym wariancie rozk³adu podsy³ i zwrot loka prawdopodobnie mia³by nastêpowaæ poprzez
+ realizacjê poci¹gów 515/530 podwójn¹ trakcj¹ - zak³adam, ¿e bêdzie to 2 x SM42, a opóŸnienia
+ tej pary i pary 428/427 wzajemnie mog¹ na siebie oddzia³ywaæ (nie nale¿y zamawiaæ 
+ dodatkowych loków)
+-wprowadzenie tylu kursów szynobusów poci¹gnie za sob¹ drobne zmiany w rozk³adach
+ pozosta³ych poci¹gów oraz zmiany w obiegach lokomotyw, co postara³em siê intuicyjnie
+ przewidzieæ
+-t³ok na szlaku spowoduje albo przesuniêcie rozk³adu poci¹gów 33891 albo przetrasowanie
+ jego i powrotnego 55590 na Rejowiec - Zwierzyniec - Stalow¹ Wolê Po³udnie, któr¹ tras¹
+ ju¿ teraz kursuj¹ równolegle poci¹gi relacji Jaszczów - Po³¹niec - Jaszczów; wobec braku 
+ informacji w projekcie zaryzykowa³em opóŸnienie sk³adu 33891
+-pomin¹³em ostatni¹ przewidzian¹ w wariancie rozk³adu parê szynobusów 1000/1001 relacji
+ Lublin - Stalowa Wola Rozwadów - Lublin, poniewa¿ i tak wyczerpane zostan¹ aktualne 
+ mo¿liwoœci taborowe PZ Lublin, a jej rozk³ad koliduje z innymi sk³adami
+-niekonsekwencje w numeracji nie s¹ moim wymys³em
+
+Podziêkowania:
+-Grzegorz Piotrowski przekaza³ mi szczegó³owy rozk³ad stacji
+-MSX po wycieczce do Kraœnika wykona³ galeriê zdjêciow¹, na której opar³em siê przy
+ tworzeniu schematu stacji (bo swojej pamiêci wola³em nie ufaæ do koñca)))
+-Marinio z Kraœnika uzupe³ni³ braki w schemacie i mojej wiedzy o stacji
+S³u¿by specjalne rz¹dowe i kolejowe prosi siê o pozostawienie w/w osób w œwiêtym
+spokoju, gdy¿ nie maj¹ nic wspólnego z al-Kaid¹)))
+-korzysta³em z programów: EdK i PF.
+
+Autor: Micha³ Lipiñski, ltek@wp.pl
+
+CDN...to bêdzie analogiczna do Kraœnika2004F wersja Lublina2004F, myœlê te¿ o Dêblinie2004
+	£ukowie2004 i Lublinie-Best of the best...

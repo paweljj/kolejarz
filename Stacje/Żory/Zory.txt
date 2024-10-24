@@ -1,0 +1,61 @@
+           ¯ORY  dla  KOLEJARZA
+
+¯ory to stacja wêz³owa pomiêdzy Rybnikiem a Pszczyn¹ (tab.154 w SRJP) oraz
+Orzeszem a Paw³owicami (tab. 157) - odcinek Orzesze - ¯ory zamkniêty w
+czerwcu 2001, obecnie w du¿ej czêœci "sprywatyzowany" przez z³omiarzy
+
+WYJAZDY
+1 - Rybnik (14km) - nastêpny przystanek Szczejkowice, nastêpna stacja Rybnik
+Gotartowice(8km)
+2 - Chybie(22km), Paw³owice Górnicze (14km) - nastêpny przystanek ¯ory
+Baranowice, nastêpna stacja Warszowice(7km)
+3 - Pszczyna(22km), KWK Krupiñski(5km) - nastêpny przystanek Suszec
+Rudzuczka, nastêpna stacja Suszec(7km)
+4 - Orzesze(14km) - nastêpny przystanek Palowice Kolonia, nastêpna stacja
+Orzesze(14km) - brak mijanek - linia zamkniêta
+5 - by³e zak³ady tworzyw sztucznych  Krywa³d ERG (5km) - obecnie raz na
+tydzieñ jakieœ cysterny tam je¿d¿¹.
+
+
+LOKOMOTYWOWNIA:
+Rybnik
+Czas zamówienia: 25 minut
+Przy zamawianiu nale¿y zwracaæ uwagê aby lokomotywa mia³a podniesiony prawid³owy pantograf (tylny)
+
+ROZK£AD:
+2003 na podstawie SRJP
+Poci¹gi towarowe na podstawie rozk³adu 2002 (tylko taki uda³o siê zdobyæ)
+Pierwszy poci¹g w grze w rzeczywistoœci przyje¿d¿a o godz. 0:01, 
+ze wzgledów technicznych musia³ zostaæ przesuniêty o kilka minut.
+
+UK£AD TOROWY, SK£ADY I LOKI:
+Na podstawie w³asnych obserwacji
+
+UWAGI DO KIEROWANIA RUCHEM:
+
+Od czasu zamkniêcia linii do Orzesza poci¹gi osobowe w kierunku Rybnika odje¿d¿aj¹ z peronu 1
+a w kierunku Pszczyny z górnej krawêdzi peronu 3. Poci¹gi pospieszne w kierunku Rybnika 
+odje¿d¿aj¹ z peronu 2.
+Poniewa¿ wyjazd nr 3 musi byæ zaprogramowany jako znjaduj¹cy siê po prawej stronie stacji,
+poci¹gi jad¹ce ³¹cznic¹ z kierunku 3>->2 z pominiêciem stacji ¯ory musz¹ pojawiaæ siê z lokiem
+z ty³u.
+
+AUTORZY:
+
+PLIK STC:
+Schemat stacji-Jaros³aw Szymura
+Przebiegi i poprawki-Grzegorz W¹sowicz
+
+PLIK ROZ:
+Informacje o poci¹gach towarowych-Jaros³aw Szymura
+Poci¹gi pasa¿erskie oraz wykonanie pliku-Grzegorz W¹sowicz
+
+W stworzeniu rozk³adu bardzo pomóg³ eRozk³ad.
+
+Ogromne podziêkowania dla Jaros³awa Szymury za sporo cennych sugestii i uwag.
+
+Wszelkie uwagi proszê kierowaæ na adres: kolejoman@poczta.onet.pl
+
+      ¯YCZYMY MI£EGO ZARZ¥DZANIA ¯ORAMI !!!
+
+2004

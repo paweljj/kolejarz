@@ -1,0 +1,13 @@
+Stanice Kamenné Žehrovice - GVD 2004
+
+Stanice se nachází na trati 120 Praha - Chomutov.
+
+Lokomotiva z depa do stanice: objednejte lokomotivu v depu,
+(bude se hlásit za 20 minut) potom kliknìte na jakékoliv místo 
+ve stanici a lokomotiva tam vjede pøes vjezd è. 1.
+Lokomotiva ze stanice do depa: z jakéhokoliv místa ve stanici,
+kde se nachází neschopná lokomotiva kliknìte na depo a lokomotiva 
+do nìj odjede pøes výjezd è. 1.
+
+Jindøich Èížek
+jindrich.cizek@quick.cz

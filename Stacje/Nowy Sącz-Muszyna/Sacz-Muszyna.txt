@@ -1,0 +1,63 @@
+Wa¿ne informacje! PRZECZYTAJ KONIECZNIE!
+
+Linia 96, odcinek Nowy S¹cz Biegonice-Muszyna-Leluchów
+Rozk³ad jazdy: 2002
+
+Linia nr 96 to trasa kolejowa o d³ugoœci 146 km, prowadz¹ca z Tarnowa do Leluchowa. Ze wzglêdu
+na jej charakter (górzysty teren, niekorzystna geometria toru, tory w nienajlepszym stanie)
+przejazd ni¹ zajmuje obecnie ok. 4 godzin. Przejazd pomiêdzy Nowym S¹czem a Muszyn¹ dochodzi do ponad
+1 godziny. Od Tarnowa linia prowadzi pocz¹tkowo stosunkowo w¹sk¹ dolin¹ Bia³ej, wspinaj¹c siê za
+stacj¹ Stró¿e pod górê dziêki pomocy chyba najs³ynniejszej kolejowej serpentyny w Polsce. Dalej
+nastêpuje stosunkowo p³aski odcinek do okolic Rytra, odk¹d linia kolejowa do samego koñca biegnie
+wysok¹, strom¹, zalesion¹ i bardzo krêt¹ dolin¹ rzeki Poprad, która na tym odcinku swojego biegu
+przecina Karpaty. Odcinek ten jest bezapelacyjnie najpiêkniejszym krajobrazowo fragmentem linii
+kolejowej w Polsce, co potwierdzaj¹ nie tylko niezliczone rankingi; liniê nr 96 niejednokrotnie
+pokonywa³ s³ynny "Orient Express". Powa¿nym ciosem dla linii by³o zerwanie 4 czerwca podczas
+katastrofalnej powodzi w 2010 roku mostu na Popradzie w okolicy Starego S¹cza. Odbudowa mostu trwa³a
+ponad pó³ roku i pierwsze poci¹gi wznowi³y kursowanie w styczniu 2011.
+
+KIERUNKI
+1 - Nowy S¹cz, Tarnów, Kraków; najbli¿sza stacja i mijanka Nowy S¹cz (4 minuty)
+2 - Plavec, Koszyce, Budapeszt; najbli¿sza stacja Circ, najbli¿sza mijanka Plavec (13 minut)
+3 - Krynica; najbli¿sza stacja Muszyna Zdrój, najbli¿sza mijanka PowroŸnik (9 minut)
+
+UK£AD TOROWY
+Stacje - uproszczony, zgodny z rzeczywistoœci¹ w 80%
+Tory szlakowe - zgodny max w 10%, gdy¿ inaczej nie "upcha³bym" wszystkiego na ekranie
+
+ROZK£AD JAZDY
+Poci¹gi pasa¿erskie na podstawie SRJP 2002, sk³ady i obiegi na podstawie dodatków 2B, 2C,
+www.intercity.pl oraz obserwacji w³asnych. Umieszczone na ekranie wartoœci minutowe oznaczaj¹
+czas przejazdu miêdzy s¹siednimi STACJAMI (trasy ³¹cz¹ wy³¹cznie stacje oraz przystanek Leluchów).
+Poci¹gi towarowe orientacyjnie wg rozk³adu jazdy z 2004 roku.
+
+LOKOMOTYWOWNIA
+Najbli¿sza lokomotywownia znajduje siê w Nowym S¹czu, czas zamówienia 10 minut, czas naprawy 120 minut.
+
+UWAGI DO PROWADZENIA RUCHU
+Poniewa¿ (jak zapewne siê Graczu ju¿ zd¹¿y³eœ zorientowaæ) ta gra obejmuje faktycznie nie jedn¹, ale
+kilka stacji, wiêc wynika z tego kilka specyficznych problemów:
+1) godziny przyjazdów i odjazdów podane s¹ dla stacji Nowy S¹cz Biegonice, Muszyna (kier. do/z Krynicy)
+oraz Leluchów
+2) ze wzglêdu na ograniczenia "Kolejarza" trasy w grze prowadz¹ jedynie miêdzy s¹siednimi stacjami
+3) pomiêdzy stacjami Rytro oraz Piwniczna musia³em "oszukaæ" program, wiêc trasy prowadz¹ce miêdzy nimi
+mog¹ wygl¹daæ nietypowo i konieczny mo¿e byæ dwuklik po PRZECIWLEG£EJ stronie peronu
+4) czasy przejazdów trasami zosta³y urealnione, to znaczy czas przejazdu miêdzy stacjami wg wskazañ
+zegara "Kolejarza" jest identyczny jak w rzeczywistoœci
+5) niektóre poci¹gi musia³em poddaæ drobnej korekcie w kwestii godzin odjazdów i przyjazdów
+6) poci¹gi towarowe maj¹ planowy d³u¿szy postój na stacji w Muszynie; w zwi¹zku z tym wyjazd sk³adów
+towarowych w kierunku Nowego S¹cza odbywaæ siê musi "na czuja", niestety; sk³ady te powinny wyjechaæ
+z Muszyny ok. 2 godzin przed planow¹ godzin¹ odjazdu
+7) szczególnie czujnym trzeba byæ w przypadku poci¹gów wyprawianych wjazdem-wyjazdem nr 2; po pierwsze
+nie mo¿na "zaspaæ" z odjazdem z Muszynym,a po drugie trzeba uwa¿aæ, ¿eby nie zablokowaæ szlaku dwoma
+poci¹gami jad¹cymi w przeciwnych kierunkach.
+
+Przy tworzeniu stacji wykorzystano program Edytor dla Kolejarza (EdK)
+Minimalna rozdzielczoœæ niezbêdna do gry to 1280x800
+
+Mile widziane wszelkie uwagi - nawet krytyczne - dotycz¹ce stacji :)
+Adres mailowy dostêpny na: http://www.glownyszlakbeskidzki.cba.pl/kontakt.html
+Zapraszam tak¿e do korzystania z linii nr 213 Reda-Hel oraz linii 99 Chabówka-Zakopane
+
+Mi³ej zabawy i ¿adnych opóŸnieñ!
+Kamil Kasperek

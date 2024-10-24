@@ -1,0 +1,61 @@
+Linia 99 Chabówka-Zakopane
+Rozk³ad jazdy: zima 2008/2009
+
+Linia nr 99 jest czeœci¹ trasy kolejowej o d³ugoœci 147 km, prowadz¹cej z Krakowa G³ównego do
+Zakopanego. Ze wzglêdu na jej charakter (górzysty teren, niekorzystna geometria toru, tory w kiepskim
+stanie) przejazd ni¹ zajmuje obecnie od ok. 3,5 godziny (ekspresy i osobowe) do ok. 5 godzin (pospieszne).
+Przejazd miêdzy chabówk¹ a Zakopanem dochodzi do 1 godziny.
+Od Chabówki linia prowadzi ca³y czas w¹sk¹ dolina rzeki Raby, pn¹c siê nieustannie pod górê.
+Kulminacjê stanowi urokliwy przystanek Pyzówka, znajduj¹cy siê idealnie na Prze³êczy Sieniawskiej,
+oddzielaj¹cej Gorce od Pasma ¯eleŸnicy (Beskidy). Po miniêciu prze³eczy otwiera siê widok na Tatry.
+Poci¹g nastepnie zje¿d¿a w dó³ w kierunku Nowego Targu, po czym po p³askim terenie zmierza do
+Poronina. Za Poroninem poci¹g wspina sie po raz ostatni, do stacji Zakopane.
+
+KIERUNKI
+1 - Chabówka, Kraków; najbli¿sza stacja Rokiciny Podhalañskie, najbli¿sza mijanka Chabówka (7 minut)
+2 - Zakopane; najbli¿sza stacja i mijanka Zakopane (7 minut)
+
+UK£AD TOROWY
+Stacje - zgodny z rzeczywistoœci¹ w 95%
+Tory szlakowe - zgodny max w 10%, gdy¿ inaczej nie "upcha³bym" wszystkiego na ekranie
+
+ROZK£AD JAZDY
+Poci¹gi pasa¿erskie na podstawie SRJP 2008/2009, sk³ady i obiegi na podstawie dodatków 2B, 2C,
+www.intercity.pl oraz obserwacji w³asnych.
+Rozk³ad jazdy obejmuje zimowy szczyt przewozowy, z wy³¹czeniem poci¹gów dodatkowych; ich stosunkowo
+olbrzymia iloœæ doprowadza czasem do ca³kowitej blokady stacji Zakopane, wobec czego poci¹gi koñcz¹
+bieg w Poroninie lub w Bia³ym Dunajcu, a taka sytuacja nie by³aby mo¿liwa do odtworzenia w
+"Kolejarzu".
+Umieszczone na ekranie wartoœci minutowe oznaczaj¹ czas przejazdu miêdzy s¹siednimi STACJAMI
+(tak¿e trasy ³¹cz¹ wy³¹cznie stacje).
+Brak danych dotycz¹cych poci¹gów towarowych.
+
+LOKOMOTYWOWNIA
+Najbli¿sza lokomotywownia znajduje siê w Chabówce, czas przyjazdu 20 minut, czas naprawy 120 minut
+
+UWAGI DO PROWADZENIA RUCHU
+Poniewa¿ (jak zapewne siê Graczu ju¿ zd¹¿y³eœ zorientowaæ) ta gra obejmuje faktycznie nie jedn¹, ale
+kilka stacji, wiêc wynika z tego kilka specyficznych problemów:
+1) godziny przyjazdów i odjazdów podane s¹ dla stacji Raba Wy¿na oraz Poronin
+2) ze wzglêdu na ograniczenia "Kolejarza" trasy w grze prowadz¹ jedynie miêdzy s¹siednimi stacjami
+3) czasy przejazdów trasami zosta³y urealnione, to znaczy czas przejazdu wg wskazañ zegara "Kolejarza"
+jest identyczny jak w rzeczywistoœci
+4) w zwi¹zku z dodanym - w ramach protestu - do rozk³adu poci¹giem "GIEWONT" (po kilkunastu latach
+kursowania nagle zosta³ usuniêty z rozk³adu w grudniu 2008), drobnej korekcie uleg³a godzina
+przyjazdu poci¹gu nr 38710
+5) poci¹g typu "retro" (66527 oraz 66524) ma planowy d³u¿szy postój i mijanki na stacji Nowy Targ
+6) istnieje mo¿liwoœæ odes³ania zepsutej lokomotywy do szopy bezpoœrednio z punktu postojowego,
+ulokowanego po prawej stronie stacji Raba Wy¿na.
+
+PODZIÊKOWANIA
+Dla Marcina Kreis za cenne uwagi przy tworzeniu trasy
+
+Przy tworzeniu stacji wykorzystano program Edytor dla Kolejarza (EdK)
+Minimalna rozdzielczoœæ niezbêdna do gry to 1280x800
+
+Mile widziane wszelkie uwagi - nawet krytyczne - dotycz¹ce stacji :)
+Adres mailowy dostêpny na: http://www.glownyszlakbeskidzki.cba.pl/kontakt.html
+Zapraszam tak¿e do korzystania z linii nr 213 Reda-Hel.
+
+Mi³ej zabawy i ¿adnych opóŸnieñ!
+Kamil Kasperek

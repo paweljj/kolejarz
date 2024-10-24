@@ -1,0 +1,27 @@
+=============================================================
+------------------OGÓLNE----------------------------------------------------------------------------
+Stacja: WIERZCHUCIN ver. 0.1
+Rozk³ad: na podstawie Rejonowego RJP (wakacje 2002)
+Schemat stacji: autentyczny
+Sk³ady: na podstawie dodatku 2c do SRJ i w³asnych obserwacji
+Ograniczenia: brak poci¹gów towarowych (bêd¹ w kolejnej wersji)
+-----------------WYJAZDY--------------------------------------------------------------------------
+WYJAZD nr 1: kierunek Maksymilianowo., Bydgoszcz G³.;
+(linia 201 Nowa Wieœ Wlk.-Gdynia P. Centr.)
+WYJAZD nr 2: kierunek Lipowa Tuch., B¹k, Koœcierzyna, Gdynia G³.;
+(linia 201 Nowa Wieœ Wlk.-Gdynia P. Centr.)
+WYJAZD nr 3: kierunek Laskowice Pom., Grudzi¹dz, Jab³onowo Pom.;
+(linia 208 Dzia³dowo-Chojnice)
+WYJAZD nr 4: kierunek Tuchola, Chojnice;
+(linia 208 Dzia³dowo-Chojnice)
+----------LOKOMOTYWOWNIA----------------------------------------------------------------
+Najbli¿sza lokom.: Bydgoszcz (CM Bydgoszcz)
+Czas oczekiwania na przyjazd lokomotywy: 55 minut.
+Czas naprawy lokomotywy: 3 godziny
+----------W PRZYGOTOWANIU...--------------------------------------------------------------
+Stacja Starogard Gdañski
+---------------------AUTOR--------------------------------------------------------------------------
+Bartosz Chilicki, TCZEW
+bartchi@poczta.onet.pl
+=============================================================
+wszelkie uwagi przesy³aæ na w/w adres

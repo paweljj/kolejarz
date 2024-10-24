@@ -1,0 +1,63 @@
+
+		__________________________________
+
+		     KO£OBRZEG - ROZK£AD 2004
+		__________________________________
+
+W rozk³adzie jazdy na lato 2004 wystêpuje du¿o poci¹gów ³¹czonych, taki, a nie inny wygl¹d prac
+manewrowych na stacji (prze³¹czanie wagonów miêdzy poc, formowanie w³aœciwej kolejnoœci wagonów)
+wynika z dodatku 2b do SRJP, jak i w³asnych obserwacji.
+	
+		__________________________________
+
+			      STACJA
+		__________________________________
+
+Uk³ad torowy stacji wykonany przez Rafa³a Siejakowskiego (z moimi ma³ymi przeróbkami)
+jest dok³adnym odzwierciedleniem stanu rzeczywistego. "Nieczynne" bocznice na schemacie
+stacji s¹ w rzeczywistoœci wykorzystywane przez wczasy wagonowe. Na potrzeby gry tory
+znajduj¹ce siê na pó³noc od lokomotywowni jak równie¿ tor do lokomotywowni zosta³y
+zelektryfikowane; na prawdziwej stacji w tym miejscu znajduje siê niezelektryfikowana
+hala dla EZT; wci¹ganiem i wyci¹ganiem lokomotyw i EZT z hali i szopy zajmuje siê
+lokomotywka SM03. Niestety, poniewa¿ w Kolejarzu nie jest mo¿liwe wepchniêcie EZT przez
+lokomotywê spalinow¹ na tory bez trakcji, SM03 pozostaje w zasadzie bezrobotna;
+ewentualnie mo¿na jej u¿yæ do wyci¹gania EZT i pojedynczych loków z torów postojowych.
+Wyci¹ganie ni¹ d³u¿szych sk³adów by³oby ju¿ ma³o realne lub w ogóle niemo¿liwe (raczej
+trudno za pomoc¹ lokomotywy o mocy silnika 150KM ruszyæ 12 wagonów).
+Wyjazd nr 1 - Koszalin, Trójmiasto
+Wyjazd nr 2 - Bia³ogard, Poznañ, Szczecin
+Wyjazd nr 3 - Goleniów (i dalej Szczecin)
+Wyjazd nr 4 - Ko³obrzeg Port
+
+		__________________________________
+
+                     KILKA RAD DOTYCZ¥CYCH GRY
+		__________________________________
+
+Dolny tor peronu I (œlepy) jest krótki i mieœci zazwyczaj sk³ady osobowe, czasem krótkie
+sk³ady dalekobie¿ne - do 6 wagonów. Bywaj¹ sytuacje, ¿e trzeba podstawiaæ dwa sk³ady
+na jeden tor.
+Sk³ady w wiêkszoœci czekaj¹ na torach postojowych poni¿ej wyjazdu na Bia³ogard (nr 2),
+w razie potrzeby u¿ywane s¹ równie¿ niezelektryfikowane tory u góry schematu.
+Manewry zazwyczaj wykonuje tylko jedna lokomotywa SM42 (najczêœcie pada na nr 1005).
+EZT oraz szynobus stacjonuj¹ na torach ko³o lokomotywowni. Lokomotywy albo w lokomotywowni,
+albo na punktach postoju dla lokomotyw powy¿ej wyjazdu na Goleniów (nr 3).
+
+
+		__________________________________
+
+			       INNE
+		__________________________________
+
+*brak jest poci¹gów towarowych, nie zdoby³em ¿adnych danych
+*powstanie rozk³adu u³atwi³ program StationInfo 1.0
+*Wszelkie uwagi nt. stacji, przebiegów, sk³adów itp. proszê przesy³aæ na mój e-mail: 
+
+		_____________________________________
+ 		                     
+			  mk_koszalin@pf.pl
+		_____________________________________
+
+Mi³ej zabawy!
+Marek Skrzypkowski
+www.mk.koszalin.prv.pl

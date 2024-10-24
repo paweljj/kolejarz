@@ -1,0 +1,21 @@
+Kcynia 99
+
+Uk³ad torowy taki jak w rzeczywistosci.
+Rozk³ad jazdy wziêty z s³u¿bowych rjp.z 99 roku z wyjatkiem
+pociagu 153/152 ,który jest z 96 roku.
+Sk³ady i ich obiegi podobne do rzeczywistoœci.
+
+Lokomotywownia:
+czas oczekiwania na lokomotywê wynosi 70 minut
+
+W przygotowaniu:
+Nak³o n/Noteci¹
+
+Przy tworzeniu stacji pomog³y:
+StationInfo 1.0
+Edytor dla Kolejarza 2.35
+PathFinder 2.0
+
+Wszelkie uwagi proszê kierowaæ pod adres:
+Bart³omiej Jasiñski
+btmtk@poczta.fm

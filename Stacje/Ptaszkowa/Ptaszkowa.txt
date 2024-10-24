@@ -1,0 +1,35 @@
+                                PTASZKOWA  dla  KOLEJARZA
+
+Ptaszkowa jest przystankiem osobowym po³o¿onym na linii Stró¿e-Nowy S¹cz.
+
+WYJAZDY:
+1-kierunek: Nowy S¹cz  nastêpna stacja: Mszalnica
+2-kierunek:  Stró¿e    nastêpna stacja: Grybów
+
+UK£AD TOROWY:
+Realistyczny, na podstawie w³asnych obserwacji.
+Rozjazd po stronie wyjazdu nr 1 dodany na potrzeby gry.
+
+SK£ADY I LOKI:
+Na podstawie w³asnych obserwacji.
+
+ROZK£AD JAZDY:
+Jesieñ 2003  
+Na podstawie Internetowego Rozk³adu Jazdy
+Godziny przejazdów poci¹gów pospiesznych i ekspresowych
+s¹ ustalone "na oko". 
+
+LOKOMOTYWOWNIA:
+Lokomotywownia jest w Nowym S¹czu. 
+Czas zamówienia: 25 minut.
+Przy zamawianiu lokomotywy nale¿y zwróciæ uwagê,
+aby mia³a podniesiony prawid³owy pantograf (tylny).
+Gdy przyjedzie poci¹g z uszkodzon¹ lokomotyw¹, 
+nale¿y najpierw odes³aæ zepsut¹ do szopy a dopiero
+potem zamówiæ now¹.
+
+Przy budowie stacji korzysta³em z Edytora MK.
+
+¯YCZÊ MI£EGO ZARZ¥DZANIA PTASZKOW¥!
+
+Grzegorz W¹sowicz   kolejoman@poczta.onet.pl

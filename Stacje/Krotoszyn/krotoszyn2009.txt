@@ -1,0 +1,86 @@
+WÊZE£ KROTOSZYN - LATO 2009 ROK
+
+Stacjê i dworzec wraz z zadaszonymi peronami w stylu pruskim wybudowano
+w 1875 roku, gdy uruchomiono jednotorow¹ liniê Jarocin - Oleœnica.
+Oficjalne otwarcie nast¹pi³o 30.06.1875 roku. Nastêpnie 01.10.1888 roku
+dobudowano dwutorow¹ liniê Leszno - Ostrów Wielkopolski.
+Podczas II wojny œwiatowej (1943 r.) Niemcy wybudowali dwutorow¹ trasê
+omijaj¹c¹ stacjê Krotoszyn (posterunek odga³êŸny Osusz - Nastawnia Durzyn).
+Pierwszy dworzec istnia³ do lat siedemdziesi¹tych XX wieku. PóŸniej
+wybudowano nowy dworzec w stylu modernistycznym, który oddano do u¿ytku
+15.09.1970 roku.
+24.09.1987 roku zelektryfikowano liniê do Ostrowa Wielkopolskiego,
+a nastepnie do Jarocina i Oleœnicy. Po postawionych s³upach na krótkim
+odcinku w stronê Leszna mo¿na przypuszczaæ, ¿e planowano elektryfikacjê
+i tego odcinka, jednak zmiany gospodarczo - polityczne uniemo¿liwi³y to.
+
+Warto tak¿e wspomnieæ, ¿e budynek dworca by³ tak¿e dworcem Krotoszyñskiej
+Kolei Dojazdowej (KKD). Powsta³a ona 15.05.1900 roku i trasa wiod³a do Dobrzycy,
+a od 10.07.1900 roku do Kowalew/Pleszew PKP, od 01.01.1905 roku do Pleszew Miasto,
+od 01.01.1946 roku do Broniszewic. Niestety ju¿ 01.01.1972 roku zamkniêto,
+a 01.01.1974 roku rozebrano liniê Pleszew Miasto - Broniszewice.
+Taki sam los podzieli³a linia Krotoszyn - Kowalew choæ znacznie póŸniej,
+zosta³a zamkniêta 30.11.1986 roku, a rozebrana 01.01.1990 roku. Ostatnio
+podpisano list intencyjny w celu odbudowy w³aœnie tego odcinka
+i uruchomienia kolejki! Do dzisiaj kursuje z krótk¹ przerw¹ w¹skotorówka
+tylko na linii Pleszew PKP - Pleszew Miasto.
+Na by³ym peronie KKD w Krotoszynie stoi pomnik - poci¹g w¹skotorowy:
+Parowóz Px48 1764, wagon pocztowy i wagon osobowy.
+
+Na terenie stacji by³a kiedyœ 6 stanowiskowa lokomotywownia.
+Obecnie jest to PKP Cargo S.A. Zak³ad Taboru w Ostrowie Wielkopolskim
+Sekcja Napraw Rewizyjnych Wagonów Towarowych w Krotoszynie (tzw. wagonownia).
+Znajduje siê tu tak¿e jedyne w Polsce Centrum Logistyczne AVV prowadz¹ce gospdarkê
+czêœciami do wagonów towarowych w ruchu miêdzynarodowym.
+
+W symulatorze Kolejarz uj¹³em ca³y wêze³ krotoszyñski, dlatego jest
+posterunek odga³êŸny Osusz i nastawnia Durzyn, która obecnie le¿y w granicach
+administracyjnych miasta. Nastawnia Durzyn w rzeczywistoœci le¿y w poprzek
+do stacji Krotoszyn, ale poniewa¿ program na to nie pozwala umieœci³em j¹
+poziomo. Ponadto tor kolei w¹skotorowei jest obecnie tylko pod sk³adem - pomnikiem,
+a poniewa¿ Kolejarz nie umo¿liwiatego tak zaprezentowaæ graficznie musi byæ
+po³¹czony z reszt¹ torów normalnotorowych.
+
+Obecnie ¿adna z bocznic nie jest u¿ywana w Krotoszynie, oprócz bocznicy
+do elewatora. Dla urozmaicenia gry uruchomi³em wszystkie.
+
+Odzwierciedlenie torowiska w 90%. Rozk³ad jazdy poci¹gów pasa¿erskich
+oryginalny, poza poci¹giem relacji: Leszno - Leszno nr 7743 „Parowozem
+przez Wielkopolskê”, Jelenia Góra - Hel nr 65100 „Kolonijny”
+i Hel - Jelenia Góra nr 56101 „Kolonijny”.
+Rozk³ad jazdy poci¹gów towarowych fikcyjny.
+
+Wyœwietlanie PERONÓW - Opcje/Ustawienia/Kolory/Zaznaczamy - Wyœwietlaj
+rysunek jako t³o dla schematu stacji.
+
+Stacja podlega do Lokomotywowni Ostrów Wielkopolski.
+
+Kierunki:
+1. Oleœnica, Wroc³aw, Jelenia Góra, Katowice - kierunek po³udniowy
+2. Bocznica Gs „Samopomoc Ch³opska”/ P.P.-H. „Ewa” - kierunek po³udniowo - zachodni
+3. Leszno, G³ogów - kierunek zachodni
+4. PKP Cargo Wagonownia Krotoszyn - kierunek pó³nocny
+5. Jarocin, Poznañ - kierunek pó³nocny
+6. Bocznica Przedsiêbiorstwa Ceramiki Budowlanej „Cerabud” S.A. - 
+   kierunek zachodnio - pó³nocny
+7. Ostrów Wielkopolski, Kalisz, £ódŸ Kaliska, Warszawa - kierunek wschodni
+8. Bocznica Elewatora zbo¿owego P.P.-U.-H. ARKOPAW
+
+Opis skrótów:
+B - bocznice z rampami
+KKD - Krotoszyñska Kolei Dojazdowa
+£ - ³adowania
+N - nastawnia
+ND - Nastawnia Durzyn
+PCW - PKP Cargo Wagonownia
+POO - posterunek odga³êŸny Osusz
+
+
+¯yczê mi³ej zabawy!
+
+Autor: Szymon Woelke
+graf_pol@poczta.onet.pl
+
+Stacja zosta³a stworzona 2009-03-04 przy pomocy programu EdyTorTor 1.01,
+PathFinder 2.0. i eRozk³ad 0.72.
+

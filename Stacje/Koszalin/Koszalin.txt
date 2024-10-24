@@ -1,0 +1,62 @@
+		___________________________________
+
+			     KOSZALIN
+		___________________________________
+
+Koszalin jest œredni¹ stacj¹ wêz³ow¹, umiejscowion¹ prawie poœrodku miêdzy Szczecinem
+(odleg³oœæ 175 km) a Gdyni¹ (178 km). Stacja posiada trzy wyjazdy:
+	-na Szczecin (trasa równie¿ na Poznañ)
+	-na Ko³obrzeg
+	-na S³upsk, Gdañsk
+Ruch na niej poza sezonem letnim jest niezbyt du¿y, ale w lipcu-sierpniu liczba poci¹gów
+znacznie wzrasta. Czasami zdarza siê tak (gdy jakiœ jest opóŸniony), ¿e na dwa tory przy
+peronie s¹ trzy poci¹gi.
+		__________________________________
+
+			   ROZK£AD 2002
+		__________________________________
+
+*Rozk³ad jest oparty na okresie letnim, kiedy to przez Koszalin przewija siê sensowna iloœæ
+poci¹gów (kilkanaœcie wiêcej, ni¿ w okresie zimowym). 
+*Wszystkie poci¹gi maj¹ maksymalne sk³ady, jakie s¹ dla nich przewidziane na okres letni.
+*Obiegi i sk³ady poci¹gów wed³ug w³asnych obserwacji (bardzo bliskie rzeczywistoœci).
+*Poci¹gi towarowe nie s¹ zgodne z rzeczywistoœci¹.	
+
+		__________________________________
+
+			   ROZK£AD 2003
+		__________________________________
+
+*Rozk³ad jest oparty na okresie letnim. 
+*Sk³ady oparte s¹ na dok³adnym dniu, a mianowicie na pi¹tku (kiedy to kilka poci¹gów ma parê wagonów wiêcej).
+*Obiegi i sk³ady poci¹gów dalekobie¿nych wed³ug dodatku 2b do SRJP 02/03.
+*Mog¹ wystêpowaæ b³êdy w obiegach i sk³adach EZT.
+	
+		__________________________________
+
+			      STACJA
+		__________________________________
+
+*Stacja jest uproszczona, ale bliska rzeczywistoœci.
+*Wszystie rozk³ady maj¹ ten sam plik stacji.
+*Najbli¿sza lokomotywownia jest w Bia³ogardzie (19 min. jazdy), z której dostêpne jest na
+potrzeby Koszalina zaledwie kilka lokomotyw.
+
+		__________________________________
+
+			       INNE
+		__________________________________
+
+*powstanie rozk³adu u³atwi³ program StationInfo 1.0
+*powstanie stacji program Edytor dla Kolejarza (EdK) Wersja 2.35 kompilacja 5003 oraz PathFinder 2.0
+*Wszelkie uwagi nt. stacji, przebiegów, sk³adów itp. proszê przesy³aæ na mój e-mail: 
+
+		_____________________________________
+ 		                     
+			  mk_koszalin@pf.pl
+                _____________________________________
+
+		
+
+Mi³ej zabawy!
+Marek Skrzypkowski

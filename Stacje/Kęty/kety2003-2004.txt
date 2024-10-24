@@ -1,0 +1,56 @@
+
+ Kêty, lato 2004
+
+ Stacja le¿y na linii 117 Kalwaria Lanckorona - Bielsko Bia³a G³ówna.
+
+ Wyjazdy:
+ 1 - Wadowice, Kalwaria
+ 2 - Bielsko Bia³a
+ 3 - bocznica do ZML Kêty (huta aluminium, bocznica u¿ywana bardzo sporadycznie)
+ 4 - bocznica do tartaku (nieu¿ywana)
+
+ Uk³ad stacji odwzorowany w 100%. Widok od strony budynku stacji - pó³noc znajduje
+ siê "na dole".
+
+ Najbli¿sza lokomotywownia:
+ ZT Czechowice Dziedzice, czas przyjazdu lokomotywy z szopy wynosi 80 minut.
+
+ UWAGA!
+ Do poprawnego dzia³ania symulacji nale¿y skopiowaæ pliki PKP_S_TW_Bdu_02.bmp,
+ PKP_S_TW_Bh_01.bmp i PKP_S_TW_XK_01.bmp do katalogu z taborem.
+
+   Rozk³ad poci¹gów osobowych wed³ug ERJP 2003/04. Sk³ady na podstawie w³asnych obserwacji
+ (poci¹gi lokalne je¿d¿¹ ró¿nie, raz jedzie bydgoskie raz klasyczne).
+   Zdawka jest autentyczna, z tym ¿e w symulacji jeŸdzi codziennie - w rzeczywistoœci do Kêt
+ jeŸdzi maksymalnie dwa razy w tygodniu, a œrednio raz na miesi¹c. Do Andrychowa dociera
+ jeszcze rzadziej. Sk³ad na podstawie w³asnych obserwacji, jednak prawie nigdy nie trafia
+ siê taki sam - wybra³em doœæ charakterystyczne zestawienie. Godziny przyjazdu zdawczego
+ w rzeczywistoœci s¹ przeró¿ne - raz przyjedzie przed dziesi¹t¹, raz po trzynastej. Poci¹g
+ ten wymienia wagony (z ka¿dym kursem zostawia wagony na parê dni zabieraj¹c poprzednie),
+ z powodu ograniczeñ "Kolejarza" dany sk³ad opuszcza stacjê w tym samym dniu w którym
+ przyjecha³.
+   Poci¹g sieciowy zosta³ dodany dla urozmaicenia - choæ niedawno (kwiecien - sierpieñ)
+ doœæ czêsto kursowa³ w zwi¹zku z przegl¹dem trakcji.
+
+ Uwagi dotycz¹ce prowadzenia symulacji:
+ - Po przyjeŸdzie zdawczego nale¿y odstawiæ sk³ad koñcz¹cy bieg na niezelektryfikowany tor
+   na dole stacji ("pod" peronami) - jest tam plac ³adunkowy.
+ - Podczas krzy¿owañ osobówek sk³ad jad¹cy z Bielska (w lewo) wje¿d¿a na drugi tor (od do³u),
+   a sk³ad do Bielska na trzeci.
+ - Po przyjeŸdzie zdawczego z Andrychowa przed krzy¿owaniem osobowych nale¿y go przygotowaæ
+   do odjazdu i ustawiæ na torze 4 (górnym).
+ - Poci¹gu zdawczego nie nale¿y wyprawiaæ na szlak z toru ³adunkowego.
+ - Po przyjeŸdzie sieciowca mo¿na siê nim pobawiæ w przegl¹d trakcj:) Przed przyjazdem
+   osobowego (14:20) powinien usun¹æ siê na tor 4.
+
+ Zapraszam do symulacji stacji Kozy, w przysz³oœci Bielsko Bia³a Wschód,
+ byæ mo¿e te¿ Andrychów i Wadowice.
+
+ Przy budowie stacji i rozk³adu pomog³y programy:
+ Edytor dla Kolejarza v2.61, Path Finder v2.0 oraz eRozk³ad v0.56
+
+ Przyjemnej zabawy,
+ Pawe³ Okrzesik (paul@wizja.net.pl)
+
+ Zapraszam:
+ www.kolej.of.pl - dodatkowe informacje o linii 117 i nie tylko

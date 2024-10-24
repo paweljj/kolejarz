@@ -1,0 +1,54 @@
+******************** INFORMACJE O STACJI ********************
+
+--- OGÓLNE ---
+Stacja: Miñsk Mazowiecki (stacja graniczna III strefy komunikacyjnej aglomeracji warszawskiej)
+Rozk³ad: opracowany na podstawie SRJP (12.12.2004-10.12.2005)
+Rozk³ad jazdy jest dla ka¿dego pi¹tku roku szkolnego. Dodatkowo, dla urozmaicenia gry umieœci³em kilka
+poci¹gów, m.in. ex NIDA rel. Lublin-Gdynia G³., nocny pospieszny rel. Œwinoujœcie-Lublin kursuj¹ce jedynie
+w okresie wakacji, a tak¿e specjalny poci¹g na przystanek WOODSTOCK uruchomiony w dniu 04.08.2005
+(do Kostrzyna) i 07.08.2005 (z Kostrzyna).
+Poci¹gi w kierunku do/z Lublina jad¹ce ³¹cznic¹ - stan na dzieñ 10.08.2005.
+Obiegi EZT: na podstawie dodatków do SRJP
+
+--- WYJAZDY ---
+WYJAZD nr 1: Warszawa (najbli¿szy przystanek osobowy: Wrzosów)
+WYJAZD nr 2: Siedlce (najbli¿szy przystanek osobowy: Miñsk Mazowiecki Anielina)
+WYJAZD nr 3: T³uszcz
+WYJAZD nr 4: Pilawa
+WYJAZD nr 5 i WYJAZD nr 6: na teren ZNTK Miñsk Mazowiecki
+
+--- PERONY I TORY POSTOJOWE ---
+PERON 1: poci¹gi koñcz¹ce bieg w Miñsku Mazowieckim;
+PERON 2: kilka poci¹gów koñcz¹cych bieg w Miñsku Mazowieckim;
+PERON 3: poci¹gi przelotowe.
+W celu graficznego przedstawienia uk³adu peronów proszê w³¹czyæ opcjê "rysunek jako t³o".
+
+TORY POSTOJOWE DLA POC. OSOBOWYCH: nie ma jako takich torów postojowych. Poci¹gi koñcz¹ce
+bieg czekaj¹ na godzinê odjazdu przy peronie (z wyj¹tkiem dwóch poci¹gó s³u¿bowych w godzinach
+16:30-17:00) - wóczas nale¿y skorzystaæ z torów towarowych.
+
+--- LOKOMOTYWOWNIA ---
+Czas oczekiwania na przyjazd lokomotywy (CM Warszawa): 40 minut
+Czas naprawy lokomotywy: 2 godziny (120 minut)
+Lokomotyw¹ z Zak³adu Taboru nale¿y podjechaæ do pierwszego punktu postojowego.
+Lokotowyw¹, któr¹ chcemy odes³aæ do Zak³adu Taboru, nale¿y podjechaæ do punktu postojowego przed
+wyjazdem nr 1, a nastêpnie odes³aæ do lokomotywowni. Analogicznie z poci¹gami wyje¿d¿aj¹cymi
+i przyje¿d¿aj¹cymi do/z ZNTK - nale¿y wjechaæ na tory towarowe przed wyjazdami 5/6.
+
+--- ROZK£AD ---
+Rozk³ad jazdy poci¹gów pasa¿erskich jest dok³adnym odzwierciedleniem ruchu na stacji.
+Rozk³ad jazdy poci¹gów towarowych jest fikcyjny.
+
+--- INNE STACJE ---
+*Celestynów
+*Puszcza Mariañska
+*Siemiatycze
+*Skierniewice
+*¯yrardów
+
+--- AUTOR ---
+Micha³ Rudnicki, Skierniewice
+michal.rudnicki@gazeta.pl
+www.kmforum.boo.pl
+
+*************************************************************

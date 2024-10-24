@@ -1,0 +1,172 @@
+Tu stacja Dêblin, tu stacja Dêblin...
+
+Ten help bêdzie siê ró¿ni³ od poprzednich - nie mam tyle czasu (a wiecie, ile godzin zabiera³o mi jego 
+napisanie?)
+
+Zrobimy tak - nowym graczom radzê poczytaæ pliki: Deblin2006.txt (g³ównie o rozk³adzie) i Deblin1985.txt 
+(o stacji), a nastêpnie to, co poni¿ej. Starzy "wyjadacze" mog¹ graniczyæ siê do hepla poni¿ej - 
+sprawdŸmy formê FAQa:)
+
+==========================
+
+...Tak napisa³em rok temu, teraz bêdzie jeszcze inaczej. Rozk³ad do Dêblina2008 napisa³em w czerwcu, 
+w ostatniej wolnej chwili, potem przeprowadzi³êm siê, materia³y, które zapisywa³em do helpa zagubi³y siê, 
+sam dysk siê spali³, wiele rzeczy przepad³o... Na szczêœcie Dêblin2008 ocala³ na USB, ale nie mia³êm czasu 
+na dokoñczenie testów i napisanie helpa. Teraz testy zakoñczone, wykry³em jedn¹ niezgodnoœæ miêdzy tym, co
+napisa³em i co jest w pliku roz a tym, co siê pokazuje na ekranie (zamiast loku CTL jest CARGO przy poc. 
+320580/1 - ja tego nie rozumiem). Udostêpniam plik z rozk³adem, bo szkoda mojej pracy - i tak szkoda, ¿e 
+dopiero teraz, po zmianie rozk³adu - z namiastk¹ nowego helpa i odwo³aniem do poprzedniego.
+
+Rozk³ad jest z grudnia2007 - bez technologicznych, indywidualnych itp. Przy pociagach do / z Radomia - 
+oznaczenie jest PR/KM, bo to ezety z Lublina, ale kursuj¹ce na zlecenie KM, wiêc kolorystyka burt i prawo 
+w³asnoœci to co innego, ni¿ przewoŸnik zamawiaj¹cy kursy. Z tego, co pamiêtam w paru przypadkach trochê
+skorygowa³em o parê minut godziny przyjazdu lub perony, np. oko³o 19.00 nie mieszcz¹ siê wszystkie poci¹gi.
+A o 7.50 i 7.53 2 poci¹gi w odje¿d¿aj¹ z tego samego toru w przeciwnych kierunkach - t³ok na stacji, a sk³ady
+s¹ krótkie. Jest parê fajnych sytuacji, które siê ju¿ nie powtórz¹ - jednokierunkowy (przez Dêblin) ekspres
+Hel - Kraków, planowany szynobus do £ukowa. Tak wiêc kto chce, niech poczyta helpa 2007/8 - coœ tam pomo¿e:
+
+==========================
+
+1. STACJA
+1.1 Dlaczego schemat stacji dla rozk³adu 2007 ró¿ni siê od poprzednich, za to przypomina ten z 1985 r.?
+	Ten wykorzystany dla rozk³adu 1985 powsta³ w oparciu o niedawno otrzymane materia³y. 
+	Pomijaj¹c zmiany wynik³e z przebudowy stacji, elektryfikacji linii ³ukowskiej oraz zmiany 
+	przeznaczenia torów "L,O,K" (1985) / "E,Z,T" (2007) by³ najbli¿szy realiom. Ta wersja zawiera 
+	te¿ wyczekiwane przez kilku graczy, którzy do mnie pisali, rozszerzenie uk³adu torowego o 
+	³¹cznicê przy posterunku odga³êŸnym Wis³a (ruch Lublin - Radom). Nie jest to mimo wszystko 
+	schemat idealny. Latem 2007 planowa³em "wizytacjê" i wierne odtworzenie czêœci towarowej, 
+	do której mam najwiêcej zastrze¿eñ. Z³amanie nogi oddali³o realizacjê tych planów. Mo¿e za rok...
+1.2 Co kryje siê za poszczególnymi oznaczeniami literowymi torów?
+	WAG - prawdopodobna dawna grupa torów postojowych dla sk³adów wagonowych (patrz 
+	symulacja z 1985 r.), obecnie ogrodzona i niewykorzystywana
+	TOR - 2 grupy torów, bêd¹ce baz¹ maszyn Zak³adu Napraw Infrastruktury z siedzib¹ 
+		w Radomiu (st¹d tyle kursów oci¹gów technologicznych na stacji), na grupie 
+		pomiêdzy czêœci¹ pasa¿ersk¹ stacji a grup¹ DBT oprócz pojazdów torowych 
+		stacjonuj¹ wycofane wagony dwuosiowe stanowi¹ce zaplecze socjalne
+	S - 	zaplecze sieciowców
+	P(PG/PD) - tory postojowe ("górny" i "dolny") dla ezetów, obecnie g³ównie 
+		Kolei Mazowieckich
+	R -	rampa, przypuszczam ¿e na tym torze odstawiano bipy na pocz¹tku 2007 r.
+	DBT - grupa torów towarowych dla poci¹gów tranzytowych w relacjach 1-5/6 oraz 
+		rzadziej 2-6 oraz 5/6-1/3
+	EZT - grupa torów postojowych dla ezetów PKP PR, przystosowana do PK 
+		(przegl¹dów kontrolnych)
+	TOWAR - g³ówne tory stacji Dêblin Towarowy, z nich i na nie odbywa siê ruch 
+		szlakowy
+	I -	tor przy peronie I (oznaczenie pomocnicze w tabeli przyjazdów)
+	III - "górny" tor przy peronie III (oznaczenie pomocnicze w tabeli przyjazdów)
+1.3 Sk¹d wiadomo, który poci¹g towarowy zatrzymuje siê w Dêblinie, a który w Dêblinie Towarowym?
+	Proszê zagl¹daæ do du¿ej tabeli przyjazdów, tam s¹ wyró¿nione te zatrzymywane na stacji 
+	towarowej. Tam tak¿e s¹ porady a propos odstawiania na d³u¿ej kibelków.
+1.4 Czy "kibelki" odstawia siê tylko na tory oznaczone literami "E,Z,T"?
+	EN57 PKP PR tak, KM na PD, PG, I oraz III. Ale ¿ycie wymusza ró¿ne sytuacje, "s³oneczka" KM 
+	widaæ	te¿ czasem przy wjeŸdzie na grupê "E,Z,T", gdzie na krótko przepuszczaj¹ inne sk³ady.
+1.5 Co to za tory w dolnej czêœci ekranu?
+	Ten pojedynczy niezelektryfikowany "poni¿ej" grupy DBT to skrajny tor bêd¹cy pozosta³oœci¹ po 
+	bardzo rozbudowanej grupie DBT (patrz symulacje z 1985 r. i w przysz³oœci z 1990 r. i nastêpnych), 
+	jego przeznaczenie jest mi obecnie nieznane. Piêæ torów zelektryfikowanych poni¿ej zielonego 
+	kwadrata oznaczaj¹cego dawn¹ lokomotywowniê wachlarzow¹ to miejsce, gdzie obecnie 
+	odstawia siê loki. To miejsce do szczegó³owego zbadania, tak jak i tory dodatkowe 
+	w czêœci towarowej, gdzie "przerabia siê" grupy relacyjne poci¹gów towarowych.
+1.6 Co to za parowóz - pomnik przy peronie I?
+	Stacja Dêblin wraz z dworcem i czêœci¹ otoczenia przesz³¹ niedawno niez³y lifting. Efektownym 
+	dodatkiem do wyremontowanego drewnianego dworca jest ustawiony na cokole pomnik - ³adnie 
+	oœwietlony noc¹ parowóz, jeœli dobrze pamiêtam uratowany z jakiejœ kolejki leœnej (Pionki?). 
+	Pojawi³ siê zim¹ 2006/7 r.
+1.7 Po co jest podwójny wjazd i wyjazd nr 6?
+	Zerknij do pliku "Deblin1985.txt".
+1.8 Dlaczego nie widzê ca³ej stacji (nie mieœci siê z prawej strony)?
+	Masz za ma³y monitor:( Do czasu wymiany zagraj w Dêblin2006 lub Lublin2007.
+1.9 Czy ci¹gle - tak, jak w Dêblinie 1985 - s¹ k³opoty z przebiegami do torów, gdzie w obecnej symulacji stoj¹ 
+	e-loki?
+	Niestety tak. Trzeba klikaæ i próbowaæ. Ponadto na tych torach tabor jst wyœwietlany odwrotnie,
+	tzn. po zaznaczeniu przebiegu z tych torów pojedzie to co jest "z lewej strony" - jakby loki by³y
+	w lustrzanym odbiciu.
+
+2. ROZK£AD
+2.1 Co to za rozk³ad?
+	Opar³em siê o dodatki (dawne oznaczenie): 2a/b/c/d i dane z KWR. Symulacja obrazuje 
+	sytuacjê z rozk³adu 2006/7 - stan na pocz¹tek obowi¹zywania rozk³adu. W ruchu 
+	pasa¿erskim przedstawi³em maksymaln¹ liczbê poci¹gów - w zasadzie s¹ to za³o¿enia 
+	pod sezon wakacyjny i dzieñ roboczy, ale uwzglêdni³em te¿ np. weekendowe CISY. 
+	Rozk³ad poci¹gów towarowych to rozk³ad podstawowy i poci¹gi rzeczywiœcie kursuj¹ce 
+	w ci¹gu pierwszego miesi¹ca obowi¹zywania rozk³adu. To samo dotyczy ruchu s³u¿bowego 
+	(w tym poci¹gów technologicznych) i luzaków. W odró¿nieniu od Dêblina2006 nie 
+	zaufa³em "trasom katalogowym" z KWR - czêœæ znich nie zosta³a wykorzystana, a i co 
+	do relacji mo¿na by³o mieæ zastrze¿enia. 
+2.2 Czy dane dotycz¹ce Kolei Mazowieckich s¹ prawdziwe?
+	Tak, korzysta³em z odpowiednika dodatku 2d. Tak wiêc zarówno zestawienie (w tym bipy), jak i 
+	przejœcia takie w³aœnie by³y. Jedynie pomin¹³em aferê z kilkakrotnym przed³u¿aniem remontu 
+	tunelu œrednicowego w Warszawie, kiedy relacje wszystkich poci¹gów w kierunku stolicy by³y 
+	zmienione na "Warszawê Wsch.".
+2.3 Dlaczego tak du¿o jest poci¹gów technologicznych, o trakcji spalinowej i elektrycznej?
+	Informacje o takich poci¹gach dosta³em, a w grudniu i styczniu by³o ich od groma. Zak³ad 
+	Napraw Infrastruktury w Radomiu ci¹gle wysy³a³ z Dêblina swoje poci¹gi w okolice ¯ytkowic, 
+	Œwidnika oraz w ró¿ne miejsca w Polsce. Fikcj¹ jest tylko ich zestawienie w poszczególnych 
+	przypadkach. Zreszt¹ wiele jednorazowych przejazdów pomin¹³em.
+2.4 Jakie s¹ powody niekonsekwencji numeracji poci¹gów technologicznych oraz luzaków?
+	To pytanie do PKP PLK. W pozosta³ych przypadkach zmiana mo¿e dotyczyæ tylko koniecznoœci 
+	zast¹pienia 0 na pocz¹tku przez 9, bo "Kolejarz" tego nie toleruje.
+2.5 Co to za luzaki S200 nale¿¹ce do prywatnego opetarora - Lubelski Wêgiel Bogdanka?
+	W rozk³adzie z grudnia 2006 i stycznia 2007 LW Bogdanka prowadzi³a poci¹gi tylko 
+	z Jaszczowa do Che³ma, a z Jaszczowa do Dêblina przewoŸnik kilkakrotnie zamawia³ 
+	tylko kursy luzem. Po co? Nie wiem. Mo¿e to coœ w rodzaju jazdy próbnej?
+2.6 Sk¹d pewnoœæ, ¿e poci¹g turystyczny 12601/21600 jest do/z Ko³obrzegu?
+	W ubieg³ym roku pisa³em, ¿e nie znam stacji koñcowej tego poci¹gu. Dopiero z 
+	obserwacji dowiedzia³em siê, ¿e jecha³ do Gi¿ycka, ale w tym roku jest to ³¹cznik 
+	do poci¹gu Warszawa Zach. - Ko³obrzeg. JeŸdzi na zmiany turnusów kolonijnych.
+2.7 Co to za poci¹gi s³u¿bowe kursuj¹ce pomiêdzy £ukowem a Skar¿yskiem?
+	Te EN57 w zestawieniu 2ezt kursuj¹ stale, dwa razy w tygodniu. Poniewa¿ PR w Kielcach
+	nie dysponuj¹ ezetami, od lat wykorzystuj¹ tabor lubelski. Nie zmieni³o tego powstanie
+	Kolei Mazowieckich, które te¿ korzysta³y z tych samych kibelków, co przewidywa³y obiegi.
+	Tegoroczna decyzja KM o zaprzestaniu korzystania z nich i postawienia na bipy (na krótko)
+	oraz kibelki wymalowane w firmowe s³oneczka (te¿ de facto w³aœnoœæ PKP PR) spowodowa³a
+	odciêcie sieci œwiêtokrzyskiej od lubelskiej. St¹d te wahad³owe podsy³y do Punktu
+	Utrzymania w £ukowie na PK. Widok kibelków jad¹cych z £ukowa na wiadukcie nad wylotem linii
+	warszawskiej oraz na ³uku wykorzystywanym tylko przez brutta jest wart aparatu:)
+2.8 Czym spowodowane s¹ ma³ê korekty godzin przyjazdów lub odjazdów poci¹gów?
+	W kilku przypadkach faktycznie musia³em te korekty wprowadziæ, by w Kolejarzu poci¹gi
+	w³aœciwie siê mija³y, bez krzy¿owania przebiegów. S¹ to ró¿nice góra 3 minut. Jedynie
+	kilka poci¹gów z kierunków 5 i 6 wje¿d¿aj¹cych na Dêblin Towarowy musi poczekaæ minutê
+	lub dwie, ale i tak przybywaj¹ na stacjê przed czasem (wyprzedzenie jest zrobione z myœl¹
+	o czasie dojazdu na Dêblin tzw. pasa¿erski).
+2.9 Co to za pojedyncze wagony przy poci¹gach oznaczonych jako LOK?
+	Opisa³em to w pliku "Lublin2006.txt".
+
+3. TABOR
+3.1 Dlaczego tak czêsto zamiast lokomotyw serii EU07 pojawiaj¹ siê ET22?
+	Fakt, ¿e dodatki przewiduj¹ pracê "siódemek" przy ka¿dym poci¹gu pasa¿erskim nie oznacza, 
+	¿e to one prowadz¹ poci¹gi. Obecnie w Lublinie s¹ du¿e braki tej serii. St¹d pojawiaj¹ siê 
+	ET22 (tak¿e z CM Bydgoszcz, ale nie da siê teraz wprowadziæ tablicy dotycz¹cej tak¿e 
+	Zak³adu Taboru). Za to w ekspresie kontenerowym EU07 zazwyczaj jest:)
+3.2 Dlaczego niektóre wagony i lokomotywy nie wygl¹daj¹ tak, jak w rzeczywistoœci?
+	To prawda. Np. wagony Bhr oraz loki prywaciarzy zast¹pi³em innymi, bo po prostu nie 
+	ma ich teraz narysowanych. Pomó¿ i zrób brakuj¹ce tekstury, a jeœli zostan¹ 
+	zaakaceptowane przez grono fachowców, ja ró¿nie¿ z przyjemnoœci¹ je do³¹czê w 
+	nastêpnych wersjach.
+3.3 Co SM42 z Zak³adu Taboru w Krakowie robi w Dêblinie?
+	Dobre pytanie:) Delegacja? Dzier¿awa? Mnie te¿ cie¿ko by³o uwierzyæ swego czasu w widok tej 
+	spalinówki z poci¹giem sieciowym... Tak, jak nie wiem, co w Dêblinie robi¹ od czasu do czasu 
+	SU45 lub ST44? Nie mia³em pomys³u, wiêc ich w tej symulacji nie widaæ, w odró¿nieniu od SM48:)
+3.4 Dlaczego niektóre loki w oznaczeniu Zak³adu Taboru maj¹ "Lublin*" (z gwiazdk¹)?
+	Jeœli czegoœ nie opisa³em w tym pliku, zerknij do pliku "Lublin2006.txt" - 
+	w katalogu z ubieg³oroczn¹ wersj¹. A jeœli tam nie ma odpowiedzi na jakieœ pytanie - 
+	napisz: ltek@wp.pl (pierwsza litera to L) - odpowiem, a Twoje w¹tpliwoœci wzbogac¹ 
+	FAQ-a.
+
+Mi³ej zabawy!
+Autor: Micha³ Lipiñski
+
+Korzysta³em z programów: 
+Edytor (stacji) dla Kolejarza (EdK), PathFinder (PF) oraz eRozk³ad (eR).
+
+==========================
+
+To przypominam help z wczeœniejszego rozk³adu. Planowa³em dla Lublina i Dêblina kolejne wersje rozk³adu 
+2007/8, ale nie starcza czasu, a szkoda, bo pojawi³y siê budyniowe EP07 (przez chwilê w³asnoœæ PR), 
+by³y ciekawe zmiany rozk³adu. W rozk³adzie 2008/9 te¿ by³oby ciekawie, bo poœpiechy do ICka, nowe
+relacje, nazwy, zestawienia, nowe problemy, inne wyciête poci¹gi i nowa wizja po³¹czeñ dalekobie¿nych. 
+A PR ju¿ nie PKP:) To siê bêdzie dzia³o. Ale czasu brak na symulacje...
+
+Dziêkujê, ¿e graliœcie w moje rozk³ady. Mo¿e jeszcze kiedyœ coœ pod³ubiê przy Kolejarzu, wszak obiecywa³em
+archiwalne rozk³ady - materia³y mam, ale nie mam czasu. CU!

@@ -1,0 +1,311 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Pomoc dla programu StationInfo 1.0</TITLE>
+<META content="text/html; charset=windows-1250" http-equiv=Content-Type>
+<META http-equiv=Reply-to content=mixer@eranet.pl>
+<META http-equiv=Content-Language content=pl>
+<META content="Kolejarz, StationInfo, kolej, rozkład jazdy" name=Keywords>
+<META content="Pomoc dla programu StationInfo 1.0" name=Description>
+<META content="Przemysław Rydel" name=Author>
+</HEAD>
+<BODY background="SI1hlp00.gif">
+<FONT face="Tahoma CE, Tahoma, Arial CE, Arial, Verdana" size="3" color=#000000>
+<A name="top">
+<TABLE align="center" width="100%" border="0"><TR><TD align="center"><FONT size="7" color="#000080"><IMG src="SI1hlp21.gif" border="0"> StationInfo 1.0 <FONT size="6" color="#000000">for</FONT> <IMG src="SI1hlp22.gif" border="0"> Kolejarz 0.89+</FONT></TD></TR></TABLE>
+<CENTER><H2><FONT color="#800000">dodatek do programu '<A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm">Kolejarz</A>' w wersjach 0.89 i wyższych<BR>do przeglądania gotowych plików rozkładów jazdy <I>.roz</I></FONT></H2></CENTER>
+<BR>
+<H3>Preferencje:</H3>
+<P>Bardzo rekomendowana rozdzielczość ekranu: minimum 1024 x 768.<BR>
+Wskazane <IMG src="SI1hlp23.gif" border="0"> Windows 95 lub nowsze, kolorowy monitor.</P>
+<H3>Wymagania:</H3>
+<P>W katalogu z plikiem rozkładu musi istnieć też pełny plik stacji związanej z tym rozkładem.<BR>
+W katalogu z plikiem rozkładu musi istnieć podkatalog <I>'Tabor'</I>, a w nim wszystkie pliki rysunków wyszczególnionych w pliku rozkładu.</P>
+<A name="use">
+<H3><U>Użycie:</U></H3>
+<H3>Otwarcie pliku rozkładu.</H3>
+<P>Po uruchomieniu programu, wybieramy plik <I>.roz</I>. Ukaże się okno, które zawiera wszystkie dane, zawarte w tym pliku.<BR><BR>
+<MARQUEE scrollamount="1" behavior="alternate"><IMG src="SI1hlp24.gif" border="0"><FONT size="4" color="#ff8000">- Aby uzyskać więcej informacji o wybranym elemencie, najedź na niego kursorem myszy i kliknij. -</FONT><IMG src="SI1hlp25.gif" border="0"></MARQUEE><BR>
+<IMG src="SI1hlp01.gif" border="0" width="980" height="768" alt="Kliknij na wybranym elemencie" usemap="#mapa"><BR><BR>
+Jeżeli podczas wczytywania rozkładu lub używania programu pojawi się błąd, to najczęściej jest to związane z nieprawidłowym formatem pliku, danych lub problemem z dostępem do któregoś z plików. Niektóre błędy są poważne i wykluczają dalsze użycie <I>'StationInfo'</I>, niektóre mało znaczące, co grozi jedynie komunikatem o nieprawidłowości. Najczęściej popełniane błędy to:<BR>
+<UL type="disc">
+<LI> brak przecinka,
+<LI> spacja zamiast przecinka,
+<LI> opuszczanie pojedynczych liczb,
+<LI> złe indeksowanie danych, często zestawień składów.</UL>
+Nie mówię tutaj o często występującym braku niektórych wymaganych danych, gdzie <I>'StationInfo'</I> nie pokaże błędu (co najwyżej puste pola), a problem może wystąpić podczas gry w daną stację z danym rozkładem w <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm">'Kolejarzu'</A>. Pominięcie danych nieobowiązkowych (loków w szopie, zestawień składów, tablicy prawdopodobieństw) oczywiście nie jest błędem.</P>
+<A name="lokiszopy">
+<H3>Zestawienie typów loków w szopie.</H3>
+<CENTER><IMG src="SI1hlp02.gif" border="0"></CENTER>
+<P>Jest to początkowy ilostan w lokalnej szopie poszczególnych typów loków z uwzględnieniem przynależności do poszczególnych szop macierzystych. Kolumny oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 1),
+<LI> numer nazwy loka (referencja do <A href="#loki">zestawienia typów loków z uwzględnieniem rysunków</A>),
+<LI> nazwę loka,
+<LI> ilość takich loków w lokalnej szopie,
+<LI> numer szopy macierzystej dla tych loków (referencja do <A href="#szopy">zestawienia szop</A>),
+<LI> nazwę szopy macierzystej.</UL>
+Kliknięcie na dowolny wiersz powoduje wyświetlenie w <A href="#symbol">oknie symbolu</A> rysunku danego loka.</P>
+<A name="loki">
+<H3>Zestawienie typów loków z uwzględnieniem rysunków.</H3>
+<CENTER><IMG src="SI1hlp03.gif" border="0"></CENTER>
+<P>Jest to wyszczególnienie wszystkich loków każdego rodzaju, używanych w grze, z których każdy może posiadać kilka różnych rysunków. Kolumny oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 1),
+<LI> nazwę pliku rysunku loka, bez rozszerzenia <I>.bmp</I>,
+<LI> nazwę loka,
+<LI> numer typu loka, czyli rodzaju trakcji (od 1 do 5),
+<LI> typ loka, gdzie:
+<UL type="circle">
+<LI> <B><FONT color="#808000">EZT</FONT></B> oznacza 1 - elektryczny zespół trakcyjny,
+<LI> <B><FONT color="#008000">autobus</FONT></B> oznacza 2 - autobus szynowy,
+<LI> <B><FONT color="#800000">E-lok</FONT></B> oznacza 3 - loka elektrycznego,
+<LI> <B><FONT color="#000080">S-lok</FONT></B> oznacza 4 - loka spalinowego,
+<LI> <B><FONT color="#000000">parowóz</FONT></B> oznacza 5 - loka parowego;</UL>
+<LI> stopień danego loka w hierarchii loków.</UL>
+Kliknięcie na dowolny wiersz powoduje wyświetlenie w <A href="#symbol">oknie symbolu</A> rysunku danego loka. Dodatkowo każdy typ loka oznaczony jest innym kolorem.</P>
+<A name="pociagi">
+<H3>Zestawienie pociągów.</H3>
+<CENTER><IMG src="SI1hlp04.gif" border="0" width="980" height="118"></CENTER>
+<P>Zawiera dane dotyczące pociągów, bądź też rozłączanych i/lub łączonych grup wagonów. Kolumny, ustawione w domyślnym porządku, oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 0),
+<LI> symboliczne przedstawienie rodzaju przelotu pociągu, gdzie:
+<UL type="circle">
+<LI> <FONT face="MS Sans Serif">››</FONT> - 0 - pociąg kończy bieg na naszej stacji,
+<LI> <FONT face="MS Sans Serif">››</FONT> - 1 - pociąg rozpoczyna bieg na naszej stacji,
+<LI> <FONT face="MS Sans Serif">››</FONT> - 2 - pociąg przelotowy,
+<LI> <FONT face="MS Sans Serif">»»</FONT> - 3 - drugi i kolejne człony pociągu rozłączanego przelotowego,
+<LI> <FONT face="MS Sans Serif">»»</FONT> - 4 - drugi i kolejne człony pociągu rozłączanego kończącego bieg na naszej stacji,
+<LI> <FONT face="MS Sans Serif">›-›</FONT> - 5 - pociąg nie zatrzymujący się na stacji,
+<LI> <FONT face="MS Sans Serif">»»</FONT> - 6 - drugi i kolejne człony pociągu łączonego rozpoczynającego bieg na naszej stacji;</UL>
+<LI> godzinę przyjazdu pociągu,
+<LI> punkt wjazdowy pociągu, odnoszący się do pliku stacji,
+<LI> numer stacji początkowej (referencja do <A href="#stacje">zestawienia stacji</A>),
+<LI> nazwę stacji początkowej,
+<LI> numer oznaczenia EZT (referencja do <A href="#loki">zestawienia typów loków z uwzględnieniem rysunków</A>), o ile pociąg jest autobusem szynowym lub składa się z EZT,
+<LI> godzinę odjazdu pociągu,
+<LI> punkt wyjazdowy pociągu, odnoszący się do pliku stacji,
+<LI> numer stacji końcowej (referencja do <A href="#stacje">zestawienia stacji</A>),
+<LI> nazwę stacji końcowej,
+<LI> numer szopy macierzystej EZT (referencja do <A href="#szopy">zestawienia szop</A>), o ile pociąg jest autobusem szynowym lub składa się z EZT,
+<LI> nazwę szopy macierzystej EZT (pod warunkiem j.w.),
+<LI> numer pociągu przyjeżdżającego,
+<LI> numer pociągu odjeżdżającego,
+<LI> rozłączenie składu po przyjeździe na naszą stację,
+<LI> numer kolejnej części składu, o ile pociąg ma być rozłączony na naszej stacji; części tej należy szukać w kolumnie numeru porządkowego tegoż zestawienia (szczegóły w pliku pomocy <A href="http://klub.chip.pl/~pawelj/kolejarz/index.htm">'Kolejarza'</A>),
+<LI> łączenie składu przed wyjazdem z naszej stacji,
+<LI> numer kolejnej części składu, o ile pociąg ma być łączony na naszej stacji (uwaga j.w.),
+<LI> oznaczenie rodzaju pociągu przyjeżdżającego na naszą stację, który może być:
+<UL type="circle">
+<LI> 0 - <B><FONT color="#808080">towarowy</FONT></B>,
+<LI> 2 - <B><FONT color="#000000">osobowy</FONT></B>,
+<LI> 4 - <B><FONT color="#FF0000">pospieszny</FONT></B>,
+<LI> 6 - <B><FONT color="#0000FF">ekspres</FONT></B>,
+<LI> 8 - <B><FONT color="#800000">InterCity</FONT></B>,
+<LI> 10 - <B><FONT color="#000080">EuroCity</FONT></B>,
+<LI> 12 - <B><FONT color="#FF00FF">hotelowy</FONT></B>,
+<LI> 14 - <B><FONT color="#00FF00">pocztowy</FONT></B>,
+<LI> 16 - <B><FONT color="#808000">bagażowy</FONT></B>,
+<LI> 18 - <B><FONT color="#008080">EuroNight</FONT></B>,
+<LI> 102 - <B><FONT color="#800080">S-Bahn</FONT></B>,
+<LI> 103 - <B><FONT color="#c0c0c0">Regional Bahn</FONT></B>,
+<LI> 104 - <B><FONT color="#FFFF00">Regional Express</FONT></B>,
+<LI> 106 - <B><FONT color="#008000">InterRegio</FONT></B>,
+<LI> 108 - <B><FONT color="#00FFFF">InterCity Night</FONT></B>,
+<LI> 110 - <B><FONT color="#FF8000">InterCity Express</FONT></B>;</UL>
+<LI> oznaczenie rodzaju pociągu odjeżdżającego z naszej stacji (rodzaje j.w.),
+<LI> obecność pociągu na stacji w momencie rozpoczęcia gry,
+<LI> numer elementu taboru symbolizującego pociąg lub grupę wagonów; może nim być wagon (referencja do <A href="#wagony">zestawienia wagonów</A>) lub EZT albo autobus szynowy (referencja do <A href="#loki">zestawienia typów loków z uwzględnieniem rysunków</A>),
+<LI> nazwę rysunku elementu taboru symbolizującego pociąg lub grupę wagonów (uwaga j.w.),
+<LI> numer zestawu wagonów lub jednostek (referencja do <A href="#sklady">zestawienia składów</A>),
+<LI> peron, na który pociąg przyjedzie,
+<LI> peron, z którego pociąg odjedzie,
+<LI> numer nazwy pociągu przyjeżdżającego (referencja do <A href="#nazwy">zestawienia nazw pociągów</A>), o ile pociąg ma nazwę,
+<LI> nazwę pociągu przyjeżdżającego,
+<LI> numer nazwy pociągu odjeżdżającego (referencja do <A href="#nazwy">zestawienia nazw pociągów</A>), o ile pociąg ma nazwę,
+<LI> nazwę pociągu odjeżdżającego,
+<LI> numer rodzaju przelotu pociągu (od 0 do 6, szczegóły w opisie kolumny symbolicznego przedstawienia rodzaju przelotu pociągu),
+<LI> numer wjazdu dla pociągu przyjeżdżającego,
+<LI> numer wyjazdu dla pociągu odjeżdżającego,
+<LI> nazwę EZT lub autobusu szynowego, o ile pociąg składa się z takiego właśnie taboru,
+<LI> numer rodzaju pociągu przyjeżdżającego na naszą stację (od 0 do 110, szczegóły w opisie kolumny oznaczenia rodzaju pociągu przyjeżdżającego),
+<LI> numer rodzaju pociągu odjeżdżającego z naszej stacji (rodzaje j.w.),
+<LI> numer grupy składu rozłączanego na naszej stacji, o ile pociąg ma być rozłączony na naszej stacji,
+<LI> numer grupy składu łączonego na naszej stacji, o ile pociąg ma być łączony na naszej stacji,
+<LI> nazwę loka, z którym pociąg przyjeżdża,
+<LI> nazwę szopy macierzystej loka, z którym pociąg przyjeżdża,
+<LI> brak konieczności zmiany loka w pociągu przyjeżdżającym,
+<LI> numer przejścia loka z pociągu przyjeżdżającego (referencja do <A href="#obiegi">zestawienia przejść loków</A>),
+<LI> nazwę loka, z którym pociąg odjeżdża,
+<LI> nazwę szopy macierzystej loka, z którym pociąg odjeżdża,
+<LI> brak konieczności zmiany loka w pociągu odjeżdżającym,
+<LI> numer przejścia loka z pociągu odjeżdżającego (referencja do <A href="#obiegi">zestawienia przejść loków</A>).</UL>
+Kliknięcie na dowolny wiersz powoduje wyświetlenie w <A href="#symbol">oknie symbolu</A> rysunku elementu taboru symbolizującego pociąg lub daną grupę wagonów, w <A href="#symboloff">oknie symbolu składu rozłączanego</A> rysunków elementów taboru symbolizujących poszczególne rozłączane grupy wagonów, w <A href="#symbolon">oknie symbolu składu łączonego</A> rysunków elementów taboru symbolizujących poszczególne łączone grupy wagonów, a w <A href="#sklad">oknie zestawienia składu</A> rysunków elementów taboru symbolizujących poszczególne wagony, EZT lub autobusy szynowe.<BR>
+W celu dostosowania wyglądu tego zestawienia do potrzeb użytkownika, można przegrupowywać poszczególne kolumny. Trzy gotowe presety z takimi przegrupowaniami dostępne są pod przyciskami <A href="#full"><IMG src="SI1hlp05.gif" border="0"></A>, <A href="#brief"><IMG src="SI1hlp06.gif" border="0"></A> i <A href="#pair"><IMG src="SI1hlp07.gif" border="0"></A>. Kolorem oznaczenia rodzaju pociągu przyjeżdżającego na naszą stację oznaczone są wszystkie dane w tym zestawieniu, dotyczące przyjazdu pociągu, a jeżeli jest to druga lub kolejna grupa wagonów składu rozłączanego na naszej stacji, dodatkowo wszystkie te dane są <B>pogrubione</B>. Analogicznie takoż oznaczone są wszystkie dane dotyczące odjazdu pociągu. </P>
+<A name="full">
+<H3>Przycisk <IMG src="SI1hlp05.gif" border="0">.</H3>
+<P>Kolumny <A href="#pociagi">zestawienia pociągów</A> układane są w następujące grupy:
+<UL type="disc">
+<LI> dane o przelocie, rozłączaniu i łączeniu składu,
+<LI> dane nt. wyświetlania elementów taboru,
+<LI> wszystkie dane dotyczące przyjazdu pociągu,
+<LI> wszystkie dane dotyczące odjazdu pociągu,
+<LI> dane dotyczące EZT i autobusów szynowych.</UL></P>
+<A name="brief">
+<H3>Przycisk <IMG src="SI1hlp06.gif" border="0">.</H3>
+<P>Kolumny <A href="#pociagi">zestawienia pociągów</A> układane są w następujące grupy:
+<UL type="disc">
+<LI> podstawowe dane o przelocie pociągu,
+<LI> podstawowe dane dotyczące przyjazdu pociągu,
+<LI> podstawowe dane dotyczące odjazdu pociągu,
+<LI> podstawowe dane dotyczące EZT i autobusów szynowych,
+<LI> mniej ważne dane dotyczące przyjazdu pociągu,
+<LI> mniej ważne dane dotyczące odjazdu pociągu,
+<LI> mniej ważne dane o przelocie, rozłączaniu i łączeniu składu,
+<LI> dane nt. wyświetlania elementów taboru,
+<LI> mniej ważne dane dotyczące EZT i autobusów szynowych.</UL></P>
+<A name="pair">
+<H3>Przycisk <IMG src="SI1hlp07.gif" border="0">.</H3>
+<P>Kolumny <A href="#pociagi">zestawienia pociągów</A> układane są w następujące grupy:
+<UL type="disc">
+<LI> dane o przelocie pociągu,
+<LI> dane nt. wyświetlania elementów taboru,
+<LI> dane dotyczące EZT i autobusów szynowych,
+<LI> dane dotyczące przyjazdu i odjazdu pociągu oraz rozłączaniu i łączeniu składu, pogrupowane w pary.</UL></P>
+<A name="default">
+<H3>Przycisk <IMG src="SI1hlp08.gif" border="0">.</H3>
+<P>Przywracany jest układ kolumn <A href="#pociagi">zestawienia pociągów</A> ustawiony przez użytkownika poprzez przegrupowywanie.</P>
+<A name="wagony">
+<H3>Zestawienie wagonów.</H3>
+<CENTER><IMG src="SI1hlp09.gif" border="0"></CENTER>
+<P>Kolumny oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 1),
+<LI> numer nazwy wagonu, używany w określaniu symboli pociągów lub grup wagonów oraz w zestawieniach składów,
+<LI> nazwę pliku rysunku wagonu, bez rozszerzenia <I>.bmp</I>.</UL>
+Kliknięcie na dowolny wiersz powoduje wyświetlenie w <A href="#symbol">oknie symbolu</A> rysunku danego wagonu.</P>
+<A name="szopy">
+<H3>Zestawienie nazw szop.</H3>
+<CENTER><IMG src="SI1hlp10.gif" border="0"></CENTER>
+<P>Pierwsza szopa to szopa macierzysta. Kolumny oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 0),
+<LI> nazwę szopy.</UL></P>
+<A name="stacje">
+<H3>Zestawienie nazw stacji.</H3>
+<CENTER><IMG src="SI1hlp11.gif" border="0"></CENTER>
+<P>Pierwsza stacja to stacja lokalna. Kolumny oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 0),
+<LI> nazwę stacji.</UL></P>
+<A name="nazwy">
+<H3>Zestawienie nazw pociągów.</H3>
+<CENTER><IMG src="SI1hlp12.gif" border="0"></CENTER>
+<P>Kolumny oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 1),
+<LI> nazwę pociągu.</UL></P>
+<A name="symbol">
+<H3>Okno symbolu.</H3>
+<CENTER><IMG src="SI1hlp13.gif" border="0"></CENTER>
+<P>Wyświetlane są tu pojedyncze loki lub wagony po kliknięciu na wiersz <A href="#lokiszopy">zestawienia typów loków w szopie</A>, <A href="#loki">zestawienia typów loków z uwzględnieniem rysunków</A>, <A href="#pociagi">zestawienia pociągów</A>, <A href="#wagony">zestawienia wagonów</A> lub <A href="#obiegi">zestawienia przejść loków</A>.</P>
+<A name="symboloff">
+<H3>Okno symbolu składu rozłączanego.</H3>
+<CENTER><IMG src="SI1hlp14.gif" border="0"></CENTER>
+<P>Wyświetlane są tu symbole grup wagonów składu, który będzie rozłączony po przyjeździe na naszą stację. Dostępne tylko podczas wybrania pociągu w <A href="#pociagi">zestawieniu pociągów</A>.</P>
+<A name="symbolon">
+<H3>Okno symbolu składu łączonego.</H3>
+<CENTER><IMG src="SI1hlp15.gif" border="0"></CENTER>
+<P>Wyświetlane są tu symbole grup wagonów składu, który będzie łączony przed odjazdem z naszej stacji. Dostępne tylko podczas wybrania pociągu w <A href="#pociagi">zestawieniu pociągów</A>.</P>
+<A name="zestaw">
+<H3>Okno zestawienia składu.</H3>
+<CENTER><IMG src="SI1hlp16.gif" border="0" width="980" height="44"></CENTER>
+<P>Wyświetlane są tu wszystkie wagony, EZT lub autobus szynowy danego zestawienia składu po kliknięciu na wiersz <A href="#pociagi">zestawienia pociągów</A> lub <A href="#sklady">zestawienia składów</A>, a także wszystkie loki z <A href="#loki">zestawienia typów loków z uwzględnieniem rysunków</A> po kliknięciu na wiersz <A href="#tablica">tablicy prawdopodobieństw</A>. W przypadku długiego składu jest on 'ściskany' tak, aby zmieścił się w oknie.</P>
+<A name="obiegi">
+<H3>Zestawienie przejść loków.</H3>
+<CENTER><IMG src="SI1hlp17.gif" border="0"></CENTER>
+<P>Mówi o tym, z którym pociągiem z <A href="#pociagi">zestawienia pociągów</A> dany lok przyjedzie, a z którym pojedzie. Kolumny oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 1),
+<LI> numer nazwy loka (referencja do <A href="#loki">zestawienia typów loków z uwzględnieniem rysunków</A>),
+<LI> nazwę loka,
+<LI> numer szopy macierzystej dla tego loka (referencja do <A href="#szopy">zestawienia szop</A>),
+<LI> nazwę szopy macierzystej loka,
+<LI> numer pociągu z <A href="#pociagi">zestawienia pociągów</A>, z którym dany lok przyjedzie,
+<LI> numer pociągu z <A href="#pociagi">zestawienia pociągów</A>, z którym dany lok odjedzie,
+<LI> numer wiersza w <A href="#tablica">tablicy prawdopodobieństw</A>,
+<LI> przyjazd loka z szopy, do której jest on przypisany,
+<LI> brak konieczności zmiany loka w pociągu (także nie zatrzymującym się),
+<LI> powrót loka w dniu następnym.</UL>
+Kliknięcie na dowolny wiersz powoduje wyświetlenie w <A href="#symbol">oknie symbolu</A> rysunku danego loka. Jeżeli lok odjeżdża z tym samym pociągiem, z którym przyjechał, wówczas numer pociągu w obydwu kolumnach z tymże numerem jest <B>pogrubiony</B>.</P>
+<A name="zestawy">
+<H3>Zestawienie składów.</H3>
+<CENTER><IMG src="SI1hlp18.gif" border="0"></CENTER>
+<P>Wyświetlane są tu numery wagonów z <A href="#wagony">zestawienia wagonów</A> lub jednostek z <A href="#loki">zestawienia typów loków z uwzględnieniem rysunków</A>, będących elementami składów. Kolumny oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 0),
+<LI> sumaryczna długość składu,
+<LI> numery wagonów lub jednostek.</UL>
+Kliknięcie na dowolny wiersz powoduje wyświetlenie w <A href="#sklad">oknie zestawienia składu</A> rysunków elementów taboru symbolizujących poszczególne wagony, EZT lub autobusy szynowe. W przypadku długiego składu jest on 'ściskany' tak, aby zmieścił się w oknie.</P>
+<A name="tablica">
+<H3>Tablica prawdopodobieństw.</H3>
+<CENTER><IMG src="SI1hlp19.gif" border="0"></CENTER>
+<P>Wyświetlane są tu procentowe prawdopodobieństwa przyjazdu danego loka. Poszczególne wiersze tej tablicy przypisywane są przejściom loków, a te poszczególnym pociągom. Kolumny oznaczają:
+<UL type="disc">
+<LI> numer porządkowy (liczony od 1),
+<LI> sumaryczna ilość procent w danym wierszu (wartość inna niż 100 oznaczana jest na <FONT color="#ff0000">czerwono</FONT> i oznacza błąd ze strony autora rozkładu),
+<LI> prawdopodobieństwa dla loków, ktorych nazwy rysunków umieszczone są w nagłówkach kolumn.</UL>
+Kliknięcie na dowolny wiersz powoduje wyświetlenie w <A href="#sklad">oknie zestawienia składu</A> rysunków elementów taboru symbolizujących poszczególne loki z <A href="#loki">zestawienia typów loków z uwzględnieniem rysunków</A>. W przypadku długiego takiego 'składu' jest on 'ściskany' tak, aby zmieścił się w oknie.</P>
+<A name="exit">
+<H3>Wyjście.</H3>
+<P>Program opuszcza się, przyciskając <IMG src="SI1hlp20.gif" border="0">.</P>
+<BR>
+<A name="bottom">
+<H3><U>Historia:</U></H3>
+<P>
+<H4>1.0</H4>
+<DL><DD>Pierwsza działająca wersja programu.</DL></P>
+<H3>Planowane ulepszenia:</H3>
+<P>
+<UL type="disc">
+<LI> mniejsza podatność na błędy strukturalne,
+<LI> być może lepsze wyszukiwanie błędów logicznych.
+</UL></P>
+<H3>Disclaimer:</H3>
+<P>Program przeznaczony jest do darmowego użycia <I>(freeware)</I>, jednakże jeżeli przyczynił się on do utworzenia i opublikowania jakiegokolwiek rozkładu, autor rozkładu jest <B>zobowiązany</B> poinformować o tym <A href="mailto:mixer@eranet.pl">autora programu</A> oraz zawrzeć informację o użyciu programu w pliku rozkładu oraz ewentualnie w dokumentacji dołączonej do tegoż rozkładu.<BR>
+Jeżeli jednak uważasz swój czas za cenny, a użycie programu pozwoliło Ci zaoszczędzić wiele godzin, które musiałbyś spędzić na żmudnym testowaniu swojego rozkładu, to zrekompensuj <A href="mailto:mixer@eranet.pl">autorowi <I>'StationInfo'</I></A> godziny zainwestowanie w jego napisanie chociażby częściowo, niewielką kwotą.<BR>
+<A href="mailto:mixer@eranet.pl">Autor programu</A> nie ponosi odpowiedzialności za ewentualne szkody wynikłe z użycia programu.</P>
+<H3>Uwagi:</H3>
+<P>Jeżeli program nie działa prawidłowo, najlepiej poinformować o tym <A href="mailto:mixer@eranet.pl">autora programu</A>, w razie potrzeby dosyłając niezbędne pliki i opis błędu, opisując sytuację, w której błąd wystąpił itd.<BR>
+Natomiast jeżeli błąd występuje ewidentnie z powodu źle stworzonego pliku rozkładu, najlepiej zapytać o to samego autora rozkładu, a dopiero w dalszej kolejności <A href="mailto:pawelj@klub.chip.pl">autora <I>'Kolejarza'</I></A> czy <A href="mailto:mixer@eranet.pl">autora <I>'StationInfo'</I></A>.<BR>
+Jakiekolwiek pytania, uwagi i propozycje odnośnie rozwoju programu należy kierować do autora programu.</P>
+<H3>Podziękowania:</H3>
+<P><A href="mailto:pawelj@klub.chip.pl">Paweł "Kaktus" Jóźwicki</A></P>
+<P>
+<I>(c) 2002 Przemysław Rydel<BR>
+E-mail: <A href="mailto:mixer@eranet.pl">mixer@eranet.pl</A></I><BR>
+Galerie fotografii i filmów o tematyce kolejowej:<BR> <A href="http://www.sp6pwr.dsi.pl/kolej/foto/galerie.htm">http://www.sp6pwr.dsi.pl/kolej/foto/galerie.htm</A></P>
+<H3>Aktualizacja: <FONT color="#ff0000">24.08.2002</FONT></H3></FONT>
+<MAP NAME="mapa">
+<AREA SHAPE=RECT COORDS="1,17, 461,122" HREF="#lokiszopy">
+<AREA SHAPE=RECT COORDS="466,17, 972,122" HREF="#loki">
+<AREA SHAPE=RECT COORDS="1,127, 972,250" HREF="#pociagi">
+<AREA SHAPE=RECT COORDS="834,256, 899,287" HREF="#full">
+<AREA SHAPE=RECT COORDS="907,256, 972,287" HREF="#brief">
+<AREA SHAPE=RECT COORDS="834,292, 899,323" HREF="#pair">
+<AREA SHAPE=RECT COORDS="907,292, 972,323" HREF="#default">
+<AREA SHAPE=RECT COORDS="1,257, 275,362" HREF="#wagony">
+<AREA SHAPE=RECT COORDS="284,257, 458,362" HREF="#szopy">
+<AREA SHAPE=RECT COORDS="468,257, 641,362" HREF="#stacje">
+<AREA SHAPE=RECT COORDS="652,257, 825,362" HREF="#nazwy">
+<AREA SHAPE=RECT COORDS="1,368, 825,411" HREF="#symbol">
+<AREA SHAPE=RECT COORDS="1,416, 825,459" HREF="#symboloff">
+<AREA SHAPE=RECT COORDS="1,464, 825,507" HREF="#symbolon">
+<AREA SHAPE=RECT COORDS="1,512, 972,555" HREF="#zestaw">
+<AREA SHAPE=RECT COORDS="1,561, 803,653" HREF="#obiegi">
+<AREA SHAPE=RECT COORDS="810,561, 971,653" HREF="#zestawy">
+<AREA SHAPE=RECT COORDS="1,657, 462,750" HREF="#tablica">
+<AREA SHAPE=RECT COORDS="949,729, 972,752" HREF="#exit">
+</MAP>
+</BODY></HTML>

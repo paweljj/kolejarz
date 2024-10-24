@@ -1,0 +1,51 @@
+           SKAWINA dla KOLEJARZa wersja 1.62
+
+Skawina jest stacj¹ po³o¿on¹ na linii Kraków P³aszów-Oœwiêcim
+z odga³êzieniem do Zakopanegp.
+
+WJAZDY:
+1-kierunek: Kraków P³aszów dla poci¹gów osobowych
+            Kraków Prokocim Towarowy dla poci¹gów towarowych
+3-kierunek Oœwiêcim
+5-kierunek Zakopane
+
+WYJAZDY:
+2-kierunek: Kraków P³aszów dla poci¹gów osobowych
+            Kraków Prokocim Towarowy dla poci¹gów towarowych
+4-kierunek Oœwiêcim
+5-kierunek Zakopane
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje sie w Krakowie P³aszowie.
+Czas zamówienia: 20 minut
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Widok na uk³ad torów od strony budynku stacji.
+Litery N na schemacie stacji oznaczaj¹ nastawnie.
+Przy dolnym torze niezelektryfikowanym
+znajduje siê rampa wy³adowcza.
+
+SK£ADY I LOKOMOTYWY:
+Na podstawie w³asnych obserwacji.
+
+ROZK£AD JAZDY:
+Rok 2003 lato.
+Na podstawie Sieciowego Rozk³adu Jazdy Poci¹gów 2003 oraz dodatku 4B
+do rozk³adu poci¹gów towarowych.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz z lokomotywowni wjecha³ na stacje nale¿y wybrac trase do 
+pierwszego punktu postojowego dla lokomotyw od wjazdu pierwszego.
+Natomiast trasa przejazdu lokomotywy do lokomotywowni odbywa sie z obu 
+punktow postojowych do wyjazdu drugiego. 
+Chwilami ruch na stacji jest tak du¿y, a czas odjazdu jest bardzo 
+krótki i trzeba siê bardzo spieszyæ by odprawiæ poci¹g
+
+AUTOR:
+Krzysztof W¹dolny       nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1
+
+PODZIÊKOWANIA:
+Bardzo dziekujê Panu mgr in¿. Janowi Mamajko za dostarczenie dodatku 4B do 
+rozk³adu poci¹gów towarowych.

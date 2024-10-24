@@ -1,0 +1,51 @@
+           SPYTKOWICE dla KOLEJARZa wersja 1.81
+
+Spytkowice s¹ stacj¹ po³o¿on¹ na linii Kraków P³aszów-Oœwiêcim,
+oraz Trzebinia-Wadowice.
+
+WJAZDY:
+1-kierunek: Kraków P³aszów dla poci¹gów osobowych
+                  Kraków Prokocim Towarowy dla poci¹gów towarowych
+3-kierunek Oœwiêcim
+5-kierunek Wadowice
+6-kierunek Trzebinia
+
+WYJAZDY:
+2-kierunek: Kraków P³aszów dla poci¹gów osobowych
+                  Kraków Prokocim Towarowy dla poci¹gów towarowych
+4-kierunek Oœwiêcim
+5-kierunek Wadowice
+6-kierunek Trzebinia
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje sie w Krakowie P³aszowie.
+Czas zamówienia: 70 minut
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Widok na uk³ad torów od strony budynku stacji.
+Litery BS na schemacie stacji oznacza budynek stacji.
+Litery N na schemacie stacji oznaczaj¹ nastawnie.
+Litery PLAC na schemacie stacji oznaczaj¹ przy dolnym torze 
+niezelektryfikowanym plac wy³adowczy.
+
+SK£ADY I LOKOMOTYWY:
+Na podstawie w³asnych obserwacji.
+Obiegi sk³adów EZT na podstawie dodatku 2D.
+
+ROZK£AD JAZDY:
+Rok 2001 lato.
+Na podstawie Komputerowego Rozk³adu Jazdy Poci¹gów HAFAS, 
+oraz S³u¿bowego Rozk³adu Jazdy Poci¹gów Towarowych.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby lokomotywa z lokomotywowni wjecha³ na stacje nale¿y wybraæ trasê do 
+pierwszego punktu postojowego dla lokomotyw od wjazdu pierwszego.
+Natomiast trasa przejazdu lokomotywy do lokomotywowni odbywa sie z obu 
+punktow postojowych dla lokomotyw do wyjazdu drugiego.
+Sk³ad roz³¹czany dla stacji Spytkowice nale¿y przyczepiæ do poci¹gu towarowego
+powracaj¹cego do stacji Kraków Prokocim Towarowy.
+
+AUTOR:
+Krzysztof W¹dolny       nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1

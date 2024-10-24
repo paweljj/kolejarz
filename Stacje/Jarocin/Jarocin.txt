@@ -1,0 +1,50 @@
+STACJA JAROCIN - LATO 2008
+
+JAROCIN to wêze³ kolejowy pasa¿ersko - towarowy obecnie o œrednim znaczeniu.
+Pierwsza linia kolejowa zosta³a doprowadzona do Jarocina w grudniu 1875 roku,
+a by³a to trasa Poznañ - Ostrów Wielkopolski (nastêpne: Krotoszyn - Jarocin - Gniezno w 1876 r.,
+do Leszna w 1888 r., do Czempinia w 1906 r.). Równie¿ ta trasa zosta³a pierwsza
+zelektryfikowana, a mia³o to miejsce w 1974 roku. Ostatnia elektryfikacja nast¹pi³a
+trasy do Krotoszyna pod koniec lat osiemdziesi¹tych, natomiast trasa do Leszna i Czempinia
+nadal jest niezelektryfikowana i chyba tak pozostanie. Jarociñski zabytkowy dworzec wybudowano
+w latach 1870 - 1875 r.
+Rozk³ad pasa¿erski autentyczny poza lini¹ do Czempinia,
+która zosta³a zawieszona w 1990 roku, a wprowadzi³em j¹ do urozmaicenia.
+Rozk³ad towarowy wed³ug w³asnych obserwacji.
+
+Parowóz Ol-49-1 MD Jarocin - Pomnik (nr fabr. 2603 / rok budowy 1951 r. / producent: Fabryka
+Lokomotyw - Chrzanów / skreœlony z inwentarza MD Jarocin 05.04.1991 r. / pomnik od 30.06.1992 r.)
+stoi w rzeczywistoœci na torze wolnym (bez dojazdu), jednak program Kolejarz tego nie umo¿liwia
+wiêc musia³em po³¹czyæ to z pozosta³ym torowiskiem. Równie¿ ze wzglêdu na program musia³em
+wprowadziæ tor 5, Który faktycznie jest torem 1A.
+Odzwierciedlenie torowiska w 90%.
+
+
+Podczas budowy symulatora na trasie Jarocin - Taczanów remontowano kapitalnie 1 liniê kolejow¹,
+dlatego postara³em umieœciæ siê to w rozk³adzie i grze.
+
+Obecnie Lokomotywownia Jarocin nie jest samodzieln¹ jednostk¹. Kiedyœ by³a to samodzielna jednostka
+i stacjonowa³y tam parowozy, a póŸniej i obecnie, ale w ma³ej skali lokomotywy spalinowe.
+Wspomniany wy¿ej parowóz pochodzi w³aœnie z jarociñskiej parowozowni.
+Stacjonuj¹ tam loki jak w grze: SM 31, SM 42, SP42.
+Kiedyœ obiekt lokomotywowni sprawia³ du¿e wra¿enie.Teraz jest w po³owie rozebrany i zosta³ oddzia³em
+lokomotywowni w Ostrowie Wlkp., poza tym dokonywane s¹ tam naprawy lokomotyw spalinowych,
+a czasami mo¿na zobaczyæ tam jakiœ inny typ lokomotywy np. zak³adowy.
+
+UWAGA! Zalecane ustawienie zegara symulatora: 4 - 4,5.
+
+Kierunki:
+1. Poznañ, Czempiñ, Pi³a, Szczecin - kierunek pó³nocno - zachodni
+2. Ostrów Wlkp., Katowice, Kraków, £ódŸ - kierunek po³udniowo - wschodni
+3. Leszno - kierunek zachodni
+4. Krotoszyn, Wroc³aw - kierunek po³udniowy
+5. Gniezno, Gdynia, Warszawa - kierunek pó³nocny
+6. Bocznica Zak³adów "Izolacja" - kierunek pó³nocny
+7. Bocznica Sk³adów "Pryzma" - odjazd z toru towarowego B1 - kierunek po³udniowy
+
+Autor: Szymon Woelke
+graf_pol@poczta.onet.pl
+
+Dziêkujê za wspó³pracê Panu Bartoszowi Witan.
+
+Stacja zosta³a stworzona 2008-09-09 przy pomocy programu PathFinder 2.0.

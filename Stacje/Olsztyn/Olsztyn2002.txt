@@ -1,0 +1,24 @@
+=============================================================
+------------------OGÓLNE----------------------------------------------------------------------------
+Stacja: OLSZTYN G£ÓWNY (Osobowy)
+Rozk³ad: na podstawie Rejonowego RJP (wakacje 2002)
+Schemat stacji: autentyczny
+Sk³ady: na podstawie w³asnych obserwacji. Uwaga! Obiegi sk³adów fikcyjne.
+Ograniczenia: brak czêœci towarowej i poci¹gów towarowych
+-----------------WYJAZDY--------------------------------------------------------------------------
+WYJAZD nr 1: kierunek I³awa G³., Toruñ G³. (linia 353 Poznañ Wsch.-Skandawa)
+WYJAZD nr 2: kierunek Czerwonka, Korsze (linia 353 Poznañ Wsch.-Skandawa)
+WYJAZD nr 3: kierunek Olsztynek, Dzia³dowo (linia 216 Dzia³dowo-Olsztyn G³.)
+WYJAZD nr 4: kierunek Gutkowo, Elbl¹g (linia 220 Olsztyn G³.-Bogaczewo)
+WYJAZD nr 5: kierunek Szczytno, Pisz (linia 219 Olsztyn G³. - E³k)
+----------LOKOMOTYWOWNIA----------------------------------------------------------------
+Czas oczekiwania na wyjazd lokomotywy: 10 minut.
+Czas naprawy lokomotywy: 3 godziny
+----------W PRZYGOTOWANIU...--------------------------------------------------------------
+Z powodu braków najnowszych dodatków do SRJP przygotowywanie nowych
+rozk³adów wstrzymane do odwo³ania ;P
+---------------------AUTOR--------------------------------------------------------------------------
+6aRt, TCZEW
+bartchi@poczta.onet.pl, bartchi@interia.pl
+=============================================================
+wszelkie uwagi przesy³aæ na w/w adres

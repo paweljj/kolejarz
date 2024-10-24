@@ -1,0 +1,56 @@
+Jas³o 2001-2002
+
+Wyjaœnienia, jakby ktos mia³ w¹tpliwosci:
+
+1. Czy uk³ad torowiska jest oddany w rzeczywistoœci?
+
+	Raczej tak, wygl¹da to mniej wiêcej jak w rzeczywistoœci - czyli dworzec, perony,
+/ten peron oznaczony 1 z lewej strony to w rzeczywistoœci peron 1A, obecnie
+juz nieu¿ywany/ i tory postojowe. 
+	Wyjazd na Zagórz /2/ i Rzeszów /1/ jest troche rozbudowany - 
+przed³u¿ono te dwie linie i dodano ³¹cznicê P.Odg. Jas³o Sobniów - Jas³o Towarowa
+/ta niezelektryfikowana linia miedzy 2 pktami postojowymi przy wyjazdach 1 i 2/
+Jest ona u¿ywana do ruchu poc. towarowych zmierzaj¹cych od str. Rzeszowa
+na Zagórz / i odwrotnie / Dzieki niej dla poci¹gów jad¹cych w tych
+kierunkach nie jest konieczna zmiana czo³a w Jaœle. Do tego samego celu bêdzie ona
+uzywana w tej symulacji.
+	W rzeczywistoœci ta ³¹cznica wraz z lokomotywowni¹ jest troche bardziej
+oddalona od dworca, ale ze zrozumia³ych wzglêdów /brak miejsca na ekranie/ nie jest tu oddana 
+rzeczywista odleg³oœæ
+
+
+2. Sk¹d w lokomotywowni takie maszyny jak SU42 i SU45?
+
+	SU42 to maszyny z Nowego S¹cza u¿ywane tam do prowadzenia
+poci¹gów do Chabowki /Tymabrku/ Niekiedy pojawiaj¹ siê tez w Jaœle.
+	SU45 /SU45-154/ to maszyna przebywaj¹ca obecnie w Jaœle na wypozyczeniu 
+z Wroc³awia. Prowadzi poci¹gi osobowe do Zagórza.
+
+3. Czy poci¹gi w symulacji s¹ oparte na rzeczywistoœci?
+
+	Poci¹gi osobowe kursuja wg rozk³adu 2000/2001. Towarowe s¹
+wytworem mojej wyobraŸni - nie mia³em rozk³adu dla towarów
+
+4. Czemu trasa do Jas³o-Towarowa /1/ jest niezelektryfikowana?
+
+	Dla uatrakcyjnienia gry - nalezy przepinaæ lokomotywy na spalinowe / i odwrotnie/ co czyni 
+grê ciekawsz¹
+
+5. Momentami na stacji nic sie nie dzieje
+
+	To ju¿ wina PKP......
+
+6. Gdzie prowadzi wyjazd /4/ ?
+
+	Jest to bocznica do "Pektowinu" obecnie nieu¿ywana 
+
+
+W razie jakichkolwiek pytañ b¹dŸ uwag :
+t-machowski@wp.pl
+#GG 952013
+
+do budowy stacji uzyto:
+-PathFinder 1.1  
+-Edytor do budowy stacji
+
+Dziekuje Paw³owi JóŸwickiemu za pomoc i cenne uwagi.

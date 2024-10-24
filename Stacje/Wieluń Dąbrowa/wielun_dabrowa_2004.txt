@@ -1,0 +1,46 @@
+Wieluñ D¹browa 2004
+
+Symulacja ukazuje jak PKP utrzymuje ruch na bocznych liniach
+(obraz nêdzy i rozpaczy)
+Linia wybudowana od zera na podstawie Rozporz¹dzenia Prezydenta II Rzeczypospolitej 
+w ca³oœci przez polsk¹ myœl techniczn¹ i polskich inzynierów i techników,
+którymi kierowa³ in¿. Wo³kuñski. Ten sam, który pó¿niej budowa³ magistralê wêglow¹
+Œl¹sk - Herby Nowe - Zduñska Wola Karsznice - Inowroc³aw - Bydgoszcz - Tczew -Gdynia Port
+Linie oddano do eksploatacji w listopadzie 1926, a zelektyfikowano a pa¿dzierniku 1981 r.
+ 
+--------------------------------
+
+Kierunki:
+ 1 - Czastary ( Kêpno ),
+ 2 - P¹tnów Wieluñski ( Herby Nowe ).
+
+Lokomotywownia Ostrów Wielkopolski oddalona o 80 km
+Czas oczekiwania na przyjazd loka 45 minut.
+Lokomotywowniê wstawi³em tylko po to aby w razie zepsucia 
+siê EZT by³o czym  zabraæ ow¹ jednostkê.
+
+--------------------------------------------
+
+Uk³ad torowy odwzorowany w 100% (stan na dzieñ 29.06.2004).
+Tory towarowe oddalone nieco od stacji to bocznice:
+obok wjazdu nr 1: Gaspol
+Obok wjazdu nr 2: u góry: Cukrownia/Ba³tykgaz
+                  u go³u: Ciep³ownia/Zugil
+pozosta³e to ³adownie stacyjnie
+----------------------------------
+Rozk³ad jazdy i sk³ady s¹ równie¿ tak jak w rzeczywistoœci.
+Umieœci³em w nim rownie¿ pociagi robocze dokonuj¹ce bie¿¹cych napraw
+nawierzchi oraz przegl¹dusieci trakcyjnej (która jest cyklicznie kradziona).
+dodatkiem poprawiaj¹cym atrakcyjnoœæ s¹ poc. towarowe, które kursowa³y do 
+grudnia 2002 i nie wiadomo czemu zostaly "zdjête", mimo iz nie brak czasów
+na ich przejazd, jak i stan infrastruktury jest bardzo dobry.
+Poci¹gi pasa¿erskie kursuj¹ z szybkoœcia 95 km/godz, a towarowe 70 km/godz.
+
+------------------------------------
+
+Przy tworzeniu symulacji pomog³y:
+Edk 2.35 PathFinder 2.0
+
+Wszelkie uwagi kierowaæ pod adres:
+Roman So³tysiak, soltysr@wp.pl
+Pomoc,korekta b³êdów i sugestie: G.W¹sowicz, kolejoman@poczta.onet.pl

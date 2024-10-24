@@ -1,0 +1,85 @@
+Bydgoszcz 2005
+
+1. Wstêp
+Bydgoszcz jest do dziœ wa¿nym wêz³em kolejowym le¿¹cym na styku dwóch 
+wa¿nych linii kolejowych nr 18 Pi³a - Kutno i 131 Chorzów Batory - Tczew
+dochodz¹ do tego linie lokalne w kier. Wierzchucina oraz Szubina.
+Obecnie ruch pasa¿erski skupia siê w zasadzie na g³ównych liniach.
+Wyjazdy:
+1- Inowroc³aw, Bydgoszcz G³. Towarowa
+2- Pi³a 
+3- Toruñ, Bydgoszcz Emilianowo 
+4- Tczew, Wierzchucin
+5- Szubin, Kcynia
+6- hala malowania taboru PESA SA
+7- tory odstawcze PESA SA
+8,9 - hale naprawcze 
+
+2. Plan Stacyjny
+Plan stacyjny odwzorowany w 90% brakuje tutaj tak¿e czêœci towarowej 
+która znajduje siê za wyjazdem 1
+Wiêcej informacji o planie stacji mo¿na znaleŸæ w symulacjach Bydgoszcz 
+z lat poprzednich.
+
+3. Rozk³ad jazdy
+W symulacji pos³ugujemy sie letnim rozk³adem jazdy (stan mniej wiêcej z 
+prze³omu czerwca i lipca 2005 roku.)
+Poci¹gi pasa¿erskie kursuj¹ w/g tego¿ rozk³adu.
+Poci¹gi towarowe kursuj¹ w/g rozk³adu 2005 
+Doda³em tak¿e kilka poc. towarowych w/g rozk³adu 2003 
+Wczasie wakacji mo¿na by³o zaobserwowaæ spory ruch towarowy przez Bydgoszcz
+G³ówn¹ mimo, ¿e czêœæ poc. kierowana by³o obwodnic¹ aby to odzwierciedliæ 
+z powodu braku danych nt. poci¹gów "nad planowych"
+postanowi³em wprowadziæ w³aœnie kilka "towarów" z 2003.
+Zestawienia poc. tow. w/g dodatku 4b i w³asnych obserwacji
+
+Poc. Pasa¿erskie:
+Obiegi sk³adów w/g dodatków 2B/C i w³asnych obserwacji
+Obiegi EZT ró¿ni¹ siê znacznie od rzeczywistoœci przed wszystkim dla tego 
+ze posiadaj¹ obiegi wielodniowe a odwzorowanie w kolejarzu czegoœ takiego
+jest niemo¿liwe.
+
+Obiegi lokomotyw - ró¿ni¹ siê od rzeczywistoœci jednak s¹ ustalone na podstawie
+w³asnych obserwacji.
+
+Ca³oœciowo rozk³ad przedstawia po³¹czenia kursuj¹ce przez ca³y tydzieñ 
+tak¿e te kursuj¹ce raz w tygodniu. 
+Dodatkowo wprowadzi³em poc. sieciowy z Maksymilianowa, który czêsto siê 
+pojawia w Bydgoszczy. W ci¹gu wakacji mo¿na by³o tak¿e zaobserwowaæ podsy³ 
+sk³adu z Wolsztyna do Gdyni z parowozem na poc. Costerina. W symulacji 
+tak¿e sie on znajduje.
+
+4. Uwagi
+
+-mo¿e siê zdarzyæ ¿e mamy 2 poc. towarowe jad¹ce w krótkich odstêpach w 
+tym samym kierunku, a jad¹ jako przelot bez zatrzymania. Wówczas nale¿y
+wpuœciæ ten 2 na peron i poczekaæ a¿ wjazd siê zwolni.
+
+-przy przydziale loków z CM Gdynia do konkretnych poci¹gów nale¿y sugerowaæ 
+siê po³o¿eniem pantografów na odjazd poci¹gu.
+
+5. Podsumowanie 
+Ogólnie na stacji mamy du¿o pracy czêsto na codzieñ tak nie jest dlatego,
+¿e wiele poci¹gów kursuje w ró¿nych terminach jednak wszystkie mo¿na 
+by³o zobaczyæ w okresie letnim.
+
+6. Autorzy
+
+Plan stacji:
+
+Kiler e-mail: 1kiler/@wp.pl
+
+Rozk³ad jazdy:
+
+Bart³omiej Jasiñski 
+btpk@xl.wp.pl
+
+wspó³praca: Filip Bebenow
+
+Przy budowie rozk³adu pomóg³ przede wszystkim program e-rozk³ad ver.0.72
+
+Wszelkie uwagi i komentarze mile widziane !!
+
+Mi³ej zabawy !!! 
+
+Mi³

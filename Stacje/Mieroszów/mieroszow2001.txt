@@ -1,0 +1,28 @@
+Stacja Mieroszów 2001
+
+Opis orygina³u:
+Ma³a stacja graniczna z Czechami (Mezimesti). Obs³ugiwana
+przez loki z Wa³brzycha. Do roku 1945 by³a tutaj trakcja
+elektryczna zbudowana za czasów zarz¹du DRG. Obecnie po-
+zosta³y po niej "go³e" bramki i s³upy.
+
+Uwagi do rozk³adu i stacji:
+Wyjazdy - nr 1 na Mezimesti nr 2 na Wa³brzych
+
+Przyjazdy/odjazdy sk³adów towarowych kompletnie fikcyjne.
+
+Plan stacji opracowywa³em na podstawie symulacji do BAHNa 
+"Sieæ Kolejowa Dolnego Œl¹ska" (mapa067.nt3).
+
+Szopa i tory postojowe:
+Lokomotywownia ma pojemnoœc 10 loków, wystawianie i dojazd lokomotywy 
+zajmuje 35 minut. Na stacji nie ma torów postojowych.
+
+Autorzy:
+Rozk³ad i trasy
+Maciej "Preki" Prekurat
+preki@mail2poland.com
+GG 7396416
+
+Schemat
+Autorzy pliku mapa067.nt3

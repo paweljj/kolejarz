@@ -1,0 +1,36 @@
+                            KRYNICA dla KOLEJARZA
+
+WYJAZDY:
+Jedyny wyjazd jest na Muszynê.
+
+LOKOMOTYWOWNIA:
+Wszystko stacjonuje w po³o¿onym nieopodal PowroŸniku.
+Czas zamówienia: 15 minut
+
+SK£ADY I LOKI:
+Na podstawie w³asnych obserwacji.
+Obiegi EZT s¹ fikcyjne.
+
+ROZK£AD JAZDY:
+Rok 2004
+Na podstawie broszury z tabelami rozk³adu jazdy pt. "Kolej¹ po Ma³opolsce"
+Godziny przyjazdów i odjazdów pustych sk³adów s¹ ustalone "na oko".
+
+UWAGI DO RUCHU POCI¥GÓW:
+Manewry w Krynicy ograniczaj¹ siê tylko do zmiany czo³a poci¹gu.
+Wszystkie prace manewrowe wykonywane s¹ w oddalonym o 5km
+PowroŸniku. Tam te¿ stacjonuj¹ wszystkie sk³ady i lokomotywy.
+EZT najlepiej wpuszczaæ na tor znajduj¹cy siê najni¿ej na schemacie.
+Przepiêcie loka na drugi koniec sk³adu jest mo¿wliwe tylko na
+dwóch "górnych" torach. Tam w³aœnie nale¿y wpuszczaæ wszystkie
+pospieszne i expresa.
+
+AUTORZY:
+
+Plik STC: Piotr Kilczuk poprawki: Grzegorz W¹sowicz
+
+Plik ROZ: Grzegorz W¹sowicz
+
+¯YCZYMY MI£EGO ZARZ¥DZANIA KRYNIC¥!!!
+
+2004

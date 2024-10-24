@@ -1,0 +1,183 @@
+Warszawa Zachodnia 2002 dla Kolejarza v.1.13 (wersja z dn. 2.12.2002)
+
+Rozklad jazdy obejmuje caly 2002 rok, lacznie z pociagami jezdzacymi w sezonie letnim.
+Obiegi i zestawienia skladow poc. dalekobieznych wg dodatkow 2a i 2b.
+Obiegi ezt dotycza dni roboczych i zgodne sa z dodatkiem 2d dla PZ Warszawa.
+Rozklad obowiazuje do 14.12.2002
+
+I. Co jest na pelnym schemacie stacji?
+
+W WERSJI DLA KOLEJARZA v1.61 NA SCHEMACIE STACJI DODANO LITERY INFORMUJACE
+O RODZAJU TOROW: "P" - PODMIEJSKIE, "D" - DALEKOBIEZNE, WKD. OPISANE ZOSTALY TAKZE
+ISTOTNE MIEJSCA NA SCHEMACIE - WARSZAWA WOLA I WARSZAWA GLOWNA.
+
+Dla uzyskania pelnej widocznosci schematu - KONIECZNA rozdzielczosc 1024x768!
+
+Schemat stacji, zgodny w 100 % z rzeczywistoscia, obejmuje, poza terenem st. Warszawa
+Zachodnia takze stacje:
+
+- W-wa Szczesliwice (wagonownia, tor "wiankowy" do obracania i czyszczenia skladow, tory
+postojowe) - lewa gorna czesc schematu;
+
+- W-wa Ochota (stacja postojowa dla ezt + hala napraw - w grze zwykle tory postojowe) - lewa
+dolna czesc schematu;
+
+- W-wa Wola, W-wa Czyste (na stacji W-wa Wola koncza bieg ezt jadace przez W-we Gdanska,
+Czyste to tory postojowe dla tych ezt) - u gory schematu, oznaczone napisem WOLA
+
+Schemat zostal opracowany przez A. Mizerskiego na podstawie pieszej penetracji stacji
+oraz planow torowych udostepnionych przez naczelnikow stacji W-wa Ochota i W-wa Szczesliwice.
+Schemat w pelni oddaje wielopoziomowe skrzyzowania torow, stad przebiegi sa bezkolizyjne,
+oczywiscie pod warunkiem prawidlowego ich ustawienia. Szczegoly sa podane ponizej przy
+opisie stacji.
+
+II. Warszawa Zachodnia
+Na stacji W-wa Zachodnia jest 7 peronow + peron "osmy" na ktorym zwykle "stacjonuje"
+sluzbowy EN57, zwany "Klasa". Kursuje on wahadlowo do st. W-wa Odolany.
+
+Organizacja ruchu:
+Peron 1 - zatrzymuja sie tam tylko pociagi Warszawskiej Kolei Dojazdowej (WKD).
+Nie ma polaczenia z torami PKP na W-wie Zachodniej, siec zasilana jest pradem o
+napieciu 600 V.
+Do holowania zepsutych jednostek EN94 uzywana jest SM42 "bazujaca" w Komorowie (kier.
+Grodzisk Maz.; na potrzeby gry zostaly dodane przebiegi umozliwiajace podczepienie
+stonki z naszej szopy do zepsutego skladu WKD). Oczywiscie
+przebiegi te sa niezelektryfikowane z uwagi na inne napiecie w sieci trakcyjnej,
+co czyni wjazd e-lokomotyw PKP niemozliwym.
+
+Perony 2 i 3 - ruch podmiejski (przelot i podstawianie ezt zaczynajacych bieg
+na Zachodniej). Peron 2 - kierunek W-wa Srodmiescie, peron 3 - kierunek W-wa Wlochy.
+
+Peron 4 - z tego peronu wyprawiane sa na szlak pociagi zaczynajace bieg na W-wie Zachodniej;
+(w kierunku W-wy Wschodniej)
+Na peron ten prowadzi tor ze stacji postojowej Szczesliwice (tunelem pod torami dalekobieznymi).
+
+Peron 5 - ruch dalekobiezny, kierunek W-wa Wschodnia
+
+UWAGA! Przebiegi dla pociagow wjezdzajacych na peron 5 od strony Poznania
+i Skierniewic sa tak ulozone, zeby (przy prawidlowym ich ustawieniu) nie kolidowaly
+ze soba. Pociagi wjezdzajace od strony Poznania powinny wjezdzac zawsze na DOLNA
+krawedz peronu, a od strony Skierniewic na GORNA. Wtedy mozliwy jest rownoczesny
+wjazd dwoch pociagow z dwoch kierunkow jednoczesnie na peron 5. W przypadku odwrotnego
+ustawienia przebiegow nastapi ich krzyzowanie co oczywiscie "z automatu" spowoduje
+opoznienie ktoregos z pociagow.
+
+Peron 6 - ruch dalekobiezny, kierunek W-wa Wlochy; na tym peronie zatrzymuja sie tez pociagi
+jadace z kierunku Radom-Kielce (dalekobiezne i ezt);
+
+Peron 7 - na tym peronie (GORNA krawedz!) zatrzymuja sie pociagi konczace bieg na Zachodniej.
+Po skonczeniu jazdy sklady jada wprost na stacje postojowa Szczesliwice, bez zmiany lokomotywy.
+Sklady podstawiane ze stacji Warszawa Grochow i zaczynajace bieg na Zachodniej lub powracajace
+na Grochow nalezy kierowac na DOLNA krawedz peronu!!  
+
+****************************************************************************************************
+WAZNE: Na schemacie stacji widoczne sa "punkty SBL" w postaci strzalek symbolizujacych             
+wjazd/wyjazd zgodnie z kierunkiem, w jakim odbywa sie ruch po danym torze. Ich rola polega         
+na umozliwieniu tymczasowego przetrzymania skladu gdy wyjazd lub peron dla danego pociagu          
+sa zajete. Przebiegi do punktow SBL sa JEDNOKIERUNKOWE, zgodne z kierunkiem strzalki.              
+Pociagu ktory na taki punkt wjedzie nie mozna juz cofnac, musi on albo wyjechac ze stacji          
+albo wjechac na zwolniony peron, zgodnie ze swoim "naturalnym" kierunkiem jazdy.                   
+  
+Przyklady z gry w ktorych wykorzystany jest punkt SBL:
+1. Wjazd
+Pociag osobowy z kierunku W-wa Wlochy ma wjechac na peron 2 w kierunku W-wy Srodmiescie.
+Oba perony 2 sa zajete. Pociag wpuszczamy na stacje przez klikniecie na punkt SBL, po
+dojechaniu na ten punkt pociag moze zatrzymac sie i poczekac na zwolnienie peronu.
+Gdy to nastapi, ustalamy i zatwierdzamy przebieg do peronu.
+
+Druga sytuacja (czesciej spotykana): jeden pociag jedzie w kierunku peronu (jeszcze jest
+w drodze), a nastepny pociag juz pojawil sie na wjezdzie na stacje. Wowczas mozna ten drugi pociag
+skierowac na punkt SBL, jak tylko pierwszy ezt go minie. W ten sposob mozna oddac "funkcjonowanie"
+SBL a zarazem sprawic ze ruch pociagow jest plynny i nie ma opoznien. Ponadto po wpuszczeniu
+pociagu na punkt SBL wjazdowy znika on z rozkladu po stronie przyjazdow, a nie swieci
+sie na czerwono.
+
+2. Wyjazd
+Czesto zdarza sie, ze jeden ezt juz wyjechal w kierunku na W-we Wlochy, a drugi
+odjezdza kilka minut po nim, podczas gdy ten pierwszy nie zdazyl jeszcze opuscic stacji.
+Wowczas mozna skierowac ezt z peronu na punkt SBL wyjazdowy, zwalniajac peron. Po
+opuszczeniu stacji przez pierwszy pociag, ustalamy przebieg na wyjazd z punktu SBL
+dla drugiego ezt i zatwierdzamy.
+
+O ile w przypadku wpuszczenia ezt na punkt SBL wjazdowy pociag znika z rozkladu,
+o tyle w przypadku punktu wyjazdowego pociag swieci sie na czerwono az do momentu
+wyjazdu ze stacji. Jedyna korzyscia w tym wypadku jest zwolnienie peronu ktory
+moze byc potrzebny dla kolejnego ezt.
+
+Polozenie punktow SBL odpowiada mniej wiecej polozeniu rzeczywistych semaforow.
+
+*************************************************************************************************
+
+III. Warszawa Zachodnia vs mozliwosci techniczne programu, czyli - niezbedne uproszczenia.
+
+Podczas prac nad stacja niezbedne stalo sie dokonanie pewnych uproszczen ze wzgledu
+na mozliwosci techniczne Kolejarza.
+
+1. Lokomotywy luzem.
+Obecne w lokomotywowni Odolany loki EU07 CM Bialystok i CM Lublin w rzeczywistosci
+tam nie pozostaja po przyprowadzeniu skladow, tylko jada luzem na Grochow, zgodnie
+ze swoimi obiegami.
+
+2. Pociag IC KASZUB jest w rzeczywistosci podstawiany przez 2 x EU/EP07 - na obu koncach
+skladu. Wynika to stad, ze wagony Z1 obslugiwane sa tylko na stacji W-wa Grochow, wiec
+taki "podsyl" pustego skladu na Zachodnia jest niezbedny. Poniewaz na Zachodniej
+nie ma druzyny manewrowej, na Grochowie doczepiana jest warszawska EU07, ktora ciagnie
+sklad na Zachodnia, natomiast mechanik wlasciwej lokomotywy, EU07 CM Gdynia "robi"
+w tym czasie za pasazera. Pociag odjezdza z dwiema EU07 z Zachodniej, pozostawiajac
+warszawska na W-wie Wschodniej. Poniewaz podczas prac nad stacja byly problemy
+z zamknieciem obiegu lokow EU07 CM Gdynia zostalo zastosowane nastepujace rozwiazanie:
+
+IC Kaszub konczy bieg o 9:55 (EU07 Gdynia), nalezy podczepic EP07 Gdynia znajdujaca
+sie w lokomotywowni. Pociag odjezdza na Grochow o 10:08 w trakcji podwojnej.
+Podobnie o 15:53, po przyjezdzie pustego skladu na Zachodnia (2xEP07 Gdynia) nalezy
+odczepic jedna EP07 i poslac ja do lokomotywowni. Lokomotywa ta odjezdza z pospiesznym do
+Kolobrzegu o 21:35. W rzeczywistosci z pociagiem tym odjezdza EP07 Gdynia od poc. 
+IC LAJKONIK, ktora jedzie luzem ze Wschodniej, przyjezdzajac na Zachodnia po 20.00.
+
+3. Lokomotywownia dla ezt.
+Po lewej stronie schematu stacji (u dolu) znajduje sie stacja postojowa dla ezt W-wa Ochota.
+W warunkach gry (braku szopy dla ezt) trzeba niestety podczepic e-loka do zepsutego skladu.
+W rzeczywistosci w hali napraw zmieszcza sie 4 jednostki EN57 (sa tam 4 tory). Hala na schemacie 
+to zwykle tory post.Schemat zostal opracowany tak, zeby mozna bylo ja tam umiescic kiedy bedzie 
+to mozliwe.
+
+4. Obracanie skladow na "wianku"
+Tor "wiankowy" na stacji Szczesliwice sluzy do czyszczenia i obracania skladow.
+Niestety, w warunkach gry trzeba niektore sklady rozczepic i zmienic kolejnosc
+wagonow. W rzeczywistosci nie ma to miejsca, bo do tego sluzy "wianek". 
+
+5. Godziny odjazdow ezt jadacych z kierunku Radomia do Warszawy Srodmiescie zostaly
+przesuniete do przodu o jedna minute wtedy, gdy rownoczesnie do Warszawy Centralnej
+ma odjechac inny pociag. W rzeczywistosci godziny odjazdow sa te same, niemniej ze 
+wzgledu na taktowanie zegara w Kolejarzu ezt musial stac i czekac ponad 1 min.na zwolnienie
+przebiegu (ktory jest na malym odcinku wspolny dla torow dalekobieznych i podmiejskich).
+Po przesunieciu odjazdu ezt o 1 minute udaje sie wypuscic go ze stacji z malym opoznieniem,
+jeszcze w granicach 1 minuty przewidzianej dla odjazdu. W przyszlosci po wprowadzeniu
+punktow karnych nie powinno to miec wplywu na ich naliczanie (pociag musi odjechac
+w ciagu minuty od planowanej godz. odjazdu).
+
+IV. Biale plamy w rozkladzie.
+Poza pociagami obecnymi w rozkladzie sa jeszcze 3 sklady, ktore koncza bieg na Wschodniej
+a ich stacja macierzysta to Szczesliwice. Sklady te jada puste przez W-we Gdanska na Szczesliwice
+gdzie sa czyszczone. Z braku danych nie zostaly uwzglednione w rozkladzie.
+
+Czasy odjazdow pociagu bagazowego 41910 i 14909 na rozladunek na stacje W-wa Glowna podane
+sa orientacyjnie. Nie udalo mi sie zdobyc dokladnych.
+
+W rozkladzie zostaly z premedytacja pominiete 3 pociagi: Ex WITKACY, SZKUNER i GIZYCKO.
+SZKUNER i GIZYCKO kursuje tylko latem w soboty i niedziele, WITKACY dwa dni w roku 
+(w pozostalym okresie na zarzadzenie).
+
+W jednym przypadku brak numeru pociagu dla sluzbowego ezt.
+Po prostu nie zostal podany w dodatku.
+
+xxxxxxxxxxxxxxxxxx
+Podziekowania dla G.Piotrowskiego za dane o poc.kwalifikowanych i dla Bubiego za 
+rozklad jazdy dla "klasy" i lokomotyw luzem.
+
+Przyjemnej pracy.
+Rafal Moszczynski (ramosz@poczta.onet.pl)
+
+
+
+

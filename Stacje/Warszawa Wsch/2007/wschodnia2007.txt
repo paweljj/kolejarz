@@ -1,0 +1,129 @@
+		-----------------------------------------------------------------------------------
+			Stacja Warszawa Wschodnia 2007
+		-----------------------------------------------------------------------------------
+
+Tej stacji przedstawiaæ chyba nie trzeba. Jedna z obs³uguj¹cych najwiêcej poci¹gów na dobê stacja
+	stanowi punkt przesiadkowy pasa¿erów jad¹cych "na drugi koniec Polski" 
+	oraz bazê wypadow¹ mieszkañców stolicy i okolic.
+
+Uk³ad torowy zgodny z rzeczywistoœci¹ co do rozjazdu. Schemat otrzyma³em o Micha³a Rudnickiego,
+	który nie jest jego autorem. Trochê go zmieni³em na potrzeby Kolejarza, jednak¿e jeœli
+	znajdzie siê Autor tego¿ schematu, proszê o kontakt - bêdê wdziêczny za formaln¹ zgodê
+	na u¿ytkowanie schematu,
+
+
+	----------------------------------------------------------
+		Wjazdy/wyjazdy:
+	----------------------------------------------------------
+
+	1 - Warszawa Centralna, a dalej W-wa Zachodnia i ca³a Polska zachodnia,
+		pó³ncno-zachodnia i po³udniowo-zachodnia (poci¹gi dalekobie¿ne);
+	2 - Warszawa Œródmieœcie, a dalej W-wa Zachodnia i zachód Mazowsza
+		(poci¹gi podmiejskie, SKM);
+	3 - Warszawa Gdañska / Warszawa Praga - Gdañsk, Olsztyn;
+	4 - Miñsk Mazowiecki / Bia³ystok, a dalej Siedlce lub Dêblin
+		(poci¹gi dalekobie¿ne);
+	5 - Warszawa Rembertów, a dalej Miñsk Maz. lub T³uszcz
+		(poci¹gi podmiejskie, SKM);
+	6 - Dêblin (poci¹gi dalekobie¿ne);
+	7 - Warszawa Olszynka Grochowska, a dalej Otwock (poci¹gi podmiejskie).
+
+	------------------------------------------------------------
+		Perony
+	------------------------------------------------------------
+
+Perony 1-5 obs³uguj¹ poci¹gi dalekobie¿ne, 5-8 poci¹gi podmiejskie:
+
+	1, 2 - poci¹gi przelotowe i rozpoczynaj¹ce bieg na Wschodniej, jad¹ce w kierunku
+		Warszawy Zachodniej;
+	3 - peron dodatkowy do obs³ugi wszystkich poci¹gów, które "nie zmieœci³y siê" rozk³adowo
+		w pozosta³ych peronach;
+	4, 5 - poci¹gi przelotowe i koncz¹ce bieg na Wschodniej, jad¹ce od strony W-wy Zachodniej,
+		a tak¿e niektóre poci¹gi podmiejskie;
+	6 - poci¹gi jad¹ce w kierunku W-wy Zachodniej;
+	7 - poci¹gi jad¹ce od strony W-wy Zachodniej.
+
+W praktyce sk³ady rozpoczynaj¹ce bieg na II peronie podstawiane s¹ na jego górn¹ krawêdŸ, poniewa¿
+	poci¹gi z wjazdu 3 (Gdynia) moga wjechaæ jedynie na krawêdŸ doln¹.
+Poci¹gi jad¹ce do Gdyni wje¿d¿aj¹ na górn¹ krawêdŸ peronu IV.
+Poci¹gi podmiejskie zatrzymuj¹ce siê 	przy peronie V zajmuj¹ jego doln¹ krawêdŸ,
+	z której mo¿liwy jest wjazd/wyjazd na tory podmiejskie.
+
+
+	------------------------------------------------------------------------
+		Tory postojowe:
+	------------------------------------------------------------------------
+
+	- "L" ¿eberko dla lokomotyw przeczepiaj¹cych siê miêdzy poszczególnymi sk³adami,
+		w praktyce ekploatowane g³ównie przez krakowskie EP09;
+	- tory pomiêdzy peronami III i IV równie¿ s³u¿¹ lokomotywom, szczególnie przyje¿d¿aj¹cym
+		z Gdyni i Lublina;
+	- tor na przed³u¿eniu peronu IV tak¿e pe³ni rolê ¿eberka dla lokomotyw - przy nim nocuje
+		ET22 z Bia³egostoku, przyprowadzaj¹ca Starostê i czekaj¹ca na powrotny sk³ad
+	- tory postojowe na przed³u¿eniu peronu VI, to dwa ¿eberka dla jednostek,
+		które nie potrzebuj¹ zje¿d¿aæ na Grochów, w praktyce sk³ady, które po przyjeŸdzie
+		maj¹ niedu¿o czasu do odjazdu w podró¿ powrotn¹;
+	- tory w prawym dolnym rogu, to stacja postojowa W-wa Grochów. Cztery grupy IC s³u¿¹
+		sk³adom dalekobie¿nym, trzy EZT - podmiejskim.
+
+
+	--------------------------------------------------------------------------
+		Uwagi co do ruchu poci¹gów
+	--------------------------------------------------------------------------
+
+Ze wzglêdu na ciag³e zmiany w rozk³adzie (m.in. na odcinku Skierniewice - Koluszki) przyj¹³em
+	jako wyjœciowy rozk³ad z okolic marca 2007. Wtedy jeszcze zdarza³y siê "bipy" do Radomia
+	i Skar¿yska Kamiennej.
+Sk³ady dalekobie¿ne, wyje¿d¿aj¹ce z Grochowa, musz¹ zatrzymaæ siê w punkcie manewrowym,
+	oznaczonym strza³k¹ w lewo - tam znajduje siê w rzeczywisoœci semafor wjazdowy.
+	W symulacji po³¹czy³em semafor z miejscem na manewry.
+Sk³ady dalekobie¿ne, zje¿d¿aj¹ce na Grochów, zatrzymuj¹ siê w punkcie manewrowym, oznaczonym
+	strza³k¹ w prawo i stam¹d mog¹ wjechaæ na odpowiednie tory.
+Warto za³o¿yæ sobie, ¿e dwie grupy postojowe z lewej strony, to grupy przyajzdowe, a dwie po stronie
+	prawej - odjazdowe. Sk³ady przyje¿d¿aj¹ na grupê przyjazdow¹, sk¹d lokomotywa zje¿d¿a
+	na szopê, a wagony przetacza grochowska stonka.
+Poci¹gi Przewozów Regionalnych, rozpoczynaj¹ce/koñcz¹ce bieg na Wschodnim, maj¹ stacjê
+	postojow¹ na Szczêœliwicach. Z tego wzglêdu wprowadzi³em poci¹gi s³u¿bowe (puste sk³ady)
+	przyje¿dzaj¹ce od strony W-wy Centralnej, b¹dŸ te¿ Gdañskiej. Dlatego nale¿y zwracaæ
+	uwagê, którym wyjazdem odbêdzie siê zjazd na Szczêœliwice, aby nie byæ w ostatniej
+	chwili zaskoczonym.
+Grupa wagonów poci¹gu "KASZTAN", koñcz¹ca bieg na Wschodnim, mo¿e byæ przetoczona
+	na Grochów dwojako: jako oddzielny sk³ad, prowadzony SM42, albo doczepiona
+	do innego sk³adu (najbli¿ej jest "CHOPIN"). Sprowadzenie go na 23:13 odbywa siê tako¿.
+
+	--------------------------------------------------------
+		Lokomotywownia:
+	--------------------------------------------------------
+
+	- Warszawa Olszynka Grochowska;
+	- czas zamówienia  2 min.
+	- czas naprawy     90 min.
+
+
+	--------------------------------------------------------
+		Sk³ady i obiegi:
+	--------------------------------------------------------
+
+	- sk³ady poci¹gów rzeczywiste w 90%;
+	- obiegi poci¹gów rzeczywiste w 95%;
+	- nie rozpisa³em poci¹gów ³¹czonych POROGIA i WIGRY.
+
+
+	------------------------------------------
+		AUTORZY
+	------------------------------------------
+   ____________________________________________________________
+1. pomys³, opracowanie schematu na podstawie pliku od kolegi Micha³a Rudnickiego,
+	rozk³ad poci¹gów spó³ki PKP PR oraz KM, obiegi lokomotyw:
+		Adam Kamiñski
+		adam@bopos.pl
+		gg: 6676645
+
+   _______________________________________________
+2. rozk³ad pociagów spó³ki PKP IC oraz SKM Warszawa:
+		Igor Bubicz
+		igorb@op.pl
+		gg: 7657537
+
+Wo³omin & Legionowo 2007
+2007-07-04 (koñcowe zmiany 2007-09-19)

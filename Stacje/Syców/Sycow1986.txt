@@ -1,0 +1,17 @@
+Stacja SYCÓW
+Wersja dla Kolejarza 1.03
+Autor : Marcin Horosiewicz
+E-mail: automatykjl@poczta.onet.pl
+Rozk³ad Jazdy Poci¹gów 1986/1987 
+
+Kierunek 1 - Kêpno
+         2 - Oleœnica
+         3 - Bukowa Œl¹ska (Namys³ów)
+         
+
+Ruch poci¹gów przedstawiony jest wg. S³u¿bowego Rozk³adu Jazdy Poci¹gów
+Dodatkowo do Rozk³adu wrzucono kursowanie drezyn drogowców.
+
+Na stacji Syców nie by³o lokomotywowni dlatego ze wzglêdów technicznych 
+programu (awarie loków) umieszczono przy wjeŸdzie nr 1 ikonkê 
+Lokomotywowni Kêpno która obs³ugiwa³a ruch na linii.

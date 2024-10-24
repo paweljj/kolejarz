@@ -1,0 +1,17 @@
+Stanice Jedlová leí na trati 081 Dìèín-Benešov n/Plouènicí-Rumburk
+                                  -Èeská Lípa
+Zaèíná tu tra 080 Jedlová-Bakov nad Jizerou. 
+
+Vıjezd 1: Mlıny, Benešov nad Plouènicí, Dìèín
+Vıjezd 2: Svor, Èeská Lípa, Doksy, Bakov nad Jizerou
+Vıjezd 3: Chøibská, Rybništì, Rumburk
+
+Ve stanici není depo, objednaná lokomotiva pøijede z Èeské Lípy za 60 minut.
+Nákladní vlaky jezdí vìtšinou do Jedlové s postrkem a postrk se vrací.
+Ve skuteènosti ještì vlaky z Jedlové smìrem va Svor jezdí s nezavìšenım
+postrkem do km 68,5 odkud se postrk vrací.
+Pouitı grafikon 2003.
+
+
+Jindøich Èíek
+jindrcizek@quick.cz

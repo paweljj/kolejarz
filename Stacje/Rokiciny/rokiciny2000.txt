@@ -1,0 +1,24 @@
+Stacja------> Rokiciny
+Plan Stacji-> obserwacje w³asne
+Rozk³ad----->  SRJ poc tw zeszyt 121 z roku 2000
+Wyjazd-1---->Koluszki £ódŸ Warszawa
+Wyjazd-2---->Piotrków trybunalski Czêstochowa Katowice  
+Stacja Rokiciny by³a wa¿n¹ stacj¹ do momentu wybudowania linii kolejowej z Koluszek do £odzi - kursowa³y st¹d powozy konne
+
+
+Ruch
+-towarowy i pasa¿erski znaczny
+-godziny odjazdu poci¹gow s¹ dok³adne
+-jedna nastawnia
+-w przypadku nieœcis³oœci natury logicznej -  pokrywanie siê godzin odjazdów w tym
+samym kierunku zwlaszcza poci¹gów dodatkowych do rzeczywistego czasu odjazdu  takowych doda³em
+jedn¹ minutê
+na razie nie ma poci¹gó pasa¿erskich
+natomiast zestawienia towarowych nie s¹ nigdzie normowane
+Autor Adam Sosnowski
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com
+w rzeczywistoœci torów jest wiêcej , ale s¹ zaroœniête i nie u¿ywane w symulatorze jak i w rzeczywistoœci
+
+Wykorzystano  programy EDK i Pathfinder i Eroz
+
+pozdrawiam wszystkich mi³oœników Kolejarza

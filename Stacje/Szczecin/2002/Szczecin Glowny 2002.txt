@@ -1,0 +1,62 @@
+Rozk³ad obowi¹zuje od 06 stycznia 2002r. do 21 czerwca 2002r.
+Przedstawiony zosta³ fragment rozk³adu, tzw. "zimowy", poniewa¿ w znacznym stopniu 
+ró¿ni siê od rozk³adu obowi¹zuj¹cego w lecie. 
+Najnowsze rozk³ady mo¿na pobraæ na stronie:
+                    _____________________________________
+ 		                     
+                     www.kolej.szczecin.pl/kolejarz.html
+                    _____________________________________
+
+
+Oto kilka wyjaœnieñ i uwag dotycz¹cych symulacji:
+- schemat torowy zosta³ odtworzony w 95% zgodnie z rzeczywistoœi¹.
+
+- nie uwzglêdniono poci¹gu 48511 z Czêstochowy kursuj¹cego raz w roku.
+
+Numery wjazdów:
+- 1 - wjazd/wyjazd w kierunku Szczecin Wstowo;
+  2 -     -"-         -"-     Szczecin Port Centralny;
+  3 -     -"-         -"-     Szczecin Gumieñce;           
+  4 -     -"-         -"-     Szczecin Wzgórze Hetmañskie;
+  5 -     -"-         -"-     Szczecin Turzyn. 
+
+- wszystkie poci¹gi ezt w rzeczywistoœci obecnie koñcz¹ bieg na stacji 
+Szczecin G³ówny a dalej jad¹ jako pró¿ne sk³ady pasa¿erskie /SPJ/ do stacji Szczecin Wzgórze
+Hetmañskie gdzie stacjonuj¹. W symulacji nie ma rozró¿nienia na poci¹gi
+pró¿ne i pasa¿erskie wiêc wszystkie sk³ady ezt s¹ traktowane jako 
+przelotowe. Godziny odjazdów ezt do/z stacji Szczecin Wzgórze Hetmañskie s¹ podane zgodnie 
+ze s³u¿bowym rozk³adem jazdy. 
+
+- w górnej czêœci graficznego obrazu stacji znajduj¹ siê punkty 
+manewrowe dla sk³adów. W rzeczywistoœci jest to 
+posterunek s³u¿by drogowej. Nie uwzglêdni³em tak¿e nieczynnej lokomotywowni
+Szczecin G³ówny, której tylko jedno stanowisko jest u¿ywane obecnie przez s³u¿bê drogow¹. Lokomotywownia która 
+jest uwzglêdniona w symulacji to Szczecin Port Centralny.Jej po³o¿enie te¿ nie jest 
+zgodne zupe³nie z prawd¹. Powinna byæ po³o¿ona nad torem wjazdowym z kierunku 2, jej umiejscowienie 
+wymusza mo¿liwoœæ zjazdu i wjazdu lokomotyw jad¹cych luzem z/na tor 3. przy peronie 1. 
+do szopy Szczecin Port Centralny. Czêsto odbywa siê to przy jeŸdzie po torze niew³aœciwym.
+
+- serie lokomotyw, które prowadz¹ poszczególne sk³ady ulegaj¹ 
+modyfikacjom, a przedstawione w symulacji s¹ przyk³adowe.
+
+- ju¿ wkrótce nowe rozk³ady! - 1981/82, 1989/90, 1990/92, 1995/96,
+1996/97, 1997/98, 1998/99, 1999/00, 2000/01. 
+
+- powstanie rozk³adu u³atwi³ w znacznym stopniu program StatInfo 1.0
+
+- powstanie stacji u³atwi³y w znacznym stopniu programy Edytor Dla Kolejarza 2.35, oraz PathFinder 2.0
+
+Szczecin, 28 grudnia 2002.
+
+Wszelkie komentarze proszê kierowaæ na adres:
+                        __________________________________________
+
+                         wojtazz@op.pl; wojtazz@kolej.szczecin.pl
+                        __________________________________________
+
+Podziêkowania:
+Dziêkujê Mateuszowi ¯mudzie i Markowi Pawlukowiczowi za wskazówki i pomoc przy testowaniu rozk³adów.
+
+AUTOR ¿yczy mi³ej zabawy!!
+	Wojciech Nowotniak   
+                      

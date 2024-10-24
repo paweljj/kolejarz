@@ -1,0 +1,12 @@
+Freising jest to niemiecka stacja le¿¹ca na lini Monachium - Regensburg, lecz wszystkie IC, EC i ICE je¿d¿¹ przez Inglostad
+
+Niektóre zestawienia mog¹ odbiegaæ od rzeczywistoœci gdy¿ by³y zgadywane.
+
+Poci¹gi do/z Regensburg Hbf, Landshut, Passau Hbf, Plattling, Nurnberg Hbf, Straubing, Coburg, Bamberg w kierunku 2, a do/z Munchen Hbf i Ost w kierunku 1.
+
+W porównaniu do poprzedniej wersji zmieniony zosta³ uk³ad torów. W nastêpnej wersji do³o¿one zostanie kilka poci¹gów osobowych wraz z towarowymi.
+
+Oczywiœcie wszelkie uwagi, b³êdy i inne propozycje kierowaæ na warzywko.warzywko@interia.pl
+
+Autorami stacji s¹: - Piotr Wawrzywniak
+		    - Jan Buschermoehle

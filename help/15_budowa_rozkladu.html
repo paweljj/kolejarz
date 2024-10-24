@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=iso-8859-2" />
+  <meta name="Description" content=" [wstaw tu opis strony] " />
+  <meta name="Keywords" content=" [wstaw tu slowa kluczowe] " />
+  <meta name="Author" content=" [dane autora] " />
+  <meta name="Generator" content="kED2" />
+
+  <title> [tytuł strony] </title>
+
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+
+<h3>Etapy budowy nowego rozkładu</h3>
+
+<ol>
+	<li>Tworzymy w dowolnym edytorze plik nazwa_rozkladu.roz. <span class="pogr">Nazwa pliku nie może zawierać polskich liter</span>.</li>
+	<li>Wpisujemy liczbę <span class="pogr"> 3. Po każdej wpisanej liczbie należy wstawić przecinek</span>.</li>
+	<li>W nowej linii wpisujemy nazwę odpowiedniego pliku z opisem stacji bez kropki i rozszerzenia.</li>
+	<li>Ustalamy ilość wszystkich typów lokomotyw występujących w grze. Wypisujemy te typy na kartce jeden pod drugim. Teraz obok każdego typu wypisujemy odpowiednie nazwy rysunków. Może być ich kilka dla każdego typu. </li>
+	<li>Do listy z poprzedniego punktu dopisujemy nazwy plików z wagonami. Nazwy plików z lokomotywami i wagonami numerujemy począwszy od 1. Należy pamiętać, że rysunki wykorzystywane do tworzenia skróconego podglądu składu muszą mieć numery mniejszy niż 100. Pozostałe rysunki mogą być wykorzystywane jedynie przy tworzeniu podglądu pełnych składów.</li>
+	<li>Teraz mamy możliwość zbudowania całych składów. Jeżeli nie chcemy mieć podglądu całych składów podczas gry, punkt ten możemy pominąć.<br/>
+Dla każdego zestawienia wypisujemy na kartce ilość wagonów danego typu i numer rysunku wagonu z punktu 5. Wagony będą wyświetlane w takiej kolejności, w jakiej je wypiszemy. Zestawienia numerujemy począwszy od zera. - np. 2,5,1,7, -> oznacza dwa wagony o numerze rysunku 5 i jeden wagon o numerze rysunku 7. Należy pamiętać, że każda linijka może się składać z maksymalnie 30 liczb.</li>
+	<li>Zapisujemy na kartce wszystkie nazwy lokomotywowni, z których jednostki mogą się pojawić na naszej stacji. Numerujemy je począwszy od zera. Numer 0 powinna mieć nazwa lokalnej lokomotywowni, lub w przypadku jej braku, nazwa najbliższej lokomotywowni. </li>
+	<li>Ustalamy ilość wierszy opisujących lokomotywy, jakie znajdą się na początku gry w lokomotywowni oraz na stacji i wpisujemy ją do pliku. Lokomotywy mające identyczne rysunki i pochodzące z tej samej lokomotywowni nie są rozróżniane.</li>
+	<li>Dla lokomotywy znajdującej się w lokomotywowni, wpisujemy kolejno:<br/>
+		- liczbę z punktu 5, <br/>
+		- ilość takich lokomotyw w lokomotywowni, <br/>
+		- numer nazwy lokomotywowni z punktu 7,<br/>
+		- 0,0,0,.		<br/>
+		Dla każdej lokomotywy, która ma się znajdować na stacji, wpisujemy kolejno:<br/>
+		- liczbę z punktu 5, <br/>
+		- 1, (ilość)<br/>
+		- numer nazwy lokomotywowni z punktu 7, <br/>
+		- współrzędną punktu, na którym ma ona stać (dla peronu jest to dowolna z jego współrzędnych); jeżeli lokomotywa ma być połączona z tym, co stoi po jej prawej stronie, wówczas współrzędna musi być ujemna;<br/>
+		- pozycję lokomotywy w danym punkcie - liczba od 0 do 9 - 0 po lewej stronie, 9 - po prawej,<br/>
+		- jeżeli lokomotywa ma stać na torach postojowych, wpisujemy numer tego toru w danej grupie torów postojowych (górny tor ma numer 0), w przeciwnym przypadku 0,</li>
+	<li>Wpisujemy ilość wszystkich pociągów w rozkładzie jazdy. Jeżeli chcemy żeby wszystkie pociągi osobowe były na początku gry losowane na torach towarowych, wówczas ilość wszystkich pociągów mnożymy przez (-1).</li>
+	<li>Zapisujemy na kartce wszystkie nazwy stacji skąd i dokąd jadą pociągi, a następnie numerujemy je zaczynając od 0. Numer 0 powinna mieć nazwa naszej stacji. Nazwa stacji może zawierać maksymalnie 29 znaków.</li>
+	<li>Sposób opisu pociągów łączonych i rozłączanych jest taki sam. Numer kolejnej części mnożymy przez 10 i dodajemy do niego numer obecnego wagonu. Wagony numerujemy od 1, a pociągi od 0. Ostatni wagon w składzie ma wskazywać na pierwszy. Ilość wagonów jest ograniczona do 9, lecz może zostać w przyszłości zwiększona, o ile będzie taka potrzeba. Pociąg wjeżdżający z kilkoma grupami wagonów musi być rozłączony na stacji, a wyjeżdżający - łączony.<br/>
+	Np. taki mini rozkład (tylko kolumny odpowiadające za rozłączanie składów):<br/>
+	..., 11,  -> pierwsza grupa wagonów, ciąg dalszy opisu pociągu w pozycji nr 1; (1*10+1)<br/>
+	..., 32,  -> druga grupa wagonów, ciąg dalszy opisu pociągu w pozycji nr 3; (3*10+2)<br/>
+	...,0,     -> jakiś inny pociąg;<br/>
+	...,03,   -> trzecia i zarazem ostatnia grupa wagonów, wskazuje na grupę pierwszą, która jest opisana na pozycji 0; (0*10+3)</li>
+	<li>Zapisujemy na kartce nazwy pociągów, a następnie numerujemy je począwszy od 1. Nazwa pociągu może mieć maksymalnie 29 znaków.</li>
+	<li>Dla każdego pociągu wpisujemy następujące informacje:</br>
+	*	rodzaj pociągu<br/>
+		-	0 - pociąg kończy bieg na naszej stacji<br/>
+		-	1 - pociąg rozpoczyna bieg na naszej stacji<br/>
+		-	2 - pociąg przelotowy<br/>
+		-	3 - drugi i kolejne człony pociągu rozłączanego przelotowego,<br/>
+		-	4 - drugi i kolejne człony pociągu rozłączanego kończącego bieg na naszej stacji,<br/>
+		-	5 - pociąg nie zatrzymujący się na stacji,<br/>
+		-	6 - drugi i kolejne człony pociągu łączonego rozpoczynającego bieg na naszej stacji,<br/>
+	*	planowana godzina przyjazdu - np. 12:37 -> 1237<br/>
+	*	współrzędna punktu wjazdowego,<br/>
+	*	numer nazwy stacji skąd przyjeżdża pociąg,<br/>
+	*	dla EZT lub autobusu szynowego wpisujemy rodzaj jednostki (z punktu 5), dla pozostałych 0,<br/>
+	*	planowa godzina odjazdu,<br/>
+	*	współrzędne punktu wyjazdowego,<br/>
+	*	numer nazwy stacji dokąd pociąg odjeżdża,<br/>
+	*	dla EZT lub autobusu szynowego wpisujemy indeks lokomotywowni (z punktu 7), dla pozostałych 0,<br/>
+	*	numer pociągu wjeżdżającego,<br/>
+	*	numer pociągu wyjeżdżającego,<br/>
+	*	jeżeli pociąg jest rozłączany - numer z punktu 12 lub 0 w przeciwnym przypadku,<br/>
+	*	jeżeli pociąg będzie łączony - numer z punktu 12 lub 0 w przeciwnym przypadku,  <br/>
+	*	rodzaj pociągu (o tworzeniu własnych rodzajów pociągów - patrz pkt 34)<br/>
+		-	0 - towarowy<br/>
+		-	1 - SKM<br/>
+		-	2 - osobowy<br/>
+		-	3 - WKD<br/>
+		-	4 - pospieszny<br/>
+		-	5 - TLK<br/>
+		-	6 - ekspres<br/>
+		-	8 - InterCity<br/>
+		-	10 - EuroCity<br/>
+		-	12 - hotelowy<br/>
+		-	13 - nocny ekspres<br/>
+		-	14 - pocztowy<br/>
+		-	16 - bagażowy<br/>
+		-	18 - EuroNight<br/>
+		-	20 - służbowy<br/>
+		-	22 - Regio Plus<br/>
+		-	24 - InterRegioN<br/>
+		-	102 - S-Bahn<br/>
+		-	103 - Regional Bahn<br/>
+		-	104 - Regional Express<br/>
+		-	106 - InterRegio<br/>
+		-	108 - InterCity Night<br/>
+		-	110 - InterCity Express<br/>
+		-	202 - TER - pociąg regionalny<br/>
+		-	204 - Corail <br/>
+		-	206 - Eurostar <br/>
+		-	208 - TGV <br/>
+		-	212 - Train de Nuit <br/>
+	*	rodzaj pociągu odjeżdżającego,<br/>
+	*	stan pociągu<br/>
+		-	1 - jest już na stacji,<br/>
+		-	0 - przyjedzie,<br/>
+	*	numer wagonu (z punktu 5) symbolizującego skład lub 0 dla jednostek nierozłączalnych<br/>
+	*	numer zestawienia z punktu 6 lub 0,<br/>
+	*	numer peronu, na który pociąg powinien wjechać,<br/>
+	*	numer peronu, z którego pociąg powinien opuścić stację,<br/>
+	*	indeks nazwy pociągu przyjeżdżającego lub 0, gdy pociąg nie ma nazwy,<br/>
+	*	indeks nazwy pociągu odjeżdżającego lub 0, gdy pociąg nie ma nazwy,<br/>
+	*	dla pociągu rozpoczynającego bieg, współrzędne punktu, w którym ma się znajdować na początku gry (dla peronu dowolną z jego współrzędnych). Może to być peron, tory postojowe lub tory dla pociągów towarowych. Jeżeli pociąg ma być połączony z tym, co stoi po jego prawej stronie, wówczas współrzędna musi być ujemna. Jeżeli wpiszemy 0, miejsce to będzie losowe.<br/>
+	*	pozycje pociągu w danym punkcie - liczba od 0 do 9 - 0 po lewej, 9 po prawej stronie. Jeżeli w poprzednim punkcie wpisaliśmy zero, w tym robimy to samo.<br/>
+	*	jeżeli pociąg ma stać na torach postojowych, wpisujemy numer tego toru w danej grupie torów postojowych (górny tor ma numer 0), w przeciwnym przypadku 0. Jeżeli w dwóch poprzednich punktach wpisaliśmy zero, w tym robimy to samo.<br/>
+	*	0,</li>
+	<li>Wpisujemy godzinę rozpoczęcia gry: hhmm
+	<li>Nadszedł czas na opracowanie schematu przejść lokomotyw. Dzięki niemu program wie, z którym pociągiem dany lok powinien powrócić na naszą stację. Do danego pociagu mogą być przypisane maksymalnie dwie lokomotywy. W trakcji podwójnej nie może przyjechać pierwszy pociąg wpisany do rozkładu, oraz wszystkie pociągi, które nie mają wymienianych lokomotyw na naszej stacji. Na opis każdego przejścia składa się 5 liczb:<br/>
+	*	dwie pierwsze opisują lokomotywę - rodzaj i lokomotywownię, z której pochodzi;<br/>
+	*	kolejna to indeks pociągu, z którym przyjeżdża (pociągi są indeksowane od 0); jeżeli lokomotywa przyjeżdża z lokomotywowni, do której jest przypisana, to indeks mnożymy przez (-1) - wówczas będzie dla tego pociągu będzie działała tablica prawdopodobieństwa <br/>
+	*	indeks pociągu, z którym odjeżdża; Jeżeli lokomotywa przyjeżdża z pociągiem, który się nie zatrzymuje lub z pociągiem przelotowym, który nie zmienia lokomotywy na naszej stacji, wówczas należy w tym punkcie określić indeks pociągu, z którym lokomotywa przejedzie w drodze powrotnej przez naszą stację. W tej sytuacji rodzaj lokomotywy należy pomnożyć przez (-1). Może się zdarzyć sytuacja, iż pociągi z A do B przyjeżdża pierwszy, a z B do A jakiś czas później; lokomotywa prowadząca pociąg z A do B ma powrócić z pociągiem jadącym z B do A, ale nie tym, który przyjeżdża na naszą stację dzisiaj, tylko jutro; wówczas indeks mnożymy przez (-1). Ta ostatnia właściwość nie została jeszcze wprowadzona do gry.<br/>
+Należy pamiętać o tym, aby indeksy pociągu wskazywały zawsze na pierwszy człon jego składu.</li>
+	<li>Piątą liczbą jest indeks w tablicy prawdopodobieństw. Czasem zdarza się, iż pociąg przyjeżdża z inną lokomotywą niż ta, która jest w rozkładzie. Tablica prawdopodobieństw służy do określenia prawdopodobieństwa zajścia takiej sytuacji. Jeżeli nie chcemy budować takiej tablicy, możemy z tego zrezygnować. Wówczas piątą wartością jest 0. Podobnie, gdy lokomotywa pochodzi z lokomotywowni znajdującej się na naszej stacji. <br/>
+Ilość kolumn tablicy prawdopodobieństw jest równa liczbie lokomotyw z punktu 4. Ilość wierszy jest określana przez jej twórcę. Do każdego wiersza wpisujemy liczby, które określają prawdopodobieństwo przybycia innego loka zamiast tego, który opisujemy.<br/>
+Np. (mamy trzy kolumny)<br/>
+EU07	EP07 SU45<br/>
+70	30	0<br/>
+50	25	25<br/>
+Jeżeli indeks=1 (piąta liczba w opisie lokomotywy) oznacza to, że EU07 może przyjechać z prawdopodobieństwem 70%, a EP07 - 30%.<br/>
+Suma wszystkich liczb w każdym wierszu musi wynosić 100.<br/>
+W kolumnach opisujących EZT lub autobusy szynowe muszą się znajdować same zera.<br/>
+Ten sam numer indeksu może być wpisany do wielu lokomotyw.</li>
+	<li>Wpisujemy ilość przejść lokomotyw.</li>
+	<li>Wpisujemy do pliku poszczególne przejścia:<br/>
+	*	rodzaj lokomotywy (z punktu 5),<br/>
+	*	indeks lokomotywowni (z punktu 7),<br/>
+	*	indeks pociągu, z którym lokomotywa przyjeżdża na stację,<br/>
+	*	indeks pociągu, z którym lokomotywa odjeżdża ze stacji,<br/>
+	*	numer tablicy prawdopodobieństw.</li>
+	<li>Wpisujemy ilość nazw rysunków lokomotyw z punktu 4.</li>
+	<li>Wpisujemy do pliku ilość wierszy w tablicy prawdopodobieństw.</li>
+	<li>Wpisujemy do pliku kolejne wiersze tablicy prawdopodobieństw. Po każdej liczbie stawiamy przecinek.</li>
+	<li>Wpisujemy ilość zestawień składów z punktu 6.</li>
+	<li>Wpisujemy do pliku poszczególne zestawienia. Każde z nich musi być zakończone 0,</li>
+	<li>Wpisujemy ilość nazw rysunków wagonów z punktu 5.</li>
+	<li>Dla każdego rysunku lokomotywy w jednej linijce wpisujemy <br/>
+	*	nazwę rysunku bez kropki i rozszerzenia,<br/>
+	*	spację,<br/>
+	*	nazwę danego typu lokomotywy<br/>
+	*	spację <br/>
+	*	numer typu<br/>
+		-	1 - elektryczny zespół trakcyjny<br/>
+		-	3 - lokomotywa elektryczna<br/>
+		-	2 - autobus szynowy (spalinowy odpowiednik 1)<br/>
+		-	4 - lokomotywa spalinowa<br/>
+		-	5 - parowóz<br/>
+	*	spację<br/>
+	*	stopień lokomotywy w hierarchii lokomotyw - będzie on wykorzystywany do obliczania punktów karnych, gdy pociąg odjedzie z inną lokomotywą niż planowa. Im numer jest mniejszy tym lokomotywa jest wyżej w hierarchii. 0 oznacza, iż lokomotywa nie może opuścić naszej stacji. Numer musi być liczbą jednocyfrową. W przypadku EZT i autobusów szynowych wpisujemy dowolną liczbę różną od zera.  </li>
+	<li>Dalej wpisujemy w osobnych linijkach nazwy rysunków wagonów bez kropki i rozszerzenia.</li>
+	<li>Wpisujemy ilość nazw lokomotywowni.</li>
+	<li>Wpisujemy po kolei nazwy lokomotywowni. Każdą z nich kończymy przejściem do nowej linii. </li>
+	<li>Wpisujemy ilość nazw stacji.</li>
+	<li>Wpisujemy po kolei nazwy stacji. Każdą z nich kończymy przejściem do nowej linii.</li>
+	<li>Wpisujemy ilość nazw pociągów z punktu 13.</li>
+	<li>Wpisujemy po kolei nazwy pociągów. Każdą z nich kończymy przejściem do nowej linii.</li>
+	<li>Mamy możliwość stworzenia własnych rodzajów pociągów lub też zmiany w opisie już istniejących. Najpierw wpisujemy liczbę oznaczającą ilość definiowanych przez nas opisów.</li>
+	<li>W kolejnych linijkach podajemy zestaw czterech danych:<br/>
+	* numer wpisu w tablicy z rodzajami pociągów (liczba od 0 do 249)<br/>
+	* spacje<br/>
+	* kategorię pociągu: 0 - podmiejski, 1 - osobowy, 2 - pospieszny, 3 - kwalifikowany, 4 - towarowy, 5 - specjalny/inny<br/>
+	* trzyliterowy skrót rodzaju pociągu, który będzie wyświetlany w rozkładzie szczegółowym<br/>
+	* spacje<br/>
+	* jednoliterowy skrót rodzaju pociągu, który będzie wyświetlany w rozkładzie skróconym<br/>
+Jeżeli numer wpisu w tablicy z rodzajami pociągu będzie się pokrywał z już istniejącym w grze wpisem, to zostanie on zamieniony na nowy.</li>
+	<li>Na końcu pliku powinny się znajdować następujące informacje:<br/>
+	* nazwa stacji, której dotyczy rozkład, <br/>
+	* rok i pora roku obowiązywania rozkładu,<br/>
+	* wersja Kolejarza, z którą działa rozkład,<br/>
+	* autor (autorzy) pliku rozkładu,<br/>
+	* email ww. autora,<br/>
+	* data stworzenia pliku rozkladu,</li>
+	<li>Możemy stworzyć plik tekstowy z opisem stacji i rozkładu. Plik powinien mieć nazwę identyczną z nazwą pliku rozkładu i posiadać rozszerzenie ".txt". Informacje w nim zawarte będą dostępne podczas gry.</li>
+	<li>Mamy gotowy rozkład. Informację o nim możemy przesłać na adres pawelj@hot.pl. </li>
+</ol>
+
+<p class="czerw">Przed przysłaniem powinniśmy przetestować rozkład i stację.</p>
+
+<p class="czerw">Ponieważ wielu autorów przysyłało nie przetestowaną twórczość, od tej pory razem ze stacją i rozkładem proszę przysyłać plik z zapisanym stanem gry z godziny 23:55.</p>
+
+<p class="pogr">Autorzy zastrzegają sobie prawo do modyfikacji sposobu opisu rozkładu w kolejnych wersjach gry. </p>
+
+
+</body>
+</html>

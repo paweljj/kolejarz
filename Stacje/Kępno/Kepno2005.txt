@@ -1,0 +1,57 @@
+             
+                Kêpno 2005
+
+Stacja jako nieliczna na sieci PKP jest dwupoziomowa, podobnie jak Kostrzyn.
+Wlaœciwa stacja po³o¿ona na linii Herby Nowe - Oleœnica, górne perony obs³uguj¹ linie Kluczbork - Poznañ.
+Linia wybudowana i oddano do eksploatacji w marcu 1872, jako Oleœnica - Podzamcze (obecnie Wieruszów).
+W 1926 r. wybudowano liniê Kalety - Podzamcze oraz ³¹cznice wschodni¹.
+Zelektyfikowano a pa¿dzierniku 1981 r odcinek Herby Nowe - Kêpno oraz ³acznice wschodnia i zachodnia
+--------------------------------
+
+Kierunki:
+ 1 - Wieruszów ( Herby Nowe ),
+ 2 - Hanulin ( Ostrów Wlkp. ) - ³¹cznica wschodnia,
+ 3 - Syców ( Oleœnica - zamknieta dla ruchy pasa¿erskiego ),
+ 4 - Hanulin ( Ostrów Wlkp. ) - ³¹cznica zachodnia,
+ 5 - Namys³ów ( zamknieta dla ruchu ),
+ 6 - Hanulin ( Ostrów Wlkp. ) - ³¹cznica œrodkowa (tylko ruch manewrowy),
+ 7 - Hanulin ( Ostrów WLKP. ) - linia Kluczbork - Poznañ
+ 8 - S³upia ( Kluczbork ) - linia Kluczbork - Poznañ
+
+Zak³ad Taboru Ostrów Wielkopolski oddalony o 42 km, na miejscu Sekcja Taboru (lokomotywownia).
+Czas oczekiwania na przyjazd loka 5 minut.
+
+--------------------------------------------
+
+Uk³ad torowy odwzorowany w 100% (stan na dzieñ 29.06.2004).
+
+--------------------------------
+Rozk³ad jazdy i sk³ady s¹ tak jak w rzeczywistoœci.
+Dodatkiem poprawiaj¹cym atrakcyjnoœæ s¹ poc. towarowe, które kursowa³y do 
+grudnia 2002 i nie wiadomo czemu zostaly "zdjête", mimo iz nie brak czasów
+na ich przejazd, jak i stan infrastruktury jest bardzo dobry.
+Poci¹gi kursuj¹ z szybkoœci¹:
+kierunek  pasa¿erskie   towarowe
+    1	  95 km/godz    70 km/godz
+    2	  60 km/godz	40 km/godz
+    3	  80 km/godz	50 km/godz
+    4	  50 km/godz	40 km/godz
+    5	  niekursuj¹	30 km/godz
+
+------------------------------------
+
+    UWAGA !!!
+
+ Dla umo¿liwenia wymiany uszkodonje lokomotywy na górnych peronach doda³em mo¿liwoœæ jazdy na nie.
+
+-------------------------------------
+Przy tworzeniu symulacji pomog³y:
+Edk 2.35 PathFinder 2.0 eRozk³ad 0.72
+
+Wszelkie uwagi kierowaæ pod adres:
+Roman So³tysiak 
+http://sserv.republika.pl
+soltysr@wp.pl
+GG 5152320
+
+Copyright 17.07.2005

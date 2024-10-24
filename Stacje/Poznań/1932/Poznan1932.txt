@@ -1,0 +1,50 @@
+Stacja: Poznañ G³ówny 1932
+Autor: Tomasz Kossowski
+e-mail: tkoss@main.amu.edu.pl
+Rozk³ad jazdy: lato 1932
+Poprawienie rozk³adu: 
+
+Wersja dla Kolejarza 1.61.
+
+Stacja Poznañ G³ówny lato 1932 zosta³a opracowana na podstawie S³u¿bowego RJP wa¿nego od 28 maja 1932.
+Obiegi sk³adów poci¹gów pasa¿erskich oddane s¹ dok³adnie, obiegi parowozów równie¿.
+Sk³ady poci¹gów towarowych s¹ czêœciowo moj¹ wyobraŸni¹, lecz ich godziny odjazdów i przyjazdów zgadzaj¹ siê w pe³ni.
+Zgodny jest tak¿e obieg wagonów pocztowych i baga¿owych.
+W¹tpliwoœci budziæ mo¿e z³o¿onoœæ niektórych sk³adów, czêsta koniecznoœæ wy³¹czania jakiejœ
+grupy wagonów ze sk³adów, przestawiania wagonów, ale tak by³o w rzeczywistoœci. Doskonale
+komplikuje to pracê manewrow¹ na stacji. Dodatkowo dla utrudnienia postanowi³em grê urealniæ -
+na parowóz trzeba poczekaæ 40 minut od zamówienia.
+
+Opis krótki stacji. Wyjazdy:
+1 - Drawski M³yn-Granica Pañstwa-Kreuz, Miêdzychód, Dziembówko-Gr.Pañ.-Schneidemuhl (Pi³a)
+2 - Rawicz-Gr.Pañ.-Breslau, Ludwikowo, Grodzisk i Wolsztyn
+3 - Zb¹szyñ-Gr.Pañ.-Berlin
+4 - Kêpno, Katowice, Warszawa przez Ostrów Wkp.
+5 - Warszawa, Toruñ, Bydgoszcz, W¹growiec
+6 - wyjazd na bocznicê wchodz¹c¹ do centrum Poznania - wzd³u¿ ulicy Sk³adowej
+do magazynów na Artyleryjskiej (ob. Powstañców Wlkp.)
+
+Uk³ad torowy oddany jest w przybli¿eniu, na podstawie planów z 1911 i 1925 roku.
+Nie ma obecnie istniej¹cego po³¹czenia po pó³nocnej stronie stacji. U góry schematu
+nie wykorzystywane obecnie Wolne Tory (stacja Poznañ Towarowy).
+
+Uwaga: Do sk³adów niektórych poci¹gów towarowych do³¹czone by³y wagony osobowe. Oto ich rozk³ad:
+W poc. nr 961 Wrzeœnia-Poznañ, zwrot poci¹giem towarowym 972
+W poc. nr 961 Jarocin-Wrzeœnia-Poznañ, zwrot poci¹giem osobowym 532
+W poc. nr 562 Poznañ-Ostrów Wkp., zwrot poci¹giem towarowym 561
+W poc. nr 1562 Czarnków-Bzowo Goraj-RogoŸno-Poznañ, zwrot poci¹giem osobowym 1525 lub
+1527 do RogoŸna i dalej prze³¹czany. Do³¹czane wagony s¹ typu Cy.
+
+Uwagi dodatkowe: stacja £awica to obecnie Poznañ Wola, Ludwikowo to Osowa Góra,
+a Tama Garbarska to Poznañ Garbary. Nazwy polskie i niemieckie Breslau - to oczywiste,
+Allenstein - Olsztyn, Konigsberg - wiadomo, Intersburg - Gusjew (w ob. kaliningr.),
+Deutsche Eylau - I³awa. Stacja Sto³pce to przedwojenna stacja graniczna z ZSRR.
+
+Za wszelkie uwagi dotycz¹ce ewentualnych b³êdów bêdê bardzo wdziêczny - pewne omy³ki
+zapewne siê znajd¹. ¯yczê mi³ej zabawy.
+
+Wykorzystano:
+"Edytor dla Kolejarza" (EdK) wersja 2.0 komilacja 1952, PathFindera 1.1., 2.0, oraz Kostki 0.9.1.1.
+
+Dziêkujê Markowi Junklewiczowi za poprawienie stacji do nowej wersji Kolejarza.
+e-mail: marekjj@poczta.onet.pl 

@@ -1,0 +1,38 @@
+                  SKOCZÓW dla Kolejarza 1.77
+
+WYJAZD:
+1-kierunek Bielsko-Bia³a
+2-kierunek Cieszyn
+3-kierunek Katowice
+4-kierunek FSM
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje siê w Czechowicach Dziedzicach. 
+Czas oczekiwania na elektrowóz - 30 minut.
+
+UK£AD TOROWY:
+Uk³ad torowy stacji jest napisany z dok³adnoœci¹ co do rozjazdu, 
+Perony maja szerokoœæ oko³o dwóch metrów, gdy¿ zaniechano budowy nowych.
+Widok na uk³ad torów od strony budynku stacji.
+Litery BS oznaczaj¹ budynek stacji.
+Litera N oznacza nastawniê.
+
+SK£ADY I LOKOMOTYWY:
+Lokomotywy, wagony oraz jednostki EZT s¹ zgodne z dodatkami 2C i 2D 
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie elektronicznego rozk³adu jazdy HAFAS z zimy 2005
+oraz dodatków 2C,2D i 4B do Rozk³adu Jazdy Poci¹gów Towarowych.
+Obejmuje dni tygodnia od poniedzia³ku do pi¹tku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz z lokomotywowni wjecha³ na stacjê nale¿y wybraæ trasê do 
+punktu manewrowego od wjazdu trzeciego. 
+Wagony poci¹gu towarowego nale¿y odstawiæ na tory przy rampie.
+
+AUTOR:
+Krzysztof W¹dolny            nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1
+
+PODZIÊKOWANIE: Dziêkuje Paw³owi Okrzesikowi za przes³anie mnie 
+rozk³adu jazdy poci¹gów towarowych.

@@ -1,0 +1,45 @@
+Andrychów, zima 2003
+
+Stacja le¿y na linii 117 Kalwaria Lanckorona - Bielsko Bia³a G³ówna.
+
+Wyjazdy:
+1 - Wadowice, Kalwaria
+2 - Bielsko Bia³a
+3 - tartak
+4 - zak³ady Andropol i Andoria Mot
+
+Uk³ad stacji odwzorowany w 100%. Widok od strony budynku stacji - pó³noc znajduje siê
+"na dole". Niezelektryfikowane torowisko po prawej stronie znajduje siê poza obrêbem
+stacji - jest to posterunek bocznicowy obs³uguj¹cy bocznicê do Andropolu i Andorii.
+
+Najbli¿sza lokomotywownia:
+CM Kraków (z powodu nieprzejezdnego mostu na Sole w Kêtach, normalnie CM Czechowice Dz.),
+czas przyjazdu lokomotywy z szopy wynosi 120 minut.
+
+Autorem rozk³adu jazdy jest Krzysztof W¹dolny (nmwadoln@imim-pan.krakow.pl).
+
+Stacja napisana na postawie sieciowego rozk³adu jazdy pociagów z zimy 2003
+oraz dodatku 4B do WRJP. Sk³ady poci¹gów osobowych s¹ autentyczne na podstawie
+obserwacji autora rozk³adu. Sk³ad poci¹gu zdawczego w rzeczywistoœci bywa³ ró¿ny.
+Symulacja obejmuje dni tygodnia od poniedzia³ku do pi¹tku.
+
+Podziêkowania dla Pana mgr in¿. Jana Mamajko za dostarczenie dodatku 4B do 
+rozk³adu poci¹gów towarowych.
+
+Uwagi:
+Po przyjeŸdzie zdawki nale¿y odstawiæ sk³ad koñcz¹cy bieg w Anrychowie na niezelektry-
+fikowany tor znajduj¹cy siê "pod" peronem. W rzeczywistoœci za ka¿dym kursem sk³ad
+by³ podmieniany. Doœæ ciê¿ko jest w symulacji wyrobiæ siê w rozk³adzie z manewrami
+poci¹gu zdawczego, ale jest to wykonywalne.
+
+Zapraszam do symulacji innych stacji z linii 117: Bielsko Bia³a Wschód, Kozy, Kêty,
+Wadowice, Klecza Górna, Kalwaria Zebrzydowska, Kalwaria Lanckorona.
+
+Przy budowie stacji i rozk³adu pomog³y programy:
+Edytor dla Kolejarza v2.61, Path Finder v2.0 oraz eRozk³ad v0.56
+
+Przyjemnej zabawy,
+Pawe³ Okrzesik (paul@wizja.net.pl)
+
+Zapraszam:
+www.kolej.of.pl - dodatkowe informacje o linii 117 i nie tylko

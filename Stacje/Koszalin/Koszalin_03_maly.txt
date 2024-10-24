@@ -1,0 +1,89 @@
+		___________________________________
+
+			     KOSZALIN
+		___________________________________
+
+Koszalin jest œredni¹ stacj¹ wêz³ow¹, umiejscowion¹ prawie poœrodku miêdzy Szczecinem
+(odleg³oœæ 175 km) a Gdyni¹ (178 km). Stacja posiada trzy wyjazdy:
+	-na Szczecin (trasa równie¿ na Poznañ)
+	-na Ko³obrzeg
+	-na S³upsk, Gdañsk
+Ruch na niej poza sezonem letnim jest niezbyt du¿y, ale w lipcu-sierpniu liczba poci¹gów
+znacznie wzrasta. Czasami zdarza siê tak (gdy jakiœ jest opóŸniony), ¿e na dwa tory przy
+peronie s¹ trzy poci¹gi.
+		__________________________________
+
+			   ROZK£AD 2003
+		__________________________________
+
+*Rozk³ad jest oparty na okresie letnim. 
+
+*Sk³ady oparte s¹ na dok³adnym dniu, a mianowicie na 22.07.2003 (kiedy to mia³em okazjê obejrzeæ
+sk³ady wszystkich poci¹gów).
+
+*Obiegi i sk³ady poci¹gów dalekobie¿nych wed³ug dodatku 2b do SRJP 02/03.
+
+*Mog¹ wystêpowaæ b³êdy w obiegach i sk³adach EZT.
+
+*Ruch towarowy prawie rzeczywisty, dziêki danym Wojtka ¯mijana:
+-pojedyncza wêglarka rel. Skibno-Mœcice-Skibno jest zrobiona z koniecznoœci: w Kolejarzu nie uda³o mi
+siê zrobiæ tak, aby SM42 po zawiezieniu sk³adu do Skibna wraca³a sama (jako podsy³ loka). Dlatego jest
+ten wagon..
+
+*Ponownie umieœci³em w rozk³adzie poci¹g do Mielna. Jest to póki co sfera fantazji, ale mo¿e za rok...
+		
+		__________________________________
+
+			      STACJA
+		__________________________________
+
+*"Dokumentacjê" zdjêciow¹ z pieszej penetracji stacji Koszalin mo¿na znaleŸæ na mojej stronie internetowej:
+		__________________________________
+
+		        www.mk.koszalin.prv.pl
+		__________________________________
+
+
+* Uk³ad torów na stacji jest rzeczywisty. Ma³e odchy³ki od stanu faktycznego mog¹ wystêpowaæ jedynie 
+w zwrotnicach ko³o wyjazdu na Gdañsk (prawa strona stacji). Trochê niezachowane s¹ proporcje w
+rozmieszczeniu torów, ale lepiej nie uda³o siê zrobiæ pliku stacji.
+* Co oznaczaj¹ wszystkie numerki na stacji:
+- 1 : wyjazd na Szczecin, Poznañ
+- 2 : wyjazd na Ko³obrzeg (dawniej tak¿e Mielno)
+- 3 : wyjazd na Gdañsk
+- 4 : wyjazd na Œwielino i stacja koszaliñskiej w¹skotorówki. Od pó³tora roku ruch jest tu zawieszony :-(
+- 5 : niezelektryfikowane tory do wiêkszych zak³adów przemys³owych w Koszalinie (m.in. wy³adownia 
+Miejskiej Energetyki Cieplnej Koszalin). Obecnie bardzo rzadko u¿ywana.
+- 6 : wyjazd zrobiony z koniecznoœci (za du¿y plik stacji). W rzeczywistoœci s¹ tam tory towarowe 
+(dok³adnie to jest ich 5). Tam te¿ stoi opuszczona lokomotywa SM30 z logo MEC-u (zapewne kiedyœ 
+s³u¿y³a do przetaczania wagonów z wêglem do Energetyki Koszalin)
+- 8 : dobrze znany wagon paru osobom :-)
+
+* Najbli¿sza lokomotywownia jest w Bia³ogardzie (19 min. jazdy), z której dostêpne jest na potrzeby 
+Koszalina (prawie brak pracy manewrowej) zaledwie kilka lokomotyw (na wypadek zepsucia siê jakiejœ
+z poc przelotowego). Na sta³e w Koszalinie dy¿uruje jedna lokomotywa: SM42-1005 z CM Szczecin.
+
+* Zazwyczaj kibelki stoj¹ na torach towarowych powy¿ej peronów, poniewa¿ tory postojowe przy wyjeŸdzie
+na Ko³obrzeg (nr 2) s¹ s³abej jakoœci. Tor postojowy obok w¹skotorówki jest bardzo rzadko u¿ywany.
+Praktycznie wszystkie tory powy¿ej budynku bazy prze³adunkowej (?) - czyli pustego miejsca na prawo
+od cyferki "8", s¹ bardzo rzadko u¿ywane (jeden najni¿szy tor) b¹dŸ w ogóle niewykorzystywane.
+		
+		__________________________________
+
+			       INNE
+		__________________________________
+
+*powstanie rozk³adu u³atwi³ program StationInfo 1.0
+*powstanie stacji program Edytor dla Kolejarza (EdK) Wersja 2.35 kompilacja 5003 oraz PathFinder 2.0
+*Wszelkie uwagi nt. stacji, przebiegów, sk³adów itp. proszê przesy³aæ na mój e-mail: 
+
+		_____________________________________
+ 		                     
+			  mk_koszalin@pf.pl
+		_____________________________________
+
+		
+
+Mi³ej zabawy!
+Marek Skrzypkowski
+www.mk.koszalin.prv.pl

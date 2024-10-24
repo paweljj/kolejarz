@@ -1,0 +1,8 @@
+Stacja------> Koluszki
+Plan Stacji-> autentyczny na podstawie planu urz¹dzeñ srk i planu œwietlnego i obserwacji w³asnych
+Rozk³ad-----> 2004 wed³ug s³u¿bowych zeszytów 101,161,171,180,390,192,194 +Œcienny odj/przyj 
+rozk³ad jazdy 2005 a¿ roi siê od s³u¿bowych ezt
+wersja rj wa¿na od 7 lutego (po protestach pasa¿erów do³o¿ono kilka porannych poci¹gów)
+w symulacji brakuje poci¹gów ptigk rybnik i ptigk zabrze- nie wiem w których zeszytach ujêty jest
+rozk³ad tych przewoŸników  PKP cargo powoli wycofuje siê z koluszek
+

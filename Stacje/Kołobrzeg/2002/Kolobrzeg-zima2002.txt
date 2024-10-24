@@ -1,0 +1,35 @@
+Ko³obrzeg, jesieñ-zima 2002, aktualizacja 23.09.2002
+
+W rozk³adzie jazdy na jesieñ-zimê 2002, w porównaniu z sezonem letnim
+zachodz± zmiany w zestawieniach niektórych poci±gów, co - mimo znacznie mniejszego
+ruchu na stacji czyni grê do¶æ ciekaw±.
+
+Poniewa¿ informacje o kolejno¶ci danej czê¶ci w sk³adzie s± od wersji 1.13 wy¶wietlane po 
+najechaniu myszk± na wagon symbolizuj±cy dan± czê¶æ poci±gu, zrezygnowa³em z pisania specjalnego 
+"help'a".
+
+Co nowego (poprawionego):
+
+1. Dodane poci±gi towarowe (wg dodatku 4B). Ruch towarowy w Ko³obrzegu nie jest du¿y, na dobê
+s± raptem 2 poci±gi, w tym jeden dodatkowy (wahad³o z kamieniem Rogoznica-Jaworzyna Sl.)
+Poci±g z Bia³ogardu nale¿y roz³±czyæ i jedn± czê¶æ przetoczyæ do portu (nie jest to ju¿ jazda 
+poci±gowa, tylko manewry, st±d brak numeru poc.). Poniewa¿ tory do portu s± wed³ug relacji
+naocznych ¶wiadków "umiarkowanie wy¶lizgane", jeden poci±g na dobê wystarczy. I tak rozk³adowo
+wiêcej brutt tam nie ma.
+
+2. Poci±g do P³ot/Goleniowa jest w trakcji podwójnej (2xSP42). W rzeczywisto¶ci w obiegu s± 3
+sk³ady, wszystkie rano znajduj± siê w Ko³obrzegu. Sk³ad do P³ot o 3:10 wraca o 6:27. Sk³ad do 
+Trzebiatowa o 19:45 jest w Trzebiatowie ³±czony ze sk³adem z Goleniowa i oba wracaj± prowadzone
+przez 2xSP42 o 21:18.
+
+3. Poprawilem sklady niektorych pociagow wg wskazowek autora poprzedniej wersji Ko³obrzegu.
+
+4. Ma³e zmiany w samym schemacie stacji, m.in. likwidacja torów postojowych przy wyje¼dzie
+na Goleniów (w rzeczywisto¶ci tory te s± tak krótkie, ¿e nie wjedzie na nie nawet pojedynczy
+EN57). St±d w tym miejscu s± teraz punkty postojowe dla lokomotyw - w rzeczywisto¶ci wykorzystywane).
+
+Przyjemnej pracy.
+Rafa³ Moszczyñski
+
+Wszelkie uwagi proszê na: ramosz@poczta.onet.pl
+

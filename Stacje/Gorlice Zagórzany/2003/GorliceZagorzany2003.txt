@@ -1,0 +1,38 @@
+Gorlice-Zagórzany.
+Schemat stacji zgodny w 99%. 
+
+Wjazdy/wyjazdy:
+1. Kierunek Stró¿e (nastêpna mijanka Wola £u¿añska 14 min.)
+2. kierunek Jas³o  (nastêpna stacja Biecz 10 min.)
+3. kierunek Gorlice ( przejazd 8 min. ale po drodze znajduj¹ siê odga³êzienia
+   do Rafinerii ok. 3-4 min. i fabryki Maszyn 4 min.) Zak³ad Przetwórstwa
+   Drzewnego "Forest" ma bocznicê odchodz¹c¹ od stacji Gorlice.
+4. kierunek Elektrociep³ownia Gorlice - zdaje sie ¿e bardzo ¿adko u¿ywana. Jeden raz
+   widzia³em SM42 z wêglarkami. Choæ moim zdaniem powinien tam byæ ruch gdy¿ trzeba
+   dowoziæ wêgiel. Jednak zardzewia³e tory zdaj¹ sie temu przeczyæ.
+
+Rozk³ad jazdy poc. pasa¿erskich wg s³u¿bowego rj. Rozk³ad jazdy poc. towarowych wg s³.rj z 2000 roku (z malenkimi przeróbkami pod rok 2003). 
+
+Uwagi:
+1. Tor towarowy bêd¹cy przed³u¿eniem wjazdu nr 1 mo¿e pomieœciæ trzy wagony z lokomotyw¹ SM42.
+2. Tor towarowy poni¿ej peronu 2 mieœci 2xBHP+EU07 z niego odprawiane s¹ krótkie poci¹gi do
+   Fabryki Maszyn i "Forestu". W praktyce mo¿na tam zmieœciæ wiêcej bo semafor wyjazdowy znajduje
+   siê gdzieœ na linii œrodka peronu 1. 
+3. Tor niezelektryfikowany poni¿ej omówionego w pkt-cie 2 to rampa wy³adowcza dla poci¹gów 
+   zdawczych.
+4. Z dwóch niezelektryfikowanych i jednego z drutem od góry schematu nie odprawia siê poci¹gów
+   gdy¿ nie maj¹ one semaforów wyjazdowych tylko s¹ zabezpieczone wykolejniami. Tam stoj¹
+   sk³ady do rozrz¹dzania. Rozrz¹d wagonów odbywa siê zwykle w kierunku wjazdu 1 co powoduje
+   potê¿ne korki samochodowe na znajduj¹cym siê tam przejeŸdzie, dlatego najczêœciej rozrz¹d
+   odbywa siê noc¹. Stwierdzono przypadki blokady ruchu ko³owego przez manewruj¹cy sk³ad
+   dochodz¹ce do 45 min.
+5. Sk³ady do Rafinerii s¹ odprawiane z torów towarowych u góry stacji zawsze z SM42 gdy¿ w 
+   rafinerii nie ma drutu.
+6. Lokomotywownia znajdujue sie w Jaœle czas oczekowania na lokomotywê 40 min.
+7. Z lokomotywowni da siê wjechaæ tylko na niektóre tory towarowe i pasa¿erskie! (moja ingerencja w plik stacji-M.Orlef).
+8. Tor postojowy dla "kibla" równie¿ musia³em wstawiæ - bo w Gorlicach Zag. nocuje on przy peronie, lecz "kolejarz" nie przewiduje takiej mo¿liwoœci. Proponuje od razu na pocz¹tku wyjechaæ nim na peron nr.1. 
+
+Nie pozostaje nic innego jak ¿yczyæ mi³ych wra¿eñ !!!
+
+Autor stacji: br. Ezechiasz Cieœla OFM 
+Autor rozk³adu: Marek Orlef (APMO@poczta.onet.pl)

@@ -1,0 +1,62 @@
+
+GRUDZI¥DZ 2005r.(UWAGA!! GRA W ROZDZIELCZOŒCI 1024x768)
+
+
+Grudzi¹dz do dziœ jest wêz³em, którym ruch pasa¿erski prowadzony jest we wszystkich kierunkach.
+Przez lata podda³ siê jednak sporym ograniczeniom. Obecnie pod godz. 19:35 ruch praktycznie 
+zupe³nie zamiera!!!
+
+I. Plan stacji
+
+Stacja jest doœæ du¿a i rozwlek³a. Zdecydowa³em siê na jak najdok³adniejsze jej odwzorowanie 
+dlatego te¿ nie zmieœci³a siê w ekranie 800x600 :(
+
+Wyjazdy:
+
+1.(LP) Laskowice Pom. - nastêpna mijanka Grupa 
+2.(BR) Brodnica - nastêpna mijanka Me³no
+3.(TOR) Toruñ - nastêpna mijanka Grudzi¹dz Mniszek
+4.(KW) Kwidzyn - nastêpna mijanka Gardeja 
+5. bocznica do portu rzecznego
+6. bocznica do sk³adu paliw
+7.8.9.bocznica zak³adów gumowych
+
+Na planie mamy tak¿e nastawinie : 
+GR - dysponuj¹ca 
+GR1 - wykonawcza 
+GR2 - wykonawcza
+
+2.Rozk³ad jazdy
+
+Rozk³ad jazdy pochodzi z 2005 roku z aktualizacj¹ na wrzesieñ 2005r. 
+a)ruch pasa¿erski
+Obiegi sk³adów i zestawienia zgodne z dodatkiem 2c/d przyj¹³em tak¿e, ¿e wszystkie SA106
+kursuj¹ w/g swoich obiegów 
+
+b)ruch towarowy
+Rozk³ad jazdy z 2005r. zgodny ze S³u¿bowymi rozk³adami jazdy i dodatkiem 4B.
+Doda³em do poc. zbiorowego kilka grup na bocznice GPZG, CPN i do portu aby nieco
+uatrakcyjniæ gre. W rzeczywistoœci brak danych o jakimkolwiek ruchu na tych bocznicach.
+
+c)obiegi lokomotyw
+Skonstuowane s¹ w przybli¿eniu z powodu braku danych nie uda³o ich siê odtworzyæ w pe³ni.
+W ka¿dym razie ogólne za³o¿enia szczególnie co do jazd w trakcji podwójnej zosta³y zachowane.
+
+
+3.Uwagi koñcowe
+Przy budowie stacji pomog³y programy:
+
+PF 2.0
+EDK
+e-roz 0.72
+
+
+Wszelkie uwagi proszê kierowaæ na e-mail
+
+Mi³ej gry !!! 
+
+Bart³omiej Jasiñski 
+
+btpk_xl@wp.pl
+
+Bydgoszcz 2.11.2005r.

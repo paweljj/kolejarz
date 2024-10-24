@@ -1,0 +1,17 @@
+	
+	Piechowice dla Kolejarza 1.00
+Stacja Piechowice jest to Stacja przelotowa na trasie z Jeleniej Góry do Szklarskiej Porêby. Rozk³ad jazdy jest z 2002. Poci¹g towarowy jest tylko jeden gdy¿ tyle tam naprawde jeŸdŸi na zapotrzebowanie nadleœnictwa z którego wo¿¹ drzewo. Lokomotywowni w Piechowicach nie ma zrobi³em j¹ dla potrzeby programu (gdyby któraœ lokomotywa siê zepsu³a) najbli¿sza jest w Jeleniej Górze.
+
+Wyjazdy:
+1 - Jelenia Góra, Bydgoszcz, Warszawa
+2 - Szklarska Porêba
+
+Wszelkie uwagi proszê kierowaæ na adres
+	bolkowianin@poczta.onet.pl
+
+
+
+
+
+
+

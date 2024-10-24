@@ -1,0 +1,25 @@
+STACJA ZGORZELEC
+================
+
+Kierunki:
+---------
+
+1 - Wroclaw przez Boleslawiec, Legnice
+2 - Dresden przez Gorlitz
+3 - Wegliniec przez Jedrzychowice
+
+Uwagi:
+------
+
+Obrazki szynobusow powstaly na podstawie zdjec wyszukanych
+w internecie, moga wystepowac drobne niescislosci
+(mam nadzieje, ze fachowcy nie beda sie czepiac szczegolow)
+
+Podziekowania:
+--------------
+
+wolf.iiar.pwr.wroc.pl <- stad mam schemat stacji
+rozklad.pkp.pl        <- a stad rozklad jazdy
+
+ZYCZE MILEJ ZABAWY!
+KRZYSZTOF

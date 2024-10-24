@@ -1,0 +1,32 @@
+Chomutov 2003.
+
+Pøedkládám upravenou verzi stanice Chomutov v grafikonu 2003. Vlastní stanici jsem neupravoval.
+
+
+Uzlová stanice Chomutov je tvoøená ze dvou celkù - osobního nádraí s depem a odstavnımi kolejemi pro osobní vlaky a nákladním nádraím.
+Do osobního nádraí jsou zaústìny dvoukolejné tratì:
+140 - vjezd a vıjezd èíslo 1 - smìru Cheb, Karlovy Vary 
+130 - vjezd a vıjezd èíslo 2 - smìr Most, Ústí nad Labem. Tímto smìrem je i tra 131 do Jirkova, která odboèuje z trati 130 po cca 3 km.
+Tyto tratì jsou rovnì elektrifikovány stejnosmìrnou soustavou. Na trati 140 konèí elektrifikace v Kadani a dále do Karlovıch Varù je trakce motorová.
+Dále jsou do Chomutovského nádraí zaústìny tratì :
+120 - vjezd èíslo 3 - ze smìru Praha - Kladno - atec (Buštìhradská dráha)
+137 - vjezd èíslo 4 - smìr Vejprty - Cranzahl (DB)
+Vjezd èíslo 5 - chomutovské prùmyslové vleèky - Válcovny trub, teplárna 
+Vjezd èíslo 6 - pouze pro nákladní dopravu z trati 130 a 131 - tato kolej je do kmenové tratì zaústìna v dopravnì Chomutov-mìsto.
+
+Schéma stanice je v oblasti manipulaèních kolejí, depa a nákladního nádraí z programovıch dùvodù zjednodušeno. V oblasti osobního nádraí rovnì nejsou uvedeny manipulaèní koleje slouící Správì dopravní cesty, trolejáøùm a zabezpeèovákùm Tyto koleje jsou ve skuteènosti zaústìny smìrem od Ústí mezi zhlaví a první kolej  s nástupištìm.
+
+Grafikon je pouitı platnı v roce 2003. 
+U osobních vlakù chybí nìkolik místních.
+U nákladních vlakù je uvedena i vìtšina vlakù jezdících podle potøeby, tedy zøejmì bìnì nejezdících. 
+Není zde uvedena celá øada lokomotivních vlakù, vedenıch na trati 140, brání tomu programové dùvody - nelze odjet se samotnou lokomotivou.
+Ze stejnıch dùvodù nejsou u nákladních vlakù postrky smìrem na Kadaò hojné.
+Pro neznalé místních pomìrù uvádím, e nákladní doprava z tratì 120 na tra 140 je vedena spojkou Bøezno u Chomutova - odboèka Dubina bez nutnosti otáèení lokomotiv. 
+Rovnì se detailistùm omlouvám za nepøesnosti ve sloení vlakù, obìzích lokomotiv apod. Pokud budu mít jiné informace, rád pøedìlám, vaøím z toho, co jsem sehnal.
+Pøivítám rovnì další konstruktivní pøipomínky a námìty.
+
+Pøeji pìknou zábavu.
+
+Míla Zítka
+mzitka@centrum.cz
+                                    

@@ -1,0 +1,51 @@
+           ¯YWIEC dla KOLEJARZa wersja 1.62
+
+¯ywiec jest stacj¹ po³o¿on¹ na linii Bielsko-Bia³a-Zwardoñ.
+
+WYJAZDY:
+1-kierunek Bielsko-Bia³a
+2-kierunek Zwardoñ
+3-kierunek Sucha Beskidzka
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia jest w Czechowicach-Dziedzicach. 
+Czas zamówienia: 70 minut
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Wyjazd w kierunku Zwardonia zosta³ na potrzeby gry wyprostowany,
+aby umozliwiæ wykonanie torów postojowych.
+Widok na uk³ad torów od strony budynku stacji.
+Przy górnym torze niezelektryfikowanym
+znajduje siê rampa wy³adowcza.
+Pomiedzy torami postojowymi a peronem pierwszym znajduje wyjazd 
+do ¯ywieckich Zak³adów Papierniczych SOLALI.
+Nie uzywany od kilkunastu lat i dlatego pominiêty.
+
+SK£ADY I LOKOMOTYWY:
+Na podstawie w³asnych obserwacji.
+
+ROZK£AD JAZDY:
+Rok 2003 lato.
+Na podstawie Komputerowego Rozk³adu Jazdy Poci¹gów HAFAS
+Odjazdy pociagow towarowych na podstawie dodatku 4B z roku 2003
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz wjecha³ na stacje nale¿y wybrac trase do
+pierwszego punktu postojowego od wjazdu pierwszego.
+Lokomotywa SM42 ze sk³adu zdawczego pod³¹cza do poci¹gu towarowego 
+wagony towarowe z ¯ywca i trzeba siê spieszyæ by doczepiæ wagony 
+i zd¹¿yæ zaczepiæ lokomotywê do sk³adu zdawczego do Bielska-Bia³ej.
+Poniewa¿ program nie pozwala na wys³anie na szlak samej lokomotywy
+nale¿y elektrowóz ET22 odes³aæ do lokomotywowni. 
+W rzeczywistoœci lokomotywa jedzie luzem po sk³ad do Bielska Bia³ej.
+Lokomotywy z lokomotywowni pobiera siê tylko w przypadku uszkodzenia.
+Tory przy peronie trzecim s¹ u¿ywane do zatrzymywania opóŸnionych 
+poci¹gów towarowych.
+
+AUTOR:
+Krzysztof W¹dolny       nmwadoln@imim-pan.krakow.pl
+
+PODZIÊKOWANIA:
+Bardzo dziekujê Panu mgr in¿. Janowi Mamajko za dostarczenie dodatku 4B do 
+rozk³adu poci¹gów towarowych.

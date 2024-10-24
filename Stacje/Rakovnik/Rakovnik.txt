@@ -1,0 +1,27 @@
+ Ve stanici Rakovník zaèínají tratì:
+
+ 126 - Rakovník - Louny
+ 174 - Rakovník - Beroun
+ 124 - Rakovník - Lužná u Rakovníka
+ 161 - Rakovník - Blatno, Beèov nad Teplou
+ 162 - Rakovník - Kralovice, (dále ve smìru na Mladotice je osobní
+                             pøeprava nahrazena autobusy)
+ Výjezd 1: smìr Louny
+ Výjezd 2: smìr vleèka ATESO
+ Výjezd 3: smìr Blatno - Beèov n/Teplou
+ Výjezd 4: smìr vleèka RAKONA
+ Výjezd 5: smìr Kralovice
+ Výjezd 6: smìr Lužná u Rakovníka - Kladno - Praha 
+ Výjezd 7: smìr Beroun
+
+ Ve stanici je, vzhledem k poètu vlakù, málo kolejí s nástupišti. 
+ Ve skuteènosti má vìtšina osobních vlakù v Rakovníku pravidelný vjezd na
+ obsazenou kolej.
+
+ Použitý GVD 2001/2
+ Vzhled stanice byl èásteènì upraven, lounsko-beèovské zhlaví neodpovídá
+ zcela skuteènosti.  
+
+ Jindøich Èížek
+ jindrcizek@quick.cz
+                             

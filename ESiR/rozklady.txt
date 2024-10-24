@@ -1,0 +1,538 @@
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychow1991lato.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychow2003zima.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychow2005lato.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów2002.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów2003.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów2004.roz
+D:\priv\Kolejarz\Stacje\Banovce\Banovce_n_O.roz
+D:\priv\Kolejarz\Stacje\Bednary\bednary.roz
+D:\priv\Kolejarz\Stacje\Bielsko Bia³a G³\Bielsko Bia³a G³ówna lato 2005.roz
+D:\priv\Kolejarz\Stacje\Bielsko Bia³a Wsch\bbws2003-2004.roz
+D:\priv\Kolejarz\Stacje\Bieniów\Bieniow97.roz
+D:\priv\Kolejarz\Stacje\Bieniów\Bieniow98.roz
+D:\priv\Kolejarz\Stacje\Bieniów\Bieniow99.roz
+D:\priv\Kolejarz\Stacje\Bobowa Miasto\Bobowam.roz
+D:\priv\Kolejarz\Stacje\Bochnia\bochnia_2003.roz
+D:\priv\Kolejarz\Stacje\Bohumin\Bohumin.roz
+D:\priv\Kolejarz\Stacje\Boles³awiec\Boleslawiec02.roz
+D:\priv\Kolejarz\Stacje\Bolków\Bolkow79-80.roz
+D:\priv\Kolejarz\Stacje\Brno\Brno.roz
+D:\priv\Kolejarz\Stacje\Brzeg\brzeg86.roz
+D:\priv\Kolejarz\Stacje\Brzesko Okocim\brzesko_2003.roz
+D:\priv\Kolejarz\Stacje\Busko Zdrój\Busko Zdroj 2001.roz
+D:\priv\Kolejarz\Stacje\B³onie\Blonie 03.roz
+D:\priv\Kolejarz\Stacje\B³onie\Blonie 2005.roz
+D:\priv\Kolejarz\Stacje\Ceska Trebova\cesktr.roz
+D:\priv\Kolejarz\Stacje\Chabówka\Chabowka1997-98.roz
+D:\priv\Kolejarz\Stacje\Che³m\Chelm_2001_new.roz
+D:\priv\Kolejarz\Stacje\Che³m\Chelm_2002_new.roz
+D:\priv\Kolejarz\Stacje\Chomutov\Chomutov 2003.roz
+D:\priv\Kolejarz\Stacje\Cudzynowice\Cudzynowice78.roz
+D:\priv\Kolejarz\Stacje\Czeskie Budziejowice\Ces_Bud.roz
+D:\priv\Kolejarz\Stacje\Czêstochowa\Czestochowa98.roz
+D:\priv\Kolejarz\Stacje\Dar³owo\lato_SA109.roz
+D:\priv\Kolejarz\Stacje\Dar³owo\lato_SA110.roz
+D:\priv\Kolejarz\Stacje\Dar³owo\zima_SA103.roz
+D:\priv\Kolejarz\Stacje\Dar³owo\zima_SA109.roz
+D:\priv\Kolejarz\Stacje\Dar³owo\zima_SA110.roz
+D:\priv\Kolejarz\Stacje\D¹browa Che³miñska\dabrowa.roz
+D:\priv\Kolejarz\Stacje\Dêbica\debica.roz
+D:\priv\Kolejarz\Stacje\Dêblin\Deblin2004.roz
+D:\priv\Kolejarz\Stacje\Dêblin\Deblin2004R.roz
+D:\priv\Kolejarz\Stacje\D³ugomilowice\dlugomilowice.roz
+D:\priv\Kolejarz\Stacje\E³k\elk_77.roz
+D:\priv\Kolejarz\Stacje\Fransta\fransta_04.roz
+D:\priv\Kolejarz\Stacje\Freising\Freising.roz
+D:\priv\Kolejarz\Stacje\Garczegorze\Garczegorze.roz
+D:\priv\Kolejarz\Stacje\Ga³kówek\g2004.roz
+D:\priv\Kolejarz\Stacje\Gdañsk\Gdansk Glowny.roz
+D:\priv\Kolejarz\Stacje\Gdañsk Oliwa\gd_oliwaSKM.roz
+D:\priv\Kolejarz\Stacje\Gdynia Chylonia\Chylonia2003.roz
+D:\priv\Kolejarz\Stacje\Gi¿ycko\Gizycko2004.roz
+D:\priv\Kolejarz\Stacje\Goleszów\Goleszow2002lato.roz
+D:\priv\Kolejarz\Stacje\Goleszów\Goleszow2003lato.roz
+D:\priv\Kolejarz\Stacje\Granowo\granowo.roz
+D:\priv\Kolejarz\Stacje\Grodzisk Maz\Grodzisk Mazowiecki 2004.roz
+D:\priv\Kolejarz\Stacje\Grodzisk Maz\Grodzisk Mazowiecki 2005.roz
+D:\priv\Kolejarz\Stacje\Grodzisk Maz\Grodzisk Mazowiecki 2006.roz
+D:\priv\Kolejarz\Stacje\Grudzi¹dz\grudziadz2005.roz
+D:\priv\Kolejarz\Stacje\Grybów\Grybow.roz
+D:\priv\Kolejarz\Stacje\Gryfino\Gryfino2002.roz
+D:\priv\Kolejarz\Stacje\Gryfów Œl¹ski\Gryfow87-88.roz
+D:\priv\Kolejarz\Stacje\Hel\Hel_lato 2000.roz
+D:\priv\Kolejarz\Stacje\Hel\Hel_lato 2001.roz
+D:\priv\Kolejarz\Stacje\Hel\Hel_zima 2001.roz
+D:\priv\Kolejarz\Stacje\Herby Nowe\herby04.roz
+D:\priv\Kolejarz\Stacje\Hlubocky\hmu.roz
+D:\priv\Kolejarz\Stacje\Hostivice\Hostivice 1980.roz
+D:\priv\Kolejarz\Stacje\Hostivice\Hostivice_2004_poz.roz
+D:\priv\Kolejarz\Stacje\Jas³o\Jas³o-02-03.roz
+D:\priv\Kolejarz\Stacje\Jas³o\Jas³o-03-04.roz
+D:\priv\Kolejarz\Stacje\Jas³o\Jas³o-05sez.roz
+D:\priv\Kolejarz\Stacje\Jas³o Towarowe\Jaslo_Tow-00-01.roz
+D:\priv\Kolejarz\Stacje\Jas³o Towarowe\Jaslo_Tow-02-03.roz
+D:\priv\Kolejarz\Stacje\Jawor\Jawor-01.roz
+D:\priv\Kolejarz\Stacje\Jawor\Jawor-87.roz
+D:\priv\Kolejarz\Stacje\Jaworzyna Œl¹ska\Jaworzyna-03.roz
+D:\priv\Kolejarz\Stacje\Jaworzyna Œl¹ska\Jaworzyna.roz
+D:\priv\Kolejarz\Stacje\Jedlicze\Jedlicze.roz
+D:\priv\Kolejarz\Stacje\Jedlova\Jedlova.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra\Jelenia_02-03.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra\Jelenia_02.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra\Jelenia_03-04.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra\Jelenia_03.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra\Jelenia_04-05.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra\Jelenia_05sez.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra\Jelenia_87-88.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra\Jelenia_99.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra Zach\Jel Zach02-03.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra Zach\Jel Zach02.roz
+D:\priv\Kolejarz\Stacje\Jelenia Góra Zach\Jel Zach03-04.roz
+D:\priv\Kolejarz\Stacje\Jeleœnia\Jelesnia 00-01.roz
+D:\priv\Kolejarz\Stacje\Jeleœnia\Jelesnia 2001.roz
+D:\priv\Kolejarz\Stacje\Jeleœnia\Jelesnia 2002.roz
+D:\priv\Kolejarz\Stacje\Jeleœnia\Jelesnia 2003.roz
+D:\priv\Kolejarz\Stacje\Jeleœnia\Jelesnia 2004.roz
+D:\priv\Kolejarz\Stacje\Jeleœnia\Jelesnia 99-00.roz
+D:\priv\Kolejarz\Stacje\Jêdrzejów\Jedrzejow2002.roz
+D:\priv\Kolejarz\Stacje\Jêdrzejów\Jedrzejow2004.roz
+D:\priv\Kolejarz\Stacje\Jêdrzejów\Jedrzejow78.roz
+D:\priv\Kolejarz\Stacje\Jêdrzejów\jow2003-lato.roz
+D:\priv\Kolejarz\Stacje\Jêdrzejów\jow2003-zima.roz
+D:\priv\Kolejarz\Stacje\Jêdrzejów w¹sk\jedrzejow wask'78.roz
+D:\priv\Kolejarz\Stacje\Jêdrzejów w¹sk\jedrzejow wask'89.roz
+D:\priv\Kolejarz\Stacje\Kalwaria\Kalwaria2002.roz
+D:\priv\Kolejarz\Stacje\Kalwaria\Kalwaria2003.roz
+D:\priv\Kolejarz\Stacje\Kalwaria\kalwaria2004.roz
+D:\priv\Kolejarz\Stacje\Kalwaria\Kalwaria2005.roz
+D:\priv\Kolejarz\Stacje\Kalwaria\Kalwaria2006.roz
+D:\priv\Kolejarz\Stacje\Kalwaria\Kalwaria2006lato.roz
+D:\priv\Kolejarz\Stacje\Kalwaria\Kalwaria2007lato.roz
+D:\priv\Kolejarz\Stacje\Kalwaria\Kalwaria2007zima.roz
+D:\priv\Kolejarz\Stacje\Kalwaria Z\Kalwaria_zeb1991.roz
+D:\priv\Kolejarz\Stacje\Kamenne Zehrovice\Kam_zehro.roz
+D:\priv\Kolejarz\Stacje\Kamieniec Z¹bkowicki\Kamieniec02-03.roz
+D:\priv\Kolejarz\Stacje\Kamienna Góra\KG_87.roz
+D:\priv\Kolejarz\Stacje\KarloweVary\K_Vary.roz
+D:\priv\Kolejarz\Stacje\Karpacz\Karpacz75-76.roz
+D:\priv\Kolejarz\Stacje\Katowice\Katowice 2002.roz
+D:\priv\Kolejarz\Stacje\Katowice\Katowice 2003.roz
+D:\priv\Kolejarz\Stacje\Katowice\Katowice 2005.roz
+D:\priv\Kolejarz\Stacje\Katowice\katowice lato 2004.roz
+D:\priv\Kolejarz\Stacje\Kcynia\kcynia99.roz
+D:\priv\Kolejarz\Stacje\Kladno\Kladno.roz
+D:\priv\Kolejarz\Stacje\Klecza Górna\Klecza_gorna1991.roz
+D:\priv\Kolejarz\Stacje\Kolin\Kolin.roz
+D:\priv\Kolejarz\Stacje\Koluszki\Koluszki1990.roz
+D:\priv\Kolejarz\Stacje\Koluszki\Koluszki2003.roz
+D:\priv\Kolejarz\Stacje\Koluszki\koluszki2004v4.roz
+D:\priv\Kolejarz\Stacje\Koluszki\koluszki2005v2.roz
+D:\priv\Kolejarz\Stacje\Koluszki\Koluszki2006.roz
+D:\priv\Kolejarz\Stacje\Koluszki\Koluszki2007.roz
+D:\priv\Kolejarz\Stacje\Koszalin\Koszalin_02.roz
+D:\priv\Kolejarz\Stacje\Koszalin\Koszalin_03_maly.roz
+D:\priv\Kolejarz\Stacje\Koszecin\koszecin2003.roz
+D:\priv\Kolejarz\Stacje\Kozy\kozy2003-2004.roz
+D:\priv\Kolejarz\Stacje\Koz³ów\Kozlow2002.roz
+D:\priv\Kolejarz\Stacje\Ko³obrzeg\Kolobrzeg 2002.roz
+D:\priv\Kolejarz\Stacje\Ko³obrzeg\Kolobrzeg 2003.roz
+D:\priv\Kolejarz\Stacje\Ko³obrzeg\kolobrzeg07lato11111.roz
+D:\priv\Kolejarz\Stacje\Ko³obrzeg\kolobrzeg07zima11111.roz
+D:\priv\Kolejarz\Stacje\Kraków G³\Krakow Gl 2001.roz
+D:\priv\Kolejarz\Stacje\Kraków G³\Krakow Gl 2002.roz
+D:\priv\Kolejarz\Stacje\Kraków G³\Krakow Gl 2003.roz
+D:\priv\Kolejarz\Stacje\Kraków G³\Krakow Gl 2004.roz
+D:\priv\Kolejarz\Stacje\Kraków G³\Krakow Gl 2004_2.roz
+D:\priv\Kolejarz\Stacje\Kraków G³\Krakow Gl 2005.roz
+D:\priv\Kolejarz\Stacje\Kraków G³\Krakow Gl 2006.roz
+D:\priv\Kolejarz\Stacje\Kraków Mydlniki\Krakow Mydlniki 2006.roz
+D:\priv\Kolejarz\Stacje\Kraków P³\krakow plaszow 2002.roz
+D:\priv\Kolejarz\Stacje\Kraków P³\krakow plaszow97.roz
+D:\priv\Kolejarz\Stacje\Kraœnik\KRASNIK2004.roz
+D:\priv\Kolejarz\Stacje\Kraœnik\KRASNIK2004F.roz
+D:\priv\Kolejarz\Stacje\Krosno\Krosno.roz
+D:\priv\Kolejarz\Stacje\Krosno\Krosno_03.roz
+D:\priv\Kolejarz\Stacje\Krotoszyn\Krotoszyn.roz
+D:\priv\Kolejarz\Stacje\Krynica\Krynica02.roz
+D:\priv\Kolejarz\Stacje\Krynica\krynica03.roz
+D:\priv\Kolejarz\Stacje\Krynica\krynica04.roz
+D:\priv\Kolejarz\Stacje\Kudowa Zdrój\kudowa_zdroj2000.roz
+D:\priv\Kolejarz\Stacje\Kudowa Zdrój\kudowa_zdroj2003.roz
+D:\priv\Kolejarz\Stacje\Kudowa Zdrój\kudowa_zdroj2004.roz
+D:\priv\Kolejarz\Stacje\Kwidzyñ\Kwidzyn 1994-1995.roz
+D:\priv\Kolejarz\Stacje\Kêpice\kepice_05lato.roz
+D:\priv\Kolejarz\Stacje\Kêpno\Kepno2005.roz
+D:\priv\Kolejarz\Stacje\Kêty\kety2003-2004.roz
+D:\priv\Kolejarz\Stacje\K³odzko\Klodzko01-02.roz
+D:\priv\Kolejarz\Stacje\K³odzko\Klodzko02-03.roz
+D:\priv\Kolejarz\Stacje\Legionowo\legionowo2007.roz
+D:\priv\Kolejarz\Stacje\Legnica\Legnica.roz
+D:\priv\Kolejarz\Stacje\Leœna\Lesna_81.roz
+D:\priv\Kolejarz\Stacje\Liberec\Liberec.roz
+D:\priv\Kolejarz\Stacje\Limanowa\Limanowa1997-98.roz
+D:\priv\Kolejarz\Stacje\Litomerice\Litomerice.roz
+D:\priv\Kolejarz\Stacje\Lubañ Œl\Luban02.roz
+D:\priv\Kolejarz\Stacje\Lubañ Œl\Luban87-88.roz
+D:\priv\Kolejarz\Stacje\Lubañ Œl\Luban95.roz
+D:\priv\Kolejarz\Stacje\Luzna\Luzna_u_R.roz
+D:\priv\Kolejarz\Stacje\Lwówek Œl¹ski\Lwowek-87.roz
+D:\priv\Kolejarz\Stacje\Lêbork\lebork_04.roz
+D:\priv\Kolejarz\Stacje\Lêbork\lebork_05.roz
+D:\priv\Kolejarz\Stacje\Maków Podhalañski\Makow_P2003zima.roz
+D:\priv\Kolejarz\Stacje\Maków Podhalañski\Makow_P2005lato.roz
+D:\priv\Kolejarz\Stacje\Maków Podhalañski\Makow_P2005zima.roz
+D:\priv\Kolejarz\Stacje\Maków Podhalañski\Makow_P2006zima.roz
+D:\priv\Kolejarz\Stacje\Maków Podhalañski\Makow_P2007zima.roz
+D:\priv\Kolejarz\Stacje\Marciszów\Marciszow-79.roz
+D:\priv\Kolejarz\Stacje\Marciszów\Marciszow-87.roz
+D:\priv\Kolejarz\Stacje\Marciszów\Marciszow_95.roz
+D:\priv\Kolejarz\Stacje\Ma³kinia\malkinia 2005.roz
+D:\priv\Kolejarz\Stacje\Ma³kinia\malkinia2006.roz
+D:\priv\Kolejarz\Stacje\Michalovce\Michalovce.roz
+D:\priv\Kolejarz\Stacje\Mieroszów\mieroszow2001.roz
+D:\priv\Kolejarz\Stacje\Mieroszów\mieroszow2003.roz
+D:\priv\Kolejarz\Stacje\Milanówek\Milanowek 2003.roz
+D:\priv\Kolejarz\Stacje\Milanówek Grudów\Milanowek Grudow 2003.roz
+D:\priv\Kolejarz\Stacje\Mirsk\Mirsk_80.roz
+D:\priv\Kolejarz\Stacje\Mittenwald\mittenwald_2004.roz
+D:\priv\Kolejarz\Stacje\Miñsk Maz\minskmaz05.roz
+D:\priv\Kolejarz\Stacje\Miñsk Maz\minskmaz06.roz
+D:\priv\Kolejarz\Stacje\Mucharz\Mucharz.roz
+D:\priv\Kolejarz\Stacje\Muszyna\Muszyna 2006.roz
+D:\priv\Kolejarz\Stacje\Muszyna\Muszyna04.roz
+D:\priv\Kolejarz\Stacje\Mys³akowice\Myslakowice--77-78.roz
+D:\priv\Kolejarz\Stacje\Nezamyslice\nezamy.roz
+D:\priv\Kolejarz\Stacje\Nove Sedlo\nsedlo.roz
+D:\priv\Kolejarz\Stacje\Nowogród\Nowogrod97.roz
+D:\priv\Kolejarz\Stacje\Nowogród\Nowogrod98.roz
+D:\priv\Kolejarz\Stacje\Nowogród\Nowogrod99.roz
+D:\priv\Kolejarz\Stacje\Nowy S¹cz\NowySacz2004.roz
+D:\priv\Kolejarz\Stacje\Nowy Targ\NTt.roz
+D:\priv\Kolejarz\Stacje\Oborniki Œl¹skie\Oborniki_Sl-02.roz
+D:\priv\Kolejarz\Stacje\Oborniki Œl¹skie\Oborniki_Sl-04.roz
+D:\priv\Kolejarz\Stacje\Ocypel\Ocypel.roz
+D:\priv\Kolejarz\Stacje\Oleœnica\Oleœnica.roz
+D:\priv\Kolejarz\Stacje\Olkusz\Olkusz2003.roz
+D:\priv\Kolejarz\Stacje\Olsztyn\Olsztyn2002.roz
+D:\priv\Kolejarz\Stacje\Opole G³ówne\Opole2003.roz
+D:\priv\Kolejarz\Stacje\Ostrava Svinov\Svinov1.roz
+D:\priv\Kolejarz\Stacje\Ostrów Wielkopolski\Ostrow.roz
+D:\priv\Kolejarz\Stacje\Oœwiêcim\Oswiecim2003.roz
+D:\priv\Kolejarz\Stacje\Piechowice\Piechowice02-03.roz
+D:\priv\Kolejarz\Stacje\Piechowice\Piechowice02.roz
+D:\priv\Kolejarz\Stacje\Piñczów W¹sk\Pinczow Wask. '78.roz
+D:\priv\Kolejarz\Stacje\Piñczów W¹sk\Pinczow Wask. '88.roz
+D:\priv\Kolejarz\Stacje\Plzen\Plzen.roz
+D:\priv\Kolejarz\Stacje\Podkowa Leœna\Podkowa1984a.roz
+D:\priv\Kolejarz\Stacje\Podkowa Leœna\Podkowa1984c.roz
+D:\priv\Kolejarz\Stacje\Podkowa Leœna\Podkowa2002C.roz
+D:\priv\Kolejarz\Stacje\Podkowa Leœna\Podkowa2002D.roz
+D:\priv\Kolejarz\Stacje\Pod³ê¿e\podleze_2003.roz
+D:\priv\Kolejarz\Stacje\Polanica Zdrój\Polanica Zdroj 2006.roz
+D:\priv\Kolejarz\Stacje\Polesie\Polesie 2003.roz
+D:\priv\Kolejarz\Stacje\Povazska Bystrica\Povazska_Bystrica1.roz
+D:\priv\Kolejarz\Stacje\PowroŸnik\powroznik2006.roz
+D:\priv\Kolejarz\Stacje\PowroŸnik\powroznik2007.roz
+D:\priv\Kolejarz\Stacje\Poznañ\Poznan Gl 2003.roz
+D:\priv\Kolejarz\Stacje\Poznañ\Poznan2001.roz
+D:\priv\Kolejarz\Stacje\Praha\Praha_hl_n.roz
+D:\priv\Kolejarz\Stacje\Praha Bubny\Praha_Bubny.roz
+D:\priv\Kolejarz\Stacje\Praha Hostivar\Pr_Hostivar.roz
+D:\priv\Kolejarz\Stacje\Pruszcz Gdañski\Pruszcz_Gdanski2006.roz
+D:\priv\Kolejarz\Stacje\Pruszków WKD\pruszkow_wkd_05.roz
+D:\priv\Kolejarz\Stacje\Przeworsk\Przeworsk2005.roz
+D:\priv\Kolejarz\Stacje\Ptaszkowa\Ptaszkowa.roz
+D:\priv\Kolejarz\Stacje\Puszcza Mariañska\puszczamar.roz
+D:\priv\Kolejarz\Stacje\Pyrzyce\pyrzyce94-95.roz
+D:\priv\Kolejarz\Stacje\P³oty\Ploty2003.roz
+D:\priv\Kolejarz\Stacje\P³oty\Ploty2004(A).roz
+D:\priv\Kolejarz\Stacje\P³oty\Ploty2004(C).roz
+D:\priv\Kolejarz\Stacje\P³oty\Ploty2005.roz
+D:\priv\Kolejarz\Stacje\P³oty\Ploty2006.roz
+D:\priv\Kolejarz\Stacje\Radom\radom2006.roz
+D:\priv\Kolejarz\Stacje\Rakoniewice\rakoniewice_06.roz
+D:\priv\Kolejarz\Stacje\Rakoniewice\rakoniewice_06parada.roz
+D:\priv\Kolejarz\Stacje\Rakovnik\Rakovnik.roz
+D:\priv\Kolejarz\Stacje\Reda\Reda 2003.roz
+D:\priv\Kolejarz\Stacje\Reptowo\Reptowo 2003.roz
+D:\priv\Kolejarz\Stacje\Rokiciny\2004.roz
+D:\priv\Kolejarz\Stacje\Rokiciny\rokiciny1990.roz
+D:\priv\Kolejarz\Stacje\Rokiciny\rokiciny2000.roz
+D:\priv\Kolejarz\Stacje\Rokiciny\rokiciny2002v2.roz
+D:\priv\Kolejarz\Stacje\Rosice\Rosice.roz
+D:\priv\Kolejarz\Stacje\Rybnik\Rybnik2005.roz
+D:\priv\Kolejarz\Stacje\Rzeszów\Rzeszow 2005.roz
+D:\priv\Kolejarz\Stacje\Rêbiszów\Rebiszow_03-04.roz
+D:\priv\Kolejarz\Stacje\Rêbiszów\Rebiszow_03.roz
+D:\priv\Kolejarz\Stacje\Sanok\sanok2005.roz
+D:\priv\Kolejarz\Stacje\Serock\serock2003.roz
+D:\priv\Kolejarz\Stacje\Siemiatycze\siemiatycze04.roz
+D:\priv\Kolejarz\Stacje\Siemiatycze\siemiatycze05.roz
+D:\priv\Kolejarz\Stacje\Sitkówka-Nowiny\Sitkowka-Nowiny99.roz
+D:\priv\Kolejarz\Stacje\Skar¿ysko\skarzysko2002.roz
+D:\priv\Kolejarz\Stacje\Skawce\Skawce1986.roz
+D:\priv\Kolejarz\Stacje\Skawce\skawce2001.roz
+D:\priv\Kolejarz\Stacje\Skawce\skawce2003.roz
+D:\priv\Kolejarz\Stacje\Skawce\Skawce2006zima.roz
+D:\priv\Kolejarz\Stacje\Skawce\Skawce2007lato.roz
+D:\priv\Kolejarz\Stacje\Skawce\Skawce2007zima.roz
+D:\priv\Kolejarz\Stacje\Skawina\Skawina2001lato.roz
+D:\priv\Kolejarz\Stacje\Skawina\Skawina2003lato.roz
+D:\priv\Kolejarz\Stacje\Skawina\Skawina2005lato.roz
+D:\priv\Kolejarz\Stacje\Skawina\Skawina2005zima.roz
+D:\priv\Kolejarz\Stacje\Skierniewice\skierniewice.roz
+D:\priv\Kolejarz\Stacje\Skoczów\Skoczow2003lato.roz
+D:\priv\Kolejarz\Stacje\Solec Kujawski\solec89.roz
+D:\priv\Kolejarz\Stacje\Somonino\Somonino.roz
+D:\priv\Kolejarz\Stacje\Spa³a\1980.roz
+D:\priv\Kolejarz\Stacje\Spa³a\1984.roz
+D:\priv\Kolejarz\Stacje\Spa³a\1987.roz
+D:\priv\Kolejarz\Stacje\Spa³a\1988.roz
+D:\priv\Kolejarz\Stacje\Spytkowice\Spytkowice2003.roz
+D:\priv\Kolejarz\Stacje\Stalowa Wola Rozwadów\StalowaWolaRozw.1997.roz
+D:\priv\Kolejarz\Stacje\Stalowa Wola Rozwadów\StalowaWolaRozw.2003.roz
+D:\priv\Kolejarz\Stacje\Stara Paka\Stara_Paka.roz
+D:\priv\Kolejarz\Stacje\Starogard Gdañski\Starogard Gd..roz
+D:\priv\Kolejarz\Stacje\Strazske\Strazske.roz
+D:\priv\Kolejarz\Stacje\Stronie Œl¹skie\stronie2002.roz
+D:\priv\Kolejarz\Stacje\Strzegom\Strzegom01-02.roz
+D:\priv\Kolejarz\Stacje\Strzegom\Strzegom90-91.roz
+D:\priv\Kolejarz\Stacje\Stró¿e\stroze2001.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha B2004lato.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2001lato.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2002lato.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2003zima.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2004lato.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2004zima.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2005lato.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2005zima.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2006zima.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2007lato.roz
+D:\priv\Kolejarz\Stacje\Sucha Beskidzka\Sucha_B2007zima.roz
+D:\priv\Kolejarz\Stacje\Sycewice\Sycewice2003.roz
+D:\priv\Kolejarz\Stacje\Syców\Sycow1986.roz
+D:\priv\Kolejarz\Stacje\Szepietowo\szepietowo.roz
+D:\priv\Kolejarz\Stacje\Szklarska Porêba Górna\Szklarska_Por_Gorna02-03.roz
+D:\priv\Kolejarz\Stacje\Szklarska Porêba Górna\Szklarska_Por_Gorna02.roz
+D:\priv\Kolejarz\Stacje\Szklarska Porêba Górna\Szklarska_Por_Gorna04-05.roz
+D:\priv\Kolejarz\Stacje\Szklarska Porêba Górna\Szkl_Por_G_03-04.roz
+D:\priv\Kolejarz\Stacje\Szpanowo\szpanowo_03_jesien.roz
+D:\priv\Kolejarz\Stacje\Szpanowo\szpanowo_03_lato.roz
+D:\priv\Kolejarz\Stacje\Szpanowo\szpanowo_03_wiosna.roz
+D:\priv\Kolejarz\Stacje\Szpanowo\szpanowo_03_zima.roz
+D:\priv\Kolejarz\Stacje\Sêdziszów\Sedziszow01.roz
+D:\priv\Kolejarz\Stacje\Sêdziszów\Sedziszow2004.roz
+D:\priv\Kolejarz\Stacje\S³upsk\Slupsk02L.roz
+D:\priv\Kolejarz\Stacje\S³upsk\Slupsk02Z.roz
+D:\priv\Kolejarz\Stacje\S³upsk\Slupsk03L.roz
+D:\priv\Kolejarz\Stacje\S³upsk\Slupsk03Z.roz
+D:\priv\Kolejarz\Stacje\Targowiska\Targowiska 2001-2002.roz
+D:\priv\Kolejarz\Stacje\Tarnów\tarnow_2003.roz
+D:\priv\Kolejarz\Stacje\Tarnów\tarnow_lato2004.roz
+D:\priv\Kolejarz\Stacje\Tarnów\tarnow_zima2004.roz
+D:\priv\Kolejarz\Stacje\Tarnów Klikowa\Klikowa.roz
+D:\priv\Kolejarz\Stacje\Tarnów Moœcice\moscice_2003.roz
+D:\priv\Kolejarz\Stacje\Teresin\Teresin 2003.roz
+D:\priv\Kolejarz\Stacje\Trzciniec\trzciniec2003.roz
+D:\priv\Kolejarz\Stacje\Trzebie¿ Szczeciñski\trzebiez1998.roz
+D:\priv\Kolejarz\Stacje\Tunel\Tunel1997.roz
+D:\priv\Kolejarz\Stacje\Tymbark\Tymbark1997-98.roz
+D:\priv\Kolejarz\Stacje\T³uszcz\Tluszcz 2004.roz
+D:\priv\Kolejarz\Stacje\T³uszcz\Tluszcz 2005.roz
+D:\priv\Kolejarz\Stacje\T³uszcz\Tluszcz 2006.roz
+D:\priv\Kolejarz\Stacje\Usti\Usti.roz
+D:\priv\Kolejarz\Stacje\Ustka\ustka2003.roz
+D:\priv\Kolejarz\Stacje\Ustka\ustka2004.roz
+D:\priv\Kolejarz\Stacje\Ustroñ\Ustron2001lato.roz
+D:\priv\Kolejarz\Stacje\Ustroñ\Ustron2002lato.roz
+D:\priv\Kolejarz\Stacje\Ustroñ\Ustron2003zima.roz
+D:\priv\Kolejarz\Stacje\Ustroñ\Ustron2005zima.roz
+D:\priv\Kolejarz\Stacje\Volary\Volary.roz
+D:\priv\Kolejarz\Stacje\Vsetaty\Vsetaty.roz
+D:\priv\Kolejarz\Stacje\Vsetin\Vsetin.roz
+D:\priv\Kolejarz\Stacje\Vsetin\Vsetin2.roz
+D:\priv\Kolejarz\Stacje\Vyskov\vyskov.roz
+D:\priv\Kolejarz\Stacje\Wa-wa Okêcie\OKECIE02.ROZ
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice2000lato.roz
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice2001lato.roz
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice2003zima.roz
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice2004zima.roz
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice2005zima.roz
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice2006lato.roz
+D:\priv\Kolejarz\Stacje\Wadowice\Wadowice2007zima.roz
+D:\priv\Kolejarz\Stacje\Warszawa Centralna\WarszawaCentralna.roz
+D:\priv\Kolejarz\Stacje\Warszawa Rembertów\rembertow2007.roz
+D:\priv\Kolejarz\Stacje\Warszawa Wileñska\Warszawa Wilenska 2003.roz
+D:\priv\Kolejarz\Stacje\Warszawa Wsch\wschodnia.roz
+D:\priv\Kolejarz\Stacje\Warszawa Wsch\wschodnia_new.roz
+D:\priv\Kolejarz\Stacje\Warszawa W³ochy\W-wa Wlochy 2003.roz
+D:\priv\Kolejarz\Stacje\Warszawa Zach\Warszawa Zach 2002.roz
+D:\priv\Kolejarz\Stacje\Warszawa Zach\WwaZach2003.roz
+D:\priv\Kolejarz\Stacje\Warszawa Œródmieœcie\srodmiescie WKD.roz
+D:\priv\Kolejarz\Stacje\Wa³brzych\Wa³brzych 02-03.roz
+D:\priv\Kolejarz\Stacje\Wieluñ D¹browa\wielun_dabrowa_2004.roz
+D:\priv\Kolejarz\Stacje\Wieluñ W¹sk\WielunWask70.roz
+D:\priv\Kolejarz\Stacje\Wierzchucin\Wierzchucin.roz
+D:\priv\Kolejarz\Stacje\Wierzchucin\wierzchucin2005.roz
+D:\priv\Kolejarz\Stacje\Wis³a G³êbce\Wisla_Glebce1988lato.roz
+D:\priv\Kolejarz\Stacje\Wis³a G³êbce\WISLA_Glebce1991lato.roz
+D:\priv\Kolejarz\Stacje\Wis³a G³êbce\Wisla_glebce2001lato.roz
+D:\priv\Kolejarz\Stacje\Wis³a G³êbce\wisla_glebce2002lato.roz
+D:\priv\Kolejarz\Stacje\Wis³a G³êbce\wisla_glebce2004zima.roz
+D:\priv\Kolejarz\Stacje\Wis³a G³êbce\wisla_glebce2005zima.roz
+D:\priv\Kolejarz\Stacje\Wis³a Uzdrowisko\Wisla_U2001lato.roz
+D:\priv\Kolejarz\Stacje\Wis³a Uzdrowisko\Wisla_U2002lato.roz
+D:\priv\Kolejarz\Stacje\Wis³a Uzdrowisko\Wisla_U2003zima.roz
+D:\priv\Kolejarz\Stacje\Wis³a Uzdrowisko\Wisla_U2004zima.roz
+D:\priv\Kolejarz\Stacje\Wis³a Uzdrowisko\Wisla_U2005zima.roz
+D:\priv\Kolejarz\Stacje\Wolsztyn\wolsztyn2003lato.roz
+D:\priv\Kolejarz\Stacje\Wrzeœnia\wrzesnia 2005.roz
+D:\priv\Kolejarz\Stacje\Wêgliniec\Wegliniec_01-02.roz
+D:\priv\Kolejarz\Stacje\W³adys³awowo\Wladyslawowo 2002.roz
+D:\priv\Kolejarz\Stacje\W³adys³awowo\Wladyslawowo 2003.roz
+D:\priv\Kolejarz\Stacje\Zabreh\Zabreh.roz
+D:\priv\Kolejarz\Stacje\Zagórz\zagorz1988.roz
+D:\priv\Kolejarz\Stacje\Zagórz\zagorz2001.roz
+D:\priv\Kolejarz\Stacje\Zagórz\zagorz2003.roz
+D:\priv\Kolejarz\Stacje\Zaj¹czkowo Tczewskie\zajaczkowo2.roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane 2003.roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane 2005(C).roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane 2005(D).roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane2000-2001.roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane2004(C) .roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane2004(D) .roz
+D:\priv\Kolejarz\Stacje\Zamoœæ\zamosc_2006.roz
+D:\priv\Kolejarz\Stacje\Zawada\zawada2001.roz
+D:\priv\Kolejarz\Stacje\Zehrovice\Zehrovice_2004_poz.roz
+D:\priv\Kolejarz\Stacje\Zielona Góra\ZG_98-99.roz
+D:\priv\Kolejarz\Stacje\Zielonka\Zielonka2002.roz
+D:\priv\Kolejarz\Stacje\Z³otoryja\Zlotoryja_80.roz
+D:\priv\Kolejarz\Stacje\£ask\lask2003.roz
+D:\priv\Kolejarz\Stacje\£uków\Lukow2003.roz
+D:\priv\Kolejarz\Stacje\£uków\Lukow2003wiosna.roz
+D:\priv\Kolejarz\Stacje\£upków\Lupkow2003.roz
+D:\priv\Kolejarz\Stacje\£ódŸ Andrzejów\Lodz Andrzejow 2002.roz
+D:\priv\Kolejarz\Stacje\£ódŸ Andrzejów\Lodz Andrzejow 2004v2.roz
+D:\priv\Kolejarz\Stacje\£ódŸ Fabryczna\Lodz Fabryczna 2002.roz
+D:\priv\Kolejarz\Stacje\£ódŸ Kaliska\Lodz Kaliska.roz
+D:\priv\Kolejarz\Stacje\Œwidwin\swidwin_06.roz
+D:\priv\Kolejarz\Stacje\Œwieradów Zdrój\Swieradow_80.roz
+D:\priv\Kolejarz\Stacje\Œwinoujœcie\Swinoujscie 2002.roz
+D:\priv\Kolejarz\Stacje\Œwinoujœcie\Swinoujscie 2003.roz
+D:\priv\Kolejarz\Stacje\¯ory\zory.roz
+D:\priv\Kolejarz\Stacje\¯yrardów\zyrardow05.roz
+D:\priv\Kolejarz\Stacje\¯yrardów\zyrardow06.roz
+D:\priv\Kolejarz\Stacje\¯ywiec\Zywiec 2002.roz
+D:\priv\Kolejarz\Stacje\¯ywiec\Zywiec2001-02.roz
+D:\priv\Kolejarz\Stacje\¯ywiec\Zywiec2001lato.roz
+D:\priv\Kolejarz\Stacje\¯ywiec\Zywiec2003lato.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow1997-1998.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow1998-1999.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow2,2005.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow2002.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow2003.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow2004.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów\Andrychow2005.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów 2\Andrychow00-01.roz
+D:\priv\Kolejarz\Stacje\Andrychów\Andrychów 2\Andrychow99-00.roz
+D:\priv\Kolejarz\Stacje\Bydgoszcz\2002\Bydgoszcz Gl.roz
+D:\priv\Kolejarz\Stacje\Bydgoszcz\2003\Bydgoszcz2003.roz
+D:\priv\Kolejarz\Stacje\Bydgoszcz\2005\bydgoszcz2005.roz
+D:\priv\Kolejarz\Stacje\Bydgoszcz Fordon\1986\fordon86.roz
+D:\priv\Kolejarz\Stacje\Bydgoszcz Fordon\2003\fordon2003.roz
+D:\priv\Kolejarz\Stacje\Dar³owo\2006\darlowo_SA103_2006.roz
+D:\priv\Kolejarz\Stacje\Dar³owo\2006\darlowo_SA110_2006.roz
+D:\priv\Kolejarz\Stacje\Dêblin\1985\Deblin1985.roz
+D:\priv\Kolejarz\Stacje\Dêblin\2005\Deblin2005.roz
+D:\priv\Kolejarz\Stacje\Dêblin\2005\Deblin2005kwiecien.roz
+D:\priv\Kolejarz\Stacje\Dêblin\2005\Deblin2005sierpien.roz
+D:\priv\Kolejarz\Stacje\Dêblin\2006\Deblin2006.roz
+D:\priv\Kolejarz\Stacje\Gdynia\2002\Gdynia.roz
+D:\priv\Kolejarz\Stacje\Gdynia\2003\Gdynia_03.roz
+D:\priv\Kolejarz\Stacje\Gorlice Zagórzany\1993\Gorlice_Zagorzany1993-94v2.roz
+D:\priv\Kolejarz\Stacje\Gorlice Zagórzany\2003\GorliceZagorzany2003.roz
+D:\priv\Kolejarz\Stacje\Górzyniec\2002\gorzyniec.roz
+D:\priv\Kolejarz\Stacje\Jas³o\2001\Jaslo.roz
+D:\priv\Kolejarz\Stacje\Jas³o\2002\Jaslo.roz
+D:\priv\Kolejarz\Stacje\Jeleœnia\2005\Jelesnia 2005.roz
+D:\priv\Kolejarz\Stacje\Jeleœnia\2006\Jelesnia 2006.roz
+D:\priv\Kolejarz\Stacje\Jeleœnia\2007\jelesnia2007.roz
+D:\priv\Kolejarz\Stacje\Karlino\2005\karlino_05.roz
+D:\priv\Kolejarz\Stacje\Karlino\2006\karlino_06.roz
+D:\priv\Kolejarz\Stacje\Kielce\1988\Kielce88.roz
+D:\priv\Kolejarz\Stacje\Kielce\2002\Kielce 2002.roz
+D:\priv\Kolejarz\Stacje\Kielce\2003\kielce-2003.roz
+D:\priv\Kolejarz\Stacje\Kielce\2004\kielce-2004.roz
+D:\priv\Kolejarz\Stacje\Ko³obrzeg\2002\Kolobrzeg-zima2002.roz
+D:\priv\Kolejarz\Stacje\Ko³obrzeg\2004\Kolobrzeg_04.roz
+D:\priv\Kolejarz\Stacje\Kraków G³\2002\Krakow Glowny 2002.roz
+D:\priv\Kolejarz\Stacje\Kraków P³\2003\Krakow Plaszow 2003.roz
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\1999-2000\kkz99-00.roz
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\2000-2001\kkz00-01.roz
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\2002\kkz02.roz
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\2003\kkz03.roz
+D:\priv\Kolejarz\Stacje\Kêdzierzyn KoŸle\2004\kkz04.roz
+D:\priv\Kolejarz\Stacje\Kêpice\2006\kepice_06.roz
+D:\priv\Kolejarz\Stacje\Lublin\1985\LUBLIN1985.roz
+D:\priv\Kolejarz\Stacje\Lublin\2002\Lublin_2002.roz
+D:\priv\Kolejarz\Stacje\Lublin\2003\LUBLIN2003.ROZ
+D:\priv\Kolejarz\Stacje\Lublin\2003_1\LUBLIN2003lipiec.ROZ
+D:\priv\Kolejarz\Stacje\Lublin\2004\LUBLIN2004.roz
+D:\priv\Kolejarz\Stacje\Lublin\2004\LUBLIN2004F.roz
+D:\priv\Kolejarz\Stacje\Lublin\2005\Lublin2005.roz
+D:\priv\Kolejarz\Stacje\Lublin\2005\Lublin2005czerwiec.roz
+D:\priv\Kolejarz\Stacje\Lublin\2005\Lublin2005kwiecien.roz
+D:\priv\Kolejarz\Stacje\Lublin\2005\Lublin2005wrzesien.roz
+D:\priv\Kolejarz\Stacje\Lublin\2006\Lublin2006.roz
+D:\priv\Kolejarz\Stacje\Lublin\2007\Lublin2007.roz
+D:\priv\Kolejarz\Stacje\Malbork\1993\Malbork 1993.roz
+D:\priv\Kolejarz\Stacje\Malbork\2004\Malbork2004.roz
+D:\priv\Kolejarz\Stacje\Milanówek Graniczna\1986-87\Milanowek Graniczna 86-87.roz
+D:\priv\Kolejarz\Stacje\Milanówek Graniczna\1993\Milanowek Graniczna 1993.roz
+D:\priv\Kolejarz\Stacje\Miêdzychód\1932\miedzychod32.roz
+D:\priv\Kolejarz\Stacje\Miêdzychód\1986\miedzychod86.roz
+D:\priv\Kolejarz\Stacje\Miêdzychód\1993\miedzychod93.roz
+D:\priv\Kolejarz\Stacje\Poznañ\1932\poznan1932.roz
+D:\priv\Kolejarz\Stacje\Poznañ\1989\Poznan1989.roz
+D:\priv\Kolejarz\Stacje\Poznañ\1999\Poznan 1999.roz
+D:\priv\Kolejarz\Stacje\Sanok\2000\Sanok_00-01.roz
+D:\priv\Kolejarz\Stacje\Szczecin\2002\Szczecin Glowny 2002.roz
+D:\priv\Kolejarz\Stacje\Szczecin\2002-jesieñ\Szczecin Glowny 2002 jesien.roz
+D:\priv\Kolejarz\Stacje\Szczecin\2002-lato\Szczecin Glowny 2002 lato.roz
+D:\priv\Kolejarz\Stacje\Szczecin\2003\Szczecin Glowny 2003.roz
+D:\priv\Kolejarz\Stacje\Szubin\1986\szubin86.roz
+D:\priv\Kolejarz\Stacje\Szubin\2003\szubin2003.roz
+D:\priv\Kolejarz\Stacje\S³awno\2002\Slawno_02.roz
+D:\priv\Kolejarz\Stacje\S³awno\2003\Slawno2003.roz
+D:\priv\Kolejarz\Stacje\S³awno\2004\Slawno_04v3.roz
+D:\priv\Kolejarz\Stacje\S³awno\2005\slawno_05zima.roz
+D:\priv\Kolejarz\Stacje\S³awno\2005_1\slawno_05lato.roz
+D:\priv\Kolejarz\Stacje\S³awno\2006\slawno_06lato.roz
+D:\priv\Kolejarz\Stacje\Ustka\2005\ustka2005.roz
+D:\priv\Kolejarz\Stacje\Ustka\2006\ustka2006.roz
+D:\priv\Kolejarz\Stacje\Usuniête\Czeremcha\Czeremcha03.roz
+D:\priv\Kolejarz\Stacje\Wadowice\2006\Wadowice2006zima.roz
+D:\priv\Kolejarz\Stacje\Wadowice\90\Wadowice1991.roz
+D:\priv\Kolejarz\Stacje\Warszawa Wsch\2003\WarszawaWschodnia2003.roz
+D:\priv\Kolejarz\Stacje\Wejherowo\2002\wejherowo.roz
+D:\priv\Kolejarz\Stacje\Wejherowo\2003\wejherowo03.roz
+D:\priv\Kolejarz\Stacje\Wis³a G³êbce\2003\Wisla Glebce.roz
+D:\priv\Kolejarz\Stacje\Wo³omin\2005\wolomin.roz
+D:\priv\Kolejarz\Stacje\Wo³omin\2006\wolomin2006.roz
+D:\priv\Kolejarz\Stacje\Wo³omin\2006R\wolomin_remont.roz
+D:\priv\Kolejarz\Stacje\Wroc³aw\1989\Wroclaw Gl 1990.roz
+D:\priv\Kolejarz\Stacje\Wroc³aw\2003\Wroclaw Gl 2003.roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane\Zakopane 2002.roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane\Zakopane 2003.roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane\Zakopane 2004.roz
+D:\priv\Kolejarz\Stacje\Zakopane\Zakopane\Zakopane 2005.roz
+D:\priv\Kolejarz\Stacje\£eba\2001\Leba.roz
+D:\priv\Kolejarz\Stacje\£eba\2003\Leba 2003.roz
+D:\priv\Kolejarz\Stacje\£eba\2004\Leba2004lato.roz
+D:\priv\Kolejarz\Stacje\£eba\2004\Leba2004wiosna.roz
+D:\priv\Kolejarz\Stacje\£eba\2005\Leba_05lato.roz
+D:\priv\Kolejarz\Stacje\£eba\2005\Leba_05zima.roz
+D:\priv\Kolejarz\Stacje\£eba\2006\Leba_06lato.roz
+D:\priv\Kolejarz\Stacje\£eba\2006\Leba_06zima.roz
+D:\priv\Kolejarz\Stacje\£eba\2007\Leba_07lato.roz
+D:\priv\Kolejarz\Stacje\¯ywiec\¯ywiec\Zywiec 2002.roz

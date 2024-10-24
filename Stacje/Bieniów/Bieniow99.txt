@@ -1,0 +1,20 @@
+Stacja BIENIÓW
+Wersja dla Kolejarza 1.44
+zbudowana z pomoc¹: EdK 2.40 i Edytor MK 1.04
+
+Autor : Andrzej Klauza
+E-mail: parowoz@wp.pl
+11 I 2004
+
+rozk³ad jazdy: Lato 99 
+
+Kierunki:
+ 1 - ¯agañ - czas przejazdu 13 minut
+ 2 - Jasieñ (Lubsko,granica pañstwa) 
+ 3 - Nowogród Osiedle (Zielona Góra) - czas przejazdu 9 minut
+ 4 - ¯ary - czas przejazdu 16 minut
+         
+
+Wagony do Lubska i Nowogrodu przyje¿d¿aj¹ w jednym 
+sk³adzie i s¹ rozdzielane/³¹czone w Bieniowie.
+

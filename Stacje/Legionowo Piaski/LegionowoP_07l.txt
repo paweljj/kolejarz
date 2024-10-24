@@ -1,0 +1,90 @@
+
+                     
+                        STACJA LEGIONOWO PIASKI ( lato 2007 )
+
+                      
+ Posterunek Legionowo Piaski jest po³o¿ony na lini Legionowo - T³uszcz.
+ Ponadto od szlaku do Legionowa odga³êzia siê tutaj tor w kierunku Gdyni, 
+ umo¿liwiaj¹cy opuszczenie Legionowa bez koniecznoœci zmiany kierunku jazdy poci¹gu.
+ Na schemacie umieœci³em równie¿ wjazd na bocznicê PEC-u gdzie znajduje siê sk³ad 
+ samochodów osobowych i niewielka lokalna EC. Ruch na stacji przez ca³y rok jest 
+ stosunkowo du¿y, poniewa¿ kursuj¹ têdy poci¹gi z Polski pó³nocno-wschodniej do 
+ Warszawy oraz w kierunku Gdyni.
+
+
+ Uk³ad torowy zgodny z rzeczywistoœci¹ co do rozjazdu.
+
+
+	----------------------------------------------------------
+		Wjazdy/wyjazdy:
+	----------------------------------------------------------
+
+	1 - Legionowo, a dalej Warszawa Praga, Warszawa Gdañska;
+
+	2 - Wieliszew, a dalej Radzymin, T³uszcz, Ma³kinia;
+
+	3 - Chotomów, a dalej Nasielsk, Gdynia G³. Osobowa;
+
+	4 - boczn. PEC ( sk³ad samochodów, EC )
+
+	------------------------------------------------------------
+		Peron
+	------------------------------------------------------------
+
+ Przy peronach dochodzi zazwyczaj do mijanek poci¹gów. Tor przelotowy le¿y przy dolnej krawêdzi peronu.
+ Górny jest mocno zniszczony, wybrakowany w œróby i jest u¿ywany tylko do mijanek lub d³u¿szych postojów
+ poci¹gów towarowych. Zaraz za peronem po jego lewej stronie znajduje siê przejazd kolejowy obs³ugiwany 
+ z nastawni (LP). 
+
+	------------------------------------------------------------------------
+		Tory postojowe:
+	------------------------------------------------------------------------
+
+ Do dyspozycji mamy 3 tory postojowe, na których prowadzone s¹ manewry. 
+
+      - Tor nr 1 ( niezelektryfikowany ) st¹d ruszaj¹ sk³ady na boczn. PEC, nie rozpoczynaj¹ st¹d nigdy poci¹gi
+        do Legionowa czy dalej;
+      - Tor nr 2 i 3 ( zelektryfikowane ) tu koñcz¹ i rozpoczynaj¹ bieg wszystkie poci¹gi towarowe;
+
+      - Tor z koz³em oporowym to dawna bocznica, ale na skutek kradzie¿y, dewastacji zosta³ tylko jego niewielki
+        fragment, który s³u¿y jako "parking" dla loków odpoczywaj¹cych na Piaskach.
+
+	--------------------------------------------------------------------------
+		Uwagi co do ruchu poci¹gów
+	--------------------------------------------------------------------------
+
+ Z ograniczonych mo¿liwoœci gry zrezygnowa³em z 2 obiegów luzem lokomotywy SM42, która po dostarczeniu sk³adu z 
+ samochodami wraca do Legionowa, a nastêpnie równie¿ luzem przyje¿d¿a ju¿ po opró¿niony sk³ad. Zamiast tych 
+ kursów lok spokojnie stoi na Piaskach i czeka na wahad³o. Co do prywaciarzy, to tealistyczne sk³ady, obiegi i 
+ godziny ma wy³¹cznie poci¹g z samochodami z Koln. Reszta bywa w Legionowie, ale kiedy niestaty nie wiem.
+ Lokomotywa nale¿¹ca co PEC-u to SM30, w grze ma jednak nieco inne barwy. 
+ WA¯NE ! Aby gra by³a relistyczna nale¿y poci¹gi towarowe jeœli koñcz¹ bieg kierowaæ od razu na tory postojowe,
+ a nie na perony, w przeciwieñstwie do poci¹gów osobowych.
+
+	--------------------------------------------------------
+		Lokomotywownia:
+	--------------------------------------------------------
+
+	- Warszawa Odolany;
+	- czas zamówienia  70  min.
+	- czas naprawy     120 min.
+
+	--------------------------------------------------------
+		Sk³ady i obiegi:
+	--------------------------------------------------------
+
+	- sk³ady poci¹gów rzeczywiste w 50%;
+	- obiegi poci¹gów rzeczywiste w 80%;
+
+	------------------------------------------
+		AUTOR
+	------------------------------------------
+   _______________________________________________
+
+		Igor Bubicz
+		igorb@op.pl
+		gg: 7887862
+
+
+Legionowo 2008
+02-12-2007

@@ -1,0 +1,62 @@
+Stacja Wo³omin
+
+W czerwcu 2006 mia³ miejsce remont toru nr. 1 na odcinku Wo³omin - T³uszcz i z tego powodu
+	poci¹gi jeŸdzi³y inaczej, ni¿ zwykle. Ta symulacja przedstawia w³aœnie ten rozk³ad.
+Co prawda w tym czasie sk³ady dalekobie¿ne i towarowe przelotowe puszczone by³y przez Nieporêt
+	i Legionowo, ale ¿eby w Kolejarzu "coœ siê dzia³o", u³ozy³em rozk³ad specjalnie dla nich.
+
+Uk³ad torowy zgodny z rzeczywistoœci¹ co do rozjazdu.
+
+Wjazdy/wyjazdy:
+
+	1 - Zielonka (i dalej na Warszawê);
+	2 - T³uszcz (i dalej na Bia³ystok). I tutaj wa¿na informacja! Na czas remontu tor 2 "wyjazdowy"
+		(oznaczony lilterk¹ "R") by³ zamkniêty - wyje¿d¿a³y i wje¿d¿a³y nim jedynie poci¹gi
+		robocze, oznaczone w skróconym rozk³adzie literk¹ "D". Poci¹gi w/z kierunku T³uszcza
+		porusza³y siê jedynie torem 2 "wjazdowym", mimo i¿ widnieje tam pojedyncza strza³ka
+		oznaczaj¹ca wjazd. Najbli¿sza mijanka dopiero w T³uszczu (20 minut);
+	3 - bocznica do Zak³adu Stolarki Budowlanej S.A. 
+		oraz Zak³adu Poszukiwañ Nafty i Gazu (mijanka 5 minut);
+	- œlepy tor nad torami w kierunku Warszawy prowadzi³ kiedyœ do Hurtowni Spo¿ywczej,
+		gdzie niegdzie widniej¹ jeszcze kawa³ki szyn oraz podk³ady.
+
+Tory postojowe/towarowe:
+	- tory równoleg³e do peronu s³u¿¹ jako przelotowe dla towarowych oraz postojowe dla sk³adów
+		do/z Naftgazu i Stolarki Na zewnêtrznym niezelektryfikowanym stacjonowa³y wtedy
+		wagony mieszkalne ekipy remontowej, a na kolejnym - poci¹gi robocze;
+	- tory po prawej stronie od peronów, niejako "pomiêdzy" nimi - postojowe dla EZT do/z Warszawy,
+		koñcz¹cych bieg w Wo³ominie, w czerwcu aktywnie eksploatowany. Na ka¿dym z nich
+		mieszcz¹ siê 3x EZT;
+	- placu wy³adowczego w dolnej czêœci stacji wyjaœnieæ chyba nie muszê - przy nim nale¿y 
+		ustawiaæ wêglarki;
+	- tory nad wjazdem 3 to bocznica Zak³adu "PKP Energetyka" - tu stoi sieciowiec i stonka.
+
+Lokomotywownia:
+	- najbli¿sza, to Warszawa Grochów;
+	- czas zamówienia 40 min.
+	- czas naprawy 120 min.
+
+Sk³ady i obiegi:
+	- obiegi sk³adów osobowych zbli¿one do rzeczywistoœci, mo¿liwe, ¿e nawet 80-90%;
+	- obiegi pospieszne tak¿e;
+	- poc. osobowe wg. zmian na czas remontu - na podstawie rozk³adu;
+	- dla poc. pospiesznych u³o¿y³em fikcyjny rozk³ad (patrz wy¿ej);
+	- poc. towarowe ca³kowicie fikcyjne. Jeœli chodzi o ruch na wjeŸdzie 3, po prawdzie odbywa siê
+		 to tak, i¿ stonka wpycha sk³ady do zak³adu, a potem odbiera inne i normalnie wraca
+		 na stacjê, jednak¿e ze wzglêdu na ograniczenia Kolejarza odbywa siê to w sposób
+		"pociagowy" - najpierw lok, a za nim sk³ad;
+	- przyj¹³em zasadê, ¿e byki po przyprowadzeniu towarowego nie zje¿d¿aj¹ same do szopy, 
+		tylko czekaj¹ na inny sk³ad, jad¹cy z powrotem. Jedyny wyj¹tek stanowi poc. rel.
+		Las Suwalski - Stolarka - Las Suwalski (8:42 - 17:52), z którego bia³ostocki byczek
+		po przyprowadzeniu sk³adu jedzie na szopê i wraca po niego wieczorem, lub czeka
+		w stacji na powrotny sk³ad.
+	- obecnie Wo³omin nie posiada stonek na stanie (jedn¹ ma tylko miejscowa "PKP Energetyka"),
+		wiêc w przypadku zapotrzebowania takowej do sk³adów do Naftgazu lub Stolarki
+		œci¹gana jest jedna z T³uszcza (nota bene a¿ z Bia³egostoku). Niestety w Kolejarzu
+		nie ma na razie mo¿liwoœci ustawienia dwóch lokomotywowni, dlatego potrzebn¹ stonkê
+		sprowadzamy z Grochowa, pamiêtaj¹c jednak, aby mia³a w³aœciwe oznaczenie szopy.
+------------------
+2006-07-21
+Adam Kamiñski
+adam@bopos.pl
+www.kolejowywolomin.republika.pl

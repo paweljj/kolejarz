@@ -1,0 +1,89 @@
+Bielsko Bia³a G³ówna
+Rozk³ad: lato 2005
+wersja poprawiona
+
+Bielsko Bia³a G³ówna jest du¿¹ stacj¹ wêz³ow¹ le¿¹c¹ w po³udniowej czêœci woj. Œl¹skiego. Linia
+z Katowic do Zwardonia i dalej na S³owacjê (139) styka siê tutaj z lokalnymi liniami do Czeskiego Cieszyna
+(190) i do Kalwarii Zebrzydowskiej Lanckorony (117). Stacja charakteryzuje siê dosyæ du¿ym ruchem
+pasa¿erskim na kierunkach 1 i 2 oraz mniejszym na kierunkach 3 i 4. Na ruch towarowy sk³adaj¹ siê
+g³ównie poci¹gi graniczne relacji Zabrzeg Czarnolesie - Skalite i z powrotem oraz zdawcze do okolicznych
+stacji obs³ugiwanych.
+Bielsko Bia³a G³ówna ma status stacji manewrowej. Ruch obs³uguj¹ trzy nastawnie, dysponuj¹ca BB (po
+prawej) oraz dwie manewrowe PM1 (poœrodku) i PM2 (po lewej), wyposa¿enia w urz¹dzenia przekaŸnikowe
+pó³blokowe. Na wysokoœci peronów znajduj¹ siê tory przyjazdowo-odjazdowe oraz kierunkowo-odjazdowe,
+po prawej ich stronie znajduje siê grupa torów s³u¿¹ca do prac ³adunkowych. Grupa torów miêdzy
+magazynami s³u¿y³a niegdyœ do odprawy przesy³ek ekspresowych, obecnie nieu¿ywana. Piêæ torów obok
+wjazdu/wyjazdu nr 1 to grupa postojowa dla sk³adów wagonowych. Grupa odstawcza na wysokoœci peronu
+1a kiedyœ wykorzystywana by³a do odstawiania sk³adów wagonowych, obecnie stacjonuje tam poci¹g
+sieciowy a na skrajny tor odstawiane s¹ EZT. W wid³ach utworzonych przez linie do Kalwarii Zeb. i Cieszyna
+znajdowa³a siê parowozownia z hal¹ wachlarzow¹ (7 stanowisk), obecnie trzyma tam swój sprzêt (dŸwigi,
+wagony gospodarcze itp) sekcja infrastruktury. Od stacji w kierunku wschodnim (na dole) niegdyœ odbiega³o
+kilka bocznic do tamtejszej strefy przemys³owej, obecnie podupad³ej. Na miejscu jednej z fabryk
+wybudowane zosta³o kilka lat temu Centrum Handlowe "Sfera".
+
+KIERUNKI
+1 - Czechowice Dziedzice, Katowice, nastêpny posterunek Bielsko Bia³a Komorowice (1 minuta),
+2 - ¯ywiec, Zwardoñ, nastêpny posterunek Bielsko Bia³a Lipnik (1 minuta),
+3 - Wadowice, Kalwaria Zebrzydowska, nastêpna stacja Bielsko Bia³a Wschód (1 minuta),
+4 - Skoczów, Cieszyn, nastêpna stacja Bielsko Bia³a Wapiennica (14 minut)
+
+OZNACZENIA
+BST - budynek stacyjny,
+N - nastawnie,
+D - dy¿urny peronowy,
+R - rewidenci, ustawiacz i manewrowi,
+E - ekspedycja i odprawa poci¹gów,
+K - kana³ rewizyjny,
+W - waga wagonowa,
+MAG - magazyny,
+RM - rampa ³adunkowa,
+B - dawna baza s³u¿by drogowej,
+S - sk³ad wêgla,
+P - budynek stacji postojowej,
+M - stanowisko mycia wagonów,
+Z - posterunek zwrotniczowski,
+O - obrotnica,
+H - hala wachlarzowa
+
+UK£AD TOROWY
+Zgodny z rzeczywistoœci¹ w 99%, na podstawie w³asnych obserwacji oraz zdjêæ satelitarnych. Niezgodnoœci
+wynikaj¹ z ograniczonych mo¿liwoœci dok³adnego odwzorowania uk³adu torowego w programie. Pó³noc
+znajduje siê po prawej stronie.
+
+ROZK£AD JAZDY
+Poci¹gi pasa¿erskie na podstawie rozk³adu internetowego PKP, sk³ady na podstawie dodatków 2B, 2C, 2D.
+Rozk³ad w tej formie obowi¹zywa³ do 7 lipca 2005, kiedy to nast¹pi³o zamkniêcie linii do Cieszyna zwi¹zane
+z budow¹ wiaduktu obwodnicy samochodowej na tej trasie. Sk³ad Bhp jeŸdzi³ w obiegu na którym planowo
+mia³o byæ 3xB, natomiast 4xBdhpumn jeŸdzi³y zamiast 4xB (w okresie wakacyjnym).
+Rozk³ad jazdy poci¹gów towarowych na podstawie dodatku 4B do WRJP. Dwie pary dodatkowe wed³ug
+rozk³adów z tras katalogowych PLK. PTKiGK Rybnik na podstawie w³asnych obserwacji - zbli¿ony do
+rzeczywistoœci. Podsy³ ET22 do B.B. Leszczyn jest moim domys³em. Sk³ady poci¹gów towarowych na
+podstawie w³asnych obserwacji.
+
+LOKOMOTYWOWNIA
+Najbli¿sza lokomotywownia znajduje siê w Czechowicach Dziedzicach, czas przyjazdu lokomotywy 20 minut.
+
+UWAGI DO PROWADZENIA RUCHU
+- Sk³ady wagonowe nale¿y odstawiaæ na grupê postojow¹ obok wyjazdu w stronê Czechowic Dziedzic.
+  Ka¿dy z jej torów pomieœciæ mo¿e oko³o 13-14 wagonów. EZT i lokomotywy odstawiane s¹ gdzie popadnie.
+- Peron Ia jest oznaczony w rozk³adzie jazdy symulacji jako IV.
+- Poci¹g sieciowy swoje miejsce ma tam gdzie stoi na pocz¹tku symulacji (grupa odstawcza przy peronie Ia).
+- Lokomotywa z "So³y" przechodzi na "Pogoriê", z "Pogorii" na "Narew" a z "Narwi" na "So³ê" (planowo
+  EU07 CM £ódŸ, czêsto zdarza siê ET22). Nale¿y o tym pamiêtaæ - typ i malowanie musi siê zgadzaæ.
+- Poci¹gi obs³ugiwane przez EU07 CM Katowice musz¹ odje¿d¿aæ z lokomotyw¹ z podniesionym odpowied-
+  nim pantografem (tylnym w stosunku do kierunku jazdy).
+- Grupê wagonów towarowych z poci¹gu zbiorczego która nie jedzie nigdzie dalej nale¿y odstawiæ na tory
+  ³adunkowe.
+
+PODZIÊKOWANIA
+Dla Krzysztofa W¹dolnego oraz Radka Wadonia za kilka szczegó³ów dotycz¹cych ruchu towarowego, dla
+Damiana Mularza za podes³anie numerów peronów oraz dla Jarka Gackiego i Rafa³a Paj¹ka za rozk³ady
+jazdy poci¹gów towarowych.
+
+Przy tworzeniu stacji wykorzystano programy PathFinder 2.0 oraz eRozk³ad 0.56.
+
+Mile widziane wszelkie uwagi dotycz¹ce stacji - mój adres e-mail: paul@wizja.net.pl.
+Zapraszam na moj¹ stronê internetow¹, miêdzy innymi ze zdjêciami z Bielska Bia³ej: http://www.kolej.of.pl
+
+Mi³ej zabawy,
+Pawe³ Okrzesik

@@ -1,0 +1,41 @@
+******************** INFORMACJE O STACJI ********************
+
+--- OGÓLNE ---
+Stacja: Siemiatycze (œredniej wielkoœci stacja na szlaku Siedlce - Czeremcha [tab. 541 SRJP])
+Rozk³ad: na podstawie SRJP 2004 (okres wakacyjny)
+Schemat stacji: plan torowy
+
+--- WYJAZDY ---
+WYJAZD nr 1: Siedlce
+WYJAZD nr 2: Czeremcha (i dalej: Hajnówka, Bia³ystok, Siemianówka)
+
+--- LOKOMOTYWOWNIA ---
+Czas oczekiwania na przyjazd lokomotywy (CM Bia³ystok): 1,5 godziny (90 minut)
+Czas naprawy lokomotywy: 3,5 godziny (210 minut)
+Lokomotyw¹ wezwan¹ nale¿y podjechaæ do pierwszego punktu postojowego.
+Podobnie rzecz ma siê, kiedy odsy³amy lokomotywê (z punktu postojowego przed wyjazdem 1).
+
+--- ROZK£AD ---
+Rozk³ad jazdy poci¹gów pasa¿erskich jest dok³adnym odzwierciedleniem ruchu na stacji w okresie
+wakacyjnym.
+Rozk³ad jazdy poci¹gów towarowych jest fikcyjny.
+
+Tworz¹c stacjê wiem ju¿, ¿e od 12 XII 2004 nie bêdzie ¿adnego bezpoœredniego poci¹gu
+Siedlce - Bia³ystok oraz zlikwidowany zostanie poci¹g rel. Warszawa Zach. - Hajnówka - Warszawa Zach.
+
+--- INNE STACJE ---
+*Celestynów
+*Miñsk Mazowiecki
+*Puszcza Mariañska
+*Skierniewice
+*¯yrardów
+
+--- AUTOR ---
+Micha³ Rudnicki, Skierniewice
+michal.rudnicki@gazeta.pl
+www.kmforum.boo.pl
+
+Przy tworzeniu stacji korzysta³em z Edytora dla Kolejarza oraz PathFindera.
+
+*************************************************************
+

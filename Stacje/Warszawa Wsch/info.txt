@@ -1,0 +1,33 @@
+Oto kilka informacji o stacji:
+1. Warszawa Wschodnia jedna ze stacji o najwiêkszym natê¿eniu ruchu pasa¿erskiego w Polsce
+   (wiêcej jest chyba tylko na Zachodniej). Ruchu towarowego nie ma, jest puszczany 
+   obwodnic¹ pó³nocn¹ (g³ówny wêze³ ruchu towarowego jest na stacji W-wa Praga).
+
+2. NIE ZOSTA£ odzwierciedlony rzeczywisty uk³ad torów - nie mia³em a¿ tyle zaciêcia
+   co autorzy Zachodniej, mo¿e oni w przysz³oœci zechc¹ sami zrobiæ Wschodni¹, na razie
+   jest jak jest
+
+3. Opis wjazdów/wyjazdów jest nastêpuj¹cy:
+   - 1 - kierunek W-wa Centralna i dalej ca³a Polska zachodnia, pó³nocno-zachodnia
+         , po³udniowo-zachodnia i po³udniowa - poci¹gi dalekobie¿ne
+   - 2 - kierunek W-wa Stadion i dalej do Zachodniej - dla poci¹gów podmiejskich
+         (kible) do Grodziska, £owicza, Czachówka
+   - 3 - Kierunek W-wa Praga, W-wa Gdañska - poci¹gi dalekobie¿ne do Gdyni, Olsztyna
+         itp.,(pó³noc kraju)
+   - 4 - Kierunek W-wa Rembertów, poci¹gi dalekobie¿ne na wschód - Terespol i dalej,
+         oraz napó³nocny wschód (linie rozdzielaj¹ siê za Rembertowem) - Bia³ystok, Suwa³ki,
+         kible do Miñska Maz., Siedlec
+   - 5 - Kierunek W-wa Goc³awek, dla poci¹gów dalekobie¿nych do Lublina, Che³ma, Kijowa
+   - 6 - ten sam kierunek co 5 tylko ¿e dla kibli do Otwocka, Pilawy, Dêblina
+
+4. Tory postojowe na Olszynce s¹ w rzeczywistoœci du¿o bardziej skomplikowane (m.in. wianek
+   do obracania sk³adów, itp) - pos³u¿y³em siê doœæ znacznym uproszczeniem
+
+5. Dla u³atwienia wstawi³em tory postojowe na wysokoœci peronów 6 i 7, w rzeczywistoœci
+   ich tam nie ma
+
+6. Ma³e wyjaœnienie: rozk³ad jazdy lato 2002 zosta³ stworzony na podstawie rozk³adu 2002, 
+   ale nie przeze mnie, jedynie za moj¹ zgod¹, nie pamiêtam ju¿ kto tej modyfikacji dokona³,
+   mo¿e Pawe³ bêdzie wiedzia³.
+
+	Pawe³ K³opotowski (pk45@wp.pl) 

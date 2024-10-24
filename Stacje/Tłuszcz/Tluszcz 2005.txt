@@ -1,0 +1,53 @@
+Uwaga !!! Poci¹g z Grodziska Mazowieckiego do T³uszcza przez Zielonkê, Wo³omin wjedzie na tor przy peronie ...
+Te s³owa mo¿na codziennie us³yszeæ na dworcu Warszawa Œródmiescie. Teraz mo¿na przyjmowac i odprawiaæ te poci¹gi
+na dworcu w T³uszczu. Autorem schematu stacji jest Przemek Kmiecik, a rozk³ad jazdy napisa³em ja. Tym razem
+prezentujemy rozk³ad jazdy 2005.
+
+Troszkê o stacji i przebiegach:
+
+   T³uszcz jest stacj¹ wêz³ow¹ na dwutorowej linii Warszawa-Bia³ystok i trzech liniach jednotorowych prowadz¹cych
+do Pilawy, Legionowa i Ostro³êki.
+Schemat stacji jest zrobiony na podstawie planu stacji do³¹czonego do tablicy zale¿noœci.
+   Stacja T³uszcz jest podzielona na trzy okrêgi nastawcze, dlatego nie ma przebiegów bezpoœrednich z okrêgu
+nastawni T£A1 do okrêgu nastawni T£B. Pod nastawni¹ T£A1 znajduje siê punkt postojowy dla poci¹gów i punkt postojowy
+dla lokomotyw. W rozwi¹zaniu które przyjo³em wszystkie poci¹gi wje¿d¿aj¹ce lub opuszczaj¹ce okrêg nastawczy nastawni T£A1 
+musz¹ siê tam zatrzymaæ. Wyj¹tek stanowi¹ tory w hali dla ezt (tory oznaczone literk¹ "H") - zrobi³em to dla wygody gry.
+Poci¹gi towarowe mog¹ odje¿d¿aæ wy³¹cznie z pierwszej grupy torów dla poci¹gów towarowych, czyli tych "nad" peronami.
+Oczywiœcie mam na myœli wszystkie zelektryfikowane tory tej grupy, bo przy skrajnym torze bez trakcji znajduje siê 
+plac ³adunkowy i tarcze manewrowe. 
+   Jeœli poci¹gi bêd¹ przyje¿d¿aæ z opóŸnieniem i nie bêdzie miejsca na torach towarowych to zalecam ustawianie sk³adów
+towarowych odje¿d¿aj¹cych póŸniej na torach nale¿¹cych do drugiej grupy (cztery tory równoleg³e do wjazdu/wyjazdu nr4).
+A gdy sytuacja stanie siê opresyjna wtedy mo¿na skorzystaæ z deski ratunkowej któr¹ stanowi tor koñcz¹cy siê przy 
+peronie 6. Mo¿na z niego wyprawiaæ poci¹gi na szlak we wszystkich kierunkach.
+   Peron nr1 jest obecnie nieu¿ywany, a s¹dz¹c po szynach od dawna nie wjecha³ tam ¿aden poci¹g. Aby zachowaæ realia
+nale¿y nie korzystaæ z tego peronu. Jednak w pliku stacji stworzone s¹ odpowiednie przebiegi z wjazdu nr1 i do wyjazdu nr1.
+   Lokomotywy nale¿y odstawiaæ na swoje miejsce :D (dwa tory poni¿ej hali dla ezt).
+   Najbli¿sza lokomotywownia znajduje siê w Warszawie. Sprowadzenie lokomotywy na stacjê zajmuje 60 minut. Jest to czas
+zaczerpniêty w wykazu surowych czasów jazdy lokomotyw wysy³anych luzem + kilka minutek na otwarcie drzwi szopy
+dla zaokr¹glenia :]
+
+P.S.
+Aby nie psuæ zabawy, nie odkrywaæ wszystkich kart, nic wiêcej nie zdradzê i nie powiem kto zabi³ ;]
+Szczegó³owy opis stacji na podstawie pliku graficznego za³¹czonego w katalogu stacji.
+Za³¹czony jes takze plik t³a, który obrazuje perony w T³uszczu (gra jest ³atwiejsza).
+
+WJAZDY/WYJAZDY:
+1 -> <- KIERUNEK: Warszawa
+2 -> <- KIERUNEK: Ma³kinia, Bia³ystok
+3  <->  KIERUNEK: Miñsk Mazowiecki
+4  <->  KIERUNEK: Wyszków, Osro³êka
+5  <->  KIERUNEK: Radzymin, Legionowo
+
+Symulacja ta obrazuje rozk³ad dla roku 2005. Rozk³ad jazdy poci¹gów towarowych jest zgodny z rzeczywistosci¹
+, lecz zestawienia sk³adów towarowych s¹ ca³kowicie wymyœlone. Rozk³ad jazdy poci¹gów pasa¿erskich (zestawienia 
+i obiegi ) zgodne z rzeczywistoœci¹ i dodatkami: 2a, 2b, 2c i 2d. Przejœcia lokomotyw s¹ nie w pe³ni zgodne z prawd¹.
+
+
+Stworzy³:		ROZK£AD:			SCHEMAT STACJI:
+Imiê i nazwisko:   Piotrek Go³êbiowski			Przemek Kmiecik
+Email:		 hgolebiowski@interia.pl	     przemek_kmiecik@wp.pl	
+strona www:	 http://www.ryflak.za.pl 	    http://www.usrk.prv.pl
+
+WSZELKIE UWAGI PROSZÊ KIEROWAæ NA MAILA !!! 
+
+Gród Milanówek i Zielonka roku pañskiego 2005

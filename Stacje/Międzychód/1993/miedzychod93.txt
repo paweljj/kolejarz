@@ -1,0 +1,44 @@
+Stacja: Miêdzychód 1993
+Autor: Tomasz Kossowski
+e-mail: tkoss@main.amu.edu.pl
+Rozk³ad jazdy: lato 1993
+
+Data utworzenia: 2002, poprawiony 28-02-2004.
+
+Wersja dla Kolejarza 1.61.
+
+Stacja Miêdzychód jest (a raczej by³a) stacj¹ wêz³ow¹ dla kilku niezelektryfikowanych
+drugorzêdnych linii, z doœæ sporym ruchem kolejowym. Uk³ad torowisk jest oddany
+w 100% i jest prawie nie zmieniony od momentu zakoñczenia budowy wêz³a.
+Najbli¿sza szopa znajdowa³a siê w Miêdzyrzeczu.
+Rozk³ad jazdy osobowych jest oddany w 100%, ewentualnie mog¹ byæ nieœcis³oœci
+dotycz¹ce taboru. Rozk³ad poci¹gów towarowych jest czêœciwo moj¹ fantazj¹, i nawi¹zuje
+do pracy manewrowej na stacji i obs³ugiwanej przez ni¹ pobliskimi stacjami
+(Zatom Stary, Lewiczynek, Miêdzychód Letnisko i bocznicami do zak³adów).
+Do pracy manewrowej dochodzi³ lok z Miêdzyrzecza, dlatego nale¿y œci¹gn¹æ go z szopy na pocz¹tku gry.
+Wyjazdy: (1) Poznañ G³. - przez Rokietnicê, (2) Gorzów Wlkp. i Miêdzyrzecz - rozga³êzienie
+tych linii znajduje siê 8 km dalej w wêŸle Wierzbno, (3) Szamotu³y, (4) Zb¹szyñ.
+
+Linia do Zb¹szynia teoretycznie obs³ugiwana by³a do punktu za³adowczego w Lewiczynku, a w praktyce
+liniê wykorzystywano tylko jako bocznicê  do zak³adów Christianapol w £owyniu. Niestety, brakowa³o
+drugiego loka na manewry, aby obs³ugiwaæ manewry do Lewiczynka, a plan jednego loka by³
+bardzo napiêty.
+W rzeczywistoœci kursowa³y tylko 2 poci¹gi towarowe Poznañ-Gorzów-Poznañ, a poza tym
+zdawczo-odbiorcze i zamówione przez klientów (m.in. Christianapol), ale postanowi³em stworzyæ
+z nich jeden wypadkowy poci¹g w kierunku Miêdzyrzecza. Toru postojowego dla towarowych 
+a linii prowadz¹cej do Zb¹szynia w rzeczywistoœci nie by³o, jednak nocowa³y
+tam puste sk³ady dla zak³adów Christianapol. Sk³ady wracaj¹ce z Christianapolu oczekiwa³y na
+w³¹czenie do poci¹gu na torach postojowych w prawej dolnej czêœci stacji, gdy¿ by³y wy³adowane meblami.
+Czyniono tak z obawy przed kradzie¿ami.
+
+Ruch osobowy na wêŸle zawieszono 1.X.1999 roku. Ruch towarowy jest obecnie ograniczony
+do odcinka Miêdzychód -Szamotu³y i Miêdzychód-£owyñ z groŸb¹ ca³kowitego zawieszenia.
+
+Dziêkuje za informacje, które udzielili mi w 1993 roku zawiadowca Stacji Miêdzychód, oraz pracownicy
+Spedycji Towarowej w Miêdzychodzie, oraz Kasy Osobowej w Miêdzychodzie. Niestety, nie znam ich 
+imion i nazwisk, lecz dziêki dok³adnym notatkom z tych rozmów uda³o mi siê odtworzyæ tê stacjê.
+
+Œ.P. Stacja Miêdzychód
+
+Wykorzystano:
+Kostka dla Kolejarza 0.9.1.1 oraz PathFinder 2.0.

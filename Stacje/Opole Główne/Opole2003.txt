@@ -1,0 +1,64 @@
+                     OPOLE G£ÓWNE  dla  KOLEJARZA
+                      !!! TERAZ W NOWEJ ODS£ONIE !!!
+
+Opole G³ówne jest stacj¹ po³o¿on¹ 40km na po³udniowy wschód od Wroc³awia.
+Obs³uguje g³ównie poci¹gi regionalne i przelotowe poci¹gi pospieszne.
+
+ZMIANY W STOSUNKU DO WERSJI POPRZEDNIEJ:
+-Poprawa schematu stacji, zamiana kwadratów na tory towarowe
+-Wyeliminowanie zbêdnych przebiegów
+-Poprawki w rozk³adzie jazdy, zrobienie prawid³owych pantografów u elektrowozów i EZT
+-Ustawienie sk³adów we w³aœciwych miejscach na pocz¹tku gry
+
+WYJAZDY:
+
+1-Wroc³aw, Nysa    nastêpna stacja: Opole Zachodnie
+2-Kêdzierzyn KoŸle, Strzelce Opolskie    nastêpna stacja: Opole Groszowice
+3-Fosowskie    nastêpna stacja: Suchy Bór Opolski
+4-Jelcz Laskowice   nastêpna stacja: Opole Wschodnie
+
+UK£AD TOROWY:
+Na podstawie w³asnych obserwacji
+
+ROZK£AD:
+Rok 2003
+Poci¹g sieciowy do Ozimka jest fikcyjny.
+
+KIERUNKI Z PERONÓW:
+Peron 1 , tor górny - poci¹gi przelotowe z kierunku Kedzierzyna-KoŸla
+                                i Strzelec Opolskich w kierunku Wroc³awia i poci¹gi
+                                w kierunku Wroc³awia podstawiane w Opolu
+Peron 1 , tor dolny - poci¹gi podstawiane i koñcz¹ce bieg w Opolu w i z
+                                kierunku Kêdzierzyna-KoŸla
+Peron 2 , tor górny - poci¹gi podstawiane i koñcz¹ce bieg w Opolu w i z
+                                kierunku Strzelec Opolskich
+Peron 3 - poci¹gi w i z kierunku Fosowskich
+Peron 4 , tor górny - poci¹gi w i z kierunku Fosowskich oraz Jelcza Laskowic
+Peron 4 , tor dolny - poci¹gi przelotowe z kierunku Fosowskich w kierunku
+                                Wroc³awia i z kierunku Wroc³awia w kierunku
+                                Fosowskich
+Peron 5 - Poci¹gi w i z kierunku Nysy
+
+LOKOMOTYWOWNIA:
+Czas zamówienia: 10 minut
+
+UWAGI DO KIEROWANIA RUCHEM:
+Poci¹gi w/z kierunku 2 najwygodniej ustawiaæ na górnych torach postojowych
+Poci¹gi w/z kierunku 3 i Nysy najlepiej ustawiaæ na torach postojowych
+przy lokomotywowni
+
+Do stworzenia przebiegów u¿yto PathFindera
+
+AUTORZY:
+
+PLIK STC stworzy³: Darek Dawidowicz
+Do najnowszej wersji Kolejarza przystosowa³ go: Grzegorz W¹sowicz
+
+PLIK ROZ stworzy³: Darek Dawidowicz
+Wprowadzi³ poprawki i przystosowa³ do najnowszej wersji Kolejarza: Grzegorz W¹sowicz
+
+Uwagi proszê kierowaæ na adres kolejoman@poczta.onet.pl 
+
+    ¯YCZYMY MI£EGO ZARZ¥DZANIA RUCHEM W OPOLU G£ÓWNYM !!!
+
+2004

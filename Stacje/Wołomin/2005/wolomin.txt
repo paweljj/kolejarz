@@ -1,0 +1,62 @@
+Stacja Wo³omin
+
+Uk³ad torowy zgodny z rzeczywistoœci¹ w 99% (pomyli³em sie co do jednego rozjazdu).
+
+Wjazdy/wyjazdy:
+
+	1 - Zielonka (i dalej na Warszawê);
+	2 - T³uszcz (i dalej na Bia³ystok);
+	3 - bocznica do Zak³adu Stolarki Budowlanej S.A. oraz Zak³adu Poszukiwañ Nafty i Gazu;
+	4 - by³a bocznica Huty Szk³a Wo³omin (rozebrana);
+	- œlepy tor nad torami w kierunku Warszawy prowadzi³ kiedyœ do Hurtowni Spo¿ywczej,
+		gdzie niegdzie widniej¹ jeszcze kawa³ki szyn oraz podk³ady.
+
+
+Tory postojowe/towarowe:
+	- tory równoleg³e do peronu s³u¿¹ jako przelotowe dla towarowych oraz postojowe dla sk³adów
+		do/z Naftgazu i Stolarki;
+	- tor niezelektryfikowany na górze zabezpieczony jest wykolejnicami i ostatnio
+		nie widaæ by³o, jakoby coœ po nim jeŸdzi³o;
+	- tory po prawej stronie od peronów, niejako "pomiêdzy" nimi - postojowe dla EZT do/z Warszawy,
+		koñcz¹cych bieg w Wo³ominie;
+	- oznaczone literami "R" - rampa wy³adowcza - na nich nalezy ustawiaæ wêglarki;
+	- tory nad wjazdem 3 to bocznica Zak³adu "PKP Energetyka" - tu stoi sieciowiec i stonki.
+		Aby wyjechaæ lub wjechaæ na bocznice, nale¿y podjechaæ sk³adem/lokiem
+		do punktu manewrowego przy nastawni (N) i dopiero st¹d skierowaæ siê na wybrany tor;
+
+Lokomotywownia:
+	- najbli¿sza, to Warszawa Grochów;
+	- czas zamówienia 45 min.
+	- czas naprawy 90 min.
+	- aby wjechaæ lokomotyw¹ na stacjê, nale¿y dojechaæ do pierwszego punktu manewrowego
+		przy wyjeŸdzie 1 i stamt¹d na perony;
+	- analogicznie przy odsy³aniu loka do szopy - doje¿d¿amy do tego¿ punktu manewrowego
+		i zje¿d¿amy na Grochów.
+
+
+Sk³ady i obiegi:
+	- obiegi sk³adów fikcyjne;
+	- poc. osobowe wg. "ceg³y" (z wyj¹tkiem poc.koñcz¹cego bieg w Wo³ominie - kiedyœ tak by³o...);
+	- dla poc. pospiesznych okreœli³em czas "na oko", nie maj¹c dojœcia do s³u¿bowego RJP;
+	- poc. towarowe ca³kowicie fikcyjne. Przyj¹³em, ¿e zarówno Stolarka jak i Naftgaz zwiêkszy³y
+		swoje obroty o kilkaset procent:-) St¹d tak du¿y ruch na wyjeŸdzie nr. 3 Co prawda
+		odbywa siê to tak, i¿ stonka wpycha sk³ady do zak³adu, a potem odbiera inne i normalnie
+		wraca na stacjê, jednak¿e ze wzglêdu na ograniczenia Kolejarza odbywa siê to w sposób
+		"pociagowy" - najpierw lok, a za nim sk³ad;
+	- przyj¹³em zasadê, ¿e byki po przyprowadzeniu towarowego nie zje¿d¿aj¹ same do szopy, 
+		tylko czekaj¹ na inny sk³ad, jad¹cy z powrotem. Jedyny wyj¹tek stanowi poc. rel.
+		Gliwice Soœn. - Wo³omin - Gliwice Soœn. (4:05 - 20.40), z którego katowicki byczek po
+		przyprowadzeniu sk³adu jedzie na szopê i wraca po niego wieczorem.	
+	- Z tego w³aœnie wzglêdu nale¿y pamiêtaæ, aby do poc.tow. 
+		Stolarka - Poznañ (godz. 11:20) doczepiæ dwa byki z Odolan z wczeœniejszych
+		poci¹gów, a do poc. tow. Warszawa Praga - Naftgaz (godz. 19:00)
+		przeczepiæ byka na stonkê, gdy¿ Kolejarz nie wychwyci³ zmiany loków.
+	- Wo³omin obs³uguj¹ dwie stonki, które w nocy stoj¹ na torze "PKP Energetyka",
+		chyba, ¿e któraœ wyjeŸd¿a z sieciowcem - wtedy do dyspozycji mamy tylko jedn¹;
+
+!Wielkie dziêki Paw³owi JóŸwickiemu, bez którego ta stacja nie ruszy³aby chyba nigdy:-)!
+
+----------------------
+Adam Kamiñski
+adas_kaminski@o2.pl
+28-06-2005

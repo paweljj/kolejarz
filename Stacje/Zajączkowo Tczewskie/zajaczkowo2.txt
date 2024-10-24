@@ -1,0 +1,108 @@
+ZAJ¥CZKOWO TCZEWSKIE - wersja poprawiona i uzupelniona
+======================================================
+
+pakiet zajaczkowo2.zip zawiera:
+- zajaczkowo2.stc - plik zawieraj¹cy stacjê
+- zajaczkowo2.roz - rozklad jazdy 2000 rok
+- zajaczkowo2.sav - zapisany stan gry (normalna gra) na godzinê 4:13
+- zajaczkowo2.txt - niniejszy manual
+Uwaga: tworzony w wersji 1.46
+
+1. Uwagi wstêpne
+
+Zaj¹czkowo Tczewskie jest  towarow¹ stacj¹ rozrz¹dow¹ - jedn¹ z zaledwie pa-
+runastu w Polsce.  Swoim obszarem dzia³ania  obejmuje pó³nocn¹ czêœæ  dawnej 
+Pó³nocnej DOKP,  ale przede wszystkim  jest  stacj¹ rozrz¹dow¹ dla portowych
+stacji Trójmiasta (Gdynia Port, Gdañsk Nowy Port /czy Gdañsk Zaspa Towarowa/
+i Gdañsk Port Pó³nocny). Sam wêze³ w Zaj¹czkowie przyjmuje i odprawia poci¹-
+gi z czterech kierunków:  Malbork  (dalej do  I³awy lub Elbl¹ga,  Bydgoszcz,
+Chojnice oraz Pszczó³ki i dalej do Trójmiasta).
+
+2. Budowa stacji Zaj¹czkowo Tczewskie
+
+Schemat  przedstawiony w  "Kolejarzu"  nie jest  dok³adnym odzwierciedleniem
+stacji w Zaj¹czkowie Tczewskim - odwzorowuje on mo¿liwie  wiernie  filozofie
+rozmieszczenia poszczególnych grup torów, sposób organizacji  wjazdów  i wy-
+jazdów. Przez to "zmusza"  gracza do  przyjmowania i wyprawiania  poci¹gów w
+takich samych czêœciach stacji, jak dzieje siê to w rzeczywistoœci. 
+
+W porównaniu do pierwszej wersji, uaktualniono rozmieszczenie poszczególnych
+grup torów  na ca³ej stacji,  poprawiono  organizacje wjazdów  i wyjazdów ze
+stacji i zbli¿ono elektryfikacjê do stanu oryginalnego.
+
+Wjazdy i wyjazdy oznaczono nastêpuj¹co:
+- 1 (wjazd i wyjazd) - Pszczó³ki (kierunek Trójmiasto; uwaga - w grze  i  na
+  stacji  nie ma  biegn¹cych równolegle do niej i niepo³¹czonych z ni¹ torów
+  linii nr 9 Warszawa - Gdañsk),
+- 2 (wjazd i wyjazd) - Tczew (kierunki: Bydgoszcz i Malbork),
+- 3 (wjazd-wyjazd) - Suchostrzygi (kierunek Chojnice),
+- 4 (wjazd-wyjazd) - Tczew (kierunek Malbork), tzw. Tor Królewiecki,  pozwa-
+  laj¹cy bezkolizyjnie pokonaæ  odcinek  od  g³owicy wschodniej  tacji Tczew
+  do Zaj¹czkowa Tczewskiego,
+- 5 (wjazd i wyjazd) - Górki  (kierunek Bydgoszcz),  obecnie podstawowa trasa
+  poci¹gów na magistrali wêglowej, wykorzystuj¹ca towarow¹ obwodnicê Tczewa,
+
+Umiejscowienie nastawni wzglêdem orygina³u przedstawia siê nastêpuj¹co:
+- ZTA - (i nieu¿ywana górka rozrz¹dowa), na wysokoœci lokomotywowni, obs³ugu-
+  j¹ca wyjazdy  3 i 5,  oraz wjazd i wyjazd 2; ogrupa odjazdowa i przyjazdowa
+  ³¹czy siê z lewej strony z ZTB,
+- ZTB - górka rozrz¹dowa (w œrodku),  obs³uguje wjazd-wyjazd 4, wjazdy 3 i 5,
+  grupa torów ³¹czy siê z lewej strony z ZTC,
+- ZTC - górka rozrz¹dowa  (po lewej stronie),  obs³uguje  wjazd i wyjazd 1, z
+  prawej strony graniczy z ZTB,
+- ZTD (obecnie zamkniety) - w okolicach wjazdu i wyjazdu 1; w grze -  jak i w
+  rzeczywistoœci - nie wykorzystywany.
+- podg. Malinowo - z prawej strony stacji, nieu¿ywany ruchowo w grze,  stano-
+  wi¹cy jedynie ograniczenie dla gracza  (wyjazd  poci¹gów  odje¿d¿aj¹cych  z
+  ró¿nych czêœci stacji, nierzadko w sposób bezkolizyjny na samej stacji.
+
+Tory stacyjne i postojowe zosta³y w uproszczony sposób ponumerowane (brak ja-
+kiegokolwiek odniesienia do rzeczywistej numeracji) dla zwiêkszenia przejrzy-
+stoœci w trakcie gry.
+
+3. Rozk³ad jazdy
+
+Rozk³ad jazdy zawiera wszystkie poci¹gi sta³ego kursowania oraz wiêkszoœæ po-
+ci¹gów dodatkowych (dla uatrakcyjnienia gry) w  2000 roku i  oparty zosta³ na
+zeszytach s³u¿bowego rozk³adu jazdy poci¹gów oraz Dodatku 4B do rozk³adu.
+Nie wprowadzano do gry podgl¹du sk³adów z uwagi na  brak  sztywnego ich planu
+(odwrotnie, ni¿ w przypadku ruchu pasa¿erskiego). 
+W grze wystêpuj¹ lokomotywy z nastêpuj¹cych Zak³adów taboru:
+- Gdynia, podzielona na w³asne lokomotywy  z odniesieniem "ZT"  (ET22,  SM30,
+  SM42, ST44) oraz na lokomotywy z sekcji Chojnice, okreœlone jako "Ch" (tyl-
+  ko ST44); Lokomotywy elektryczne z Zaj¹czkowa obs³uguj¹ wiêkszoœæ  poci¹gów
+  w³asnych do Trójmiasta, Malborka, Braniewa i Elbl¹ga. Poci¹gi zdawcze miej-
+  scowe  obs³ugiwane s¹ lokomotywami SM42 i ST44. Lokomotywy z Chojnic obs³u-
+  guj¹ dwie pary poci¹gów na dobê.
+- Bydgoszcz (ET22, ET40); lokomotywy obs³uguj¹ przede wszystkim ruch na magi-
+  strali wêglowej,
+- £ódŸ (ET22, ET41, ET42); lokomotywy obs³uguj¹ przede wszystkim ruch na  ma-
+  gistrali wêglowej; uwaga - w 2000 roku sekcja Zduñska Wola Karsznice posia-
+  da³a jeszcze lokomotywy serii ET41, oddane póŸniej do Czechowic, Nowego S¹-
+  cza i Wroc³awia,
+- Skar¿ysko Kamienna, Ostrów Wielkopolski, Szczecin (ET22 i ET41 - te  ostat-
+  nie wystêpowa³y w 2000 roku w Szczecinie i Ostrowie); lokomotywy pojawiaj¹-
+  ce siê rzadko, raczej z w³asnymi poci¹gami ze Szczecina, oraz terenów by³ej
+  Wschodniej i Zachodniej DOKP,
+- Czechowice Dziedzice (ET22 i ET41), Katowice (ET22 i ET41 - w 2000 roku by-
+  ³y na stanie CM Katowice), £azy (ET22 i ET41), Warszawa, Wroc³aw,  ¯urawica
+  (trzy ostatnie tylko ET22) - te "szopy"  zosta³y wprowadzone do gry w ma³ej
+  liczbie w celu jej uatrakcyjnienia w zakresie obrotu  lokomotywami.  W rze-
+  czywistoœci wystêpuj¹ niezmiernie rzadko w Zaj¹czkowie.
+
+4. Uwagi koñcowe
+
+Niniejszy manual nie zawiera szczegó³owych wskazówek "jak graæ",  oddaj¹c in-
+wencjê u¿ytkownikowi. Nie nale¿y jednak zapominaæ o realiach stacji rozrz¹do-
+wej i ruchu towarowego  w ogóle.  Przede wszystkim,  nale¿y wszystkie manewry
+wykonywaæ lokomotywami manewrowymi (w 2000 roku do rozrz¹du ciê¿kich poci¹gów
+u¿ywane by³y jeszcze ST44). Poci¹gi w³asne winne byæ gotowe do odjazdu na to-
+rze i po³¹czone z lokomotyw¹ na ok. 40 min. do godziny, przed ich rozk³adowym
+odjazdem (szczegó³owa próba hamulca). Nale¿y zwracaæ uwagê na kierunek odjaz-
+du poci¹gu, by nie przyj¹æ go na tor, z którego nie bêdzie go mo¿na  wyprawiæ
+(w szczególnoœci dotyczy to poci¹gów z Trójmiasta, korzystaj¹cych z  wyjazdów
+4 i 6). 
+
+Uwagi na temat stacji i rozk³adu bardzo mile widziane,  autor  dostêpny  jest
+pod adresem e-mail jareks@3net.pl.
+Jarek D. Stawarz, 3-7 paŸdziernika 2003 roku.

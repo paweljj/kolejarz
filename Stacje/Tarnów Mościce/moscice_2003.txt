@@ -1,0 +1,44 @@
+		>>> Stacja Tarnów Moœcice <<<
+
+ Typowa stacja przelotowa, jakich wiele na magistrali E30 Kraków --> Medyka.
+Tak wiêc wyjazd i wyjazd nr 1 to kierunek Kraków, nr 2 to kierunek Rzeszów.
+Wjazd/wyjazd nr 3 to zelektryfikowana 5-kilomatrowa bocznica do Zak³adów 
+Azotowych Tarnów Moœcice.
+
+Tory postojowe w prawym dolnym rogu s³u¿¹ jako postój dla poci¹gu sieciowego,
+gdy¿ w Moœcicach znajduje siê sekcja Elektrotrakcji.
+Poci¹g sieciowy oraz drezyna jest w rodzaju poci¹gu wpisany nie jako Towarowy
+lecz jako X. Moj¹ innowacj¹ jest tak¿e wprowadzenie dla tych poci¹gów relacji
+do stacji "szlak", gdy¿ s¹ to kursy awaryjne/wypadkowe
+
+Niezelektryfikowane "¿eberko" u góry stacji jest wy³¹czone z ruchu - stoj¹ 
+tam wagony socjalne.
+
+Uk³ad torowy odwzorowany jest w 100%, podobnie jest z rozk³adem poci¹gów
+towarowy oraz pasa¿erskich. Natomiast kursy s³u¿bowe (drezyna i sieciowy)
+nie s¹ nigdzie normowane, wiêc ich rozk³ad jest w ca³oœci moim pomys³em.
+
+Lokomotywownia znajduje siê przy stacji Tarnów G³ówny i jej asortyment
+zbli¿ony jest do rzeczywistoœci. Czas oczekiwania na lokomotywê to 10 min.
+
+Stacja cechuje siê du¿ym natê¿eniem ruchu w relacjach 1-->2, 2-->1,
+w wiêkszoœci bez zatrzymania.
+Urozmaiceniem jest obs³uga odga³êzienia do Zak³adów Azotowych -->3, 3-->.
+
+ród³a:
+	-Elektroniczny RJP Hafas 2003
+	-Sieciowy RJP 2003  
+	-S³u¿bowy RJP Towarowych 2003
+
+		
+Z uwagi na bardzo du¿¹ liczbê poci¹gów w rozk³adzie proszê wybaczyæ mi
+niedoci¹gniêcia natury logicznej (np. pokrywanie siê godzin odjazdów w tym
+samym kierunku). Wszelkie b³êdy i uwagi z wdziêcznoœci¹ przyjmê pod adresem:
+							xuk@wp.pl 
+
+		¯yczê mi³ej pracy na stanowisku dy¿urnego ruchu. :-)
+
+Autor: 
+	£ukasz Grocholski
+
+   

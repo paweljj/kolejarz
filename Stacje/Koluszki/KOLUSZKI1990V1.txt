@@ -1,0 +1,34 @@
+Stacja------> Koluszki
+Plan Stacji-> autentyczny na podstawie planu urz¹dzeñ srk i planu œwietlnego i obserwacji w³asnych
+Rozk³ad-----> 1990/1992 wed³ug s³u¿bowych zeszytów 101,121,124,dodatki 2abcd, 4b, REJONOWY £ódŸ
+Wjazd-1---->Skierniewice,Kutno,£owicz,warszawa,Terespol,Ma³aszewicze
+Wjazd-8 u góry---->Wagonownia i baza remonta¿owo monta¿owa,Bocznica Odlewni ¿eliwa(nieczynna),Jednostka wojskowa Regny(nieczynna) kilka razy do roku je¿d¿a tam wagony do naprawy na polecenie dyspozytora nie s¹ ujête w s³u¿bowym rozk³adzie jazdy
+Wjazd-2---->CPN,baza magazynowo-prze³adunkowa NAFTOBAZY obecnie PKN ORLEN
+Wjazd-3---->S³otwiny,Tomaszówmazowiecki,Drzewica,Radom,Skar¿ysko-kamienna,Idzikowice(po³aczenie z CMK)
+Wjazd-4---->praktycznie tylko przyjazdy EN57 z £odzi Fabr i niektóre towarowe
+Wjazd-5---->Piotrków trybunalski,Radomsko,Czêstochowa,Gliwice,Katowice,Kraków,Zabrzeg Czarnolesie,Praga,Budapeszt
+Wjazd-6---->Ga³kówek, £ódŸ Kaliska-lokomotywownia,£ódŸ Olechów-stacja rozrz¹dowa,lokomotywownia,postój
+            pustych EZT ,Zgierz,Kutno,P³ock,Bydgoszcz,Gdañsk,Poznañ,Rzepin,Sieradz,ostrów wielkopolski
+            Franfurkt n/Odr¹,Wroc³aw,
+ZMIANY ----> pozyskano dodatek 2A i s¹ ju¿ pociagi miêdzynarodowe
+Perony podane orientacyjnie
+z powodu braku zeszytu 104 godziny odjazdu poci¹gów s³u¿bowych z na olechów podane s¹ w przybli¿eniu
+z powodu braku zeszytu 108 nie ma poci¹gów kolonijnych
+JEŒLI MA KTOŒ SKANY 108,104 TO NIECH SIÊ ZE MN¥ PODZIELI
+WTEDY GRA BÊDZIE BARDZIEJ CIEKAWA
+nie mniej jednak natê¿enie ruchu jest du¿o wiêksze ni¿ w 21 wieku
+niektore poci¹gi towarowe maj¹ identyczne godziny odjazdu tzn. s¹
+po³o¿one na jednej trasie przy rozstrzyganiu dylematu który poci¹g wpisaæ kierowa³em siê
+d³ugoœci¹ trasy wykorzystuj¹c zeszyty 122,134,126,222,223,225,321,421,521,523,524
+poci¹gi towarowe zaczynaj¹ce bieg w koluszkach mog³y byæ uruchamiane ze s³otwin
+,wtedy nie by³o trzeciej cyfry 0 (nie dotyczy to poci¹gu z/do stawian )
+wed³ug wszystkich zeszytów mog³y koñczyæ bieg tylko w S³otwinach natomiast
+w zeszycie 124 mog³y tak¿e w koluszkach
+relacje do wêgliñca, baby-brzeg dolny,-katowice-g³owno wynikaj¹ z za³acznika
+do dodatku 4b: wykaz tras przewozu materia³ów szczególnie niebezpiecznych
+do dzia³ania symulacji wymagane s¹ tekstury :
+http://kolejarz.wz.cz/Kolejarz/sklad-stanic/tabor-08_2006.zip
+ w przysz³oœci :
+http://szndm.ovh.org/
+KONTAKT:
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com

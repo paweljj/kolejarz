@@ -1,0 +1,23 @@
+Stacja------> Rokiciny
+Plan Stacji-> obserwacje w³asne
+Rozk³ad----->   SRJ poc pasa¿erskich zeszyt 101,161,361 SRJ poc tw zeszyt 171  SRJ lok luzem 180 z roku 2004
+Wyjazd-1---->Koluszki £ódŸ Warszawa
+Wyjazd-2---->Piotrków trybunalski Czêstochowa Katowice  
+Stacja Rokiciny by³a wa¿n¹ stacj¹ do momentu wybudowania linii kolejowej z Koluszek do £odzi - kursowa³y st¹d powozy konne
+
+
+Ruch
+-towarowy i pasa¿erski znaczny
+-godziny odjazdu poci¹gów s¹ dok³adne
+-jedna nastawnia
+-zestawienia na podstawie w³asnych obserwacji i wziête z mojej Symulacji koluszek
+-w przypadku nieœcis³oœci natury logicznej -  pokrywanie siê godzin odjazdów w tym
+samym kierunku zwlaszcza poci¹gów dodatkowych do rzeczywistego czasu odjazdu  takowych doda³em
+jedn¹ minutê
+Autor Adam Sosnowski
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com
+w rzeczywistoœci torów jest wiêcej , ale s¹ zaroœniête i nie u¿ywane w symulatorze jak i w rzeczywistoœci
+Wykorzystano  programy EDK i Pathfinder i Eroz
+w planach mam wersje z rozk³adami 1980,1987,1988,2001
+innych symulacji na razie nie przewidujê
+pozdrawiam wszystkich mi³oœników Kolejarza

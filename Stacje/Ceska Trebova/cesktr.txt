@@ -1,0 +1,39 @@
+Váení pøátelé programu Kolejarz - eleznièáø,
+
+vytvoøil jsem pro sebe stanici Èeská Tøebová a mám tu drzost ji nabídnout i Vám. 
+Jak je všeobecnì známo, je tato stanice nesmírnì rozsáhlá a sloitá. 
+Proto jsem ji velmi, velmi zjednodušil, aby byla vùbec pouitelná v tomto programu.
+Omlouvám se všem, které jsem tímto urazil a rád si zajezdím v lepší verzi, ne jsem sám  
+stvoøil.
+
+Pro ostatní mám tyto poznámky:
+
+smìr 1 - smìr Tøebovice - tra 270 a 262 - vjezd do osobního nádraí
+smìr 2 - smìr Praha - osobní vlaky
+smìr 3 - smìr Brno - tra 260 - vjezd do osobního nádraí
+smìr 7 - smìr Praha - nákladní vlaky do odjezdov‚ skupiny
+smìr 4 - smìr Tøebovice - tra 270 a 262 - nákladní vlaky do vjezdové skupiny
+       - odjezdovı smìr - v podstatì se zde jedná o objízdnou kolej èíslo 200 z odjezdové skupiny
+         pro oba jiní smìry - zde opravdu hodnì zjednodušeno
+smìr 5 - vjezd pro nákladní vlaky ze smìru Brno - tra 260
+smìr 6 - vjezd pro nákladní vlaky od Prahy - vlastnì objízdná kolej èíslo 100
+smìr 8 - zjednodušení - seøaïovací nádraí
+smìr 9 - vleèka + elektroúsek + SDC 
+
+Mnoho zjednodušení je v poètu kolejí, odstavnıch kolejí atd. Opravdu jsem to lépe nevymyslel.
+
+Osobní vlaky jsou témìø kompletní podle jízdního øádu 2001/2002. Jejich sloení, obìhy atd jsou
+zcela smyšleny, neb jsem z druhého konce republiky a nemám monost zjistit skuteènost.
+Pokud nìkdo má nìjaké lepší informace, rád to upravím. Té nìkteré vlaky, u kterıch se mìní 
+v Tøebové sloení, jsou zjednodušeny, neb stále spolehlivì neumím popsat rozpojování a spojování.
+Nákladní vlaky jsou zatím jen naznaèeny, nìkteré vlaky ze smìru Praha jsou podle 
+skuteènosti, ostatní smìry jsou vymyšleny, sháním další podklady.
+
+Pøiloené soubory obsahují vlastní popis stanice, rozpis vlakù a obrázky, které nejsou v TABORu 
+na stránkách Gustava C. k dnešnímu dni. Obrázky je nutné nakopírovat do Vaší sloky TABOR!
+Gustavovi patøí té mùj dík za pomoc pøi vychytávání mıch nesmyslù pøi tvorbì stanice a další cenné rady.
+V pøípadì Vašich pøipomínek, námìtù a doplnìní tyto rád uvítám, stejnì jako veškeré informace o
+této stanici, abych je mohl zapracovat do další verze.
+
+Miloslav Zítka
+mzitka@centrum.cz

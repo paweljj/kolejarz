@@ -1,0 +1,17 @@
+1-kierunek Kraków P³aszów
+2-kierunek Zakopane
+3-kierunek ¯ywiec
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Widok na uk³ad torów od strony budynku stacji.
+Stacja napisana na postawie elektronicznego rozk³adu jazdy
+HAFAS z lata 2002 oraz zimy 2003.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+Na potrzeby gry lokomotywownia jest w miejscu hali
+do naprawy ETZ. W Suchej Beskidzkiej stacjonuje wyremontowana
+lokomotywa elektryczna ET21-98. Lokomotywownia 
+zosta³a zlikwidowana w 1975, a na jej miejscu jest 
+naprawa EZT (EN71 i EN57), a najbli¿sza
+lokomotywownia znajduje sie w Krakowie P³aszowie.
+Czas do zmiany kierunku jazdy jest bardzo krótki 
+i trzeba siê spieszyæ by odczepiæ i zaczepiæ elektrowóz.
+Krzysztof W¹dolny       nmwadoln@imim-pan.krakow.pl

@@ -1,0 +1,66 @@
+STACJA PRUSZCZ GDAÑSKI
+
+Autor: Dariusz Juszczak
+E-mail: wespe@go2.pl
+
+-----------------------------------
+TROSZKE O SAMEJ STACJI
+
+Stacja Pruszcz  Gdañski jest wêz³em kolejowym po³o¿onym pomiêdzy Trójmiastem (na pólnoc), 
+Portem Pó³nocnym  i stacj¹ Tczew (na po³udnie), dalej w kierunku Warszawy i Bydgoszczy. Z Pruszcza odchodzi 
+tak¿e nitka w kierunku Kartuz i Lêborka (niestety stan torowiska w tym kierunku jest w z³ym stanie 
+a po³¹czenia zawieszono, transport pasa¿erski zast¹piono komunikacj¹ autobusow¹).
+Uk³ad torów jest odwzorowany w 99,9%.
+
+Przy tworzeniu stacji wykorzystano programy Pathfinder 0.89, Edytor dla Kolejarza, eRozklad
+
+-----------------------------------
+WJAZDY / WYJAZDY
+
+1 - Gdañsk <-> Gdynia <-> Lêbork <-> Szczecin
+2 - Tczew i dalej Warszawa / Bydgoszcz
+3 - Port Pó³nocny w Gdañsku
+4 - Tczew - wykorzystywany w przez poci¹gi towarowe
+5 - Port Pó³nocny w Gdañsku
+6 - Tajemnica pañstwowa :)
+7 - Bocznica do Cukrownii Pruszcz
+8 - Kartuzy, Lêbork
+
+
+
+-----------------------------------
+LOKOMOTYWOWNIA
+
+Lokomotywownia znajduje siê w Gdañsku Porcie Pólnocnym. Z kierunku tego przyje¿d¿aj¹ 
+równie¿ lokomotywy pod barwami LOTOSU (dawna Rafineria Gdañska).
+
+
+PERONY
+nr 1 	- tor "górny" przy g³ównej hali dworcowej, niezelektryfikowany, odjazdy w kierunku Kartuz 
+	  i Lêborka (niestety po³¹czenia obecnie zawieszone)
+	- tor "dolny" przyjmuj¹cy po³¹czenia z kierunku Kartuz i Lêborka oraz przyjmuj¹cy sk³ady
+	z kierunku Gdañska i Tczewa w nieprzewidzianych sytuacjach.
+
+
+nr 2	- tor "górny", przyjmuj¹cy sk³ady przelotowe i podmiejskie z kierunku Gdañska
+
+	- tor "dolny", przyjmuj¹cy sk³ady przelotowe i podmiejskie z kierunku Tczewa
+
+
+Tory postojowe znajduj¹ce siê w górnej czêœci ekranu s³u¿¹ do roz³adowywania wêgla oraz stanowi¹ 
+bocznicê dla barakowagonów.
+Tory postojowe na trasie do Cukrownii Pruszcz stanowi¹ bocznicê dla wagonów z wys³odkami. Znajduje siê 
+w tym miejscu punkt zdawczy. 
+Poci¹gi towarowe w kierunku Portu Pó³nocnego czekaj¹ na odjazd na torach poni¿ej peronu 2.
+Czasami wykorzystywane s¹ one do przepuszczania poci¹gów niezatrzymuj¹cych siê na stacji. 
+
+------------------------------------
+UWAGI:
+
+Sk³ady poci¹gów s¹ przybli¿one na podstawie obserwacji.
+Poci¹gi do/z Kartuz s¹ fantazj¹, wprowadzone dla urozmaicenia gry :), w rzeczywistosci jak wspomnialem linia jest zamkniêta dla ruchu pasa¿erskiego, 
+ale warto pamiêtaæ t¹ liniê
+
+------------------------------------
+
+Mi³ej zabawy !!! :))))

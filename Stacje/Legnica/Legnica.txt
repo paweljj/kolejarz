@@ -1,0 +1,51 @@
+======================================================================================================================================
+---------------------------------------------------------------OGÓLNE-----------------------------------------------------------------
+!!!UWAGA!!! Stacjê otwieraæ nale¿y w rozdzielczoœci 1024x768pix, z uwagi na jej "rozwlek³oœæ".			         !!!UWAGA!!!
+!!!UWAGA!!! Stacja zrobiona jest dla wersji 1.61
+--------------------------------------------------------------------------------------------------------------------------------------
+Stacja: Legnica (Moja pierwsza stacja z ruchem towarowym)
+Rozk³ad: na podstawie Sieciowego RJP (2002/2003- LATO) + informacje z internetowego rozk³adu jazdy 
+(www.pkp.com.pl-w zakresie aktualnoœci).
+Schemat stacji: Prawie rzeczywisty, bo "wydeptany", ale pewne uproszczenia wynik³y z ograniczeñ programu "Kolejarz". 
+Sk³ady: na podstawie w³asnych obserwacji + dodatki do s³. r. j. p.: 2a, 2b, 2c (ZPR Wroc³aw), oraz dodatek 4b (tylko ¿e z 2000 r.) dla
+towarowych 
+Maksimum realnoœci (nawet numery peronów zgodnie ze œciennym rozk³adem stacji).
+Ograniczenia: Ruch towarowy w oparciu o posiadane materia³y, ale sprzed roku (rozk³ad 2001/2002, dodatek 4 b z 2000 r.).
+Musia³em go tylko nieco korygowaæ, ale za to pe³ny ruch nawet ³¹cznie z obwodnic¹ towarow¹, która jest oddalona od stacji o oko³o 3 km.
+Myslê, ¿e przez to jest ciekawiej
+-----------------------------------------------------------TORY i PERONY--------------------------------------------------------------
+Tory przelotowe ponad PERONEM 6: Pó³nocna obwodnica towarowa Legnicy linia nr 296 (Mi³kowice/Jezierzany-Wlk. Piekary), tylko przelot na
+linii Wroc³aw - Wêgliniec (granica niemiecka-Horka)
+PERON nr 1: kierunek Z³otoryja (kiedyœ)
+PERON nr 2: kierunek Wroc³aw (ale teraz ma³o u¿ywany)
+PERON nr 3: kierunki Wroc³aw, Jaworzyna, Lubin
+PERON nr 4: kierunki Wêgliniec, Lubin, Jaworzyna
+PERON nr 5: w zasadzie tylko ¯agañ, ale kiedyœ tak¿e Chocianów/Niegos³awice
+PERON nr 6: kierunek Prochowice, Rawicz (dziœ juz zamkniêty- tzw. Dworzec Legnica Pó³noc).
+PERON nr 7: wymyœlony w celu umieszczenia drezyn IZ Wroc³aw, Sekcji Drogowa Legnica.
+---------------------------------------------------------------WYJAZDY-----------------------------------------------------------------
+WYJAZD nr 1: numer linii 275 kierunki Mi³kowice, granica niemiecka na dwóch szlakach dwóch¯agañ/Forst, Wêgliniec/Horka
+WYJAZD nr 2: numer linii 289 kierunki Lubin Górniczy, G³ogów, Szczecin
+WYJAZD nr 3: numer linii 284 kierunki Z³otoryja, Jerzmanice Zdrój (zamkniêta dla ruchu pasa¿erskiego)
+WYJAZD nr 4: numer linii 362 kierunki Prochowice, Rawicz (w zasadzie zamkniêta, teraz tylko wêglarki do Centralnej Ciep³owni m. Legnica)
+WYJAZD nr 5: numer linii 275 kierunek Wroc³aw
+WYJAZD nr 6: numer linii 137 kierunki Jaworzyna, Kamieniec Z¹bkowicki, Katowice
+-------------------------------------------------------------LOKOMOTYWOWNIA------------------------------------------------------------
+Czas oczekiwania na wyjazd lokomotywy: 5 minuty.
+Czas naprawy lokomotywy: 1,5 godziny
+Iloœæ EP/EU07 dla poszczególnych CM zaczerpn¹³em ze strony p. Henryka Gwardaka wg stanu na 23.6.2003.
+Na podstawie spisu umieszczonego na tej stronce, oraz ilostanu lokomotyw w MD Legnica i dla CM czerwieñsk utworzy³em tablicê
+ prawdopodobieñstw dla tych loków.
+-----------------------------------------------------------------ROZK£AD---------------------------------------------------------------
+W paru miejscach musia³em skorygowaæ godz. przyjazdów i odjazdów poci¹gów-ciekawostek (poci¹gi kolonijne), które zapewne nie kursuj¹,
+ale by³y w dodatkach, oraz drezyny (rozk³ad ich to kompletna fikcja) które w zasadzie rdzewiej¹, ale ja wys³a³em je w teren do miejsc
+podzia³u miêdzy poszczególnymi sekcjami. A co siê bêd¹ leniæ, niech se poje¿d¿¹, sprawdz¹ czy szyn nie pokradli.
+------------------------------------------------------------W PRZYGOTOWANIU...---------------------------------------------------------
+Pracujê wci¹¿ nad stacja Lubin Górniczy, ale to efemeryda w stosunku do stacji pokroju Zaj¹czkowo Tczewskie. Gdybym mia³ uk³ad torowy
+Wroc³awia Brochowa, lub co najmniej Wr. G¹dowa, to bym zrobi³, rozk³ad juz mam. 
+Potem Legnica - rozk³ady z lat 80-tych, albo 70, bo ostatni rozk³ad 2004 to mizeria, prawdziwy "rozk³ad organizmu kolei".
+-----------------------------------------------------------------AUTOR-----------------------------------------------------------------
+Ireneusz Szymañski, Lubin
+ireksz@klub.chip.pl
+=======================================================================================================================================
+wszelkie uwagi przesy³aæ na w/w adres

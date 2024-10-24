@@ -1,0 +1,14 @@
+Stacja Szczecinek jest stacj¹ wêz³ow¹. 
+
+wyjazd 1 --> Ko³obrzeg
+wyjazd 2 --> S³upsk
+wyjazd 3 --> Chojnice
+wyjazd 4 --> Poznañ
+wyjazd 5 --> Runowo Pom.
+
+Rozk³ad pociagów pasa¿erskich zaczerpniêty z SRJP z aktualizacjami, poci¹gi towarowe - godziny odj/przyj
+s¹ fikcyjne, tylko relacje poci¹gów s¹ zgodne. Brak lokalnych sk³adów towarowych.
+Wyjazd poci¹gów w kierunku S³upska i Chojnic odbywa siê tylko z peronu 3. Pociagi towarowe
+w tych kierunkach odje¿d¿aj¹ z 2 torów towarowych nad perenem 3.
+Dla urozmaicenia doda³em lokomotywê SU46 na trasie do Chojnic, obecnie sk³ady ciagn¹ tam SM42.
+Tory towarowe po prawej stronie s¹ bocznicami Kronospanu. Po lewej jest sk³ad wêglowy.

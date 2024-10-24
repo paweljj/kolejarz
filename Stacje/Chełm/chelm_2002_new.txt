@@ -1,0 +1,39 @@
+		Witam !
+	Rozk³ad niniejszy nie jest idealnym odzwierciedleniem ruchu kolejowego w Che³mie latem 2002 roku. Jest to spowodowane tym, ¿e w okresie tym ruch towarowy rozpocz¹³ dopiero podnoszenie siê po pogromie, jaki zgotowa³ mu ruch  ko³owy (drogowy). Na stacji s¹ sytuacje, gdy przeje¿d¿a kilka poci¹gów dziennie, a czasem tylko kilka na tydzieñ. Do³o¿y³em jednak trochê poci¹gów towarowych i tak znajduj¹cych siê przecie¿ w rozk³adzie. Ale po przeczytaniu pewnego artyku³u w "Sygna³ach" do³o¿y³em jeszcze jedno wahad³o wêglarek na Ukrainê.
+	Stacja znajduje siê na linii Warszawa - Dorohusk - Granica Pañstwa.
+Kierunek 1 - Rejowiec (Lublin, Warszawa),
+kierunek 2 - Dorohusk (Granica Pañstwa),
+kierunek 4 - W³odawa,
+kierunek 3 - Che³m Wschodni - pomimo, ¿e kier. 2 tak¿e prowadzi do Che³ma Wsch., to kier. 3 jest u¿ywany do zjazdu ezt na postój na tej stacji oraz wyjazdu/wjazdu poci¹gów do/z cementowni "Che³m" (¿eby by³o œmieszniej, to i tak poci¹gi przecinaj¹ wtedy tory kierunku 2).        	Wjazdy/wyjazdy poci¹gów towarowych mog¹ odbywaæ siê tylko z torów towarowych po³o¿onych w centralnej czêœci stacji. Notabene torów tych w rzeczywistoœci jest wiêcej, lecz ju¿ od kilku lat s¹ zastawione wêglarkami (w³aœciciel wêgla zbankrutowa³, czy coœ takiego), wiêc i tak s¹ nieprzejezdne.
+	Lokomotywownia w rzeczywistoœci nie jest zelektryfikowana, jednak program nie umo¿liwia jazd lokomotyw luzem jako poci¹gów, które w rzeczywistoœci przyje¿d¿aj¹ w³aœnie z kier. 3 z Punktu Kontrolnego. Jeœli chodzi o lokomotywowniê, to poszed³em tak¿e na inne uproszczenie. Otó¿ w Che³mie s¹ w³aœciwie dwie "szopy" (licz¹c PK na Wschodnim, to trzy), jednak sprawdzi³em reakcjê programu na zrobienie odpowiedniego planu - z niekorzystnym skutkiem, choæ byæ mo¿e ja coœ Ÿle wykonywa³em (nie potrafiê wstawiæ przy rozpoczêciu gry ró¿nych lokomotyw do ró¿nych lokomotywowni).
+	W parku równie¿ nie ma tyle torów ile znajduje siê w grze. Sk³ady ustawione s¹ na dwóch torach jeden za drugim, a czêœæ przyje¿d¿aj¹cych póŸnym wieczorem "nocuje" w peronach.
+	Jedno zdanie o zobrazowaniach poci¹gów. Nie dysponowa³em odpowiednimi rysunkami ukraiñskiego wagonu sypialnego (choæ wykorzysta³em w rzeczywistoœci doczepiony jeden polski), ale sam stworzy³em bitmapy autobusu szynowego SN81 oraz wagonów do przewozu kredy dopuszczonego do ruchu tylko na odcinku Che³m - Rejowiec (do Rejowca wo¿¹ kredê, a do Che³ma margiel).
+Zestawienia sk³adów poci¹gów osobowych s¹ takie, jak w rzeczywistoœci.
+	Przejœcia lokomotyw w wiêkszoœci s¹ autentyczne, jednak prgram nie umo¿liwia (na razie?) jazd luzem - z koniecznoœci po³¹czy³em nie które zjazdy lokomotyw z wyjazdami.
+	Jako, ¿e SN81 na czas przegl¹du jest zastêpowany przez SP32 z jedn¹ klas¹, tutaj tak¿e w jednym z poci¹gów zamiast autobusu jedzie lokomotywa z jednym wagonem.
+	Dla zabawy tak¿e do³¹czy³em do jednego z poci¹gów salonkê z Jagodina do Warszawy. Tak¿e dla rozrywki przeje¿d¿a przez stacjê (niejednokrotnie) poci¹g sieciowy.
+	Poci¹g do Jagodzina i Dorohuska o 5.14 odje¿d¿a podwójn¹ trakcj¹: EU07 i SP32 (EU07 jako pierwsza!). Praktycznie SP32 jedzie luzem, ale by³y kiedyœ takie rozk³ady, w których obie maszyny jeŸdzi³y sprzêgniête. Sk³ad do Jagodina ma byc w pierwszej czesci zestawu!
+
+Plan przejœæ lokomotyw (22420 i 22421, to SP32 - pozosta³e EU07):
+	11133	0.30	-->	22421	5.14	oraz
+	22420	10.41	-->	22421	5.14		(dorobione)
+
+	112	6.33	-->	27100	7.15
+	12103	10.45	-->	21122	11.13
+	11121	12.57	-->	117	15.20
+	11125	16.07	-->	11126	17.06
+	118	16.43	-->	21104	18.35		(dorobione)
+	12125	18.56	-->	11124	15.41		(dorobione)
+	72101	20.51	-->	11114	5.21
+	32123	21.36	-->	23122	4.50		(dorobione)
+Byæ mo¿e, ¿e gdy uka¿e siê wersja Kolejarza zliczaj¹ca punkty karne, dadz¹ siê wychwyciæ b³êdy przy przejœciach - wtedy proszê o kontakt.
+
+	Elektrowozy oznaczone jako che³mskie umieœci³em w lokomotywowni tylko na wypadek np. awarii lokomotywy poci¹gu przelotowego.
+
+	¯yczê przyjemnej zabawy!
+				Artur Garbacz
+
+PS. Oczywiœcie pliki rysunków nale¿y skopiowaæ do foldera Tabor.
+
+strony3.wp.pl/wp/arturgarbacz
+e-mail - najaktualniejszy znajduje siê na powy¿szej stronie.

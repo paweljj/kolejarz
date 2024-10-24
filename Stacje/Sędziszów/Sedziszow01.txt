@@ -1,0 +1,25 @@
+Stacja SÊDZISZÓW (i Sêdziszów P³n. - dla LHS) dla Kolejarza v.1,0
+Autor: Marek Orlef
+e-mail:APMO@poczta.onet.pl
+
+
+U W A G A    !  !   !   !   !
+
+1)
+Rysunki LHS LHS-1 nalezy rozpakowac do katalogu TABOR !!!
+(Inaczej stacja nie bêdzie dzia³aæ)
+
+2)
+Tory zelektryfikowane - to linia normalnotorowa.
+Tory niezelektryfikowane - to LHS (linia szerokotorowa).
+
+W rzeczywistoœci po³aczenie obu szerokoœci na stacji istnieje- ale poprzez 
+wymiane wozków w lokach.
+Dla potrzeb symulacji (zepsute loki i ich naprawa) zrobilem po³¹czenie
+tych torów poprzez tory postojowe dla poc. pasa¿erskich.
+Jest to konieczne, gdy¿ na razie w kolejarzu mo¿e byæ tylko jedna lokomotywownia.
+
+
+¯yczê mi³ej pracy .
+
+Uwagi prosze kierowac na : APMO@poczta.onet.pl

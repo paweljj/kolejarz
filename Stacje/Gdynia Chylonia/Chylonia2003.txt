@@ -1,0 +1,116 @@
+Tu stacja Gdynia Chylonia, tu stacja Gdynia Chylonia...
+
+WA¯NE!!! By zachowaæ realia nale¿y w opcjach ustawiæ opóŸnienia dla kategorii "pozosta³e" 
+w przedziale 0-5. Wyjaœnienie poni¿ej w "uwagach".
+
+Na schemacie widoczna jest stacja Gdynia Chylonia (perony 1, 2 i 3) oraz przystanek SKM 
+Gdynia Cisowa (peron 4, de facto bez numeru). Tory postojowe po lewej stronie to stacja postojowa 
+Szybkiej Kolei Miejskiej Gdynia Cisowa. 
+
+KIERUNKI:
+1. Tory podmiejskie (SKM), linia 250 - kier. Gdynia Stocznia, Gdynia G³ówna, Sopot, Gdañsk
+2. Tory podmiejskie (SKM), linia 250 - kier. Rumia Janowo, Rumia, Reda, Wejherowo, Lêbork
+3. Tor dalekobie¿ny, linia 202 - kier. Gdynia G³ówna, Sopot, Gdañsk
+4. Tor dalekobie¿ny, linia 202 - kier. Rumia, Reda, Wejherowo, Lêbork, S³upsk / Puck, Hel
+5. Bocznica
+6. £¹cznica towarowa - kier. post. GPF, Gdynia Port
+7. Stacja postojowa i wagonownia Gdynia Leszczynki.
+
+ROZK£AD:
+Pasa¿erski prawdziwy z 2003 roku przygotowany na podstawie s³u¿bowych dodatków 2b/c/d
+datowanych na pierwszy dzieñ obowi¹zywania rozk³adu (15.12.2002), ale uwzglêdnia sytuacjê z sezonu
+wakacyjnego. PóŸniejsze zmiany wprowadzone w zestawieniach, zw³aszcza w sezonie wakacyjnym, 
+nie zosta³y uwzglêdnione. Jedynie niezgodnoœci miêdzy dodatkami a zeszytami rozk³dów jazdy (których
+nie mia³em rok temu) korygowa³em na korzyœæ zeszytów, st¹d pewne ró¿nice w planie pracy loków na 
+linii helskiej w porównaniu z Red¹2003. Poprawi³em te¿ b³êdny w Redzie rozk³ad poci¹gu baga¿owego
+ze Szczecina do Warszawy.
+Natomiast zarówno zestawienia, jak i obiegi sk³adów spó³ki SKM Trójmiasto s¹ fikcyjne, bo nie 
+obejmuje ich ju¿ dodatek 2d PKP PR, choæ tworz¹c obiegi stara³em siê je uprawdopodobniæ na 
+podobieñstwo danych pewnego dokumentu z SKM (z póŸniejszego okresu), który wpad³ mi w rêce. 
+Równie¿ godziny przejazdu poci¹gów dalekobie¿nych, niezatrzymuj¹cych siê na stacji oraz ich przebieg 
+(czasem nietypowy, z pe³nym lub czêœciowym wykorzystaniem torów SKM) opracowane na podstawie 
+s³u¿bowych zeszytów nr 501 i nr 560. Z powodu niesamowitego t³oku i wymogów Kolejarza niektóre 
+godziny zosta³y skorygowane, ale zmiany s¹ rzêdu 1-3 min. Poci¹gi tranzytowe maj¹ ponadto 
+przewidzian¹ rezerwê 1 minuty na ustawienie przebiegu.
+
+Towarowy prawdziwy z 2003 roku przygotowany na podstawie s³u¿bowego zeszytu nr 521.
+Przy okazji s³ówko o zdawce nr 2290 z Gdyni Portu do Gdyni Red³owo. Zawiera ona grupê wagonów do
+Gdyni Cisowej, która jako poci¹g nr 281 odje¿d¿aj¹cy z Chyloni o godzinie 7.51 po czterech minutach
+dociera na tor towarowy Gdynii Cisowej. Tam prawdopodobnie nastêpowa³a podmiana i poci¹g nr 280 o
+godzinie 8.21 powinien zabraæ "wczorajsz¹" grupê roz³adowanych wagonów, która planowo po piêciu 
+minutach dociera z powrotem do Chyloni i jest w³¹czana do poci¹gu nr 2290 do Or³owa. W drodze 
+powrotnej zdawka nie zagl¹da ju¿ na Chyloniê kieruj¹c siê z Gdyni G³ównej bezpoœrednio do Portu. 
+W tej wersji sytuacjê tê mo¿na zasymulowaæ manewruj¹c "cisowsk¹" grup¹, przy okazji zmieniaj¹c 
+kolejnoœæ grup wagonów w g³ównej zdawce.
+
+
+LOKOMOTYWOWNIA...
+...najbli¿sza to CM Gdynia. Czas oczekiwania na zamówionego loka to 30 minut.
+
+UWAGI:
+1. Z uwagi na objêcie jednym schematem de facto dwóch stacji (Chylonia i Cisowa) musia³em trochê
+pokombinowaæ z przebiegami. Tak wiêc potrzebny jest ma³y poradnik, co nale¿y robiæ, by zaznaczyæ
+odpowiedni¹ trasê:
+*w przypadku poci¹gu SKM jad¹cego z kierunku Gdañska w kierunku Rumii nale¿y najpierw zaznaczyæ
+ przebieg z wjazdu nr 1 do peronu III stacji Gdynia Chylonia, nastêpnie zaznaczyæ przebieg
+ bezpoœrednio do wyjazdu nr 2, a program sam uwzglêdni pó³minutowy postój w Cisowej.
+*w przypadku poci¹gu SKM jad¹cego z Gdañska do Gdynii Cisowej nale¿y od razu zaznaczyæ przebieg
+ z wjazdu nr 1 do tzw. peronu IV, a program sam uwzglêdni postój w Chylonii.
+*w przypadku poci¹gu (nie tylko SKM) jad¹cego z kierunku Rumii w kierunku Gdañska nale¿y najpierw 
+ zaznaczyæ przebieg z wjazdu nr 2 do w³aœciwego peronu stacji Gdynia Chylonia, a po zatrzymaniu siê
+ na nim poci¹gu nale¿y zaznaczyæ przebieg do odpowiedniego wyjazdu (nr 1 lub 3); program sam
+ uwzglêdni krótki postój na Cisowej - niestety tak¿e dla nielicznych poci¹gów innych ni¿ SKM ale
+ wje¿d¿aj¹cych wjazdem SKM nr 2, które nie maj¹ planowego postoju na Cisowej (inaczej siê nie da³o).
+*w przypadku poci¹gu zaczynaj¹cego jazdê na Gdyni Cisowej nale¿y od razu zaznaczyæ przebieg z tzw.
+ peronu IV do wyjazdu nr 1, a program sam uwzglêdni postój na Chylonii.
+*w przypadku podstawiania sk³adów ezt PKP PR (PZ Olsztyn i PZ Bydgoszcz) na perony I i II Gdynii
+ Chylonii nale¿y najpierw manewrowaæ z torów postojowych na tzw. tor towarowy równoleg³y do tzw.
+ peronu IV Cisowej, a dopiero stamt¹d mo¿na podstawiaæ sk³ady na perony Chylonii. Analogicznie w
+ drug¹ stronê.
+*w przypadku poci¹gów tranzytowych niezatrzymuj¹cych siê zaznaczamy bezpoœredni przebiegi od wjazdu
+ do w³aœciwego wyjazdu, a sk³ad nigdzie nie zatrzyma siê.
+*pozosta³e przebiegi to normalka.
+2. Wszystkie poci¹gi SKM zaczynaj¹ce i koñcz¹ce jazdê w Gdyni Cisowej maj¹ podan¹ w rozk³adzie
+godzinê z Cisowej oraz wpisany peron IV. Wszystkie pozosta³e poci¹gi SKM (tak¿e koñcz¹ce jazdê
+w Chyloni) maj¹ przypisany peron III i oczywiœcie godzinê z Chylionii, przy czym wje¿d¿aj¹ce
+wjazdem numer 1 pojawiaj¹ siê nieco przed czasem - czas dojazdu jest bowiem wypoœrodkowany dla
+Chyloni i Cisowej. Jedyny poci¹g tranzytowy z przypisanym peronem IV to sk³ad nr 812 z Wejherowa
+do Gdañska G³ównego, którego pó³noc zastaje w³aœnie w Cisowej.
+3. Czas na wyjaœnienie, dlaczego wa¿ne jest ustawienie zminimalizowanych opóŸnieñ w kategorii
+"pozosta³e". Zazwyczaj obejmuje ona g³ównie poci¹gi s³u¿bowe, których na tej stacji nie jest 
+a¿ tak wiele. Kolejarz v.1.77 daje jednak mo¿liwoœæ samodzielnego okreœlania kategorii poci¹gów, a
+z kategoriami wi¹¿¹ siê pewne cechy poci¹gów. Poci¹gi SKM idealnie pasowa³yby do kategorii
+"podmiejskie" (z opóŸnieniami i co wa¿niejsze z wyprzedzeniami mniejszymi, ni¿ okreœlone dla
+"osobowych"). Jednak obecnie kategoria "podmiejskie" posiada pewn¹ cechê odbiegaj¹c¹ od realiów
+SKM, jest ni¹ standardowe 5 minut obowi¹zkowego postoju na stacji koñcowej. Tymczasem sk³ady te
+musz¹ od razu zwalniaæ tory z uwagi na zagêszczony ruch na torach SKM. Dlatego te¿ skorzysta³em
+z nowych mo¿liwoœci Kolejarza i w "bebechach" rozk³adu upodobni³em je do poci¹gów s³u¿bowych,
+które omijaj¹ tê blokadê i od razu mog¹ zjechaæ na tory postojowe. Jedynym mankamentem jest
+znacznie wiêksza standardowa tolerancja wyprzedzeñ i opóŸnieñ w stosunku do rozk³adu jazdy, co
+w przypadku sk³adów s³u¿bowych jest zreszt¹ jak najbardziej na miejscu. Jednak po przetestowaniu
+jednej doby z takimi wartoœciami opóŸnieñ i obserwuj¹c nierealne horendalne wrêcz zamieszanie
+na torach SKM))), uzna³em za stosowne ujawniæ moj¹ manipulacjê, bowiem efekt po korekcie jest 
+przyzwoity. Ale to musi uczyniæ sam gracz na w³asnym kompie.
+4. Na pierwszym od góry torze postojowym w Cisowej stoj¹ rezerwowe jednostki ezt - mo¿na ich u¿yæ
+do poci¹gniêcia zusterkowanych sk³adów ezt.
+5. Jeœli ktoœ zamierza graæ d³u¿ej ni¿ dobê, warto zapisaæ sobie kolejnoœæ ustawionych sk³adów
+o pó³nocy, bo przy tylu jednostkach i ró¿nych godzinach wyjazdu i przyjazdu ³atwo o zablokowanie
+sobie wyjazdu rano wielu "kibelków".
+6. Mimo dostêpu do danych o poci¹gach turystycznych (zeszyt nr 565) nie uwzglêdni³em ich, gdy¿
+ich uruchamianie wi¹¿e siê czêsto ze skierowaniem poci¹gów sta³ych na tory SKM i zaburzeniem
+ich rozk³adów.
+7. Podobnie ostatecznie nie wpisa³em pary poci¹gów s³u¿bowych bezpoœrednio wytrasowanych z Gdynii
+Postojowej przez wjazd nr 7 Chylonii z pominiêciem wypychania na Gdyniê G³ówn¹, poniewa¿ z du¿ym 
+prawdopodobieñstwem zak³adam, ¿e te podsy³y na liniê helsk¹ kursowa³y wy³¹cznie poza sezonem
+wakacyjnym. S¹ natomiast inne podsy³y, zarówno luzaków, jak i sk³adu do/z £eby.
+8. Czas pokonywania odcinków jednotorowych mo¿e wydawaæ siê nieco zbyt krótki, zw³aszcza w kierunku
+nr 3, ale wszystko zosta³o sprawdzone i opracowane tak, by odpowiada³o realiom, bowiem rozk³adowy czas 
+przejazdu na odcinku Gdynia G³. - Gdynia Chylonia obejmuje przecie¿ jazdê w obrêbie obu stacji, no i
+"czas do mijanki" a "odstêp" to dwie ró¿ne sprawy. Inaczej zreszt¹ wszystko siê zapycha³o)))
+
+AUTORZY:
+Pliku stacji - Arek Mizerski (arekmiz@onet.pl) + korekty techniczno-ruchowe - Micha³ Lipiñski;
+Pliku rozk³adu - Micha³ Lipiñski (ltek@wp.pl) z czêœciowym wykorzystaniem danych z Redy2003.
+
+Mi³ej zabawy!
+ML

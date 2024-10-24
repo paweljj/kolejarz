@@ -1,0 +1,43 @@
+STACJA W¥GROWIEC - 1997/1998 zima
+
+Stacja W¹growiec powsta³a w 1888 roku. Przez 100 lat by³a
+wa¿nym wêz³em kolejowym, poniewa¿ by³a na skrzy¿owaniu
+linii kolejowych Poznañ Wschód - Bydgoszcz G³.
+i Inowroc³aw - Drawski M³yn.
+Obecnie (2009 r.) linia w kierunku RogoŸna Wlkp. 
+i Damas³awka jest nieczynna, a linia do Bydgoszczy
+jest wykorzystywana w ruchu pasa¿erskim tylko
+do stacji Go³añcz.
+
+Linie w okreœlonych kierunkach powstawa³y w nastêpuj¹cych
+latach: do RogoŸna Wlkp. (1888),Damas³awka (1889), Poznania
+(1908) i Bydgoszczy (1908).
+
+Odzwierciedlenie torowiska w 90%. Rozk³ad jazdy poci¹gów pasa¿erskich
+oryginalny, poza sk³adem  linii Wolsztyn - Wolsztyn nr 77152
+„Parowozem przez Wielkopolskê”, który doda³em do urozmaicenia.
+Podczas budowy symulatora przyjazd poci¹gu osobowego relacji
+Poznañ - W¹growiec nr 66137 musia³em przyspieszyæ o 11 minut
+ze wzglêdu na program Kolejarz.
+Rozk³ad jazdy poci¹gów towarowych fikcyjny.
+
+Wyœwietlanie PERONÓW - Opcje/Ustawienia/Kolory/Zaznaczamy - Wyœwietlaj
+rysunek jako t³o dla schematu stacji.
+
+Obecnie Lokomotywownia W¹growiec jest spalon¹ ruin¹. Po¿ar zniszczy³ 
+wydzier¿awione zabudowania warsztatowe, halê wachlarzow¹ i obrotnicê
+10 stycznia 2002 roku. Do lat 90 - tych pe³ni³a funkcjê pomocniczej 
+i obs³ugiwa³a parowozy serii Ol49 i Ty43 w ruchu pasa¿erskim 
+i towarowym. Na dzieñ dzisiejszy stacjê obs³uguje Lokomotywownia Poznañ.
+
+Kierunki:
+1. Damas³awek - kierunek wschodni
+2. Poznañ - kierunek po³udniowy
+3. Bocznice Zak³adów Us³ug Technicznych (ZUT) - kierunek zachodni
+4. RogoŸno - kierunek zachodni (linia nieczynna)
+5. Go³añcz, Kcynia, Bydgoszcz - kierunek pó³nocny
+
+Autor: Szymon Woelke
+graf_pol@poczta.onet.pl
+
+Stacja zosta³a stworzona 2008-09-09 przy pomocy programu PathFinder 2.0.

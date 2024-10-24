@@ -1,0 +1,27 @@
+WYJAZDY:
+1-kierunek: Goleszów
+2-kierunek: Wis³a G³êbce
+3-kierunek: Ustroñ Towarowa obecnie nie u¿ywana, bocznice sa juz rozbierane.
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia jest w Czechowicach-Dziedzicach
+Czas zamówienia wynosi 50 minut. 
+
+Uk³ad torowy stacji jest napisany z dok³adnoœcia co do rozjazdu. 
+Widok na uk³ad torów od strony budynku stacji
+Stacja napisana na postawie SRJP z lata 2001.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+Lokomotywy, wagony oraz jednostki sa autentyczne na podstawie obserwacji w³asnych.
+Przewozy towarowe na tej trasie nie s¹ ju¿ prowadzone. 
+Przy projektowaniu stacji pos³ugiwa³em siê programem PF 1.1
+
+UWAGI CO DO KIEROWANIA RUCHEM:
+Aby elektrowóz z lokomotywowni wjecha³ na stacje nale¿y wybraæ trase do
+pierwszego punktu postojowego dla lokomotyw od wjazdu pierwszego.
+
+      Krzysztof W¹dolny           nmwadoln@imim-pan.krakow.pl
+
+
+
+
+
+

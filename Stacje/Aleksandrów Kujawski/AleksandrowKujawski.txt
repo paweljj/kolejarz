@@ -1,0 +1,20 @@
+ALEKSANDROW KUJAWSKI
+====================
+
+Stacja przelotowa, nie zaczynaja, ani nie koncza biegu zadne pociagi.
+Linia do Ciechocinka nieczynna (stad brak wjazdu numer 2).
+
+Uwagi
+-----
+
+Widoki skladow na podstawie zdjec, moga wystapic minimalne rozbieznosci
+(na wiekszosci zdjec nie widac calosci skladow)
+
+Podziekowania
+-------------
+
+semaforek.xt.pl <- stad mam schematy stacji
+rozklad.pkp.pl  <- a stad rozklady jazdy pociagow
+
+Zycze milej zabawy
+Krzysztof

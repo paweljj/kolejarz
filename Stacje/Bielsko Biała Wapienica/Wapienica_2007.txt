@@ -1,0 +1,44 @@
+       Bielsko-Bia³a Wapienica
+
+Bielsko-Bia³a Wapienica jest stacj¹ po³o¿on¹ na linii Bielsko-Bia³a G³ówna - Cieszyn.
+
+WYJAZDY:
+1-kierunek Bielsko-Bia³a G³ówna
+2-kierunek Jaworze Jasienica (Skoczów)
+3-kierunek bocznica bazy paliw (nieczynna od 2004 roku)
+
+OZNACZENIA:
+BS - budynek stacyjny
+CPN - sk³ad paliw CPN
+P£ - plac ³adunkowy
+FK - fabryka kos (nieczynna)
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znaduje sie w Czechowicach-Dziedzicach. 
+Czas oczekiwania na lokomotywê - 50  minut
+
+UK£AD TOROWY:
+Uk³ad torowy stacji jest odwzorowany z dok³adnoœci¹ co do rozjazdu.
+
+SK£ADY I LOKOMOTYWY:
+Lokomotywy, sk³ady wagonów oraz jednostek EZT na podstawie obserwacji w³asnych.
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie sieciowego rozk³adu jazdy z lata 2007.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+Godziny przyjazdu i odjazdu zdawki s¹ podane orientacyjnie (w rzeczywistoœci nie kursowa³a regularnie), jej sk³ad na podstawie obserwacji w³asnych.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Zwolnienie szlaku w kierunku Bielska trwa d³ugo, ze wzglêdu na z³y stan techniczny toru,
+na którym prêdkoœæ szlakowa wynosi 30 km/h na ca³ej d³ugoœci.
+Mo¿liwoœci ruchowe stacji zosta³y wiernie odwzorowane. W zwi¹zku z czym, 
+podobnie jak w rzeczywistoœci, nie jest mo¿liwy bezpoœredni wjazd 
+od strony Bielska na niezelektryfikowany tor przy rampie i s¹siaduj¹cy z nim tor dodatkowy. 
+Jazda z tych torów mo¿liwa jest tylko w kierunku zwrotnym (powodem jest pêkniêta iglica rozjazdu).
+W zwi¹zku z powy¿szym, lokomotywê, która przyprowadza sk³ad towarowy, 
+trzeba w peronach przepi¹æ na drug¹ stronê sk³adu, i wjechaæ na tor przy rampie od strony Jaworza.
+
+Wiêcej informacji o historii samej stacji na portalu www.kolejcieszyn.pl
+
+AUTOR:
+Mateusz Penkala           penkala@kolejcieszyn.pl

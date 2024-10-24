@@ -1,0 +1,25 @@
+Stacja BIENIÓW
+Wersja dla Kolejarza 1.44
+zbudowana z pomoc¹: EdK 2.40 i Edytor MK 1.04
+
+Autor : Andrzej Klauza
+E-mail: parowoz@wp.pl
+12 I 2004
+
+rozk³ad jazdy: Lato 1997 
+
+Kierunki:
+ 1 - ¯agañ - czas przejazdu 13 minut
+ 2 - Jasieñ (Lubsko,granica pañstwa) 
+ 3 - Nowogród Osiedle (Zielona Góra) - czas przejazdu 9 minut
+ 4 - ¯ary - czas przejazdu 16 minut
+
+Lokomotywownia jest w ¯aganiu.
+Czas od zamówienia lokomotywy do przyjazdu: 25 minut
+Czas naprawy lokomotywy: 60 minut.
+Iloœæ lokomotyw naprawianych jednoczeœnie: 1
+         
+Wszystkie poci¹gi pasa¿erskie do ¯agania jad¹ przez ¯ary (kierunek 4).
+W kierunku na Jasieñ nie ma ¿adnego czynnego posterunku ruchu wiêc wolno
+wyprawiæ tylko jeden poci¹g na ten szlak. Tutaj jest to zdawczy do Jasienicy.
+

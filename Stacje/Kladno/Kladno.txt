@@ -1,0 +1,21 @@
+Stanice Kladno leí na trati 120 Praha - Chomutov
+
+Vıjezd 1: smìr Unhoš, Jeneè, Hostivice - zde se tra dìlí:
+                            - tra 120 smìr Praha Masarykovo nádraí
+                            - tra 122 smìr Praha Smíchov - Praha hl. n.
+
+Vıjezd 2: smìr Kam. ehrovice, Stochov, Luná u Rak. zde se dìlí na:
+                            - tra 120 Luná - atec - Chomutov
+                            - tra 124 Luná - Rakovník
+
+Vıjezd 3: smìr Kladno Ostrovec - Kladno Dubí - Kralupy n/Vlt - tra 093
+
+GVD 2001/2 - Jsou zde témìø všechny vlaky, které jsou v grafikonu, 
+tzn. i vlaky jedoucí podle potøeby. 
+Byly vypuštìny pouze ty rušící vlaky, jejich jízdní øád kolidoval
+s jízdou pravidelnıch vlakù. 
+Vzhled stanice byl, vzhledem k rozsáhlosti, upraven a v detailech neodpovídá
+skuteènosti.  Program také neumoòuje na trianglu otoèit soupravu.
+
+Pøipomínky zasílejte, prosím, na adresu jindrcizek@quick.cz
+                             

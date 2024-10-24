@@ -1,0 +1,32 @@
+                  Wis³a Uzdrowisko dla Kolejarza 1.63
+
+Wis³a Uzdrowisko jest stacj¹ po³o¿on¹ na linii Goleszów-Wis³a G³êbce.
+
+WYJAZDY:
+1-Kierunek: Goleszów
+2-Kierunek: Wis³a G³êbce
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia jest w Czechowicach Dziedzicach. 
+Czas oczekiwania na elektrowóz - 60 minut.
+
+UK£AD TOROWY:
+Uk³ad torowy stacji jest napisany z dok³adnoœcia co do rozjazdu. 
+Zosta³ trochê wyprostowany na potrzeby programu.
+Widok na uk³ad torów od strony budynku stacji.
+
+SK£ADY I LOKOMOTYWY:
+Lokomotywy, wagony oraz jednostki sa autentyczne na postawie obserwacji 
+w³asnych. Przewozy towarowe na tej trasie nie s¹ ju¿ prowadzone.
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie elektronicznego rozk³adu jazdy HAFAS z zimy 2003.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz z lokomotywowni wjecha³ na stacje nale¿y wybraæ trasê do
+pierwszego punktu manewrowego od wjazdu pierwszego.
+
+AUTOR:
+Krzysztof Wadolny            nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1

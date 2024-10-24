@@ -1,0 +1,81 @@
+		-----------------------------------------------------------------------------------
+			Stacja Warszawa Gdañska 2007
+		-----------------------------------------------------------------------------------
+
+Kiedyœ g³ówna (i zarazem pocz¹tkowa) stacja linii Warszawa - Gdynia. Obecnie jest wa¿na
+	z powodu poci¹gów towarowych, które przekraczaj¹ Wis³ê - wobec zakazu wjazdu
+	do W-wy Wschodniej ca³y ruch towarowy odbywa siê przez Gdañsk¹. Tak¿e têdy
+	je¿d¿¹ wszystkie "luzaki" i czêœæ sk³adów pospiesznych, które koñcz¹ bieg
+	na Wschodnim, a zje¿d¿aj¹ na Szczêœliwice.
+Ruch osobowy ogranicza siê do poci¹gów przelotowych z W-wy Woli w stronê Gdyni i kilku
+	sk³adów, koñcz¹cych bieg na Gdañskiej.
+
+Uk³ad torowy zgodny z rzeczywistoœci¹ co do rozjazdu.
+
+
+	----------------------------------------------------------
+		Wjazdy/wyjazdy:
+	----------------------------------------------------------
+
+	1 - Warszawa Wola, Warszawa Szczêœliwice (podsy³ sk³adów PKP PR);
+	2 - Warszawa Jagiellonka, a dalej linia na Gdyniê (Nasielsk, Dzia³dowo), T³uszcz
+		(Wieliszew, Bia³ystok), lub Warszawê Wschodni¹ Osobow¹ i Towarow¹;
+	3 - Warszawa G³ówna Towarowa i ca³a Polska zachodnia.
+
+
+	------------------------------------------------------------------------
+		Tory postojowe:
+	------------------------------------------------------------------------
+
+	- tor niezelektryfikowany powy¿ej wjazdu 3 - tam nocuje sk³ad wêglarek (roz³adunek noc¹);
+	- tor pomiêdzy wjazdami 1 i 3 to bocznica zajezdni tramwajowej Wola, tam kierujemy
+		poci¹g towarowy do ZTM.
+
+
+	--------------------------------------------------------------------------
+		Uwagi co do ruchu poci¹gów
+	--------------------------------------------------------------------------
+
+Poci¹gi towarowe i luzaki powinny przeje¿dzaæ obok peronów, torami powy¿ej nich, jednak
+	z obserwacji wynika, ¿e w przypadku ma³ego ruchu w peronach poci¹gi te jad¹
+	torami przy peronie 2 (górny) i przy peronie 3 (dolny).
+Poci¹g 6624 z Wieliszewa, który stoi na gdañskiej prawie 5 godzin, mo¿na odstawiæ na przed³u¿enie
+	toru dolnego przy peronie 2 - z regu³y ma³o u¿ywanego w ruchu poci¹gów.
+
+	--------------------------------------------------------
+		Lokomotywownia:
+	--------------------------------------------------------
+
+	- Warszawa Odolany;
+	- czas zamówienia  25 min.
+	- czas naprawy     60 min.
+
+
+	--------------------------------------------------------
+		Sk³ady i obiegi:
+	--------------------------------------------------------
+
+	- sk³ady poci¹gów rzeczywiste w 90%;
+	- obiegi poci¹gów rzeczywiste w 95%;
+
+
+	------------------------------------------
+		AUTORZY
+	------------------------------------------
+   ________________________________________________
+1. 	pomys³,
+	opracowanie schematu na podstawie pliku Igora,
+	"wklepanie" wszystkiego do komputera:
+		Adam Kamiñski
+		adi.kaminski@gmail.com
+		gg: 6676645
+
+   _______________________________________________
+2. 	rozk³ad poci¹gów,
+	rozrysowanie schematu:
+		Igor Bubicz
+		igorb@op.pl
+		gg: 7657537
+
+Wo³omin & Legionowo 2007
+2007-09-20

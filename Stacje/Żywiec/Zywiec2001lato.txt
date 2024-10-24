@@ -1,0 +1,48 @@
+                ¯YWIEC dla KOLEJARZa wersja 1.63
+
+¯ywiec jest stacj¹ po³o¿on¹ na linii Bielsko-Bia³a - Zwardoñ.
+
+WYJAZDY:
+1-kierunek Bielsko-Bia³a
+2-kierunek Zwardoñ
+3-kierunek Sucha Beskidzka
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia jest w Czechowicach-Dziedzicach. 
+Czas zamówienia: 70 minut
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Wyjazd w kierunku Zwardonia zosta³ na potrzeby gry wyprostowany,
+aby umozliwiæ wykonanie torów postojowych.
+Widok na uk³ad torów od strony budynku stacji.
+Przy górnym torze niezelektryfikowanym
+znajduje siê rampa wy³adowcza.
+Pomiedzy torami postojowymi a peronem pierwszym znajduje wyjazd 
+do ¯ywieckich Zak³adów Papierniczych SOLALI.
+Nie uzywany od kilkunastu lat i dlatego pominiêty.
+
+SK£ADY I LOKOMOTYWY:
+Na podstawie w³asnych obserwacji.
+
+ROZK£AD JAZDY:
+Rok 2001 lato.
+Na podstawie Komputerowego Rozk³adu Jazdy Poci¹gów HAFAS
+Odjazdy pociagow towarowych na podstawie S³RJP z roku 2001
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz wjecha³ na stacje nale¿y wybraæ trase do
+pierwszego punktu postojowego od wjazdu pierwszego.
+Poniewa¿ program nie pozwala na wys³anie na szlak samej lokomotywy
+nale¿y elektrowóz ET22 odes³aæ do lokomotywowni. 
+W rzeczywistoœci lokomotywa jedzie luzem po sk³ad do Bielska Bia³ej.
+Lokomotywy z lokomotywowni pobiera siê tylko w przypadku uszkodzenia.
+Tory przy peronie trzecim s¹ u¿ywane do zatrzymywania opóŸnionych 
+poci¹gów towarowych.
+
+AUTOR:
+Krzysztof W¹dolny       nmwadoln@imim-pan.krakow.pl
+
+PODZIÊKOWANIA:
+Bardzo dziekujê Panu Mariuszowi Hercholdowi z Siemianowic Œl¹skich 
+za dostarczenie s³u¿bowego rozk³adu poci¹gów towarowych.

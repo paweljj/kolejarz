@@ -1,0 +1,34 @@
+Stacja------> Koluszki uwaga zmiana numeracji wjazdów !
+Plan Stacji-> autentyczny 
+Rozk³ad-----> 2007/2008 wrzesieñ
+Wjazd-2---->Skierniewice,Kutno,£owicz,warszawa,Terespol,Ma³aszewicze
+Wjazd-1 ---->Wagonownia i baza remonta¿owo monta¿owa,Bocznica Odlewni ¿eliwa(nieczynna),Jednostka wojskowa Regny(nieczynna) kilka razy do roku je¿d¿a tam wagony do naprawy na polecenie dyspozytora nie s¹ ujête w s³u¿bowym rozk³adzie jazdy
+Wjazd-3---->CPN,baza magazynowo-prze³adunkowa NAFTOBAZY obecnie PKN ORLEN
+Wjazd-4---->S³otwiny,Tomaszówmazowiecki,Drzewica,Radom,Skar¿ysko-kamienna,Idzikowice(po³aczenie z CMK)
+Wjazd-5---->praktycznie tylko przyjazdy EN57 z £odzi Fabr i niektóre towarowe
+Wjazd-6---->³¹cznica Bêzelin -S³otwiny
+Wjazd-7---->Piotrków trybunalski,Radomsko,Czêstochowa,Gliwice,Katowice,Kraków,Zabrzeg Czarnolesie,Praga,Budapeszt
+Wjazd-8---->Ga³kówek, £ódŸ Kaliska-lokomotywownia,£ódŸ Olechów-stacja rozrz¹dowa,lokomotywownia,postój
+            pustych EZT ,Zgierz,Kutno,P³ock,Bydgoszcz,Gdañsk,Poznañ,Rzepin,Sieradz,ostrów wielkopolski
+            Franfurkt n/Odr¹,Wroc³aw,
+MODERNIZACJA LINI KOLEJOWEJ £ÓD¯ -WARSZAWA NIE OMINÊ£A KOLUSZEK
+ZLIKWIDOWANO PERON 1a ORAZ wybudowano PRZEJŒCIe PODZIEMNE oraz zlikwidowano szereg
+torów dodatkowych niezelektryfikowanych w okolicy peronu 1, zlikwidowano tor 104 , punkt manewrowy dla lokomotyw miêdzy krawêdziami peronu 1
+zmieni³o siê tochê numerów torów:
+5 > zlikwidowany
+7 > 5
+9 > 7
+104 > zlikwidowany
+106 >104
+108 >106
+itd.
+rozebrano k³adkê.
+niezawodne przekaŸnikowe urz¹dzenia PB zast¹piono wolniejszymi na skutek obecnoœci pêtli transmisyjnych oraz struktury  EBILOCKIEM 950 STC. ponadto po³¹czono zwrotnice posterunków Pêkowice i Bêzelin pod komputerowy pulpit nastawczy EBISCREEN 3.
+zamiast bocznicy CPN jest bocznica OLLP ,a zamiasta wagonowni sekcja napraw taboru nr 2.
+rozk³ad i obiegi z wrzeœnia 2008
+wtedy by³ remont mostu w Chociszewie na linii £ódŸ kaliska- Kutno
+poci¹gi np STOCZNIOWIEC jeŸdzi³y do £odzi kaliskiej przez £owicz -Skierniewka-Skierniewice Park- Koluszki-£ódŸ Widzew
+pojawi³y siê te¿ dziwaczne relacje do/z Zgierza.
+gra jest grywalna przez okres jednej doby .potem nie wiem czemu zamiast lokomotywy pojawia siê wagon
+KONTAKT:
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com

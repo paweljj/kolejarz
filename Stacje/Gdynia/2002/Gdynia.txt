@@ -1,0 +1,48 @@
+Uwagi:
+
+*Wymagana rozdzielczoœæ to 1024x768 (chocia¿ na 800x600 te¿ da siê graæ, ale ledwo widaæ ca³¹ stacjê)
+
+
+STACJA:
+Stacja Gdynia G³ówna posiada osiem wjazdów/wyjazdów:
+-nr 1 - Gdañsk, Olsztyn, Warszawa, Kraków, Poznañ, Wroc³aw
+-nr 2 - SKM kier. Gdañsk G³ówny
+-nr 3 - Koœcierzyna, Kartuzy
+-nr 4 - SKM kier. Wejherowo
+-nr 5 - Hel, S³upsk, Koszalin, Ko³obrzeg, Szczecin
+-nr 6 - stacja postojowa
+-nr 7 - wjazd z Gdynii Nowego Portu
+-mr 8 - wyjazd do Gdynii Nowego Portu
+
+*uk³ad stacji pochodzi ze strony Rados³awa Bacha (http://www.kolej.pl/~rbach) i jest prawie rzeczywisty, oto ró¿nice:
+-wyjazd nr 8 powinien byæ podwójny: jeden dla towarowych z kier. Koœcierzyny, drugi dla towarowych z kier. Gdañska G³ównego
+-peron dla SKM-u (nr 1) powinien byæ na skoœnym odcinu torów, jednak na niedoskona³oœci Kolejarza nie da³o tak siê zrobiæ
+-w rzeczywistoœci nie ma po³¹czenia SKM-u z PKP
+
+SK£ADY POCI¥GÓW:
+*wszystkich Ex, Ic i Hot s¹ oparte na materia³ach oficjalnej strony IC-PKP
+*jad¹cych przez Koszalin s¹ oparte na moich obserwacjach
+*rozpoczynaj¹cych bieg w Gdynii oraz kilka przelotowych (m.in. na Hel i do £eby) dosta³em od Rafa³a Moszczyñskiego, który udostêpni³ mi równie¿ parê przebiegów i parê innych rad (za co bardzo mu dziêkujê)
+
+INNE:
+Ruch obejmuje rozk³ad 2002 (lato). Poci¹gi towarowe s¹ zaczerpniête z Malborka'93, poniewa¿ innych nie zdoby³em.
+*poci¹gi rozpoczynaj¹ce bieg przyje¿d¿aj¹ ze stacji postojowej (wjazd nr 7) na 20-45 min przed planowym odjazdem
+*poci¹gi koñcz¹ce bieg odje¿d¿aj¹ 10-20 min po planowym przyjeŸdzie na stacjê postojow¹ (wyjazd nr 7)
+*autokuszety stacjonuj¹ na torach postojowych u do³u stacji
+*wagony pocztowe stacjonuj¹ na drugich torach postojowych od do³u stacji
+*pos nr 81204 (Szczecin - Bia³ystok) powinien przyje¿d¿aæ o 23:59, a odje¿d¿aæ o 0:15, zmieni³em na odpowiednio: 0:05 i 0:20, ze wzglêdu na zmianê loka, a nie mo¿na go szybciej œci¹gn¹æ z lokomotywowni
+*pos nr 56200 (Gdynia - Szkl. Por. Górna) tak naprawdê jest z³o¿ony z czterech czêœci: do Wroc³awia, Jeleniej Góry, Szklarskiej Porêby i Poznania
+*pos nr 54102 (Gdynia - ???) niby jedzie do Katowic/£odzi/Wroc³awia, a jego sk³ad to : 221W122. Pytanie tylko jak go rozdzielaj¹??? Zostawi³em tylko Katowice (no i wtedy sk³ad siê zgadza).
+
+PODZIÊKOWANIA:
+*dla Rados³awa Bacha, który przes³a³ mi plik stacji, który potem trochê zmieni³em:
+	-doda³em po³¹czenie SKM-u z PKP na wypadek zepsucia jednostki (co czêsto siê zdarza)
+	-zrobi³em dwupoziomowe skrzy¿owania
+*dla Rafa³a Moszczyñskiego, który przes³a³ mi sk³ady i przebiegi kilkunastu poci¹gów i da³ kilka innych uwag
+*dla Micha³a Krê¿lewicza (z Koszalina), u którego spêdzi³em wiele godzin siedz¹c na Necie (bo w domu nie mam:((((
+
+Wszelkie uwagi nt. stacji, przebiegów, sk³adów itp. proszê przesy³aæ na mój e-mail:
+marcoos@box.ids.pl
+
+
+Mi³ej zabawy!

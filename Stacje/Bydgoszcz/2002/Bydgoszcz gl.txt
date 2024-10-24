@@ -1,0 +1,358 @@
+Stacja Bydgoszcz G³ówna 2002 dla Kolejarza
+
+Autor Adam Kilian
+Uwagi i opinie: 1kiler@wp.pl
+Stacja wykonana przy pomocy programów: Pathfinder, Edytor, StationInfo.
+Proszê o dok³adne zapoznanie siê z treœci¹.
+
+------------------------------------------------------------------------------------------------
+
+O SCHEMACIE STACJI
+
+Schemat jest zgodny z rzeczywistoœci¹ w oko³o 90% z racji tego, ¿e stacja musia³a byæ trochê 
+"wyprostowana". Stacja posiada trochê niew³aœciwe proporcje, gdy¿ zale¿a³o mi na tym aby mo¿liwa 
+by³a gra w rozdzielczoœci 800x600. Równie¿ mo¿liwoœci techniczne Kolejarza nie pozwala³y na wykonanie 
+jej w 100%. 
+
+OPIS SKRÓTÓW
+PK - punkt kontrolny EZT;
+
+------------------------------------------------------------------------------------------------
+
+UPROSZCZENIA 
+
+Z powodów technicznych musia³em tu trochê oszukaæ.
+
+# Dojazd z peronów 1,2,3 do wyjazdu nr.1 wygl¹da inaczej ni¿ u mnie, gdy¿ jest zlokalizowany 
+  znacznie dalej od stacji.Na stacji musia³ byæ wiêc zrobi³em to w taki sposób jaki widaæ.
+
+# Torów ko³o lokomotywowni jest troszeczkê wiêcej ni¿ na schemacie .
+
+# Trochê inaczej wygl¹da PK i 4 tory postojowe dla wagonów. Otó¿ wszystko le¿y na ³uku(do do³u)
+  i jest znacznie d³u¿sze ni¿ szersze. Uk³ad torów i zwrotnic zosta³ jednak zachowany.
+
+------------------------------------------------------------------------------------------------
+
+WJAZDY/WYJAZDY
+
+Na stacji s¹ nastêpuj¹ce wjazdy i wyjazdy:
+- 1 - kierunki Inowroc³aw, Gniezno, Zduñska Wola Karsznice, Poznañ, Wroc³aw, Œl¹sk;
+- 2 - kierunki Pi³a, Krzy¿, Szczecin, Ko³obrzeg, Kostrzyn;
+- 3 - kierunki Toruñ, Kutno, £ódŸ, Warszawa, Lublin, Che³m, Kraków. Mo¿³iwy jest równie¿ dojazd 
+do Inowroc³awia oraz do górnego œl¹ska. Poci¹gi na stacji Bydgoszcz Wsch. wje¿d¿aj¹ na magisralê 
+Wêglow¹ i na stacji Nowa Wieœ Wielka s¹ ju¿ na tym samym szlaku, który  prowadzi z wjazdu i
+ wyjazdu nr 1.
+- 4 - kierunki Laskowice Pomorskie, Tczew, Gdañsk, Gdynia, Chojnice, Wierzchucin, Brodnica;
+- 5 - kierunki Kcynia, Szubin;
+
+Poci¹gi z wjazdów 1,2,5 pojawiaj¹ siê z 2 minutowym wyprzedzeniem, natomiast z 3,4 z 3 minutowym.
+
+-------------------------------------------------------------------------------------------------
+
+PERONY
+
+nr 1 - z tego peronu wyprawiane s¹ dalekobie¿ne poci¹gi zaczynaj¹ce bieg w Bydgoszczy takie jak 
+Ex 5106 "Kujawiak" oraz 57113 Bydgoszcz G³ - Œwinoujœcie, oraz osbowe do Pi³y, Torunia;
+
+nr 2 - na górn¹ krawêdŸ peronu wje¿d¿aj¹ poci¹gi przelotowe jad¹ce z kierunku 2.
+Poci¹gi koñcz¹ce i zaczynaj¹ce bieg przy peronie 2 przewa¿nie korzystaj¹ z dolnej krawêdzi peronu,
+choæ nie jest to regu³¹. 
+
+nr 3 - zatrzymuj¹ siê tam poci¹gi przelotowe jad¹ce z kierunków 3, 4 oraz koñcz¹ i zaczynaj¹ bieg 
+niektóre poci¹gi;
+
+nr 4 - zatrzymuj¹ siê tam poci¹gi przelotowe jad¹ce z kierunku 1  oraz koñcz¹ i zaczynaj¹ bieg 
+niektóre poci¹gi;
+
+nr 5 - poci¹gi dalekobie¿ne jad¹ce z kierunku 4 zatrzymuj¹ siê przy dolnej krawêdzi, przy dolnej
+krawêdzi koñcz¹ te¿ bieg nastêpuj¹ce poci¹gi osobowe:
+
+ poci¹g nr 9020 przyjazd 5:13    (Tuchola)
+ poci¹g nr 20224 przyjazd 10:56  (Laskowice Pomorskie)
+ poci¹g nr 90224 przyjazd 17:50  (Chojnice)
+
+Wszystkie pozosta³e poci¹gi koñcz¹ bieg przy górnej krawêdzi peronu 5.
+¯aden poci¹g nie rozpoczyna biegu z dolnej krawêdzi peronu 5.
+
+nr 6 - jest to w rzeczywistoœci peron nr 3a (przed³u¿enie peronu 3) i aby siê nie myli³o nazwa³em go nr 6.
+Z tego peronu przewa¿nie wyprawiane s¹ poci¹gi prowadzone trakcj¹ spalinow¹ czyli poci¹gi do Chojnic, 
+Wierzchucina, Brodnicy.
+
+nr 7 - jest to w rzeczywistoœci peron nr 4a (przed³u¿enie peronu 4) i aby siê nie myli³o nazwa³em go nr 7.
+Je¿eli chodzi o poci¹gi przyjmowane i odprawiane to podobnie jak przy peronie 6.
+
+Oczywiœcie w przypadku opóŸnienia choæby jednego poci¹gu  wszystko ulega zmianie.
+
+-------------------------------------------------------------------------------------------------
+
+PUNKT KONTROLNY DLA EZT
+
+Punkt kontrolny dla EZT to 5 najbardziej wysuniêtych na prawo torów postojowych.
+Na drugim torze od góry znajduje siê kana³ rewizyjny ze wszystkimi urz¹dzeniami potrzebnymi do
+przeprowadzenia przegl¹du kontrolnego.
+Pozosta³e tory s³u¿¹ do postoju jednostek EN57.
+
+-------------------------------------------------------------------------------------------------
+
+TORY POSTOJOWE
+
+Tory postojowe z numerem 1 to w rzeczywistoœci ma³a szopa gdzie stacjonuj¹ 2 drezyny . 
+
+Na wszystkich pozosta³ych torach postojowych mo¿emy ustawiaæ wagony osobowe przestrzegaj¹c 
+nastêpuj¹cych zasad:
+
+-na dwóch (w zasadzie trzech) torach postojowych za peronem 3 znajduje siê stanowisko 
+elektrycznego ogrzewania wagonów(niebieski wagonik); pojemnoœæ tych torów nie jest du¿a dlatego 
+powinniœmy siê ograniczyæ do ustawiania tam krótkich sk³adów osobowych i pospiesznych 
+( 5,6 wagonów lub Bhp +2,3 wagony);
+
+-trzy tory postojowe obok peronu 1 mog¹ pomieœciæ sk³ady oko³o 10-cio wagonowe,(rzadko u¿ywane)
+
+-piêæ niezelektryfikowanych torów postojowych po prawej stonie peronów przewa¿nie s³u¿y do postoju
+wagonów rezerwowych ;
+# pierwszy tor od góry mo¿e pomieœciæ 2xBHP lub kilka wagonów osobowych;
+# drugi tor mo¿e pomieœciæ jedynie 2 wagony osobowe;
+# trzeci tor mo¿e pomieœciæ wiêksz¹ liczbê wagonów(6,7);
+# pozosta³e dwa tory mog¹ pomieœciæ wiêcej wagonów(6-9);
+
+-Na tor pomiêdzy peronami 7 i 6 ustawiane s¹ poci¹gi osobowe do/z Chojnic, Brodnicy, Wierzchucina;
+Mog¹ one pomieœciæ œredniej d³ugoœci sk³ady (Bhp+ 3 wagony lub 5,6 wagonów);
+
+- cztery tory obok Punktu Kontrolnego s³u¿¹ do postoju d³ugich sk³adów pospiesznych i osobowych;
+# na torze postojowym niezelektryfikowanym znajduje siê jakieœ pomost z lampami jakieœ beczki 
+i rury .Powiem szczerze ¿e nie wiem co to jest.
+# na drugim torze od góry znajduje siê myjnia ;
+# pozosta³e tory s¹ zwyk³ymi torami postojowymi;
+Wszystkie tory s¹ bardzo pojemne i ustawiane s¹ na nich nawet po dwa sk³ady(np. Wieniawski i BHP);
+
+-------------------------------------------------------------------------------------------------
+
+TORY TOWAROWE
+
+Na torze obok PK znajduje siê specjalna suwnica do rêcznego mycia wagonów osobowych i do innych
+celów. Jest ona w³asnoœci¹ firmy KZU (Kolejowe Zak³ady Us³ugowe);
+
+Na trzech torach towarowych stoj¹ jakieœ stare wagony towarowe.
+
+Na torze obok peronu 5 zwykle stoj¹ lokomotywy SU45 z CM Gdynia po przyprowadzeniu swoich sk³adów
+lub stoj¹ poci¹gi do Szubina, Kcyni, Chojnic, Wierzchucina;
+
+-------------------------------------------------------------------------------------------------
+   
+LOKOMOTYWOWNIA
+
+Czas naprawy lokomotywy 60 min.
+Czas od zamówienia 5min.
+Jednoczeœnie naprawianych jest 5 lokomotyw.
+
+-------------------------------------------------------------------------------------------------
+
+Punkt postojowy dla lokomotyw obok peronu 2 s³u¿y do postoju EU07 warszawskich, lubelskich i 
+³ódzkich;
+
+-------------------------------------------------------------------------------------------------
+
+TORY NALE¯¥CE DO PESA BYDGOSZCZ	
+
+Na schemacie uwzglêdni³em tory nale¿¹ce do PESA(dawne ZNTK).
+S¹ to niezelektryfikowane toru po prawej stronie peronu 5.
+
+-------------------------------------------------------------------------------------------------
+
+
+ROZK£AD JAZDY 2002 (06.01.2002-14.12.2002)
+
+Przy tworzeniu stacji korzysta³em z rozk³adu ze strony www.pkp.pl, Srjp.
+Stacja zawiera wszystkie(chyba) poci¹gi osobowe zawarte w tych rozk³adach.
+Poci¹gi towarowe, sieciowe, robocze s¹ wytworem mojej wyobraŸni ale chyba w granicach 
+zdrowego rozs¹dku.
+Informacje o poci¹gach Pocztowo-baga¿owych i z wagonami do/z ZNTK zaczerpn¹³em z dodatku 2b.
+Wszystkie sk³ady s¹ zgodne z rzeczywistoœci¹ ,przy ich ustalaniu korzysta³em z dodatku 2b/c/d
+oraz z w³asnych obserwacji.
+Obiegi wagonów osobowych i EZT s¹ zgodne z rzeczywistoœci¹.
+Obs³uga trakcyjna jest taka jak w rzeczywistoœci.
+Pomimo ¿e w dodatku 2b/c nie ma nic o ET22 z CM Bydgoszcz a w rzeczywistoœci one kursuj¹ 
+dlatego u mnie s¹ one uwzglêdnione.
+Obiegi lokomotyw s¹ troszeczkê naci¹gane.Nie uda³o mi siê dotrzeæ do czgokolwiek w tym temacie.
+
+-------------------------------------------------------------------------------------------------
+
+INFORMACJE O PROWADZONYM RUCHU NA STACJI
+
+Przedstawiê tu informacje, które mog¹ przydaæ siê podczas gry.
+
+- Manewry na stacji wykonuje jedna lokomotywa SM42;
+- po w³¹czeniu gry proponujê poustawiaæ poci¹gi w nastêpuj¹cy sposób:
+  # poci¹gi :
+    - "Wieniawski"
+    - "Szklarka"
+    -  5130 do £odzi
+    -  54100 do Katowic
+    -  30120 do Olsztyna
+  ustawiamy na torach postojowych obok Punktu Kontrolnego;
+  # poci¹gi
+    - 20206 do Zakopanego
+    - 11720 do Kcyni/Szubina
+    - 57423 do Pi³y
+  ustawiamy na torach obok peronu 3;
+  # poci¹g
+    - "Kujawiak"
+  ustawiamy przy peronie 1;
+  # poci¹g
+    - 57425 do Pi³y(EZT) 
+  ustawiamy na kanale rewizyjnym
+  # MV15 ustawiamy na tory postojowe nr 1;
+Takie ustawienie jest w bardzo du¿ym stopniu zgodne z rzeczywistoœci¹ .
+Poci¹g do Zakopanego zawsze jest ustawiany na torach obok peronu 1.
+S¹ tam równie¿ ustawiane poci¹gi osobowe do Pi³y.
+Poci¹gi dalekobie¿ne s¹ ustawiane albo na torach obok PK albo na torach obok peronu 1.
+Z tym ¿e obok peronu 1 s¹ ustawiane stosunkowo rzadko.
+Wagony od poci¹gów osobowych do Kcyni, Szubina s¹ ustawiane przewa¿nie na torach obok PK.
+Wagony od poci¹gów osobowych do Wierzchucina, Chojnic, Brodnicy s¹ ustawiane albo na torach obok PK
+albo na torze pomiêdzy peronami 6,7 lub od razu podstawiane na perony.
+Sk³ady, które stoj¹ na torze pomiêdzy peronami 6,7 bardzo czêsto s¹ wyci¹gane z nich lokomtywami
+z którymi wyje¿d¿aj¹ na szlak(SU45).S¹ one równierz tam wpychane przez te lokomotywy.
+Poci¹g 11721 z Szubina po pod³¹czeniu lokomotywy SU45 odstawiamy na tory towarowe powy¿ej peronu 5
+i potem podstawiamy na peron 5.
+Na tory postojowe obok PK sk³ady s¹  wpychane i z nich wyci¹gane, oprócz pociagów które nale¿y 
+podstawiæ na perony 6,7. 
+Sk³ady s¹ podstawiane na oko³o 1 godzinê przed odjazdem.
+EZT s¹ podstawiane na oko³o 30 minut przed odjazdem.
+Drezyny wysy³amy z aktualnie pustych peronów.
+Do czyszczenia nale¿y wys³aæ nastêpuj¹ce wagony:
+ - wagony od "Powiœla"
+ - BHP od 11723 przyjazd 6:25
+ - sk³ad poci¹gu 11725 przyjazd 9:40
+ - sk³ad poci¹gu 90222 przyjazd 6:27
+ - sk³ady poci¹gów dalekobie¿nych
+Poniewa¿ na stacji jest tylko jedno miejsce elektrycznego ogrzewania wagónów w okresie zimowym
+po stacji "kr¹¿y" lokomotywa ET22, która ogrzewa sk³ady.
+Lokomotywy które rozpoczynaj¹ bieg z peronów 1,2,3,4,5 w kierunku 1,2 doje¿d¿aj¹ z lokomotywowni
+do peronów w sposób nastêpuj¹cy:
+po wyjechaniu z lokomotywowni zatrzymuj¹ siê w punkcie za torami towarowymi nastêpnie jad¹ do 
+punktu który le¿y torze od wjazdu nr 1 , nastêpnie wje¿d¿aj¹ na peron 4( w rzeczywistoœci 
+zatrzymuj¹ siê przed nim), potem doje¿d¿aj¹ do punktu który le¿y na torzê do Wyjazdu nr 2 i z 
+tamt¹d doje¿d¿aj¹ do odpowiedniego peronu.
+W drug¹ stronê zasada obowi¹zuje ta sama. 
+
+S¹ podczas gry takie momenty gdy na stacji jest bardzo du¿y "kocio³" i trzeba mieæ 
+obmyœlony dobry plan dzia³ania.Taki plan potrzebny jest w godzinach 17:30 - 18:30.
+W rzeczywistoœci wygl¹da³o to mniej wiêcej tak:
+ - poci¹giem 20233 do S³upska zje¿d¿amy do PK;
+ - do poci¹gu 1543 z Kutna pod³¹czamy SM42 z lewej strony i ustawiamy na którymœ z torów obok 
+   peronu 3.
+ - do poci¹gu 90224 z Chojnic pod³¹czamy odpowiedni¹ lokomotywê SU45 CM Bydgoszcz i 
+   przestawiamy sk³ad na peron nr 6. Z t¹ lokomotyw¹ poci¹g odje¿d¿a ze stacji.
+ - poci¹g 40144 do W³oc³awka podstawiamy na górn¹ krawêdŸ peronu 2;
+ - do poci¹g 1507 "Kujawiak" z lewej strony pod³aczamy SM42 i w jak najszybszym czasie wpychamy
+   na tory postojowe obok PK;
+ - po odczepieniu lokomotywy jak najszybciej wracamy do sk³adu 57435 do Pi³y i pod³aczamy siê do 
+   niego;
+ - poci¹giem 75426 z Pi³y mo¿liwie szybko opuszczamy peron 1 i jedziemy do PK;
+ - poci¹g 20233 podstawiamy na górn¹ krawêdŸ peronu 2;
+ - poci¹g 1530 z £odzi Kaliskiej przyjmujemy na peron 2.Odczepiamy lokomotywê ale pozostawiamy j¹ 
+   na razie przy sk³adzie;
+ - poci¹g 51104 przyjmujemy na peron 3 a lokomotywê prze³¹czamy na drugi koniec sk³adu;
+ - wyje¿d¿amy lokomotyw¹ SM42 razem z poci¹giem 57435 do Pi³y i ustawiamy siê w punkcie postojowym
+   le¿¹cym na torach prowadz¹cych do wyjazdu 2 i czekamy na poci¹g 85504 z Ko³obrzegu,nastêpnie 
+   przestawiamy ten sk³ad na peron 3 i pod³¹czamy do poci¹gu 51104;
+ - odje¿d¿amy lokomotyw¹ EU07 od poci¹gu z £odzi i jedziemy do lokomotywowni;
+ - odje¿d¿amy sk³adem do Pi³y od poci¹gu 51104 do £odzi i podstawiamy go na peron 2;
+ - po od³¹czeniu SM42 od tego sk³adu podczepiamy siê do poci¹gu 1530 z £odzi i wpychamy go 
+   na tory postojowe obok PK gdzie formujemy z niego nowy sk³ad;
+ Je¿eli bêdziemy siê tego trzymaæ wszystko brzebiegnie bardzo sprawnie i nie z³apiemy zadnych 
+ opóŸnieñ.
+ Oczywiœcie w przypadku opóŸnienia chocia¿ jednego z tych poci¹gów wszystko ulega zmianie 
+ i robi siê wielki ba³agan.
+  
+ To co napisa³em nie jest sztywn¹ regu³¹ jednak przewa¿nie jest wszystko robione tak jak napisa³em.
+
+Przypominam ¿e niektóre poci¹gi zmieniaj¹ na stacji kierunek jazdy.
+Po rozpoczêciu gry proponujê od razu zamówiæ ET22 i SM42 poniewa¿ pierwszy odjazd ju¿ o 0025.
+
+-------------------------------------------------------------------------------------------------
+
+KILKA INFORMACJI O STACJI BYDGOSZCZ
+
+Stacja Bydgoszcz G³ jest du¿¹ stacj¹ wêz³ow¹.
+Ruch osobowy jest doœæ spory, je¿eli chodzi o ruch towarowy to na samej stacji jest on ma³y .
+Na stacji znajduje siê piêæ niskich peronów oraz dwa tzw. perony oporowe.
+Perony numer 2,3,4,5 s¹ czêœciowo zadaszone pozosta³e nie.Dojœcie do peronów odbywa siê 
+przejœciem podziemnym z wyj¹tkiem peronu 1 na który mo¿na dostaæ siê równie¿ z "ulicy".
+Hala g³ówna dworca znajduje siê tu¿ przed peronem 1. Miêdzy peronami 3 i 4 znajduje siê tak jakby 
+drugi budynek dworca gdzie mieœci siê poczekalnia, Jednostka SOK, Poczta Polska, dy¿urny ruchu,
+Posterunrk Rewizji Technicznej wagonów itp.
+Pomimo, ¿e Stacja jest doœæ du¿a nie mo¿e siê poszczyciæ zbyt du¿¹ iloœci¹ wagonów osobowych.
+W Bydgoszczy jest kilka zestawów BHP(równie¿ starych Bip), kilka wagonów 1 klasy oraz 
+kilka wagonów 2 klasy, przewa¿nie doœæ starych (te z dwoma schodkami wejœciwymi).Ogó³em wszystkich
+wagonów jest oko³o 35 sztuk.
+Bydgoszcz obs³uguje nastêpuj¹ce sk³ady:
+ - 20206 do Zakopanego - 2 sk³ady w obiegu; 
+ - 90323 do Brodnicy - 1 sk³ad w obiegu;
+ - 30120 do Olsztyna - 1 sk³ad w obiegu;
+ - Kcynia/Szubin/Wierzchucin - 3xB - 1 sk³ad w obiegu;
+ - Kcynia - BHP - 1 sk³ad w obiegu;
+ - 90223,9027,9029,90221 - BHP/BB - 3 sk³ady w obiegu;
+Inne sk³ady:
+ - Toruñ/Kutno/Pi³a/Krzy¿ - Bdhpumn - Stacja Toruñ - 3 sk³ady w obiegu;
+ - "Wieniawski" - Stacja Lublin/Wars(Kraków) - 2 sk³ady w obiegu;
+ - "Szklarka" - Stacja Gdynia - 3 sk³ady w obiegu;
+ - 9022,9024 - BHP - Grudzi¹dz - 1 sk³ad w obiegu;
+ - 20124 - Gdynia - 1 sk³ad w obiegu;
+ - 1530 - £ódŸ Kaliska - 1 sk³ad w obiegu;
+ - 4025 - Poznañ - 1 sklad w obiegu;
+ - "Kopernik" - W-wa Szczêœliwice - 1 sk³ad w obiegu;
+ - "Kujawiak" - W-wa Grochów - 1 sk³ad w obiegu;
+ - 45102 - Katowice - 1 sk³ad w obiegu;
+ 
+W Bydgoszczy znajduj¹ siê dwie lokomotywownie. Pierwsza mieszcz¹ca siê na stacji, druga
+mieszcz¹ca siê obok p.o Bydgoszcz Bielawy nosz¹ca nazwê Bydgoszcz Wsch.
+W pierwszej stacjonuj¹ przewa¿nie lokomotywy spalinowe serii SM/SU/SP 42, SM30, SU45, ST44, oraz
+ET22.
+Oto jak to siê przedstawia iloœciowo:
+ SU42 - 4szt.(518,527,528,535);
+ SP42 - 4Szt.(052,148,160,198);
+ Su45 - 14szt.(021,131,141,166,168,170,178,185,204,208,210,238,257,263);
+ SM42 - brak danych
+ ST44 - brak danych
+ ET22 - brak danych
+Na terenie lokomotywowni znajduje siê równie¿ pomnik parowozu TKp1 - 46.
+W lokomotywowni Bydgoszcz Wsh. s¹ utrzymywane lokomotywy kursuj¹ce magistral¹ wêglow¹ czyli:
+ - ET40
+ - ET42
+ - ET22
+  mo¿na spotkaæ te¿ lokomotywê ET21;
+Do roku 2000 w Bydgoszczy równie¿ EU07 jednak zosta³y przedelegowane do innych oœrodków.
+Macierzystym punktem utrzymania jednostek EZT jest Toruñ.
+Jest tam 5 ED72 oraz ca³a masa EN57 w tym jedna "dziwiêtnastka" z czo³em jak ED72.
+W Bydgoszczy mo¿na spotkaæ EN57 w nastêpuj¹cych barwach:
+ - tradycyjnym czyli ¿ó³to-niebieskim;
+ - czerwono-¿ó³tym takim jak w ED72;
+ - niebiesko-¿ó³te malowane tak jak ED72;
+ - pomarañczowym; 
+ZPR Bydgoszcz dysponuje nastêpuj¹cymi jednostkami :
+# EN57
+654,675,724,726,727,728,734,736,737,749,836,948,962,970,1154,1160,1163,1277,1280,1337,1339,1482,
+1557,1570,1574,1653,1762,1783,1786,1789,1790,1793,1794,1818,1819,1820,1821,1919 oraz wiele innych.  
+# ED72
+01,02,03,04,05;  
+
+Tu¿ obok stacji znajduj¹ siê zak³ady PESA Bydgoszcz (dawne ZNTK), gdzie przeprowadza siê 
+naprawy :
+ 
+ lokomotyw: 
+  - SU45
+  - ST44
+  - ST43
+  - SM48
+ jednostek EN57
+ wagonów:
+  - sypialnych 
+  - BHP
+  - Bdhpumn
+  - Z1,Z2
+  - 111A
+  - 112A
+
+
+¯yczê przyjemnej zabawy.

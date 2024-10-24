@@ -1,0 +1,84 @@
+Stacja Siedlce (2013/2014) + bonus
+
+Stacja Siedlce jest stacj¹ wêz³ow¹ z uk³adem torowym stacji rozrz¹dowej.
+Po³o¿ona w centrum 70-cio tysiêcznego miasta powiatowego odgrywa du¿¹ rolê w ruchu osobowym - regionalnym.
+Zbiegaj¹ siê tu 3 linie kolejowe:
+2 - Warszawa Centralna - Terespol
+31 - Siedlce - Cisówka (Siemianówka)
+55 - Soko³ów Podlaski - Siedlce (dawniej 34 Ostro³êka - Siedlce)
+Obs³uguje g³ównie ruch osobowy, kilka poci¹gów zdawczych oraz niewielki tranzyt towarowy.
+Niegdyœ du¿a stacja wêz³owa o du¿ym ruchu towarowym i osobowym, z szop¹ spalinow¹ oraz halami napraw EZT, dziœ tylko stacja przesiadkowa i przelotowa dla tranzytu ze Wschodu.
+
+W Kolejarzu:
+Stacjê zasadniczo mo¿na podzieliæ na kilka grup w zale¿noœci od ich funkcji.
+Patrz¹c na schemat od lewej:
+Grupa postojowa - osobowa:
+-Wjazdy z Warszawy oraz Soko³owa Podlaskiego,
+-4 tory postojowe dla poci¹gów pasa¿erskich (jeden niezelektryfikowany)
+-Tor odstawczy (uporek) dla oczekuj¹cych na poci¹gi lokomotyw
+Grupa osobowa:
+-3 perony (1-jednokrawêdziowy, 2,3-dwukrawêdziowe)
+-2 tory tranzytowe
+-2 tory manewrowe (jeden na grupê towarow¹, jeden pod rampy i do szopy)
+-Szopa (dawna MD Siedlce, dziœ tylko IZ Siedlce gdzie stacjonuje pogotowie drogowe)
+Grupa towarowa:
+Grupa towarowa zasadniczo dzieli siê na 5 czêœci (podzia³ charakterystyczny dla stacji rozrz¹dowych).
+Patrz¹c od góry:
+-parzysta czêœæ zdawczo odbiorcza (tory odstawcze dla poci¹gów towarowych, rampa roz³adunkowa (czêœæ torów rozebrana))
+-czêœæ postojowa (wszystkie tory dwukierunkowe (aktualnie to w wiêkszoœci tutaj ma miejsce ³¹czenie, roz³¹czanie, formowanie, przyjmowanie i wyprawianie poci¹gów))
+-jednokierunkowa czêœæ postojowa (dla poci¹gów przyjmowanych z kierunku Czeremchy, Terespola)
+-jednokierunkowa czêœæ postojowa (dla poci¹gów przyjmowanych z kierunku Warszawy i Soko³owa Podlaskiego)
+-nieparzysta czêœæ zdawczo odbiorcza (rampa towarowa)
+Grupa zdawczo - odbiorcza:
+-Wyjazd w kierunku Czeremchy oraz Terespola
+-Bocznica do zak³¹dów Stadler Rail
+-Wschodnia Bocznica Przemys³owa
+-PKP Energetyka
+
+G³ówne relacje poci¹gów:
+-KM Siedlce - Warszawa Zachodnia
+-KM Siedlce - £uków
+-KM Siedlce - Czeremcha
+-TLK Warszawa Zachodnia/Gdañska - Terespol/Moskwa
+-PR Siedlce - Hajnówka
+
+Wjazdy / wyjazdy:
+
+1 - Warszawa (SBL / czas zwolnienia bloku 2 minuty)
+2 - Terespol (najbli¿szy post. ruchu - stacja Dziewule. CZas zwolnienia bloku - 12 minut)
+3 - Soko³ów Podlaski (brak post. ruchu do stacji docelowej. Czas zwolnienia bloku 30 minut)
+4 - Siemianóka (najbli¿szy post. ruchu - stacja Niemojki. CZas zwolnienia bloku - 32 minuty)
+5 - Bocznica Stadler Rail (czas zwolnienia bocznicy - 10 minut)
+6 - Wschodnia Bocznica Przemys³owa (czas zwolnienia bocznicy - 10 minut)
+
+Perony:
+1 - obs³uguje tylko i wy³¹cznie po³¹czenia KM Siedlce - Warszawa
+2,3 - obs³uguj¹ pozosta³ê po³¹czenia KM, PR, TLK.
+!!! Z peronu nr 2, toru nr 2 nie ma mo¿liwoœci wyjazdu w kierunku wyjazdu nr 2 lub 4!!!
+
+Tory postojowe:
+Na grupie osobowej tory postojowe przyjmuj¹ nocuj¹ce poci¹gi KM, podmieniane jednostki KM do £ukowa oraz w razie braku torów na stacji szynobusy z Czeremchy / Hajnówki.
+Grupa towarowa podzielona na trzy czêœci. Pierwsza ogólnodostêpna, druga kierunkowa (kierunek Warszawa), trzecia kierunkowa (kierunek Terespol, Siemianówka).
+Rampy roz³adunkowe czynne - nieu¿ywane.
+
+Lokomotywownia:
+Najbli¿sza w £ukowie (czas dojazdu 45 minut, czas naprawy 120 minut)
+
+Kilka wa¿nych uwag technicznych:
+1.W zwi¹zku z du¿ym rozmiarem stacji iloœæ przebiegów bezpoœrednich zosta³a ograniczona do tych najbardziej potrzebnych.
+2.Do planu stacji doda³em "strza³ki" symbolizuj¹ce semafory drogowskazowe i wyjazdowe. W przypadku zajêtoœci toru w który mamy zamiar przyj¹æ poci¹g mo¿emy go podci¹gn¹æ pod dany semafor zwalniaj¹c tym samym wyjazd.
+2a. W zwi¹zku z tak¹ a nie inn¹ budow¹ stacji wyjazd z peronu nr 2, toru nr 2 w kierunku wschodnim jest niemo¿liwy (tylko rozkaz pisemny).
+2b. W zwi¹zku z ogóln¹ siedleck¹ nud¹ i sennoœci¹ do planu doda³em posterunek odga³êŸny Do³y oraz ³¹cznicê nr 520 ³¹cz¹c¹ linie na Terespol i Siemianówkê.
+Skutkiem ubocznym by³o pominiêcie przystanku osobowego Siedlce Wschodnie z uwagi na ograniczenia Kolejarza.
+3.Rozk³ad jazdy poci¹gów pasa¿erskich zgodny w 99% z orygina³em (na potrzeby kolejarza musia³em przesun¹æ kilka poci¹gów osobowych o minutê, czasem dwie)
+3a. Lokomotywa SM42/SM48 przyje¿d¿aj¹ca z poci¹giem zdawczym z £ukowa oko³o godziny 8:00 prowadzi tak¿e prace manewrowe na stacji.
+Mo¿emy i powinniœmy jej u¿ywaæ do manewrów (zwracaj¹c uwagê na poci¹gi zdawcze z którymi powinna pojechaæ).
+4.Rozk³ad jazdy poci¹gów towarowych - orientacyjny. W zwi¹zku z przebudow¹ Rail Balticki przez Siedlce prowadzi objazd co t³umaczy wiêksz¹ iloœæ poci¹gów towarowych.
+5.Tory towarowe jednokierunkowe oznaczone s¹ odpowiednimi strza³kami.
+
+Rj zgodny w 99% z orygina³em, uk³ad torowy zgodny w 100% z orygina³em. Stan na styczeñ 2014 roku.
+Wszelkie zauwa¿one b³êdy i w³asne przemyœlenia oraz uwagi (a b³êdów bêdzie sporo z uwagi, ¿e jest to mój pierwszy projekt) proszê kierowaæ na email troc.pawel@gmail.com
+Do symulacji pozwoli³em sobie do³¹czyæ plan stacji w formie rysunku którego wyœwietlanie w³¹czamy w opcjach Kolejarza.
+Jednym to pomo¿e, innym utrudni symulacjê.
+
+¯yczê mi³ej zabawy, Pozdrawiam. IcemanMC

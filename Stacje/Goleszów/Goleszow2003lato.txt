@@ -1,0 +1,38 @@
+                  GOLESZÓW dla Kolejarza 1.63
+
+WYJAZD:
+1-kierunek Bielsko-Bia³a
+2-kierunek Cieszyn
+3-kierunek Wis³a G³êbce
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje sie w Czechowicach Dziedzicach. 
+Czas oczekiwania na elektrowóz - 40 minut.
+
+UK£AD TOROWY:
+Uk³ad torowy stacji jest napisany z dok³adnoœcia co do rozjazdu, 
+choæ tory zosta³y wyprostowane w kierunku wyjazdu pierwszego. 
+Perony maja szerokoœæ oko³o dwóch metrów, gdy¿ zaniechano budowy nowych.
+Widok na uk³ad torów od strony budynku stacji.
+Litery BS oznaczaj¹ budynek stacji.
+Litery RM oznaczaj¹ krótk¹ rampe wy³adowcz¹.
+Litera P oznacza posterunek manewrowy.
+
+SK£ADY I LOKOMOTYWY:
+Lokomotywy, wagony oraz jednostki s¹ zgodne z dodatkami 2C i 2D 
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie elektronicznego rozk³adu jazdy HAFAS z lata 2003
+oraz dodatków 2C,2D i 4B do Rozk³adu Jazdy Poci¹gów Towarowych.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz z lokomotywowni wjecha³ na stacje nale¿y wybraæ trasê do 
+pierwszego punktu manewrowego od wjazdu pierwszego. 
+EZT z pociagu 8020 nale¿y przetoczyæ na tor towarowy powy¿ej peronu 3.
+EZT z pociagu 8012 nale¿y przetoczyæ na tor towarowy powy¿ej peronu 3.
+Wagony pociagu towarowego roz³¹czanego nale¿y pozostawiæ przy rampie.
+ 
+AUTOR:
+Krzysztof Wadolny            nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1

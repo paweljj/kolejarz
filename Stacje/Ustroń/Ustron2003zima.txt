@@ -1,0 +1,33 @@
+                         USTROÑ
+
+Ustroñ jest stacj¹ po³o¿on¹ na linii Goleszów-Wis³a G³êbce.
+
+WYJAZDY:
+1-kierunek Goleszów
+2-kierunek Wis³a G³êbce
+3-kierunek Ustroñ Towarowa
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znaduje sie w Czechowicach Dziedzicach. 
+Czas oczekiwania na elektrowóz - 50 minut.
+
+UK£AD TOROWY:
+Uk³ad torowy stacji jest napisany z dok³adnoœcia co do rozjazdu. 
+Widok na uk³ad torów od strony budynku stacji.
+Przy dolnym torze niezelektryfikowanym znajduje siê rampa.
+
+SK£ADY I LOKOMOTYWY:
+Lokomotywy, wagony oraz jednostki sa autentyczne na postawie obserwacji 
+w³asnych.
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie elektronicznego rozk³adu jazdy HAFAS z lata 2003
+oraz dodatku 4B do WRJP.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz z lokomotywowni wjecha³ na stacje nale¿y wybraæ trase do 
+pierwszego punktu manewrowego od wjazdu pierwszego. 
+
+AUTOR:
+Krzysztof W¹dolny            nmwadoln@imim-pan.krakow.pl

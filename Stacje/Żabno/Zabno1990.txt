@@ -1,0 +1,10 @@
+Stacja------> ¯abno
+Plan Stacji-> autentyczny na podstawie planu semaforka i planu znalezionego na aukcji internetowej
+Rozk³ad-----> 1990 zeszyt 344
+Wjazd-1----> Niedomickie Zak³ady Celulozowe
+Wjazd-2----> Tarnów
+Wjazd-3----> Szczucin ko³o Tarnowa
+zestawienia  sk³adów fikcyjne
+czasy  do mijanek skrócone z uwagi na unikniêcie opóŸnienia pociagu przyjezdaj¹cego 10 minut po pó³nocy 
+Stacja ¯abno obs³ugiwa³a Niedomickie Zak³ady Celulozowe korzystaj¹ce z materia³ów niebezpiecznych i zamkniête w 1992 obecie uzywany jest
+tylko wjazd od strony Tarnowa i obs³ugiwany jest tutejszy sk³ad opa³u.

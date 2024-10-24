@@ -1,0 +1,39 @@
+                  SKAWCE dla Kolejarza 1.63
+
+Skawce jest stacj¹ po³o¿on¹ na linii Kraków P³aszów-Zakopane. 
+
+WYJAZDY:
+1-Kraków P³aszów
+2-Zakopane
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znaduje sie w Krakowie P³aszowie.
+Czas oczekiwania na elektrowóz - 90 minut
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Widok na uk³ad torów od strony budynku stacji.
+Litery BS na schemacie stacji oznaczaj¹ budynek stacji.
+Liter¹ N oznaczone jest miejsce nastawni.
+
+LOKOMOTYWY i SK£ADY:
+Obiegi i sk³ady EZT na podstawie dodatku 2D.
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie elektronicznego rozk³adu jazdy
+HAFAS z roku 2006 oraz dodatków 2D i 4B do Wewnêtrznego
+Rozk³adu Jazdy Poci¹gów Towarowych.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz wjecha³ na stacje nale¿y wybraæ trasê do
+pierwszego punktu postojowego dla lokomotyw od wjazdu pierwszego.
+
+AUTOR:
+Krzysztof W¹dolny   nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1
+
+PODZIEKOWANIA:
+Bardzo dziekujê Panu mgr in¿. Rafa³owi Paj¹kowi z centrali PKP Cargo w Krakowie,
+za udostêpnienie rozk³adów poci¹gów towarowych oraz Paw³owi Okrzesikowi za
+nades³anie mnie podanych rozk³adów jazdy poci¹gów towarowych.

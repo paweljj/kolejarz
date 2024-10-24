@@ -1,0 +1,51 @@
+STACJA Lubin Górniczy - wrzesieñ 2010
+
+Stacja kolejowa w mieœcie Lubinie w województwie dolnoœl¹skim nazywa
+siê Lubin Górniczy i funkcjonuje od 25 grudnia 1869 roku, kiedy to
+wybudowano liniê do Legnicy. Ju¿ w 1871 roku wybudowano liniê do
+stacji Rudna (obecnie Rudna Gwizdanów) dziêki czemu uzyskano po³¹czenie
+z tras¹ kolejow¹ Zielona Góra - Wroc³aw. Natomiast w 1898 powsta³o
+po³¹czenie z G³ogowem co pozwoli³o dotrzeæ do Rawicza. Liniê do Chocianowa
+uruchomiono 15 wrzeœnia 1910 roku - do 1985 roku prowadzono na niej
+regularny ruch pasa¿erski i towarowy, a do 1987 roku tylko towarowy.
+W 1992 roku oficjalnie linia zosta³a zamkniêta z powodu kradzie¿y torów
+przez z³omiarzy.
+Linia Legnica - Lubin Górniczy - Rudna Gwizdanów zosta³a zelektryfikowana
+30 sierpnia 1986 roku.
+
+Budynek stacyjny jest bardzo zniszczony i zamkniêty.
+Stacja posiada 3 perony (4 krawêdzie peronowe) - obecnie w u¿yciu s¹
+2 perony. Peron III s³u¿y³ kiedyœ pracownikom KGHM i kursowa³ z niego
+poci¹g osobowy do kopalni. Obecnie zaroœniêty. Perony nie s¹ zadaszone.
+Tory niezelektryfikowane nad peronem II s¹ nieu¿ywane i czêœciowo zaroœniête
+z powodu braku zainteresowania i likwidacji rozjazdu ³¹cz¹cego z torami
+zelektryfikowanymi z lewej strony w kierunku Legnicy - w grze dla
+u³atwienia i mo¿liwoœci u¿ywania dodatkowych torów rozjazd istnieje.
+Tory dodatkowe z lewej strony stacji s¹ wykorzystywane.
+Wie¿a wodna jest nieu¿ywana i czêœciowa zdewastowana.
+Lokomotywownia jest u¿ywana przez drogowców PKP PLK (ISE Legnica) - 
+w grze ta lokomotywownia to faktycznie TOR POSTOJOWY miêdzy wjazdem 2,
+a 3. Natomiast systemowa LOKOMOTYWOWNIA jest przypisana do lokomotywowni
+w Legnicy.
+
+Rozk³ad pasa¿erski autentyczny.
+Rozk³ad towarowy jest fikcj¹.
+Obecnie na linii odbywa siê tylko ruch towarowy, g³ównie PMT KGHM Lubin.
+
+Odzwierciedlenie torowiska w 90%.
+Wyœwietlanie PERONÓW - Opcje/Ustawienia/Kolory/Zaznaczamy - Wyœwietlaj
+rysunek jako t³o dla schematu stacji.
+
+UWAGA! Zalecane ustawienie zegara symulatora: 4 - 4,5.
+
+Kierunki:
+1. Legnica, Wroc³aw G³ówny, Jelenia Góra, Katowice - kierunek po³udniowy
+2. Bocznica Miejskiego Przedsiêbiorstwa Energetyki Cieplnej „Termal” S.A. - kierunek po³udniowy
+3. Chocianów (rozebrana) - kierunek po³udniowy - zachód
+4. Lubin Kopalnia, Polkowice (wy³¹cznie ruch towarowy) - kierunek pó³nocny
+5. Rudna Gwizdanów, G³ogów, Leszno, Szczecin - kierunek pó³nocny
+
+Autor: Szymon Woelke
+graf_pol@poczta.onet.pl
+
+Stacja zosta³a stworzona 2011-01-09 przy pomocy programu PathFinder 2.0.

@@ -1,0 +1,52 @@
+======================================================================================================================================
+---------------------------------------------------------------OGÓLNE-----------------------------------------------------------------
+Stacja: Wroc³aw G³ówny (Osobowy)
+Rozk³ad: na podstawie Sieciowego RJP (2002/2003- LATO) + informacje z internetowego rozk³adu jazdy 
+(www.pkp.com.pl-w zakresie aktualnoœci).
+Schemat stacji: Jest autorstwa Arkadiusza Mizerskiego (wielkie dziêki!) w oparciu o faktyczny schemat torowy. Jest wprawdzie parê  
+ró¿nic np. torów wjazd/wyjazd w kierunku zachodnim jest 3, ale jak zasymulowaæ gdy losowo prawie je¿d¿¹ po nich poci¹gi na piêæ 
+kierunków  (na odcinku post. odga³. Wroc³aw Grabiszyn - Wroc³aw G³ówny Osobowy). Brakuje te¿ dwutorowej zelektryfikowanej ³¹cznicy
+Wroc³aw Brochów WBB - Wroc³aw G³ówny Towarowy WGB), ale z poniewa¿ rozk³ad nie zawiera poci¹gów towarowych, wiêc i ta ³¹cznica
+nie jest potrzebna (je¿d¿¹ po niej tylko poci¹gi towarowe). Poza tym jestem pe³en uznania dla autora stacji, bo jest odtworzony 
+bardzo wiernie. 
+Sk³ady: na podstawie w³asnych obserwacji + dodatki do s³. r. j. p.: 2a, 2b, 2c i 2d (ZPR-y: Wroc³aw, Opole, Poznañ, Katowice). 
+Maksimum realnoœci (nawet numery peronów zgodnie ze œciennym rozk³adem stacji).
+Ograniczenia: Ruch towarowy ca³kowicie przesuniêty na obwodnicê Wr.Brochów-Wr. Stadion-Wr.G¹dów. Nie ma go zatem tutaj.
+-----------------------------------------------------------TORY i PERONY--------------------------------------------------------------
+Tory postojowe ponad PERONEM 1: zarezerwowane dla wagonów pocztowych
+PERON nr 1: kierunki Warszawa, Poznañ
+PERON nr 2: kierunki Warszawa, Poznañ, Jelenia Góra, Laskowice Jelcz
+PERON nr 3: kierunki Legnica, Opole, Zielona Góra, Jelenia Góra
+PERON nr 4: kierunki Legnica, Miêdzylesie, Zielona Góra
+PERON nr 5: w zasadzie tylko Kobierzyce, ale to ju¿ historia, bo dawno zamkniêty (wyjazd w kierunku Kobierzyc - z peronu œlepego)
+peron przelotowy dla przypadkowych poci¹gów.
+---------------------------------------------------------------WYJAZDY-----------------------------------------------------------------
+WYJAZD nr 1: kierunki Kluczbork, Gdynia p. Gniezno, £ódŸ, Warszawa
+		Rawicz, Poznañ, Krzy¿, Szczecin, Bydgoszcz, Gdynia,
+			(tak¿e IC w kierunku: Warszawa i Lublin - FREDRO, ŒLÊ¯A, BYSTRZYCA)
+WYJAZD nr 2: kierunki G³ogów, Zielona Góra, Rzepin, Szczecin
+			Legnica, ¯agañ, Wêgliniec, granica niemiecka
+				Jaworzyna Œl., Wa³brzych, Jelenia Góra
+WYJAZD nr 3: kierunki Laskowice Jelcz, Opole, Katowice, Warszawa p opole, Kraków Przemyœl
+WYJAZD nr 4: kierunki K³odzko, Miêdzylesie, granica czeska
+			 Kobierzyce, Jaworzyna Œl., Wa³brzych (trasa jednotorowa dziœ ju¿ zamkniêta)
+-------------------------------------------------------------LOKOMOTYWOWNIA------------------------------------------------------------
+Czas oczekiwania na wyjazd lokomotywy: 3 minuty.
+Czas naprawy lokomotywy: 1 godzina
+Iloœæ EP/EU07 dla poszczególnych CM zaczerpn¹³em ze strony p. Henryka Gwardaka wg stanu na 23.6.2003.
+Na podstawie spisu umieszczonego na tej stronce utworzy³em tablicê prawdopodobieñstw dla tych loków.
+-----------------------------------------------------------------ROZK£AD---------------------------------------------------------------
+W paru miejscach musia³em skorygowaæ godz. przyjazdów i odjazdów poci¹gów-ciekawostek, które zapewne nie kursuj¹, ale by³y w dodatkach
+(wagony do ZNTK, NOCNY EXPRESS, przesy³kowo-baga¿owe), oraz ze wzglêdu na ograniczenia samego programu.
+------------------------------------------------------------W PRZYGOTOWANIU...---------------------------------------------------------
+Rozk³ad dla Wroc³awia 2003/2004, ale brakuje mi aktualnych dodatków 2a i 2b (mo¿e ktoœ ma, to proszê o kontakt - mam natomiast nowe 
+rozk³ady towarów 621,622,671 wêz³a wroc³awskiego, dla zainteresowanych mogê podes³aæ skany).
+Legnica z ruchem towarowym i nowym  (prawdziwym) uk³adem torowym jest gotowa, ale nie mam czasu przetestowaæ.
+Nadal myœle nad Lubinem (Górniczym) z wahad³ami KGHM-u - transport rudy miedzi z kopalni ZG Polkowice/Sieroszowice, ZG Lubin
+do hut HM Legnica, HM Cedynia, HM G³ogów, oraz ruchem towarowym w kierunku LSSE Polkowice (fabryka silników Volkswagena) 
+-----------------------------------------------------------------AUTOR-----------------------------------------------------------------
+Ireneusz Szymañski, Lubin
+ireksz@klub.chip.pl
+=======================================================================================================================================
+wszelkie uwagi dotycz¹ce rozk³adu proszê przesy³aæ na mój adres,
+a dotycz¹ce stacji na adres arekmiz@wp.pl

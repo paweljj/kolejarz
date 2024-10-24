@@ -1,0 +1,26 @@
+D¹browa Che³miñska 1984
+Bardzo ma³a stacyjka na odcinku Bydgoszcz Wschód-Che³m¿a
+Dzisiaj ruch pasa¿erski jest zaieszony (3.04.2000)
+,a ruchu towarowego nie ma ¿adnego.
+Rozk³ad jazdy poci¹gów pasa¿erskich 84/85
+-"-     -"-    -"-     towarowych  1990
+
+Lokomotywonia 
+czas oczekiwania na przyjazd loka 45 min (lok. Byd.G³.)
+
+Uwagi:
+Do stacji do³¹czono dwa pliki z rysunkami taboru 
+nale¿y je skopiowaæ do katalogu Tabor
+
+W przygotowaniu: 
+Szubin86,Kcynia(jeszcze nie wiem który rok)
+
+
+Przy tworzeniu stacji pomog³y nastêpuj¹ce programy:
+Edytor dla Kolejarza 2.35
+PathFinder 2.0
+StationInfo 1.0
+
+Wszelkie uwagi i pytania kierowaæ na adres:
+Bart³omiej Jasiñski
+btmtk@poczta.fm

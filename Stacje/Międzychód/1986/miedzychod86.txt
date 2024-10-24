@@ -1,0 +1,34 @@
+Stacja: Miêdzychód 1986/1987
+Autor: Tomasz Kossowski
+e-mail: tkoss@main.amu.edu.pl
+Rozk³ad jazdy: 1986/1987
+
+Data utworzenia: 2002, poprawiony 28-02-2004.
+
+Wersja dla Kolejarza 1.61.
+
+Stacja Miêdzychód jest (a raczej by³a) stacj¹ wêz³ow¹ dla kilku niezelektryfikowanych
+drugorzêdnych linii, z doœæ sporym ruchem kolejowym. Uk³ad torowisk jest oddany
+w 100% i jest prawie nie zmieniony od momentu zakoñczenia budowy wêz³a.
+Najbli¿sza szopa znajdowa³a siê w Miêdzyrzeczu.
+Rozk³ad jazdy osobowych jest oddany w 100%, ewentualnie mog¹ byæ nieœcis³oœci
+dotycz¹ce taboru. Rozk³ad poci¹gów towarowych jest moj¹ fantazj¹, i nawi¹zuje
+do pracy manewrowej na stacji i obs³ugiwanej przez ni¹ pobliskimi stacjami
+(Zatom Stary, Lewiczynek, Miêdzychód Letnisko). W rzeczywistoœci do pracy manewrowej
+dochodzi³y dwa loki - z Poznania z pierwszym porannym poci¹giem osobowym (o ile dobrze
+pamiêtam by³o to ST44 - idealne na te torowiska !) i z Miêdzyrzecza.
+Wyjazdy: (1) Poznañ G³. - przez Rokietnicê, (2) Gorzów Wlkp. i Miêdzyrzecz - rozga³êzienie
+tych linii znajduje siê 8 km dalej w wêŸle Wierzbno, (3) Szamotu³y, (4) Zb¹szyñ. Na odcinku
+do Wierzbna poci¹gi jeŸdzi³y  po torowiskach jeszcze z okresu budowy linii, tj. z 1888 roku,
+w podobnym wieku by³y niektóre tory postojowe na samej stacji.
+Rozk³ad 1986/1987 by³ ostatnim w którym obs³ugiwana by³a linia do Zb¹szynia. Rozpoczêty
+zosta³ remont, którego nigdy nie skoñczono (wymieniono torowisko do Trzciela). Parowozownia
+w Miêdzyrzeczu obs³ugiwa³a trasê Miêdzyrzecz-Szamotu³y a¿ do 1993 roku, póŸniej wprowadzono
+tam zemsty Ceausescu.
+Ruch osobowy na wêŸle zawieszono 1.X.1999 roku. Ruch towarowy jest obecnie ograniczony
+do odcinka Miêdzychód -Szamotu³y i Miêdzychód-Lewiczynek.
+
+Uwaga: Do manewrów na stacji nale¿y wczeœniej œci¹gn¹æ ST 43 z szopy w Miêdzyrzeczu.
+
+Wykorzystano:
+Kostka dla Kolejarza 0.9.1.1 oraz PathFinder 2.0.

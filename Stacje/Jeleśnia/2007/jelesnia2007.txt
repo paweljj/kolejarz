@@ -1,0 +1,27 @@
+Witam na sennej stacyjce Jeleœnia !!!
+
+Jeleœnia jest to ma³a, senna stacyjka znajduj¹ca siê w tabeli 137 SRJP
+(Sucha Besk.--- ¯ywiec) Znajduje siê tu jedna z dwóch mijanek
+(druga znajduje siê w ¯ywcu Sporyszu). Od 2004 roku pojawi³ siê na tej
+linin szynobus SA109-002, ale z nowym rozk³adem do ¿ycia przywrócono EZT 
+i tak pozosta³o.
+
+STACJA:
+Wjazd/wyjazd <-> 1 KIERUNEK: Sucha Beskidzka 
+Wjazd/wyjazd <-> 2 KIERUNEK: ¯ywiec, Czechowice Dziedzice.
+
+Autorem schematu stacji jest Krzysztof Wadolny (nmwadoln@al.imim-pan.krakow.pl), 
+a do EdK przela³em go ja :)
+
+ROZK£AD:
+Symulacja ta obrazuje rozk³ad dla roku 2007. Rozk³ad jazdy poci¹gów towarowych jest 
+zgodny z rzeczywistosci¹, lecz zestawienia sk³adów towarowych i poci¹gów turystycznych
+(uruchamiany na zarz¹dzenie dnia 31.VIII/1.XI.2007 - poci¹g kolonijny) s¹ ca³kowicie wymyœlone.
+Rozk³ad jazdy poci¹gów pasa¿erskich (zestawienia i obiegi) zgodne z rzeczywistoœci¹ i dodatkiem d. 
+
+¯yczê mi³ej zabawy !!!
+
+				         Piotr Go³êbiowski
+				      hgolebiowski@interia.pl
+				       http://ryflak.rail.pl
+					  kwiecieñ 2007 r.

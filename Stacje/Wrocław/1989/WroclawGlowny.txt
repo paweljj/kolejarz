@@ -1,0 +1,46 @@
+=============================================================
+------------------OGÓLNE----------------------------------------------------------------------------
+Stacja: Wroc³aw G³ówny (Osobowy)
+Rozk³ad: na podstawie Sieciowego RJP (1989/1990)
+Schemat stacji: Jest autorstwa Arkadiusza Mizerskiego (wielkie dziêki!) w oparciu o faktyczny schemat torowy. Jest wprawdzie parê  
+ró¿nic np. torów wjazd/wyjazd w kierunku zachodnim jest 3, ale jak zasymulowaæ gdy losowo prawie je¿d¿¹ po nich poci¹gi na piêæ 
+kierunków  (na odcinku post. odga³. Wroc³aw Grabiszyn - Wroc³aw G³ówny Osobowy). Brakuje te¿ dwutorowej zelektryfikowanej ³¹cznicy
+Wroc³aw Brochów WBB - Wroc³aw G³ówny Towarowy WGB), ale z poniewa¿ rozk³ad nie zawiera poci¹gów towarowych, wiêc i ta ³¹cznica
+nie jest potrzebna (je¿d¿¹ po niej tylko poci¹gi towarowe). Poza tym jestem pe³en uznania dla autora stacji, bo jest odtworzony 
+bardzo wiernie. Wjazd/Wyjazd w kierunku Strzelina (nr4) jeszcze wówczas niezelektryfikowany.
+Sk³ady: na podstawie w³asnych obserwacji (w tamtych latach studiowa³em).
+Ograniczenia: Ruch towarowy ca³kowicie przesuniêty na obwodnicê Wr.Brochów-Wr.G¹dów. Nie ma go zatem tutaj
+-----------------TORY i PERONY--------------------------------------------------------------------------
+Tory postojowe ponad PERONEM 1: zarezerwowane dla wagonów pocztowych
+PERON nr 1: kierunki Warszawa, Poznañ
+PERON nr 2: kierunki Warszawa, Poznañ, Jelenia Góra, Laskowice Jelcz
+PERON nr 3: kierunki Legnica, Opole, Zielona Góra, Jelenia Góra
+PERON nr 4: kierunki Legnica, Miêdzylesie, Zielona Góra
+PERON nr 5: w zasadzie tylko Kobierzyce (wyjazd 8 - z peronu œlepego) peron przelotowy dla przypadkowych
+poci¹gów, które jak pamiêtam przyje¿d¿a³y i odje¿d¿a³y z peronu 5
+-----------------WYJAZDY--------------------------------------------------------------------------
+WYJAZD nr 1: kierunki Kluczbork, Gdynia p. Gniezno, £ódŸ, Warszawa
+		Rawicz, Poznañ, Krzy¿, Szczecin, Bydgoszcz, Gdynia,
+			(tak¿e IC w kierunku: Warszawa i Lublin - FREDRO, ŒLÊ¯A, BYSTRZYCA)
+WYJAZD nr 2: kierunki G³ogów, Zielona Góra, Rzepin, Szczecin
+			Legnica, ¯agañ, Wêgliniec, granica niemiecka
+				Jaworzyna Œl., Wa³brzych, Jelenia Góra
+WYJAZD nr 3: kierunki Laskowice Jelcz, Opole, Katowice, Warszawa p opole, Kraków Przemyœl
+WYJAZD nr 4: kierunki K³odzko, Miêdzylesie, granica czeska
+			 Kobierzyce, Jaworzyna Œl., Wa³brzych (trasa jednotorowa dziœ ju¿ zamkniêta)
+----------LOKOMOTYWOWNIA----------------------------------------------------------------
+Czas oczekiwania na wyjazd lokomotywy: 6 minut.
+Czas naprawy lokomotywy: 1,5 godziny
+----------ROZK£AD-----------------------------------------------------------------------
+W paru miejscach nie wiedzia³em jak podes³aæ sk³ady do stacji z których EZT odje¿d¿aj¹ wczeœnie rano
+St¹d pojawi³y siê pewne "puste sk³ady" o fikcyjnych godzinach odjazdu. Jakoœ tam dotrzeæ musz¹,
+a nie posiadam s³u¿bowych rozk³adów by wiernie to odzwierciedliæ.
+----------W PRZYGOTOWANIU...--------------------------------------------------------------
+Inne rozk³ady (rozk³ady 2004)
+---------------------AUTOR--------------------------------------------------------------------------
+Ireneusz Szymañski, Polkowice
+ireksz@klub.chip.pl
+=============================================================
+wszelkie uwagi dotycz¹ce rozk³adu proszê przesy³aæ na mój adres,
+a dotycz¹ce stacji na adres arekmiz@wp.pl
+

@@ -1,0 +1,79 @@
+Sycewice to ma³a stacja umiejscowiona równo poœrodku S³awna i S³upska linii "ba³tyckiej"
+Szczecin-Gdañsk (tab. 380 SRJP). Jest jedn¹ z wielu na tej linii ma³ych stacyjek s³u¿¹cych
+do mijanek na tej jednotorowej przecie¿ linii. Do stworzenia tej stacji zachêci³ mnie Maciej
+Koplin ze S³awna, który nades³a³ mi plik stacji i rozk³ad pociagów towarowych. Pocz¹tkowo by³em
+niezbyt przychylnie nastawiony do tego projektu, ale nowa wersja Kolejarza, która teraz w pe³ni
+obs³uguje w³aœnie takie mijanki spowodowa³a, ¿e zrobiliœmy wspólnie t¹ stacjê.
+
+		__________________________________
+
+			   ROZK£AD 2003
+		__________________________________
+
+*Rozk³ad jest oparty na okresie letnim. 
+*Obiegi i sk³ady poci¹gów dalekobie¿nych wed³ug dodatku 2b do SRJP 02/03 ze zmianami wg poprawek
+do Sieciowego RJP:
+	*pos 18501/81500: dodane kuszetki i sypialne (iloœæ taka jak w rozk³adzie 01/02)
+	*pos 58501/85500: odjêta kuszetka
+	*pos 81110/18111: dodany wagon barowy
+	*NEx 38703/83702: ca³kowicie nowy sk³ad
+*Mog¹ wystêpowaæ b³êdy w obiegach i sk³adach EZT.
+
+------
+*Aktualnie rozk³ad ten jest niewa¿ny. Od 25 kwietnia obowi¹zuje do odwo³ania nowy rozk³ad - zmienione
+s¹ godziny odjazdów 33 poci¹gów, poniewa¿ po zrobieniu badañ torów okaza³o siê, ¿e na odcinku od
+Koszalina do Lêborka (119 km) trzeba wprowadziæ zmniejszon¹ prêdkoœæ szlakow¹ (jest 50-60 km/h,
+wczeœniej by³o: Koszalin-S³upsk 100 km/h, S³upsk-Lêbork 120 km/h). Poci¹gi pos przyje¿d¿aj¹ wiêc od
+60 do 80 minut póŸniej (S³owiniec, jad¹c z Poznania jedzie przez Miastko do S³upska - omija Bia³ogard
+i Koszalin) osobowe maj¹ kilkunastomin. zmiany. Ostatnio jest jeszcze gorzej - przebadali odcinek 
+Koszalin-Bia³ogard: od 8 maja jeŸdzi siê tam 50 km/h....
+------
+
+		__________________________________
+
+			      STACJA
+		__________________________________
+
+
+* Uk³ad torów na stacji jest rzeczywisty, stacja stworzona przez Macieja Koplina 
+* Wjazdy/wyjazdy na stacji:
+- nr 1 : wyjazd na S³awno, Koszalin, Szczecin, Poznañ
+- nr 2 : wyjazd na S³upsk, Gdañsk
+
+* Najbli¿sza lokomotywownia jest w Gdynii, ale ze wzglêdu na odleg³oœæ, loka mo¿na œci¹gn¹æ ze S³upska
+(gdzie zawsze stacjonuje jakaœ lokomotywa). Czas dojazdu loka ze S³upska od zamówienia wynosi 20 minut.
+
+		__________________________________
+
+			       INNE
+		__________________________________
+
+*powstanie rozk³adu u³atwi³ program StationInfo 1.0
+*powstanie stacji program Edytor dla Kolejarza (EdK) Wersja 2.35 kompilacja 5003 oraz PathFinder 2.0
+*Wszelkie uwagi nt. przebiegów i sk³adów proszê przesy³aæ na mój e-mail: 
+
+		_____________________________________
+ 		                     
+			  mk_koszalin@pf.pl
+		_____________________________________
+
+*Uwagi nt. stacji proszê przesy³aæ na mój e-mail: 
+
+		_____________________________________
+ 		                     
+		       m.koplin.pkp@interia.pl
+		_____________________________________
+
+*No i zapraszam do odwiedzin mojej strony internetowej, gdzie mo¿na znaleŸæ najnowsze rozk³ady:
+
+		_____________________________________
+ 		                     
+			www.mk.koszalin.prv.pl
+		_____________________________________
+
+		
+
+Mi³ej pracy!
+Marek Skrzypkowski
+Maciej Koplin
+

@@ -1,0 +1,40 @@
+Witamy na stacji ¯ywiec
+
+¯ywiec jest  ma³± stacj± wêz³ow±.
+
+Linie wychodz±ce ze stacji:
+
+1 - kierunek Zwardoñ, dalej przej¶cie graniczne ze S³owacj± (linia 139, najbl.stacja. Wegierska.Gorka, 10km, 17 minut)
+2 - kierunek Bielsko-Bia³a, dalej Czechowice-Dziedzice, Katowice (linia 139, najbl. stacja Lodygowice, 6.5km - 11 minut)
+3 - kierunek Sucha Beskidzka (po tej zelekryfikowanej linii je¿d¿± oprócz kibli szynobusy typu SA109);
+    (linia 97, mijanka- Zywiec Sporysz (2,5km, 6 minut)
+4 - ma³o u¿ywana bocznica do jakich¶ zak³adów w ¯ywcu
+
+Schemat odzwierciedla uk³ad torowy stacji w 100%. 
+Opracowano na podstawie pieszej penetracji stacji i wykonanego szkicu.
+
+Uwagi na temat pociagow towarowych i prowadzenia ruchu
+-------------------------------------------------------
+Rozklad pociagow towarowych zostal zaczerpniety z rozkladu Zywiec 2003 autorstwa K. Wadolnego.
+Ze wzgledu na mala przepustowosc linii 139 godziny przyjazdow poc. towarowych
+musialy byc w niektorych przypadkach dostosowane do rozkladu 2002 i przepustowosci
+linii. 
+
+Na linii 139 poc. towarowe kursuja wahadlowo w relacji Zabrzeg Czarnolesie-Skalite-Zabrzeg Czarnolesie.
+Tabor: ET41; dlugosc tych pociagow nie przekracza 14 wagonow ze wzgledu na mala dlugosc uzyteczna
+torow stacji Wegierska Gorka i Rajcza. Ze wzgledu na dosc napieta sytuacje ruchowa ilosc poc. towarowych
+nie przekracza 14 par na dobe. 
+
+Pociagi zdawcze obslugiwane SM42 kursuja do Rajczy, Zywca Sporysz, Bielska Bialej. (kiedys jezdzily
+tez do Jelesni).
+
+W przypadku pociagu 77763 nalezy doczepic druga lokomotywe ET41 - po przyjezdzie z P83206 do Zakopanego
+nie ma innego sposobu, by zamknac obieg (w rzeczywistosci moze jechac luzem do BB).
+
+Czas zamowienia lokomotywy: 60 minut (Czechowice).
+
+Autor pliku STC: Arkadiusz Mizerski (arekmiz@onet.pl)
+Opracowanie rozkladu na 2001/2: Rafal Moszczynski (ramosz@web.de)
+
+
+

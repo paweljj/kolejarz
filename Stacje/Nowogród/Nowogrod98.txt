@@ -1,0 +1,38 @@
+Stacja NOWOGRÓD OSIEDLE
+Wersja dla Kolejarza 1.44
+zbudowana z pomoc¹: EdK 2.40
+przebiegi z pomoc¹: Edytor MK 1.04
+
+
+Autor : Andrzej Klauza
+E-mail: parowoz@wp.pl
+31 XII 2003 
+(poprawione sk³ady)
+
+rozk³ad jazdy: Lato 1998 
+
+Kierunki:
+ 1 - Bieniów (¯ary,¯agañ,Lubsko) - czas przejazdu 10 minut
+ 2 - Zielona Góra - czas przejazdu 30 minut (!)
+
+Lokomotywownia jest w ¯aganiu.
+Czas od zamówienia lokomotywy do przyjazdu: 40 minut
+Czas naprawy lokomotywy: 60 minut.
+Iloœæ lokomotyw naprawianych jednoczeœnie: 1
+         
+Ruch poci¹gów odbywa siê wg rzeczywistego rozk³adu jazdy z tego okresu. 
+Jedynie zdawczy do Nowogrodu Bobrzañskiego wyje¿d¿a trochê wczeœniej (ograniczenia programu).
+Dodatkowo dorzuci³em wahad³o z elewatora, które mniej wiêcej w takich te¿ godzinach jeŸdzi³o.
+PAMIÊTAJ o zamówieniu wczeœniej lokomotywy do tego wahad³a.
+
+Po pierwszym uruchomieniu wagony bêd¹ "rozrzucone" losowo po stacji.
+Gruszki na zbo¿e nale¿y wiêc odstawiaæ na któryœ z tych trzech równoleg³ych torów na samej górze 
+(s¹ to w uproszczeniu tory elewatora).Wêglarkê natomiast na tor stacyjny pierwszy od góry (tam jest rampa).
+Pierwszy z dwóch poci¹gów pasa¿erskich krzy¿uj¹cych siê na stacji powinien wjechaæ na tor przy 
+peronie 2 (przejœcie jest w poziomie szyn).
+Ten tor wychodz¹cy na lewo to bocznica do Jednostki Wojskowej. 
+
+Poniewa¿ szlak do Zielonej Góry ma a¿ 30km, czas przejazdu wynosi 30 minut (w uproszczeniu). Tak 
+wiêc ca³a zabawa zaczyna siê w momencie gdy znacznie opóŸni siê któryœ z poci¹gów co 
+powoduje lawinowe opóŸnianie pozosta³ych.Trzeba decydowaæ czy opóŸniæ poœpiecha czy osobowego 
+z lud¿mi do/z pracy. :)

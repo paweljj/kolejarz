@@ -1,0 +1,17 @@
+Stanice Hostivice - GVD 2004
+
+Stanice Hostivice se nachází na trati 120 Praha Bubny-Chomutov
+Odboèuje zde tra 122 ve smìru Praha Smíchov a do Rudné u Prahy.
+Další tra 121 Hostivice-Podlešín je v úseku Hostivice-Støedokluky ji mnoho let vylouèena a pøeprava osob je zajišována náhradní autobusovou pøepravou.
+
+Pøi høe je nutné mít zapnutı podkladovı obrázek.
+Lokomotiva z depa do stanice: objednejte lokomotivu v depu,
+(bude se hlásit za 30 minut) potom kliknìte na jakékoliv místo 
+ve stanici a lokomotiva tam vjede pøes vjezd è. 3.
+Neschopnı vlak nebo lokomotivu zapøáhnìte pomocnou lokomotivou a odjeïte
+s ním. Stejnım zpùsobem postupujte, objeví-li se pøi høe neschopnı autobus.
+Chcete-li odjet s lokomotivou do depa - z jakéhokoliv místa ve stanici
+kliknìte na depo a lokomotiva do nìj odjede pøes vıjezd 3.
+
+Jindøich Èíek
+jindrich.cizek@quick.cz

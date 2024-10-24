@@ -1,0 +1,42 @@
+RAKONIEWICE 2006:
+
+
+Rakoniewice to maleñka stacyjka na linii Poznañ G³.(66 km) - Wolsztyn (15 km). Ruch na tej stacji jest ma³y,
+ale sama linia charakteryzuje siê niesamowitym klimatem, które urozmaicaj¹ planowe poci¹gi prowadzone 
+parowozami.
+
+
+WJAZDY / WYJAZDY:
+1- Poznañ G³.
+2- Wolsztyn
+
+
+STACJA:
+Uk³ad stacji 99%,
+Widok od budynku stacji.
+Najbli¿sza lokomotywownia znajdujê siê w Poznaniu (130 min).
+Czas zamówienia lokomotywy: oko³o 130 min.
+Czas naprawy lokomotywy: oko³o 180 min.
+
+
+ROZK£AD:
+rakoniewice_06 - Rozk³ad obowi¹zuj¹cy od marca 2006 roku.
+rakoniewice_06parada - Rozk³ad oparty na dniu 29 kwietnia 2006 (Parada Parowozów).
+                       Symulacja zawiera dodatkowe poci¹gi retro. 
+
+Sk³ady i obiegi lokomotyw s¹ zgodne wed³ug dodatku 2b.
+Drezyna drogowców kursuje w "F" (na zarz¹dzenie, je¿eli bêdzie potrzeba). Wykonuje drobne naprawy
+na szlaku.
+Poci¹g towarowy oznaczy jako "POD", pe³ni rolê tz. "podsy³u" lokomotywy z Grodziska do Wolsztyna
+
+
+AUTOR:
+
+Maciej Koplin
+
+e-mail: admin@kolejland.rail.pl
+http://www.kolejland.rail.pl
+GG:9026994 tlen:maciejkoplin
+
+
+     Mi³ej zabawy!!!

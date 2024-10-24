@@ -1,0 +1,30 @@
+Stacja: Kraków G³ówny
+Rozk³ad jazdy: 2004/2005
+
+Uk³ad torowy:
+
+1 - wyjazd na Kraków P³aszów (poc. w kier. Zakopanego i Tarnowa)
+2 - wyjazd na Warszawê (poc. w kier. Kielc)
+3 - wyjazd na Katowice (poc. w kier. Wroc³awia, Poznania, Szczecina)
+4 - wyjazd na tory postojowe dla jednostek (KGz)
+
+Tory postojowe w prawym górnym rogu to tory postojowe stacji Kraków G³ówny Towarowy (KG Zachód)
+
+Najbli¿sza lokomotywownia:
+
+Lok. spalinowe - Kraków P³aszów
+Lok. elektyczne - Kraków Prokocim
+
+Na stacji Kraków G³ówny oraz torach postojowych dy¿uruj¹ dwie SM42 w czasie dnia i jedna w nocy.
+Rozk³ad uwzglêdnia poci¹gi RETRO, poci¹gi turystyczne oraz s³u¿bowe, a tak¿e manewry polegaj¹ce
+na prze³anczaniu wagonów konferencyjnych.
+
+Poci¹gi osobowe w kierunku Tarnowa (wyjazd 1) zwykle odje¿d¿aj¹ z peronu I.
+Poci¹gi PKP IC do Warszawy (wyjazd 2) zwykle odje¿dzaj¹ z peronu V.
+
+Obiegi i zestawienia sk³adów zgodne z dodatkami na rok bie¿¹cy.
+
+¯yczymy mi³ego zarz¹dzania stacj¹!
+
+Marek Orlef
+Tomasz ¯akowski

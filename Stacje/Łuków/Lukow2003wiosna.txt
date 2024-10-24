@@ -1,0 +1,51 @@
+Stacja £uków dla rozk³adu 2003 (tymczasowego obowi¹zuj¹cego 31.03-17.07 na czas prowadzenia
+prac torowych na odcinku Miñsk Maz. - Siedlce) autorstwa Micha³a Lipiñskiego powsta³a w oparciu
+o schemat zamieszczony w "Œwiecie Kolei" 3/96.
+
+Zmiany w stosunku do symulacji opartej o pierwotny rozk³ad 2003:
+- zmiany godzinowo-minutowe przyjazdów i odjazdów sk³adów kursuj¹cych pzrze Siedlce do i z Warszawy
+  (na podstawie informacji pobranej ze stron internetowych spó³ki PKP - Przewozy Regionalne)
+- skrócenie relacji poc. nr 8822 Terespol - Warszawa Zach. do Siedlec
+- zmiana trasy przejazdu kilku sk³adów pasa¿erskich (moja korekta: i wszystkich towarowych) 
+  kursuj¹cych przez Siedlce na objazd £uków - Pilawa - Stojad³a, a wiêc kierowanie do wyjazdu nr 2
+De facto w tym czasie obowi¹zywa³y dwa rozk³ady (pierwszy do 26.05, drugi od 27.05), jednak ró¿nice
+by³y minimalne. Ta symulacja opiera siê na pierwszym rozk³adzie tymczasowym.
+
+Kierunki:
+1 SIEDLCE (Warszawa)
+2 PILAWA (Warszawa, CMK, Skierniewice)
+3 DÊBLIN (Lublin, Radom)
+4 BIA£A PODLASKA (Ma³aszewicze, Terespol)
+5 PARCZEW (Lublin)
+
+Oznaczenia techniczne:
+8 kier. SIEDLCE (Czeremcha) - nowatorskie rozwi¹zanie w "Kolejarzu" pozwalaj¹ce na wprowadzenie 
+do rozk³adu poci¹gów korzystaj¹cych z ³¹cznicy pomiêdzy wjazdami 1 i 2. S¹ to poci¹gi przewo¿¹ce 
+materia³y niebezpieczne, kursuj¹ce towarow¹ obwodnic¹ stolicy (Skierniewice - Czachówek - Pilawa 
+- £uków). De facto nie ma osobnych torów do i z Siedlec, ale by³ to jedyny sposób na
+wprowadzenie prawid³owych parametrów dla tego typu po³¹czenia. Uwaga! W przypadku pojawienia siê
+zepsutej lokomotywy ci¹gn¹cej sk³ad miêdzy w(y)jazdami 2 i 8, program umo¿liwia ustawienie 
+przebiegu dla takiego "przelotu", bez koniecznoœci pod³¹czania drugiego loka. 
+9 RAMPA TOWAROWA - tu mo¿na przetaczaæ do roz³adunku i za³adunku wagony koñcz¹ce trasê w £ukowie.
+
+Wjazd / wyjazd nr 5 od 2000 roku jest nieczynny, a po³¹czenia z Lublinem s¹ realizowane trakcj¹
+elektryczn¹ przez Dêblin.
+
+Poci¹gi kierowane torami 3a i 3b (tj. wzd³u¿ "górnej" krawêdzi peronu 1) nale¿y zatrzymywaæ:
+PASA¯ERSKIE - oczywiœcie przy peronie (tor 3a)
+TOWAROWE - na torach towarowych (g³ówne dodatkowe: 3b, 5 i 7 - to te "powy¿ej" rampy)
+Odpowiednie trasy przebiegów przenikaj¹ce siê zosta³y wpisane do pliku stacji.
+
+Rozk³ad jazdy poci¹gów pasa¿erskich ze wszystkimi szczegó³ami (obiegi, zestawienia itp.) jest 
+jak najbardziej prawdziwy - przygotowany w oparciu o w³aœciwe dodatki do S³u¿bowego RJP.
+Rozk³ad jazdy poci¹gów towarowych we wszystkich szczegó³ach jest jak najbardziej fikcyjny, ale
+bez niego ruch na stacji nie by³by a¿ tak efektowny.
+
+Zdajê sobie sprawê, ¿e schemat stacji mo¿e zawieraæ nieœcis³oœci. W kilku miejscach opinie 
+kolejarzy by³y sprzeczne, plany niedok³adne, a moja pamiêæ zawodna. Dlatego ka¿dego, kto zauwa¿y
+b³êdy proszê o kontakt (ltek@wp.pl). Natomiast samo funkcjonowanie rozk³adu przetestowa³em
+"trzy doby" i rêczê za jego poprawnoœæ. Nie ponoszê odpowiedzialnoœci za sam rozk³ad, który w 
+kilku przypadkach przewiduje przyjazd i odjazd w tej samej minucie - wówczas po pojawieniu siê 
+poci¹gu na wjeŸdzie trzeba szybko ustawiæ dla niego przebieg.
+
+Korzysta³em z programów: Edytor stacji do Kolejarza (EdK) oraz PathFinder (PF).

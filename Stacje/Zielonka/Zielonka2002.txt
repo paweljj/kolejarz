@@ -1,0 +1,75 @@
+		Witam przysz³ych dy¿urnych ruchu w nastawni dysponuj¹cej Zielonka.
+
+1. Trochê o Zielonce
+2. Charakterystyka ruchu
+3. Kierunki wjazdów i wyjazdów
+4. Odnoœnie rozk³adu jazdy
+5. Lokomotywownia
+
+
+
+
+Ad.1	Zielonka jest podwarszawska miejscowoœæ w której mieszka oko³o 16 tysiêcy osób.
+	W SRJP znajduje siê w tabeli 610. Jak widaæ jest to stacja wêz³owa, gdzie zbiegaj¹ siê	
+	dwie wa¿ne linie. Dawno temu istnia³a ³¹cznica pomiêdzy kierunkiem 1 a 3. 
+	Do dnia dzisiejszego zachowa³a siê prawie ca³a, lecz jest "odciêta" od szlaków (wymontowano
+	zwrotnice i ³¹cznica zaczyna siê tak nagle, jak koñczy). Dawno temu za czasów œwietnoœci 
+	Warszawy Wileñskiej u¿ywana by³a przez poci¹gi jad¹ce do Miñska Mazowieckiego.
+	W nastawni wszelkie zale¿noœci s¹ realizowane przez obwody elektryczne, a do kontroli
+	s³u¿y pulpit kostkowy. Nastawnia mieœci siê pomiêdzy dwoma punktami przy bocznicy 
+	nr 4. Troszkê w lewo jest przejazd kolejowy (st¹d ten kozio³ oporowy).
+
+
+Ad.2	Moj¹ ma³¹ innowacj¹ jest numeracja na stacji. Liczby oznaczaj¹ numery torów, a nie peronów.
+	A to dlatego ¿e w Zielonce znajduje siê tylko jeden peron wyspowy ( taki jak wiêkszoœæ na WWK)
+	i poci¹gi prawie zawsze wje¿d¿aj¹ zgodnie z ich kierunkiem jazdy. Jedynym wyj¹tkiem s¹ poci¹gi
+	jad¹ce przez Warszawê Wschodni¹. Puszczane s¹ w pierwszej kolejnoœci i czasami wje¿d¿aj¹ równolegle do 
+	ewentualnie opóŸnionych sk³adów z T³uszcza do Wileñskiej. Zielonka jest stacj¹ 
+	na której ustalana jest kolejnoœæ poci¹gów na szlaku do i z T³uszcza. Dlatego czêsto siê zdarza
+	¿e poci¹gi przyje¿d¿aj¹ce punktualnie z Wileniaka czekaj¹ by puœciæ opóŸniony poœpieszny 
+	z Zachodniej, towarowe nie maj¹ tego przywileju.
+
+
+Ad.3	1.	Z¹bki ( 6 km ), Warszawa Wileñska ( 11 km ),
+		Na tej linii nie ma sbl i pierwszy semafor wjazdowy (Warszawa Marki) znajduje siê trochê za Z¹bkami.
+
+	2. 	Wo³omin ( 6 km ), T³uszcz ( 23 km ), Ma³kinia ( 73 km ), Bia³ystok ( 167 km ),
+
+	3. 	Warszawa Rembertów ( 9 km ), Warszawa Wschodnia ( 16 km ), 
+
+		Warszawa Zachodnia ( 25 km ),
+	4. 	Bocznica do cegielni w beznadziejnym stanie, ten drugi tor po drodze s³u¿y³ kiedyœ jako
+		mijanka, teraz rozjazdy s¹ zabite gwoŸdziami. Dla potrzeb symulacji poci¹gi je¿d¿¹ tam 
+		codziennie, lecz w rzeczywistoœci œrednio co 6-8 dni. G³ównie cysterny z paliwem do
+		pieców.
+
+	5. 	Bocznica do Kolejowych Zak³adów Automatyki w Zielonce i Wojskowych Zak³adów
+		Elektronicznych. Kiedyœ by³a d³u¿sza, bieg³a ko³o Wojskowego Instytutu na poligon.
+		Koñczy³a siê gdzieœ w okolicach Okuniewa lub Miñska Mazowieckiego. Poci¹g z czo³gami
+		to tylko wspomnienie, dziœ WZE upada i bardzo ¿adko tan coœ jeŸdzi. 
+
+
+Ad.4	Rozk³ad jazdy poci¹gów osobowych jest oparty na zesz³orocznym SRJP, natomiast towarowych 
+	na zeszycie nr 123 z 1997 :( i w³asnych obserwacjach. Zestawienia wagonów poci¹gów
+	poœpiesznych zaczerpniête s¹ z Warszawy Zachodniej, dziêki czemu dany poci¹g w Zielonce
+	wygl¹da tak samo i jedzie z tak¹ sam¹ lokomotyw¹ ( nie licz¹c tablicy prawdopodobieñstw ).
+	Manewry odbywaj¹ siê "jak wypadnie" i w rozk³adzie s¹ uwzglêdnione najczêœciej powtarzaj¹ce
+	siê godziny.
+
+
+Ad.5	Zielonka nie ma w³asnej lokomotywowni ( no bo zreszt¹ po co ? ) i do dyspozycji jest wiêkszoœæ
+	lokomotyw z Pragi i kilka z Olszynki Grochowskiej. Tylko nie zabierzcie wszystkich bo sparali¿ujecie
+	prawobrze¿n¹ czêœæ Warszawskiego Wêz³a Kolejowego :)
+
+
+
+
+Stacja zosta³a wykonana za pomoc¹ Edk 2.35 i PathFinder 2.0.
+Ogromne podziêkowania dla Paw³a JóŸwickiego i Przemka Rydel za pomoc i cierpliwoœæ.
+
+
+Zielonka jest moj¹ pierwsz¹ stacj¹, wiêc czekam na opinie.
+Jeœli ktoœ zdecydowa³ by siê na stworzenia Rembertowa to s³u¿ê pomoc¹.
+
+Przemek Kmiecik 
+mietek@wp.pl

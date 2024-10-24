@@ -1,0 +1,20 @@
+Fordon1986
+Uk³ad torowy zgodny z rzeczywistoœci¹ 
+Sk³ady podobne
+Obs³uga trakcyjna w 100% odwzorowana (nie jestem pewien co do 
+przynale¿noœci MD lokomotyw poci¹gów towarowych)
+
+Lokomotywownia 
+czas oczekiwania na przyjazd loka 20 minut
+
+w przygotowaniu :
+Kcynia..
+
+Przy tworzeniu stacji pomog³y:
+PathFinder 2.0
+Edytor do Kolejarza 2.35
+StationInfo 1.0
+
+Wszelkie uwagi kierowaæ pod adres:
+Bart³omiej Jasiñski
+btmtk@poczta.fm 

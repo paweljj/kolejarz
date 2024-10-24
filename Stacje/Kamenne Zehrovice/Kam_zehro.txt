@@ -1,0 +1,27 @@
+eleznièní stanice Kamenné ehrovice byla v minulosti dùleitou stanicí, která 
+zajišovala odvoz uhlí z dolù. V souèasnosti je ji tìba uhlí zastavena.
+
+Vıjezd 1: smìr Kladno - Praha
+Vıjezd 2: smìr Luná u Rak. - Chomutov
+Vıjezd 3: vleèka na Dùl Schoeller
+Vıjezd 4: vleèka na Dùl Nosek
+Vıjezd 5: vleèka na Dùl Wanieck
+
+Pro snaší orientaci mají vleèkové vlaky ètyømístná èísla.
+Vıjezd 3: 3001, 3002, atd.
+Vıjezd 4: 4001, 4002, atd.
+Vıjezd 5: 5001, 5002, atd.
+
+Obsluhu vleèky Dùl Wanieck provádí lokomotivy Dolu Nosek.
+Po pøíjezdu z dolu Nosek lokomotiva nejprve odveze prázdné vozy na Dùl Wanieck,
+pøiveze loené vozy a potom teprve odveze zátì pro Dùl Nosek
+
+Vozy urèené k vykládce v ehrovicích se odstavují na 2. kolej, co je kolej, v jejím 
+pokraèování je vıjezd 3.
+
+Lokomotivní depo ve stanici ve skuteènosti není. 
+
+Simulace zachycuje provoz kolem roku 1980. 
+
+Jindøich Èíek
+jindrcizek@quick.cz

@@ -1,0 +1,15 @@
+Stacja------> Koluszki
+Plan Stacji-> autentyczny na podstawie planu urz¹dzeñ srk i planu œwietlnego i obserwacji w³asnych
+Rozk³ad-----> Wyci¹g z elektronicznego wewnêtrznego rozk³ady jazdy pociagów (KWR modu³ SKPZ)
+do grona prywaciarzy do³¹czy³ ORLEN KOLTRANS z jedna par¹ pociagów na razie nie ujety w symulacji z uwagi na uruchomieniu
+w póŸniejszym terminie. w KWR s¹ ujête tz trasy katalogowe (F na pocz¹tku rodzaju pociagu) za³ozy³em ,¿e zosta³y wykupione 
+przez przewo¿ników
+nie uj¹³em pociagów z wagonami do naprawy z uwagi na rzadkie ich kursowanie
+oraz lokomotyw do/z naprawy ZNLE gliwice bo nie chce mi siê wierzyæ by lokomotywy doz ostrowa wielkopolskiego czeka³y ca³¹ noc
+przyjechawszy kilka minut po odjexdzuie ³¹cznika
+wersja wa¿na do 31 stycznia 2007 od 1 lutego wpowadzono zmiany w kursowaniu osobowych
+z drzewicy do ³odzi fabr omija koluszki w zamian za to uruchomiono osobowy koluszki-³ódŸ
+do³ozono o 10.38 osobowy tomaszów-fabryczna i o 12 fabryczna -koluszki
+i o 21 skierniewice fabryczna
+zlikwidowano poc o 6.45 ze skierniewic o 22 do ³odzi fabr i o osobowy o 19 na odcinku koluszki-skierniewice
+poci¹g z ³odzi kursujacy z ³odzi o 21 przesunieto godzine wczeœniej

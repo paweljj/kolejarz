@@ -1,0 +1,142 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=iso-8859-2" />
+  <meta name="Description" content=" [wstaw tu opis strony] " />
+  <meta name="Keywords" content=" [wstaw tu slowa kluczowe] " />
+  <meta name="Author" content=" [dane autora] " />
+  <meta name="Generator" content="kED2" />
+
+  <title> [tytuł strony] </title>
+
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+
+<h3>Zasady tworzenia i nazywania rysunków taboru</h3>
+
+<p class="pogr">Spisał Grzegorz Piotrowski.</p>
+
+<p>Przy tworzeniu rysunków do Programu Kolejarz przyjęto pewne założenia, które podczas tworzenia własnych rysunków należy uwzględnić. Pozwoli to na swobodną wymianę rysunków, można powiedzieć - pełną ich kompatybilność. </p>
+
+<ol>
+	<li>Przyjęto, że jeden piksel to 17 cm w rzeczywistości. Takie przeliczenie pozwala na zachowanie jednakowej skali wszystkich rysunków. </li>
+	<li>Każdy rysunek musi być starannie wykonany. Należy pamiętać o właściwej liczbie okien, ilości kół w wózkach lokomotyw, właściwym umieszczeniu szczegółów, itd. Oprócz oczywistej staranności, konieczne jest spełnienie ram dotyczących wymiarów. Dla ułatwienia tworzenia, podaje podstawowe długości, które muszą być przestrzegane. Ze względu na pewne uproszczenia dopuszczalne jest, aby długość całego wagonu różniła się maksymalnie o +/- 1 piksel od przyjętej skali:
+	<ul>
+		<li>Wagony o dł. 24,5 m - 144 piksele</li>
+		<li>Wagony o dł. 26,4 m - 155 pikseli</li>
+		<li>Wagony towarowe - długość przeliczana bezpośrednio ze skali</li>
+		<li>Wysokość wagonu (wyjątek: wagony piętrowe i towarowe) - 25 pikseli</li>
+		<li>Wysokość całego rysunku - 40 pikseli </li>
+		<li>Wysokość zderzaka (jego tarczy) nad dolną krawędzią obrazka MUSI wynosić 4 piksele. <img src="rys/tabor.png"/> </li>  
+		<li>Wysokość od dolnej krawędzi obrazka do wirtualnej sieci trakcyjnej to 32 piksele. Znaczy to tyle, że górne części wagonów jak i lokomotyw nie mogą być wyższe (zostałaby przekroczona skrajnia)! Dotyczy to również wagonów towarowych wraz z ładunkiem.</li>
+		<li>Harmonia, lub kołnierz umożliwiający przechodzenie z wagonu do wagonu powinien również znajdować się nie niżej niż 4 piksele od dolnej krawędzi obrazka. Jej wysokość maksymalna to 20 pikseli.</ul></li>
+	<li class="pogr">Sam rysunek taboru nie może zawierać jakichkolwiek elementów tego samego koloru co tło obrazka. Kolor tła powinien być tylko i wyłącznie użyty do tego celu. Tło powinno być koloru białego (bądź jeżeli istnieje taka możliwość nie powinno być pokolorowane).</li>
+	<li>Pliki rysunków taboru muszą być zapisane wyłącznie w formacie "BMP - Windows Bitmap", gdyż tylko taki format rozpoznaje program. </li>
+	<li>Każdy rysunek nazywamy stosując 5 cech. Ich kombinacja tworzy niepowtarzalny ciąg znaków, dokładnie opisując typ, przeznaczanie, oraz okres w którym przedstawiany tabor jest lub był używany. Każda cecha jest oddzielona pojedynczym znakiem "_". Nazwa nie może zawierać jakichkolwiek polskich liter oraz spacji.</li>
+	<li>W każdej nazwie muszą kolejno znaleźć się następujące informacje:
+		<ol>
+			<li>Oznaczenie właściciela taboru stosowane wg systematyki ustalonej przez organizację UIC:<br/> 
+				przykład:<br/>
+				1) PKP_	- tabor holdingu PKP S.A.<br/>
+				2) DB_	- tabor kolei DB A.G.<br/>
+				Wyjątek:	W przypadku spółek utworzonych przez kilku operatorów do 	obsługiwania jednego połączenia, wpisujemy symbol charakteryzujący 	to połączenie np. <br/>
+				1) BWE_	- tabor holdingu PKP S.A. i DB A.G.<br/>
+				2) THALYS_	- tabor kolei DB A.G., SNCF i SNCB</li>
+			<li>Kategoria przestawionego taboru: <br/>
+				-	_WO_	- wagony osobowe<br/>
+				-	_WT_	- wagony towarowe<br/>
+				-	_L_	- lokomotywy<br/>
+				-	_E_	- EZT - pociągi zespolone w tym autobusy szynowe<br/>
+				-	_S_	- pociągi sieciowe, robocze, maszyny (np. podbijarka) itd.<br/>
+				-	_T_	- tramwaje<br/>
+				-	_WASK_	- tabor wąskotorowy (bez podziału)<br/>
+				przykład:<br/>
+				1) PKP_WO_	- wagon osobowy należący do PKP<br/>
+				2) PKP_L_	- lokomotywa należąca do PKP</li>
+			<li>Okres pochodzenia taboru:<br/>
+				-	_TW_	- tabor współczesny<br/>
+				-	_TZ_	- tabor zabytkowy<br/>
+				przykład:<br/>
+				1) PKP_WO_TW_	- współczesny wagon osobowy należący do PKP<br/>
+				2) PKP_L_TZ_	- zabytkowa lokomotywa należąca do PKP</li>
+			<li>Oznaczenie typu taboru: <br/>
+				przykład:<br/>
+				1) PKP_WO_TW_Bdnu_	- współczesny wagon osobowy PKP typu Bdnu<br/>
+				2) PKP_L_TW_EP09_	- współczesna lokomotywa PKP typu EP09</li>
+			<li>Numer porządkowy, dla różnych rysunków przedstawiających ten sam tabor. Numeracja rozpoczyna się od "01" i zawsze jest dwucyfrowa. Numer jest częścią nazwy dlatego musi być stosowany, nawet w przypadku gdy istnieje tylko 1 obrazek tego samego taboru. <br/>
+				przykład:<br/>
+				1) PKP_WO_TW_Bdnu_01	-	współczesny wagon osobowy PKP typu Bdnu, rysunek nr 1<br/>
+				2) PKP_WO_TW_Bdnu_02	-	współczesny wagon osobowy PKP typu Bdnu, rysunek nr 2</li></ol></li>
+	<li>Do utworzonej nazwy po kropce dopisujemy rozszerzenie - "*.bmp". Rozszerzenie jest częścią nazwy każdego pliku w systemie Windows, a nie cechą opisującą zawartość rysunku, dlatego przed nim stawiamy wg wymogu systemu KROPKE.<br/>
+		przykłady pełnych nazw:<br/>
+		1)	PKP_WO_TW_Bdiu_01.bmp<br/>
+		2)	PKP_WO_TW_Bh_03.bmp<br/>
+		3)	PKP_WO_TW_WLAB_01.bmp<br/>
+		4)	BWE_WO_TW_Bdmnu(61)_01.bmp	<br/>
+		5)	PKP_WO_TZ_Bx_01.bmp<br/>
+		6)	PKP_E_TW_EN57_12.bmp<br/>
+		7)	PKP_E_TW_SA101_01.bmp<br/>
+		8)	PKP_WT_TW_Flls-411V_01.bmp<br/>
+		9)	PKP_WT_TW_Gags-401Ka_01.bmp<br/>
+		10)	PKP_L_TZ_Ty51_01.bmp<br/>
+		11)	OeBB_WO_TW_ABmz_01.bmp<br/>
+		12)	MAV_WO_TW_Bpmz_01.bmp<br/>
+		13)	CD_WO_TW_Amee_01.bmp<br/>
+		14)	DB_WO_TW_Bpmz_01.bmp<br/>
+		15)	DB_L_TW_BR218_01.bmp</li>
+</ol>
+
+<p class="pogr">Prawidłowe rozmiary rysunków</p>
+
+<table>
+	<tr>
+		<td>Seria</td>
+		<td>Długość rzeczywista [mm]</td>
+		<td>Długość w Kolejarzu [piksele]]</td>
+	</tr>
+
+	<tr><td>EP03</td>  		<td>14170</td>		<td>83</td></tr>
+	<tr><td>EP05</td>  		<td>16140</td>  	<td>95</td></tr>
+	<tr><td>EU06</td>  		<td>15915</td>   	<td>94</td></tr>
+	<tr><td>EU07</td>  		<td>15915</td>   	<td>94</td></tr>
+	<tr><td>EP08</td>  		<td>15915</td>   	<td>94</td></tr>
+	<tr><td>EP09</td>  		<td>16740</td>   	<td>98</td></tr>
+	<tr><td>EM10</td>			<td>16340</td>   	<td>96</td></tr>
+	<tr><td>EU11</td>  		<td>19400</td>  	<td>114</td></tr>
+	<tr><td>ET21</td>  		<td>16500</td>   	<td>97</td></tr>
+	<tr><td>ET22</td>  		<td>19240</td>  	<td>113</td></tr>
+	<tr><td>ET40</td>  		<td>34420</td>  	<td>202</td></tr>
+	<tr><td>ET41</td>  		<td>31860</td>  	<td>187</td></tr>
+	<tr><td>ET42</td>  		<td>30880</td>  	<td>182</td></tr>
+
+	<tr><td>SM03</td>   	<td>7000</td>   	<td>41</td></tr>
+	<tr><td>SM30</td>  		<td>10140</td>   	<td>60</td></tr>
+	<tr><td>SM31</td>  		<td>17000</td>  	<td>100</td></tr>
+	<tr><td>SP32</td>  		<td>16000</td>   	<td>94</td></tr>
+	<tr><td>SM42</td>  		<td>14240</td>   	<td>84</td></tr>
+	<tr><td>SP42</td>  		<td>14240</td>   	<td>84</td></tr>
+	<tr><td>SU42</td>  		<td>14240</td>   	<td>84</td></tr>
+	<tr><td>ST43</td>  		<td>17000</td>  	<td>100</td></tr>
+	<tr><td>ST44</td>  		<td>17550</td> 		<td>103</td></tr>
+	<tr><td>SU45</td>  		<td>18990</td>  	<td>112</td></tr>
+	<tr><td>SU46</td>  		<td>18990</td>  	<td>112</td></tr>
+	<tr><td>SM48</td>  		<td>16970</td>  	<td>100</td></tr>
+
+	<tr><td>EN57</td>  		<td>64970</td>  	<td>382</td></tr>
+	<tr><td>EN71</td>  		<td>86840</td>  	<td>511</td></tr>
+	<tr><td>ED72</td>  		<td>86840</td>  	<td>511</td></tr>
+	<tr><td>ED73</td>  		<td>86200</td>  	<td>507</td></tr>
+	<tr><td>EN94</td>  		<td>27600</td> 		<td>162</td></tr>
+	<tr><td>EW55</td>  		<td>63700</td>  	<td>375</td></tr>
+	<tr><td>EW58</td>  		<td>64640</td>  	<td>380</td></tr>
+
+	<tr><td>wagony: 24,5m</td>   	<td>24500</td>  	<td>144</td></tr>
+	<tr><td>wagony: 26,4m</td>   	<td>26400</td>  	<td>155</td></tr>
+	<tr><td>Bdhpumn</td> 					<td>26800</td>  	<td>158</td></tr>
+	<tr><td>Bhp</td>    					<td>73400</td>  	<td>432</td></tr>
+	<tr><td>Eaos</td>    					<td>14040</td>   	<td>83</td></tr>
+</table>
+
+</body>
+</html>

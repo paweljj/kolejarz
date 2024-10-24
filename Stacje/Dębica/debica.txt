@@ -1,0 +1,30 @@
+Stacja Dêbica ver. 0.5
+Rozk³ad: 2002/2003
+Autor: Jarek C, kolejwdebicy@to2.pl
+Strona WWW: www.kolejwdebicy.to2.pl
+-----------------------------------------------
+Stacja Dêbica znajduje siê na trasie Kraków - Rzeszów, na 110 kilometrze i 650 metrze od stacji Kraków.
+Uk³ad torów odzworowany jest w 95%. Stworzona na podstawie obserwacji w³asnych.
+Wyjazdy/wjazdy umieszczone na stacji:
+1 - do Tarnowa, Krakowa, Warszawy,
+2 - do Rzeszowa, Przemyœla, granicy pañstwa,
+3 - na Mielec, Stalow¹ Wolê i Zamoœæ, Dêbicê Towarow¹,
+4 - Firma Oponiarska Dêbica S.A.,
+5 - Baza Monta¿owo - Demonta¿owa, ZPNTMiU "Tabor",
+
+Czas oczekiwania na lokomotywê - 5 min, czas naprawy - 45 minut
+-----------------------------------------------
+W tej wersji wprowadzi³em szereg nowinek:
+- s¹ ju¿ poci¹gi towarowe, sk³ady s¹ przedstawione w miarê dok³adnie na podstawie w³asnych obserwacji i symulacji stacji Brzesko Okocim £ukasza Grocholskiego i stacji Rzeszów Marka Orlefa; cztery poci¹gi towarowe o numerach: 4415, 4417, 4422, 4420, zosta³y stworzone w mojej g³owie i sytuacja ³¹czenia b¹dŸ roz³¹czania ich z innymi poci¹gami jest fikcj¹ dla urozmaicenia symulacji; aczkolwiek taka sytuacja  (tzn. ³¹czenia poci¹gów  z TC Dêbica z innymi przelotowymi poci¹gami) zdarza siê na stacji Dêbica, ale nie zdoby³em  ¿adnych informacji o godzinach i czasach odjazdów takich poci¹gów.   
+- jest wiêcej punktów postojowych, w wypadku braku miejsca na torach towarowych mo¿na korzystaæ z peronów :-))))
+- umieœci³em ciekawy rysunek EU07-007 w kolorze czerwono-bia³o-niebieskim z napisem na burcie: PKP CARGO Spó³ka Akcyjna i EU07-007, na burcie znajduje sie równie¿ logo PKP
+- EU07-007 prowadzi poci¹gi osobowe w relacji Tarnów - Przemyœl, lok ten pochodzi z Dêbicy, ale w chwili obecnej przypisany jest do Zak³adu Taboru ¯urawica!
+- wprowadzi³em rysunek wagonu Sgs-412Z, przeworz¹cy kontenery z napisem Samsung, w których eksportowane s¹ opony z TC Dêbica S.A. 
+- lokomotywa ET21-108 w symulacji pe³ni rolê wagonu jako ¿e przeznaczona jest dla firmy CTL; jej remont wykonany zosta³ w ZPNTMiU "Tabor", który dokonuje remonty taboru wszelkiego typu
+- zarówno powy¿szy rysunek jak i rysunek wagonu Sgs-412Z i lokomotywy ET21-108 s¹ mojego autorstwa i s¹ niezbêdne do gry; 
+    Rozk³ad powsta³ na podstawie SRJ Poci¹gów osobowych i SRJ Poci¹gów towarowych wa¿ne od dnia 15 grudnia 2002 roku  wraz z poprawkami
+                     
+¯yczê mi³ej zabawy ze stacj¹ Dêbica!
+   
+Przy tworzeniu stacji i rozk³adu korzysta³em z programów Stationinfo, Pathfinder i Edytor dla Kolejarza.
+

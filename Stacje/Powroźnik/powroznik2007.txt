@@ -1,0 +1,52 @@
+PowroŸnik 2007
+==============
+
+*** O stacji: ***
+
+PowroŸnik jest jedyn¹ mijank¹ miêdzy Muszyn¹ a Krynic¹.
+Oprócz regulacji ruchu na w/w odcinku, na stacji znajaduj¹ siê tory postojowe, gdzie
+zje¿dzaj¹ wszystkie sk³ady dalekobie¿ne oraz czêœc poci¹gów osobowych koñcz¹cych bieg
+w Krynicy. W PowroŸniku odbywa siê sprz¹tanie i przygotowanie sk³adu do drogi powrotnej,
+ale tak¿e naprawy i przegl¹dy taboru.
+
+*** Ruch poci¹gów: ***
+
+Przedstawiony rozk³ad reprezentuje sytuacjê dnia powszedniego ze stycznia, kiedy to poci¹gi
+dalekobie¿ne kursowa³y codziennie a poci¹gi osobowe kursowa³y normalnie.
+
+Do PowroŸnika zje¿d¿aj¹ 3 sk³ady dalekobie¿ne:
+
+P 33201 Nosal z Warszawy Wsch. do Krynicy
+P 33519 z Gdyni G³ównej do Krynicy
+Ex 13411 E. Malinowski z Warszawy Wsch. do Krynicy
+
+01.01 kursuje dodatkowo poci¹g ekspresowy MORSKIE OKO z Krynicy do Warszawy Wsch. W tym
+rozk³adzie pojawi³ siê dla urozmaicenia gry. Sk³ad jest podsy³any z poci¹giem ekspresowym
+MALINOWSKI lub poci¹giem s³u¿bowym ze stacji Warszawa Grochów. Ja przyj¹³em pierwsze rozwi¹zanie.
+
+Lokomotywy prowadz¹ce poci¹gi do Krynicy, obs³uguj¹ tak¿e manewry na stacji PowroŸnik,
+oraz zwykle wracaj¹ na tym samym poci¹gu w relacji przeciwnej.
+
+Poci¹gi osobowe i ich monotoniê urozmaica "teoretycznie przyspieszony" poci¹g osobowy JAWORZYNA
+z Krakowa G³ównego,oraz dwie pary poci¹gów miêdzynarodowych rel. Plaveè - Krynica - Plaveè.
+
+Z PowroŸnika kursuje tak¿e sk³ad s³u¿bowy (EU07+Bh) który zapewnia dojazd i powrót dru¿yny
+konduktorskiej z Plavèa, po obs³udze pociagu P 381 CRACOVIA rel. Kraków - Budapeszt Keleti
+z wagonami do Bukaresztu Nord.
+
+Poci¹gi towarowe pojawiaj¹ siê sporadycznie - w zimie p³ug + ew. poci¹gi robocze. Jednak
+zrezygnowaliœmy z tego typu poci¹gów w grze z uwagi na rzadkie kursowanie.
+
+By wyjechaæ lokomotyw¹ z lokomotywowni nale¿y ustawiæ przebieg na najbli¿szy punkt postojowy.
+
+Po pobycie w Krynicy w sierpniu 2007 roku postanowi³em urealniæ symulacjê i na podstawie w³asnych 
+obserwacji wszystko jeŸdzi.
+
+*** Autorzy: ***
+
+Piotr Go³êbiowski (hgolebiowski@interia.pl) - rozk³ad jazdy
+Tomasz ¯akowski (zakowski@op.pl) - plan stacji dla Kolejarza
+
+---
+
+Podziêkowania dla Adiego za udostêpnienie planu PowroŸnika (www.semafor.prv.pl)

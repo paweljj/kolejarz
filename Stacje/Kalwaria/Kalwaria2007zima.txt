@@ -1,0 +1,42 @@
+          Kalwaria Zebrzydowska Lanckorona dla Kolejarza 1,77
+
+Kalwaria Zebrzydowska Lanckorona jest stacj¹ po³o¿on¹ na linii 
+Kraków P³aszów - Zakopane.
+
+WYJAZDY:
+1-kierunek Kraków P³aszów
+2-kierunek Zakopane
+3-kierunek Bielsko Bia³a
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje siê w Krakowie P³aszowie.
+Czas oczekiwania na elektrowóz - 60 minut
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Widok na uk³ad torów od strony budynku stacji.
+Budynek stacji oznaczony literami BS.
+Przy dolnym torze niezelektryfikowanym znajduje siê rampa.
+
+SK£ADY I LOKOMOTYWY:
+Na podstawie w³asnych obserwacji.
+Obiegi i sk³ady EZT na podstawie dodatku 2D.
+
+ROZK£AD JAZDY:
+Stacja napisana na podstawie Elektronicznego Rozk³adu Jazdy Poci¹gów 
+HAFAS z zimy 2007 oraz dodatków 2D i 4B do WRJPT 2007.
+Obejmuje dni tygodnia od poniedzia³ku do pi¹tku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby elektrowóz wjecha³ na stacje nale¿y wybraæ trasê do
+pierwszego punktu manewrowego od wjazdu pierwszego.
+
+AUTOR:
+Krzysztof W¹dolny   nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1
+
+PODZIÊKOWANIA:
+Bardzo dziekujê Panu mgr in¿. Rafa³owi Paj¹kowi z centrali PKP Cargo w Krakowie,
+za udostêpnienie rozk³adów poci¹gów towarowych oraz Paw³owi Okrzesikowi za
+nades³anie mnie podanych rozk³adów jazdy poci¹gów towarowych i wykonanie rysunku
+14WE Poci¹gu Papieskiego.

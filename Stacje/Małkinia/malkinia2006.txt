@@ -1,0 +1,49 @@
+Stacja Ma³kinia le¿y na lini Warszawa - Bia³ystok (KuŸnica Bia³ostocka) oraz Siedlce - Ostro³êka,
+niestety w wyniku ciêæ na kolei ta druga zosta³a zamknieta dla ruchu pasa¿erskiego, dlatego g³ówny
+ruch to przeloty 1<->2 oraz poci¹gi osobowe, koñcz¹ce bieg w Ma³kini. Jest ona ostatni¹ stacj¹
+Kolei Mazowickich, mo¿na wiêc spotkaæ jednostki w zielono-bia³ym malowaniu. Z kolei ZPR
+w Bia³ymstoku stosuje malowanie niebiesko-¿ó³te, ³atwo wiêc bêdzie rozró¿niæ sk³ady z obu
+kierunków.
+
+Uk³ad torowy stacji zgodny z rzeczywistoœci¹ w 95%. W rzeczywistoœci peron 3 po³¹czny jest
+z peronem 1 z lewej strony i skosem od niego odchodzi, co by³o nie do zrobienia w tej symulacji.
+
+BS - budynek stacyjny
+
+Wjazdy/wyjazdy:
+
+	1 - T³uszcz (Warszawa);
+	2 - Bia³ystok;
+	3 - Ostro³êka;
+	4 - Siedlce.
+
+Perony i tory postojowe/towarowe:
+	- peron 1 i 2 - poci¹gi do/z Warszawy i Bia³egostoku oraz przelotowe;
+	- peron 3 - autobus do Ostro³êki;
+	- droga wyjazdowa z peronu 3 w kierunku Ostro³êki oraz trasy przelotowe z tego wjazdu
+		biegn¹ pierwszym torem towarowym "od do³u" (czyli nad peronem R) - nale¿y wiêc
+		pamietaæ, aby w ci¹gu dnia by³ on wolny;
+	- Literami "R" oznaczy³em perony dodatkowe; na nich zazwyczaj bêdzie nocowa³ autobus;
+	- grupa czterech torów za peronem 1 (patrz¹c w kierunku Bia³egostoku) s³u¿y do postoju
+		sk³adów z Warszawy oraz wiekszoœci z Bia³egostoku
+	- ¿eberka na wysokoœci peronu 2 (z jego prawej strony) zajmuj¹ niektóre EZT do Bia³egostoku.
+
+Lokomotywownia:
+	- najbli¿sza, to Bia³ystok;
+	- czas zamówienia 60 min.
+	- czas naprawy 120 min.
+	- aby wjechaæ lokomotyw¹ na stacjê, nale¿y dojechaæ do pierwszego punktu manewrowego
+		przy wjeŸdzie 2 i stamt¹d na perony;
+
+Sk³ady i obiegi:
+	- obiegi oraz zestawienia sk³adów zbli¿one do rzeczywistoœci;
+	- do poci¹gów dalekobie¿nych doda³em wakacyjne "Wigry" oraz nieistniej¹cego ju¿
+		"Balti" do Wilna;
+	- wahade³ko do Ostro³êki jest niestety tylko wspomnieniem - kiedyœ kursowa³o tam kilka
+		par poci¹gów, obecnie linia jest zamkniêta dla ruchu pasa¿erskiego;
+	- równie¿ poci¹gi towarowe kursuj¹ wg. "mojego rozk³adu"; reszta zgodna ze SRJP.
+
+----------------------
+Adam Kamiñski
+adam@bopos.pl
+2006-10-01

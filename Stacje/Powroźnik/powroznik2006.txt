@@ -1,0 +1,45 @@
+PowroŸnik 2006
+==============
+
+*** O stacji: ***
+
+PowroŸnik jest jedyn¹ mijank¹ miêdzy Muszyn¹, a Krynic¹.
+Oprócz regulacji ruchu na w/w odcinku, na stacji znajaduj¹ siê tory postojowe, gdzie
+zje¿dzaj¹ wszystkie sk³ady dalekobie¿ne oraz czêœc poci¹gów osobowych koñcz¹cych bieg
+w Krynicy. Na PowroŸniku odbywa siê sprz¹tanie i przygotowanie sk³adu do drogi powrotnej,
+ale tak¿e naprawy i przegl¹dy taboru.
+
+*** Ruch poci¹gów: ***
+
+Przedstawiony rozk³ad reprezentuje sytuacjê dnia powszedniego ze stycznia, kiedy to poci¹gi
+dalekobie¿ne kursowa³y codzienniea poci¹gi osobowe nie by³y pozawieszane - (F) po 31.03.2006.
+
+Do PowroŸnika zje¿d¿aj¹ 3 sk³ady dalekobie¿ne:
+
+P 33201 Wetlina z Warszawy wsch do Krynicy
+P 33503 z Gdyni G³. do Krynicy
+Ex 13411 E. Malinowski z Warszawy Wsch. do Krynicy
+
+Lokomotywy prowadz¹ce poci¹gi do Krynicy, obs³uguj¹ tak¿e manewry w stacji PowroŸnik,
+oraz zwykle wracaj¹ na tym samym poci¹gu w relacji przeciwnej.
+
+Poci¹gi osobowe i ich monotoniê urozmaica przyspieszony JAWORZYNA z Krakowa G³ównego,
+oraz dwie pary poci¹gów miêdzynarodowych rel. Plaveè - Krynica - Plaveè.
+
+Z PowroŸnika kursuje tak¿e sk³ad s³u¿bowy (ET21+Bh) który zapewnia dojazd i powrót dru¿yny
+konduktorskiej z Plavca, po obs³udze pociagu P 381 CRACOVIA rel. Kraków - Budapeszt Keleti
+z wagonami do Bukaresztu Nord.
+
+Poci¹gi towarowe pojawiaj¹ siê sporadycznie - w zimie p³ug + ew. poci¹gi robocze. Jednak
+zrezygnowaliœmy z tego typu poci¹gów w grze z uwagi na rzadkie kursowanie.
+
+By wyjechaæ lokomotyw¹ z lokomotywowni nale¿y ustawiæ przebieg na najbli¿szy punkt postojowy.
+
+*** Autorzy: ***
+
+Piotr Go³êbiowski (hgolebiowski@interia.pl) - rozk³ad jazdy
+Tomasz ¯akowski (zakowski@op.pl) - plan stacji dla Kolejarza
+
+---
+
+Podziêkowania dla Adiego za udostêpnienie planu PowroŸnika (www.semafor.prv.pl)

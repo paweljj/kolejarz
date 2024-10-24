@@ -1,0 +1,58 @@
+Stacja------> Koluszki
+Plan Stacji-> autentyczny na podstawie planu urz¹dzeñ srk i planu œwietlnego i obserwacji w³asnych
+Rozk³ad-----> 2004 wed³ug s³u¿bowych zeszytów 101,161,171,180,272,390+dodatki 2abcd 4b +Œcienny odj/przyj
+Wjazd-1---->Skierniewice,Kutno,£owicz,warszawa,Terespol,Ma³aszewicze
+Wjazd-8 u góry---->Wagonownia i baza remonta¿owo monta¿owa,Bocznica Odlewni ¿eliwa(nieczynna),Jednostka wojskowa Regny(nieczynna) kilka razy do roku je¿d¿a tam wagony do naprawy na polecenie dyspozytora nie s¹ ujête w s³u¿bowym rozk³adzie jazdy
+Wjazd-2---->CPN,baza magazynowo-prze³adunkowa NAFTOBAZY obecnie PKN ORLEN
+Wjazd-3---->S³otwiny,Tomaszówmazowiecki,Drzewica,Radom,Skar¿ysko-kamienna,Idzikowice(po³aczenie z CMK)
+Wjazd-4---->praktycznie tylko przyjazdy EN57 z £odzi Fabr i niektóre towarowe
+Wjazd-5---->Piotrków trybunalski,Radomsko,Czêstochowa,Gliwice,Katowice,Kraków,Zabrzeg Czarnolesie,Praga,Budapeszt
+Wjazd-6---->Ga³kówek, £ódŸ Kaliska-lokomotywownia,£ódŸ Olechów-stacja rozrz¹dowa,lokomotywownia,postój
+            pustych EZT ,Zgierz,Kutno,P³ock,Bydgoszcz,Gdañsk,Poznañ,Rzepin,Sieradz,ostrów wielkopolski
+            Franfurkt n/Odr¹,Wroc³aw,
+CO NOWEGO
+poprawienie rozk³adu jazdy lokomotyw luzem
+dodanie widoków sk³adu wed³ug 2a,b,c,d,4b
+dodanie poci¹gów przewoŸnika PCC Rail szczakowa(dawniej KP szczakowa)
+Ruch
+UWA¯AÆ ABY POCI¥GI Z WJAZDU 1 KIEROWAÆ NA DOLNA CZÊŒÆ PERONÓW , Z POZOSTA£YCH NA GÓRN¥-INACZEJ PRZEBIEGI S¥ SPRZECZNE
+z dodatku 4b wynika ¿e poci¹gi zdawcze po przyjeŸdzie ze s³otwin jad¹ po postoju z powrotem do s³otwin jak zrobi³em trochê odstêpstw do dodatku,
+bo je¿dzenie w te i z powrotem z pustymi cysternami nie ma moim zdaniem sensu
+
+zrezygnowa³em z poci¹gów z wagonami do naprawy i lokomotyw luzem od nich bo tory do wagonowni s¹ zaroœniête , 
+Bardzo wa¿ny wêze³ kolejowy od momentu wybudowania w 1868r linii do £odzi 
+Lokomotywy
+Ty2,sp32 kursowa³y do pierwszej po³owy lat osiemdziesi¹tych z poci¹gami do Skar¿yska , Opoczna
+EN 56 j.w. lecz na trasie ³ódŸ -skierniewice
+EP07,EP09 pojawiaj¹ siê od czasu do czasu z poci¹gami warszawa-³ódŸ,³ódŸ-warszawa
+EN57 poc¿atkowo ¿ó³to-granatowe potem pomarañczowe a coraz czêœciej niebiesko-¿ó³te(nowe malowanie obowi¹zuj¹ce wszystkie ZPR)
+EU07,ET22 jak zawsze wszêdzie popularne
+EP05,EP08 kursowa³y do pocz¹tku lat dziewiêdziesi¹tych z poci¹gami dalekobie¿nymi,expresami ( na podstawie zeszytu 101 z 1990)
+3E,4E, ,TEM2 sprzêgniête ze sob¹ widzia³em kilka razy z pociagiem przewo¿nika PCC RAil
+ET41 ET42 widzialem kilka razy w koluszkach z poci¹gami rozpoczynaj¹cymi bieg z roku na rok
+coraz mniej
+ET 40 nie by³o ich tutaj
+<->,-> relacja
+Perony
+z uwagi na mo¿liwoœci kolejarza schemat nie odzwierciedla rzeczywistej wielkoœæi i d³ugoœci peronów
+Peron1-poœpieszne 1<->7 oraz EZT ze Skierniewic koñcz¹ce bieg 
+peron 4 to w rzeczywistoœci peron 1a
+Peron1A-EZT zaczynajace  i koñcz¹ce bieg ->7  ->6 -ze sk³adów koñcz¹cych bieg przy peronie 1 i wachad³a 6<->6 7<->7 
+Peron2 EZT do Skierniewic oraz poci¹gi 1<->6 i pozosta³e EZT zaczynaj¹ce bieg ->6
+czêsto stoj¹ tu poci¹gi towarowe które maj¹ kilka minut postoju
+Peron3 ->4 i ->6 
+to ogólne wskazówki nale¿y zerkaæ na rozk³ad jazdy
+
+Inne
+Lokomotywownia £ódŸ olechów czas zamówienia 21 minut czas naprawy 60 minut
+KL-"grzybek"-nastawnia,zale¿noœæi realizowane przez urz¹dzenia przekaŸnikowe ,pulpit kostkowy,PBL
+KLM Nastawnia manewrowa realizuje przebiegi ko³o toru wyci¹gowego(punkt manewrowy nad wyjazdem 1)
+obiegi ezt z wyj¹tkiem kilku nieœcis³oœci wed³ug dodatku 2D (pi¹tek roboczy)
+pociag relacji wa³brzych szczawienko-s³otwiny wed³ug dodatku 4b mo¿e skoñczyæ bieg w koluszkach
+w kolejarzu nie ma mo¿lwoœci wysy³ania poci¹gu w trasie alternatywnej 
+rozk³ad jazdy poci¹gów do cpn nie jest nigdzie normowany ,wiêc  jest fikcyjny,sporadyczne s¹ kursy do sk³adu opa³u zw³aszcza w okresie zimy .
+
+czêsto zdarza siê ¿e ledwo poci¹g wyjecha³ wyjazdem 1 a ju¿ " zg³asza siê " nastêpny taka sytuacja ma czêsto miejsce  w rzeczywistoœci
+na uwagi dotyc¿ce rozk³adu, przebiegów itd. czekam pod adresem nastawniadysponujaca-wytnijto@gmail-wytnijto.com
+wykorzystano programy eroz pathfinder i edk dziêkujê Paw³u JóŸwickiemu za cenne uwagi i wszystkim kolejarzom za okazan¹ ¿yczliwoœæ 
+

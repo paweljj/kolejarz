@@ -1,0 +1,27 @@
+Stacja Runowo Pomorskie.
+Jest stacja wêz³owa na linii Szczecin - Gdañsk, miêdzy Stargardem Szcz. a Bia³ogardem.
+Od tej stacji odchodzi linia do Chojnic.
+Ruch pasa¿erski jest œredni, dawniej by³ wiekszy, gdy¿ kursowa³o wiêcej pociagów w kierunku Chojnic.
+Ruch towarowy jest spory.
+Pociagi pasa¿erskie zaczerpniete z SRJP 2006/2007, ruch towarowy z za³¹czników PKP Cargo, mog¹ sie ró¿niæ od rzeczywistoœci sk³ady
+poci¹gów towarowych. Sk³ady pasa¿erskich s¹ rzeczywiste w 100%.
+Jedynie sk³ad PODLASIAKA jest fikcyjny.
+
+WYJAZDY:
+1 - Stargard Szcz., Szczecin
+2 - Koszalin, Gdañsk
+3 - Szczecinek, Chojnice
+
+Tory postojowe poni¿ej stacji to pozosta³oœci po Sekcji Towarowej. Obecnie nie stacjonuje tam nawet 
+ani jedna drezyna. Wiêc pojazdy, które stacjonuj¹ w grze to urozmaicenie.
+Dwa tory postojowe na górze stacji s¹ nieczynne i s³u¿¹ jako bocznica dla wagonów Gagst, okazjonalnie
+podsy³ane s¹ tu wagony pró¿ne ze Stargardu.
+
+Na stacji stacjonuje jeden lok ST44, najbli¿sza lokomotywownia w Szczecinie, ale w Stargardzie stoi kilka 
+rezerwowych loków.
+
+Poranny poci¹g do Szczecinka powinien byc odprawiany z peronu przy postoju, tylko wtedy jest on u¿ywany i wieczorem kiedy
+sk³ad ze Szczecinka wraca na noc.
+
+Mi³ej zabawy
+Bartosz Witan (bartoszwitan@wp.pl)

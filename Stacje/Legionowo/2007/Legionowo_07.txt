@@ -1,0 +1,71 @@
+		------------------------------------------------
+			Stacja Legionowo
+		------------------------------------------------
+
+Przedstawiamy u¿ytkownikom Kolejarza stacjê Legionowo. Jest to miasto, w którym od lini
+	Warszawa - Gdynia odchodzi po³¹czenie Legionowo - T³uszcz. Z tego powodu przez stacjê
+	przewijaj¹ siê poci¹gi towarowe jad¹ce zarówno na pó³noc jak i pó³nocny wschód Polski.
+
+Uk³ad torowy zgodny z rzeczywistoœci¹ co do rozjazdu.
+
+
+	----------------------------------------------------------
+		Wjazdy/wyjazdy:
+	----------------------------------------------------------
+
+	1 - Warszawa;
+	2 - Nasielsk (Ciechanów, Gdynia, Olsztyn);
+	3 - Legionowo Piaski (Radzymin, T³uszcz, Bia³ystok);
+	4 - Warszawa ( tor dodatkowy );
+	5 - sk³ad wêgla w Legionowie;
+
+	------------------------------------------------------------
+		Perony
+	------------------------------------------------------------
+
+	1 - peron dwukrawêdziowy przelotowy;
+	2 - peron dwukrawêdziowy - przy górnej krawêdzi zatrzymuj¹ siê pociagi w kierunku Piasków,
+		przy dolnej - niektóre, przelotowe poci¹gi osobowe z Warszawy do Dzia³dowa;
+	3 - peron jednokrawêdziowy, za³adunkowy. 
+            Zatrzymuj¹ siê tu sk³ady z Warszawy Pragi w celu roz³adunku drewna.
+
+
+	------------------------------------------------------------------------
+		Tory postojowe/towarowe/inne:
+	------------------------------------------------------------------------
+
+	- "E" miejsce postoju drezyny PKP Energetyka;
+        - Poci¹gi towarowe z wjazdów 3 – 4/1, 1/4 – 3 powinny przeje¿d¿aæ torem 
+          miêdzy peronem I, a II.
+
+	--------------------------------------------------------
+		Lokomotywownia:
+	--------------------------------------------------------
+
+	- najbli¿sza to oczywiœcie Warszawa Odolany;
+	- czas zamówienia  60 min.
+	- czas naprawy     90 min.
+
+
+	--------------------------------------------------------
+		Sk³ady i obiegi:
+	--------------------------------------------------------
+
+	- sk³ady poci¹gów rzeczywiste w 90% - stan aktualny: kwiecieñ 2007;
+	- obiegi poci¹gów rzeczywiste w 100%;
+
+	------------------------------------------
+		AUTORZY
+	------------------------------------------
+   ___________________________________________________
+
+		Igor Bubicz
+		igorb@op.pl
+		gg: 7887862
+
+               Adam Kamiñski
+            adi.kaminski@gmail.com
+                gg: 6676645
+
+Legionowo & Wo³omin 2007
+02-05-2007

@@ -1,0 +1,25 @@
+Stacja------> Podkowa Leœna G³ówna
+Plan Stacji->Dostarczony przez Piotra Go³êbiowskiego
+Rozk³ad-----> SRJP 2002
+Wyjazd---1-->Nowa Wieœ,Komorów,Pruszków,Opacz,Warszawa Œródmieœcie
+Wyjazd---2-->  Kazimierówka ,Grodzisk Mazowiecki
+Wyjazd---3--> Polesie ,Milanówek Graniczna
+wersja D dni robocze Wersja C dni wolne i œwiêta
+Symulacja ukazuje powoln¹ degradacjê WKD (spadek liczby po³¹czeñ,zamykanie stacyjek w Milanówku )
+jest to niestety moja ostatnia symulacja tej stacji bo
+-gra staje siê nudna
+-nie uda³o siê dostaæ zeszytu 110 obejmuj¹cego WKD bo pracownicy WKD nie chc¹ udostêpniæ nawet nieaktualnych s³u¿bówek
+-jeszcze na g³owê nie upad³em ¿eby wydawaæ 50-300 z³ na SRJP ( na allegro czy gdzieœ indziej) przed 1975 kiedy zamkniêto stacjê Milanówek PKP
+
+ 
+
+
+
+ PLIK ROZ
+Adam Sosnowski
+nastawniadysponujaca-wytnijto@gmail-wytnijto.com
+PLIK STC
+Piotr Go³êbiowski 
+e-mail: hgolebiowski[wytnij to]@interia.pl
+ www.ryflak.za.pl 
+Wykorzystano  programy EDK i patfinder i Eroz

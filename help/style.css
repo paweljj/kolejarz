@@ -1,0 +1,17 @@
+.pogr {font-weight: bold;}
+.nowosc {font-weight: bold; color:red;}
+.czerw {color: red;}
+.ziel {color: green;}
+.nieb {color: blue;}
+.kurs {font-style: italic;}
+.uwaga {font-weight: bolder; font-size:large;}
+ul.none {list-style-type: none; font-weight: normal; list-style-position: inside; margin-left: 0;}
+h3 {text-align: center;}
+ul {font-weight: bold;}
+ul p {margin: 0; margin-left: -1em;}
+ul.normal {font-weight: normal; list-style-position: inside; margin-left: 0;}
+li {font-weight: normal; text-align: justify;}
+td {width: 100px;}
+ol ul {list-style-type: disc;}
+ol ol {list-style-type: lower-alpha;}
+p {text-align: justify;}

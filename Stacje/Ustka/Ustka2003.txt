@@ -1,0 +1,55 @@
+USTKA:
+
+Ustka jest to nadmorska miejscowoœæ w woj. pomorskim, ruch na tej stacji 
+poza sezonem letnim jest praktycznie bardzo ma³y, w sezonie dochodzi "Torunianin"
+i trochê osobowych.
+
+Wyjazdy:
+1- S³upsk
+2- CPN, a dalej do Portu
+3- Stocznia Ustka
+4- Zak³ady Korab
+
+ROZK£AD:
+Rozk³ad jazdy obejmuje okres letni 2003
+Sk³ady i obiegi s¹ zgodne z rzeczywistoœci¹
+Poci¹g zdawczy jest zgodny z rzeczywistoœci¹
+Poci¹gi towarowe to moja wyobraŸnia
+
+STACJA:
+Plan stacji oparty jest na obserwacjach terenowych
+Uk³ad torów zgodny w 75% z rzeczywistoœci¹
+Najbli¿sza lokomotywownia jest w Gdyni, ale w S³upsku zawsze stacjonuj¹ jakieœ lokomotywy.
+Czas zamówienia lokomotywy: 25 minut, czas naprawy 120 minut
+
+Poci¹g do i z zak³adu Korab musi wjechaæ na 1 tor niezelektryfikowany od góry stacji.
+Poci¹g wojskowy nie, mo¿e wjechaæ na tor nr 1, bo musi przepuœciæ poc. osobowy
+Poci¹gi do i z Portu powinny wjechaæ na 2 tor peronu 1 od góry stacji.
+
+INNE:
+Powstanie stacji przy programie Edytor dla Kolejarza EdK v2.35 kompilacja 5003 
+Powstanie stacji u³atwi³ program PathFinder 2.0
+
+PODZIÊKOWANIA:
+- Specjalne podziêkowanie dla Marka Skrzypkowskiego za pomoc w tworzeniu rozk³adu jazdy.
+  Zapraszam na jego stronê internetow¹: www.mk.koszalin.prv.pl
+  mk_koszalin@pf.pl
+- Podziêkowania dla Marka Junklewicz za informacje o poci¹gu zdawczym
+  marekjj@poczta.onet.pl
+
+POPRAWKI
+23.06.2003r.
+- zmieni³em rysunki EZT i lokomotyw
+- poprawiona stacja, wyjazdy i wjazdy
+- doda³em poci¹gi towarowe, które s¹ moj¹ wyobraŸni¹ i s¹ niezgodne z rzeczywistoœci¹.
+Na stacji oprócz poc. zdawczego ruchu towarowego nie ma.
+
+16.08.2003r.
+- zmiana rysunku do poc. POSP Torunianin, poniewa¿ czêœciej kursuje ED72 i EN57, ni¿ 2 ED72
+- zmiana lokomotywowni poc. Dod, na CM Poznañ!
+Zapraszam na moj¹ stronê internetow¹ www.pikukoplin.blog.pl
+
+AUTOR:
+Maciej Koplin
+e-mile: m.koplinpkp@interia.pl
+www.pikukoplin.blog.pl

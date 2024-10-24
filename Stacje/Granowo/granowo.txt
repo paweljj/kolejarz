@@ -1,0 +1,18 @@
+Granowo 2003
+
+Uk³ad torowy taki jak w rzeczywistoœci.
+Rozk³ad jazdy poci¹gów osobowych rzeczywisty.
+Rozk³ad jazdy poci¹gów towarowych fikcyjny.
+Sk³ady i ich obiegi podobne do rzeczywistoœci.
+
+Najbli¿sza lokomotywownia - Grodzisk Wlkp.
+
+
+Przy tworzeniu stacji pomog³y:
+StationInfo 1.0
+Edytor dla Kolejarza 2.35
+PathFinder 2.0
+
+Wszelkie uwagi:
+Maciej Szczeszek 
+szczechy@box43.pl

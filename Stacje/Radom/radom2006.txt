@@ -1,0 +1,128 @@
+		------------------------------------------------
+			Stacja Radom
+		------------------------------------------------
+
+Przedstawiamy u¿ytkownikom Kolejarza stacjê Radom. Jest to znane chyba miasto, w którym schodz¹ siê
+	dwie linie: carska linia ze Œl¹ska na Ukrainê przez Dêblin oraz z Warszawy w kierunku £odzi
+	przez Tomaszów Mazowiecki.
+Schemat obejmuje tak na prawdê dwie stacje - Radom osobowy, gdzie wspomniane wy¿ej linie siê schodz¹
+	oraz le¿¹cy miêdzy nim a Lublinem Radom Wschodni, bêd¹cy stacj¹ towarow¹. Dlatego te¿ poci¹gi
+	zatrzymuj¹ce siê w Radomiu w rzeczywistoœci maj¹ postój w³aœnie tam.
+
+Uk³ad torowy zgodny z rzeczywistoœci¹ co do rozjazdu. Miêdzy obiema stacjami odleg³oœæ wynosi
+	ok. 300 metrów i dodatkowo ³uk prawie 90 stopni. Dlatego te¿ na potrzeby Kolejarza
+	"wyprostowaliœmy" ten ³uk oraz po³¹czyliœmy okrêgi zwrotnicowe obu stacji wspólnymi punktami
+	manewrowymi.
+
+
+	----------------------------------------------------------
+		Wjazdy/wyjazdy:
+	----------------------------------------------------------
+
+	1 - Skar¿ysko Kamienna (dalej Kraków, Katowice, Stalowa Wola Rozwadów...);
+	2 - Dêblin (Lublin, Warszawa dla poci¹gów towarowych, Ukraina);
+	3 - Tomaszów Mazowiecki (£ódŸ, Idzikowice);
+	4 - Bocznica "Raffilu";
+	5 - Warka (Warszawa);
+	6 - Elektrociep³ownia Radom;
+	7 - Lotnisko Radom (dok³adnie baza paliw lotniska).
+
+
+	------------------------------------------------------------
+		Perony
+	------------------------------------------------------------
+
+	1 - peron jednokrawêdziowy - przy nim koñcz¹ lub rozpoczynaja bieg poci¹gi do/z Warszawy
+		i okolic oraz czêœæ poci¹gów z Drzewicy;
+	2 - peron dwukrawêdziowy przelotowy - zatrzymuj¹ sie przy nim pociagi przelotowe, oraz czêœæ
+		pociagów do/z Drzewicy ustawione s¹ tu tak¿e przebiegi bezpoœrednie;
+	3 - peron dwukrawêdziowy - przy nim koñcz¹ lub rozpoczynaj¹ bieg poci¹gi
+		do/z Dêblina oraz Skar¿yska, a tak¿e czêœæ sk³adów do/z Drzewicy.
+
+
+	------------------------------------------------------------------------
+		Tory postojowe/towarowe/inne:
+	------------------------------------------------------------------------
+
+	- mimo zaznaczonych na schemacie kilku wykolejnic czêœæ z nich jest u¿ywana i dlatego ruch
+		przez nie jest jak najbardziej w³aœciwy;
+	- "S" - tor spó³ki "PKP Energetyka", gdzie stacjonuje sieciowiec oraz stonka, u¿ywana czasem
+		do manewrów na Wschodnim;
+	- "E, Z" - EZT, czyli postoje jednostek, g³ównie z Warszawy (wjazd 5) oraz autobusu z Drzewicy
+		(wjazd 3), choæ czasem z braku miejsca mog¹ staæ tam równie¿ jednostki z Dêblina
+		czy Skar¿yska;
+	- "¯" - ¿eberko na pó³nocnym krañcu peronu 3, tam z regu³y czekaj¹ sobie jednostki
+		z/do Dêblina i Skar¿yska oraz czasem autobus z/do Drzewicy;
+	- jeden tor na Wschodnim i jeden na "g³ównym" zajêty jest przez wêglarki - stan taki
+		utrzymuje siê od kilku lat, wobec czego wagonów tych nie mo¿na z tamt¹d ruszyæ;
+	- podobnie rzecz ma siê z drezynk¹ przy peronie 1 - z regu³y stoi nieu¿ywana
+		i taka niech pozostanie;
+	- "Z£OM" - nazwa mówi sama za siebie - tu mieœci sie punkt ³adowania na wagony z³omu,
+		tor ostatnio w ogóle nie u¿ywany.
+
+
+	--------------------------------------------------------
+		"Semafory stacyjne"
+	--------------------------------------------------------
+
+	Aby usprawniæ ruch na stacji (w sumie na dwóch stacjach) i jednoczeœnie bardziej go urealniæ
+		wprowadzi³em na torach g³ównych wychodz¹cych w "lew¹" stronê stacji strza³ki,
+		oznaczaj¹ce: semafor wyajzdowy (w kierunku Dêblina) oraz semafory wjazdowe 
+		(z kierunków Dêblina i Warszawy). Zasada jest prosta:
+	- semafor wjazdowy - gdy na stacji panuje du¿y ruch i chwilowo zajête s¹ wszystkie przebiegi
+		umo¿liwiaj¹ce poci¹gowi przelotowemu przejazd przez stacje, lub poci¹gowi 
+		zatrzymuj¹cemu siê wjazd na odpowiedni tor, wtedy podje¿d¿a siê takim sk³adem pod
+		semafor (czyli do strza³ki), dziêki czemu wjazd zostaje zwolniony;
+	- semafor wyjazdowy - !UWAGA! dotyczy TYLKO poci¹gów przelotowych, które wje¿d¿aj¹c na stacjê
+		nie maj¹ jak jej opuœciæ (zajêty wyjazd). Wtedy podje¿d¿amy sk³adem pod semafor
+		(strza³kê), wjazd zostaje zwolniony, a i symulacja przebiega sprawniej.
+
+
+	--------------------------------------------------------
+		Lokomotywownia:
+	--------------------------------------------------------
+
+	- najbli¿sza to oczywiœcie Skar¿ysko Kamienna;
+	- czas zamówienia 30 min.
+	- czas naprawy 90 min.
+	- w rzeczywistoœci tamara i 401De przyje¿d¿aj¹ po sk³ady z elektrowni oraz "Raffilu",
+		jednak¿e w warunkach symulacyjnych nie uda³o siê nam tego odtworzyæ,
+		dlatego œci¹gane s¹ z szopy w Skar¿ysku.
+
+
+	--------------------------------------------------------
+		Sk³ady i obiegi:
+	--------------------------------------------------------
+
+	- sk³ady poci¹gów rzwczywiste w 100% - stan aktualny: czerwiec 2006;
+	- obiegi poci¹gów wierne, ale nie do koñca rzeczywiste - za ma³o danych;
+	- rozk³ad jazdy poci¹gów osobowych "kibelków" na podstawie rozk³adu wakacyjnego 2006, 
+		kiedy to poprzez remont tunelu œrednicowego w Warszawie wiêkszoœæ sk³adów mia³a
+		wyd³u¿one relacje do Miñska Mazowieckiego lub Siedlec;
+	- rozk³ad jazdy poci¹gów dalekobie¿nych zgodny z "ceg³¹" na rok 2006;
+	- rozk³ad poc. towarowych na podstawie S³u¿bowego RJP z roku 1999; do jazd PKP dodaliœmy
+		3 pary poci¹gów, aby gra by³a ciekawsza;
+	- ruch "prywaciarzy" oraz poci¹gu sieciowego zosta³ podyktowany przez wyobraŸniê Mateusza;
+	- oba sk³ady towarowe koñcz¹ce bieg w Radomiu Wschodnim odstawiamy na tory przy rampie
+		i wieczorem ok. godziny przed planowanym odjazdem przestawiamy na tory "odjazdowe".
+	- dodaliœmy wahade³ko do Drzewicy - szynobusik, który mia³ kursowaæ na tej trasie,
+		ale KM chyba o nim zapomnia³o...
+
+
+	------------------------------------------
+		AUTORZY
+	------------------------------------------
+   ___________________________________________________
+1. projekt, pomys³, rysunki, z³o¿enie do kupy rozk³adu:
+		Mateusz Szalla
+		szalli@wp.pl
+		gg: 6931927
+   _______________________________________________
+2. opracowanie komputerowe schematu oraz rozk³adu:
+		Adam Kamiñski
+		adam@bopos.pl
+		gg: 6676645
+
+
+Wo³omin & Radom 2006
+2006-09-18

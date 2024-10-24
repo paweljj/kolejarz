@@ -1,0 +1,136 @@
+		-----------------------------------------------------------------------------------
+			Stacja Warszawa Grochów 2007
+		-----------------------------------------------------------------------------------
+
+Stacja postojowa, bêd¹ca - mo¿na powiedzieæ - dwoma oddzielnymi stacjami, obs³uguj¹cymi
+	poci¹gi spó³ki PKP Intercity, oraz Koleje Mazowieckie, z wciœniêt¹ miêdzy nie szop¹
+	lokomotyw pasa¿erskich z CM Warszawa. Odleg³oœæ, jaka dzieli Grochów od Wschodniej, 
+	czy Gdañskiej, oraz specyfika ruchu, który siê tu odbywa, pozwoli³a na napisanie
+	oddzielnej symulacji samego Grochowa.
+Przy Grochowie funkcjonuje p.o. W-wa Olszynka Grochowska na linii do Otwocka - jest to
+	znaczne u³atwienie dojazdu pracownikom szopy, czy wagonowni.
+
+
+	----------------------------------------------------------
+		Wjazdy/wyjazdy:
+	----------------------------------------------------------
+
+	1 - Warszawa Wschodnia - sk³ady dalekobie¿ne;
+	2 - Warszawa Wschodnia - sk³ady podmiejskie KM;
+	3 - post. odg. Warszawa Micha³ów i dalej w stronê Gdañskiej i Pragi;
+	4 - Warszawa Wschodnia od p.o. Olszynka Grochowska;
+	5 - Otwock.
+
+
+	------------------------------------------------------------
+		Perony
+	------------------------------------------------------------
+
+Peron jest jeden, przy p.o. Olszynka Grochowska. Resztê wprowadzi³em, aby umo¿liwiæ sk³adom
+	przyjazd na Grochów.
+
+
+	--------------------------------------------------------------
+		Opis schematu
+	--------------------------------------------------------------
+
+	- tory "EZT" - dwie grupy torów postojowych, przy czym tylko jedna z nich (dolna)
+		ma po³¹czenie z torami "dalekobie¿nymi", co jest wa¿ne w przypadku
+		podsy³ów do W-wy Gdañskiej i Woli;
+	- tor "L" - wyjazdowy tor z szopy, st¹d ruszaj¹ "luzaki" jako podsy³ na Wschodni;
+	- tory "odjazd" - grupa odjazdowa sk³adów IC, st¹d wyruszaj¹ wszystkie poci¹gi
+		tej spó³ki;
+	- tory "przyjazd" - analogicznie grupa torów, na które wje¿d¿aj¹ poci¹gi IC po przyjeŸdzie
+		na Grochów
+	- H - hala jednostek KM, tam obywaj¹ siê przegl¹dy, naprawy, 
+		tam te¿ "nocuj¹" niektóre jednostki;
+	- PK - punkty kontrolne jednostek; aby sk³ad pojecha³ dalej, musi zatrzymaæ siê
+		na którymœ z nich;
+	- HALE - zespó³ dwóch hal ("górna" ca³opoci¹gowa, "dolna" krótsza) do napraw i przegl¹dów
+		wagonów lub ca³ych sk³adów IC;
+	- WAG - najwiêksza grupa torów na Grochowie, gdzie stoj¹ sk³ady IC po "obrobieniu"
+		po przyjeŸdzie i przed wyjazdem na grupê wyjazdow¹. Tu nale¿y je odstawiaæ;
+	- tory W - grupa torów dodatkowych, na których stoj¹ wagony czekaj¹ce na naprawy,
+		b¹dŸ te¿ nie bêd¹ce obecnie w eksploatacji. W pobli¿u jest tak¿e zak³ad
+		i bocznica "WARSu", jednak¿e nie zamieœci³em jej w symulacji;
+	- CNTK - Centrum Naukowo-Techniczne Kolejnictwa - oœrodek doœwiadczalny i jego
+		uproszczona infrastruktura torowa;
+	- tory H - zadaszone tory, na których nastêpuje sprawdzanie dzia³ania hamulców
+		po powrocie sk³adów z trasy;
+	- tory M - myjka dla wagonów;
+
+
+
+	------------------------------------------------------------------------
+		Obs³uga Grochowa: sk³ady IC
+	------------------------------------------------------------------------
+
+Poci¹g wje¿d¿aj¹ wjazdem 1 lub 3 i staj¹ na torach przyjazdowych. Nastêpnie lokomotywa planowa
+	odczepia siê i zje¿d¿a do szopy, a sk³ad przejmuje grochowska "stonka". Czêstym
+	widokiem jest jednorazowe obrabiaine dwóch sk³adów naraz, wiêc w symulacji tak¿e
+	mo¿emy tak postêpowaæ.
+Po podczepieniu jedziemy po "wianku" - na stanowisko hamulców, na myjkê i na tory
+	postojowe "WAG", gdzie ustawiamy wagony wed³ug w³asnego pomys³u.
+Co najmniej 2 godziny przed wyjazdem ka¿dy sk³ad nale¿y wyprowadziæ na grupê odjazdow¹,
+	tu podczepia siê lokomotywa planowa i czeka na odjazd (wyjazd 1 lub 3).
+W symulacji nie da³o siê zobrazowaæ ruchu poci¹gu po wianku, dlatego podczepiona na pocz¹tek
+	sk³adu stonka po objechaniu wianka l¹duje na koñcu poci¹gu. Metod¹ jest podczepianie
+	stonki... na koñcu sk³adu:-)
+
+
+	------------------------------------------------------------------------
+		Obs³uga Grochowa: sk³ady KM
+	------------------------------------------------------------------------
+
+Poci¹gi wje¿d¿aj¹ zasadniczo wjazdem 2 i od razu zje¿dzaj¹ na tory postojowe. Potem fakultatywnie
+	przerzucane s¹ do hali.
+Przy wyjeŸdzie z torów postojowych ka¿dy sk³ad musi zatrzymaæ siê w punkcie kontrolnym,
+	a potem w miejscu rzeczywistej SBL-ki - na schemacie jest to tor ze strza³k¹. Dopiero
+	st¹d poci¹g wyje¿d¿a na Wschodni.
+Poci¹gi jad¹ce z W-wy Gdañskiej lub Woli przyje¿d¿aj¹ wjazdem 3 i przeje¿dzaj¹ torami
+	dla lokomotyw na "doln¹" grupê postojow¹ EZT.
+W drodze powrotnej jednostki tak¿e wyje¿d¿aj¹ torem dla lokomotyw (jad¹ "pod pr¹d") na tory
+	przyjazdowe IC i st¹d odje¿d¿aj¹ wyjazdem 3 na Gdañsk¹/Wolê.
+
+
+	--------------------------------------------------------
+		Lokomotywownia:
+	--------------------------------------------------------
+
+Hala lokomotywowni nie jest zbyt pojemna, mieœci siê w niej "na oko" ok. 25 lokomotyw,
+	dlatego te¿ czêœæ z nich musi staæ przed hal¹. Na schemacie jest to "obok" hali.
+Loki, które zje¿d¿aj¹ z trasy, wje¿d¿aj¹ na halê. Te, które wyje¿d¿aj¹ na trasê, wystawiane s¹
+	co najmniej 2-3 godziny przez wyjazdem przed halê i tam myte.
+
+
+	--------------------------------------------------------
+		linia otwocka
+	--------------------------------------------------------
+
+Linia ta na odcinku W-wa Wschodnia - W-wa Goc³awek obs³uguje jedynie poci¹gi KM.
+	W przypadku popsutych sk³adów lokootywa jest œci¹gana prosto z szopy. 
+	W rzeczywistoœci przy peronie nie ma ¿adnych rozjadów, ale ze wzglêdu na pewne 
+	ograniczenia lok jest wyci¹gany prosto z szopy na doln¹ krawêdŸ toru od strony Goc³awka.
+	Jeœli popsuty jest poci¹g w stronê Wschodniej, lok manewruje na górn¹ krawêdŸ,
+	poczepia siê i ci¹gnie sk³ad do Wschodniej.
+
+
+	--------------------------------------------------------
+		Sk³ady i obiegi:
+	--------------------------------------------------------
+
+	- sk³ady poci¹gów IC rzeczywiste w 100% ze stron¹ www.intercity.pl;
+	- sk³ady poci¹gów KM wziête "na oko", czêœciowo ze s³u¿bowego RJP;
+	- obiegi poci¹gów rzeczywiste w 90%;
+
+
+	------------------------------------------
+		AUTOR
+	------------------------------------------
+
+	Adam Kamiñski
+	adi.kaminski@gmail.com
+	gg: 6676645
+
+Wo³omin 2007
+2007-12-01

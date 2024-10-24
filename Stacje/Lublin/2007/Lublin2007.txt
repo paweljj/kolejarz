@@ -1,0 +1,102 @@
+Tu stacja Lublin, tu stacja Lublin...
+
+Ten help bêdzie siê ró¿ni³ od poprzednich - nie mam tyle czasu 
+(a wiecie, ile godzin zabiera³o mi jego napisanie?)
+
+Zrobimy tak - nowym graczom radzê poczytaæ plik Lublin2006.txt, a nastêpnie to, co poni¿ej.
+Starzy "wyjadacze" mog¹ graniczyæ siê do hepla poni¿ej - sprawdŸmy formê FAQa:)
+
+1. STACJA
+1.1 Co to za nowe miejsce oznaczone liter¹ "M"?
+	Id¹c wzorem poprawionej w ubieg³ym roku symulacji Lublin1985 umo¿liwi³em wysy³anie 
+	i odbiór luzaków z i na Tatary na tor defacto manewrowy. Uwaga! Nie mo¿na z niego 
+	ustawiæ przebiegów w innych kierunkach.
+1.2 Dlaczego kilka poci¹gów o charakterze innym ni¿ manerwowy pojawia siê na wjeŸdzie nr 5?
+	Ta niekonsekwencja wynika z KWR-a. W tym samym czasie (w te same dni) odcinek ten 
+	jest zajêty przez dwa sk³ady równoczeœnie. To jest sprawa do wyjaœnienia. Na razie 
+	przyj¹³em, ¿e wyj¹tkowo kilka poci¹gów korzysta z tego toru, ale w tym roku muszê 
+	sprawdziæ, czy przypadkiem odstêp na szlaku Lublin - Lublin Tatary nie jest krótszy.
+1.3 Poni¿ej torów dla EZT jest sporo loków "wycofanych". Dlaczego nie da siê ich przestawiæ?
+	To celowy zamy³. Tor ³¹cznikowy "po lewej stronie stacji" miêdzy torami postojowymi 
+	dla e-loków a czêœci¹ towarow¹ jest zastawiony przez elektrowozy i spalinówki 
+	wycofane do napraw (lub z³omowania?). W grze uda³o mi siê ustawiæ tam tylko SU45, 
+	a reszta stoi trochê poni¿ej. Manewrowaæ trzeba przy nastawni LbC.
+1.4 Czy "kibelki" ca³y czas odstawia siê tylko na tory oznaczone literami "E,Z,T"?
+	Potwierdzi³y siê przypuszczenia sprzed roku, ¿e w ci¹gu dnia niektóre ezety s¹ 
+	odstawiane na tory postojowe dla tradycyjnych sk³adów wagonowych.
+
+2. ROZK£AD
+2.1 Co to za rozk³ad?
+	Opar³em siê o dodatki (dawne oznaczenie): 2a/b/c/d i dane z KWR. Symulacja obrazuje 
+	sytuacjê z rozk³adu 2006/7 - stan na pocz¹tek obowi¹zywania rozk³adu. W ruchu 
+	pasa¿erskim przedstawi³em maksymaln¹ liczbê poci¹gów - w zasadzie s¹ to za³o¿enia 
+	pod sezon wakacyjny i dzieñ roboczy, ale uwzglêdni³em te¿ np. weekendowe CISY. 
+	Rozk³ad poci¹gów towarowych to rozk³ad podstawowy i poci¹gi rzeczywiœcie kursuj¹ce 
+	w ci¹gu pierwszego miesi¹ca obowi¹zywania rozk³adu. To samo dotyczy ruchu s³u¿bowego 
+	(w tym poci¹gów technologicznych) i luzaków. W odró¿nieniu od Lublina2006 nie 
+	zaufa³em "trasom katalogowym" z KWR - czêœæ znich nie zosta³a wykorzystana, a i co 
+	do relacji mo¿na by³o mieæ zatsrze¿enia. 
+2.2 Które poci¹gi w tym rozk³adzie odje¿d¿aj¹ z toru oporowego przy peronie 1?
+	S¹ to poci¹gi odje¿d¿aj¹ce o godz.:
+	6.20 21504 BYSTRZYCA do Kutna
+	7.30 Ex21410 NIDA do Gdyni G³.
+	7.54 4413 do Stalowej Woli P³d.
+	10.30 27100 WIENIAWSKI do Poznania G³.
+	12.18 4415 do Stalowej Woli P³d.
+	15.58 4417 do Stalowej Woli Rozw.
+	18.20 413 do Rzeczycy
+2.3 Dlaczego tak du¿o jest poci¹gów technologicznych, o trakcji spalinowej i elektrycznej?
+	Informacje o takich poci¹gach dosta³em, a w grudniu i styczniu by³o ich od groma. 
+	Zak³ad Napraw Infrastruktury w Radomiu ci¹gle wysy³a³ z Dêblina swoje poci¹gi w 
+	okolice Œwidnika. Fikcj¹ jest tylko ich zestawienie w poszczególnych przypadkach. 
+	Zreszt¹ wiele jednorazowych przejazdów pomin¹³em.
+2.4 Jakie s¹ powody niekonsekwencji numeracji poci¹gów technologicznych oraz luzaków?
+	To pytanie do PKP PLK. W tej grze fikcyjne s¹ ju¿ tylko numery sk³adów bocznicowych. 
+	W pozosta³ych zmiana mo¿e dotyczyæ tylko koniecznoœci zast¹pienia 0 na pocz¹tku 
+	przez 9, bo "Kolejarz" tego nie	toleruje.
+2.5 Co to za luzaki S200 nale¿¹ce do prywatnego opetarora - Lubelski Wêgiel Bogdanka?
+	W rozk³adzie z grudnia 2006 i stycznia 2007 LW Bogdanka prowadzi³a poci¹gi tylko 
+	z Jaszczowa do Che³ma, a z Jaszczowa do Dêblina przewoŸnik kilkakrotnie zamawia³ 
+	tylko kursy luzem. Po co? Nie wiem. Mo¿e to coœ w rodzaju jazdy próbnej?
+2.6 Sk¹d pewnoœæ, ¿e poci¹g turystyczny 12601/21600 jest do/z Ko³obrzegu?
+	W ubieg³ym roku pisa³em, ¿e nie znam stacji koñcowej tego poci¹gu. Dopiero z 
+	obserwacji dowiedzia³em siê, ¿e jecha³ do Gi¿ycka, ale w tym roku bêdzie to ³¹cznik 
+	do poci¹gu Warszawa Zach. - Ko³obrzeg. Bêdzie jeŸdzi³ na zmiany turnusów kolonijnych.
+
+3. TABOR
+3.1 Dlaczego tak ma³o jest lokomotyw serii EU07 i SU45?
+	Fakt, ¿e dodatki przewiduj¹ ich pracê przy ka¿dym poci¹gu pasa¿erskim nie oznacza, 
+	¿e to one prowadz¹ poci¹gi. Obecnie w Lublinie s¹ du¿e braki obu tych serii. Braki 
+	te wype³niaj¹: SM42 oraz ET22 (tak¿e z CM Bydgoszcz, ale nie da siê teraz wprowadziæ 
+	tablicy dotycz¹cej tak¿e Zak³adu Taboru). Gracz jako dyspozytor decyduje, co wysy³a 
+	- a to zale¿y od tego, co akuratma pod rêk¹:) Jak w ¿yciu:) Dodam tylko, ¿e trochê 
+	"siódemek" jest w naprawie, czêœæ odstawionych, a SU45 posz³y zwiedzaæ Roztocze:)
+3.2 Dlaczego niektóre wagony i lokomotywy nie wygl¹daj¹ tak, jak w rzeczywistoœci?
+	To prawda. Np. wagony Bhr oraz loki prywaciarzy zast¹pi³em innymi, bo po prostu nie 
+	ma ich teraz narysowanych. Pomó¿ i zrób brakuj¹ce tekstury, a jeœli zostan¹ 
+	zaakaceptowane przez grono fachowców, ja ró¿nie¿ z przyjemnoœci¹ je do³¹czê w 
+	nastêpnych wersjach.
+3.3 Dlaczego niektóre loki w oznaczeniu Zak³adu Taboru maj¹ "Lublin*" (z gwiazdk¹)?
+	Jeœli czegoœ nie opisa³em w tym pliku, zerknij do pliku "Lublin2006.txt" - 
+	w katalogu z ubieg³oroczn¹ wersj¹. A jeœli tam nie ma odpowiedzi na jakieœ pytanie - 
+	napisz: ltek@wp.pl (pierwsza litera to L) - odpowiem, a Twoje w¹tpliwoœci wzbogac¹ 
+	FAQ-a.
+3.4 Co zrobiæ, gdy zabraknie orlenowskiego loka TEM2?
+	Tablice prawdopodobieñstwa dopuszczaj¹ tak¹ mo¿liwoœæ, a z kolei przejœcia loków
+	s¹ zbudowane tak, ¿e musia³em wybraæ "mniejsze z³o". St¹d ma³e prawdopodobieñstwo,
+	ale jednak, ¿e ¿adna z dwóch lokomotyw przyje¿d¿aj¹cych z P³ocka nie bêdzie TEM2.
+	Proponujê namówiæ ekipê z cargowskiej SM42, by odstawi³a sk³ad na bocznicê, a do
+	P³ocka wróci to, co przyjecha³o. Mo¿e jutro bêdzie TEM2, a z Cargo jakoœ siê rozliczymy:)
+3.5 Dlaczego lokomotywy EU07, SM48, SP32 i SU45 przyje¿d¿aj¹ce o 12.48 i 19.58, a odje¿d¿aj¹ce o
+	13.13 i 20.30 tak dziwnie siê zachowuj¹ - same nie mog¹ siê poruszaæ?
+	Bo s¹ zepsute i dlatego o 20.30 jad¹ na naprawê do Gliwic i Nowego S¹cza, a inne
+	przyje¿d¿aj¹ o 19.58 na drobne naprawy do Lublina. Pomocna bêdzie jakaœ manewrówka.
+
+Mi³ej zabawy!
+Autor: Micha³ Lipiñski
+
+Korzysta³em z programów: 
+Edytor (stacji) dla Kolejarza (EdK), PathFinder (PF) oraz eRozk³ad (eR).
+
+Stacja Lublin powróci... w rozk³adach z lat 1980-85(ju¿ jest)-90-95-2000-05(ju¿ jest)-07
+(po korektach: lutowej i czerwcowej), ale najpierw Dêblin2007.

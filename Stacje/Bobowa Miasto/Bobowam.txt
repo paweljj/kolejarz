@@ -1,0 +1,47 @@
+                           BOBOWA MIASTO   dla   KOLEJARZA
+
+Bobowa Miasto jest usytuowana na linii Tarnów-Stró¿e.
+Jest to chyba stacja o najprostszym uk³adzie torowym na œwiecie.
+Jest tylko jeden tor i peron, zero rozjazdów.
+
+WYJAZDY:
+1- Kierunek: Stró¿e nastêpna stacja: Jankowa
+2- Kierunek: Tarnów nastêpna stacja: Bobowa
+
+ZMIANY:
+Drugi tor omijaj¹cy peron zosta³ dodany tylko na potrzeby gry,
+aby mo¿na by³o zmieniæ lokomotywê w poci¹gu w kierunku Tarnowa
+w przypadku awarii.
+
+UWAGI DOTYCZ¥CE KIEROWANIA RUCHEM:
+W przypadku awarii lokomotywy: 
+Nale¿y najpierw odes³aæ zepsut¹ lokomotywê do szopy, 
+a dopiero potem zamówiæ sprawn¹. Gdy lokomotywa
+zostanie zamówiona, a w miêdzyczasie na stacjê
+przybêdzie jakiœ poci¹g przelotowy nale¿y kazaæ
+czekaæ mu tak d³ugo a¿ lokomotywa przybêdzie z szopy
+i poci¹g w którym by³a zmieniana zostanie odprawiony.
+
+Nie nale¿y dopuœciæ, aby obydwa wyjazdy by³y zajête
+jednoczeœnie. W takim przypadku nale¿y jednemu z
+poci¹gów kazaæ czekaæ.
+
+LOKOMOTYWOWNIA:
+Najbli¿sze lokomotywownie s¹ 
+w Tarnowie i Nowym S¹czu (mniej wiêcej
+taki sam dystans), ale w Stró¿ach te¿
+chyba jakieœ stacjonuj¹ i w³aœnie stamt¹d
+mo¿emy zamawiaæ lokomotywy. 
+Czas zamówienia: 15 minut.
+Przy zamawianiu lokomotywy nale¿y zwróciæ uwagê, aby mia³a podniesiony
+prawid³owy pantograf (tylny).
+
+Przy budowie stacji korzysta³em z Edytora MK.
+Rozk³ad jazdy z roku 2003 na podstawie Internetowego Rozk³adu Jazdy.
+Sk³ady na podstawie w³asnych obserwacji.
+
+¯YCZÊ MI£EGO ZARZ¥DZANIA STACJ¥ BOBOWA MIASTO
+
+Grzegorz W¹sowicz     kolejoman@poczta.onet.pl
+
+Zapraszam na www.republika.pl/kolejoman

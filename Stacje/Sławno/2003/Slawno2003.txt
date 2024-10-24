@@ -1,0 +1,87 @@
+S³awno to doœæ du¿a stacja miêdzy S³upskiem a Koszalinem, czyli kolejny przystanek na linii
+"ba³tyckiej" Szczecin-Gdañsk (tab. 380 SRJP). Jest to rodzinne miasto Macieja Koplina, który
+nades³a³ mi plik stacji i rozk³ad pociagów towarowych. 
+
+		__________________________________
+
+			   ROZK£AD 2003
+		__________________________________
+
+*Rozk³ad jest oparty na okresie letnim. 
+*Obiegi i sk³ady poci¹gów dalekobie¿nych wed³ug dodatku 2b do SRJP 02/03 ze zmianami wg poprawek
+do Sieciowego RJP:
+	*pos 18501/81500: dodane kuszetki i sypialne (iloœæ taka jak w rozk³adzie 01/02)
+	*pos 58501/85500: odjêta kuszetka
+	*pos 81110/18111: dodany wagon barowy
+	*NEx 38703/83702: ca³kowicie nowy sk³ad
+*Mog¹ wystêpowaæ b³êdy w obiegach i sk³adach EZT.
+*Poci¹g z paliwem (8885/8884) nale¿y odstawiæ na jeden z ponumerowanych torów towarowych u do³u
+stacji. W rzeczywistoœci przyje¿d¿a jeden sk³ad o 10:55, SM-ka pod³¹cza siê do drugiego (stoj¹cego
+na stacji od dnia poprzedniego) i z nim wraca do S³upska. Sk³ad, który przyjecha³, odje¿d¿a dnia
+nastêpnego. Niestety w Kolejarzu nie to jest mo¿liwe.
+*Drezyna, która wyje¿d¿a na szlak nie kursuje codziennie - wyje¿dza wtedy, jak coœ jest do zrobienia
+np. œrubê trzeba dokrêciæ w szynach, przegl¹danie urz¹dzeñ itp.
+
+------
+Na szczêœcie rozk³ad wraca do pierwotnego stanu - w wakacje wszystko powinno byæ ju¿ zgodne
+z tym, co jest w SRJP. Nawet nie wiecie jaka to radoœæ wreszcie ujrzeæ poci¹g jad¹cy wreszcie
+normaln¹ prêdkoœci¹ rozk³adow¹ - 100 km/h :)))
+------
+
+		__________________________________
+
+			      STACJA
+		__________________________________
+
+
+* Uk³ad torów jest wykonany w 90 %, stacja stworzona przez Macieja Koplina (plus moje ma³e poprawki)
+* Wjazdy/wyjazdy na stacji:
+- nr 1 : wyjazd na S³upsk, Gdañsk
+- nr 2 : wyjazd na Koszalin, Szczecin, Poznañ
+- nr 3 : wyjazd na Dar³owo - niedawno gruntownie zmodernizowany, lecz nie jest u¿ywany w ruchu
+pasa¿erskim (jest znaczenia pañstwowego, wiêc dlatego zosta³ odnowiony)
+- nr 4 : ju¿ nie istnieje - górny tor III peronu bieg³ kiedyœ do Korzybia, obecnie jest on rozebrany
+* inne obiekty:
+- niezelektryfikowane tory u góry stacji - dawna parowozownia. Nie ma do niej wjazdu, gdy¿
+nie jest u¿ywana (jedynie ostatnio w zwi¹zku z wymian¹ torów na szlaku Lêbork-Œwidwin sta³o
+tam du¿o wagonów i maszyn)
+- górny tor peronu 1 jest zamkiêty, dlatego et¿ nie da siê na niego wjechaæ
+- ponumerowane tory u do³u stacji - stacja paliw CPN (tam przyje¿d¿a poci¹g ze S³upska)
+
+* Najbli¿sza lokomotywownia jest w Gdynii, ale ze wzglêdu na odleg³oœæ, loka mo¿na œci¹gn¹æ ze S³upska
+(gdzie zawsze stacjonuje jakaœ lokomotywa). Czas dojazdu loka ze S³upska od zamówienia wynosi 45 minut.
+
+		__________________________________
+
+			       INNE
+		__________________________________
+
+*powstanie rozk³adu u³atwi³ program StationInfo 1.0
+*powstanie stacji program Edytor dla Kolejarza (EdK) Wersja 2.35 kompilacja 5003 oraz PathFinder 2.0
+*Wszelkie uwagi nt. przebiegów i sk³adów proszê przesy³aæ na mój e-mail: 
+
+		_____________________________________
+ 		                     
+			  mk_koszalin@pf.pl
+		_____________________________________
+
+*Uwagi nt. stacji proszê przesy³aæ na e-mail: 
+
+		_____________________________________
+ 		                     
+		       m.koplin.pkp@interia.pl
+		_____________________________________
+
+*No i zapraszam do odwiedzin mojej strony internetowej, gdzie mo¿na znaleŸæ najnowsze rozk³ady:
+
+		_____________________________________
+ 		                     
+			www.mk.koszalin.prv.pl
+		_____________________________________
+
+		
+
+Mi³ej pracy!
+Marek Skrzypkowski
+Maciej Koplin
+

@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=iso-8859-2" />
+  <meta name="Description" content=" [wstaw tu opis strony] " />
+  <meta name="Keywords" content=" [wstaw tu slowa kluczowe] " />
+  <meta name="Author" content=" [dane autora] " />
+  <meta name="Generator" content="kED2" />
+
+  <title> [tytuł strony] </title>
+
+  <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+
+<h3>Jak kierować ruchem</h3>
+
+<ul class="normal">Podczas rozpoczynania nowej gry, po wczytaniu rozkładu jazdy, mamy możliwość wyboru kilku opcji:
+	<li>Uwzględnij pochodzenie lokomotyw - zaznaczenie tej opcji powoduje, iż każda lokomotywa posiada dodatkowo nazwę lokomotywowni, z której pochodzi. W rozkładzie jazdy obok typu lokomotyw pojawi się także nazwa jej lokomotywowni. Gracz będzie zmuszony do przestrzegania pewnych reguł dotyczących możliwości wysyłania lokomotyw z konkretnymi pociągami. </li>
+	<li>Gra testowa - charakteryzuje się ona brakiem generowania przez program opóźnień pociągów oraz nie występowaniem popsutych loków i jednostek. O trybie gry testowej informuje napis w lewym dolnym rogu programu.</li>
+</ul>
+
+<ul class="normal">Oprócz tego gracz jest informowany o tym, czy:
+	<li>rozkład zawiera podgląd całych składów. </li>
+</ul>
+
+<p>Pociągi na stacji pojawiają się zgodnie z rozkładem jazdy. </p>
+<ul class="normal">Sposób prezentacji przyjeżdżających pociągów jest zależny od rodzaju linii:
+	<li>linia dwutorowa - <span class="ziel">pociąg zajmuje odcinek dojazdowy do stacji</span> z wyprzedzeniem określonym w pliku z opisem stacji. W tym czasie jest on wyświetlany w rozkładzie kolorem <span class="ziel">zielonym</span>. Jeżeli odcinek ten jest zajęty, pociąg jest opóźniany i <span class="czerw">czeka na jego zwolnienie</span>. W tym czasie w rozkładzie ma on kolor <span class="czerw">czerwony</span>. </li>
+	<li>linia jednotorowa - w momencie pojawienia się pociągu na sąsiednim posterunku, pojawia się okno z pytaniem o pozwolenie zajęcia odcinka (Okno to jest również dostępne po naciśnięciu cyfry odpowiadającej numerowi wjazdu).</li>
+</ul>
+<ul class="normal">Zawiera ono następujące wiadomości o pociągach dojeżdżających do naszej stacji:
+	<li>planowa godzina przyjazdu </li>
+	<li>rodzaj pociągu</li>
+	<li>numer</li>
+	<li>relacja</li>
+	<li>rzeczywista godzina przyjazdu</li>
+</ul>
+
+<p>Im pociąg ma mniejszy numer kolejny, tym bliżej jest naszej stacji. Jeżeli okno nie zawiera żadnych numerów kolejnych, oznacza to, że na odcinku dojazdowym do stacji może znajdować się tylko jeden pociąg. Skład ten jest wyświetlany po wybraniu myszką punktu wjazdowego.</p>
+<p>Gracz może udzielić zgody, wówczas <span class="ziel">pociąg wjedzie na odcinek dojazdowy i będzie wyświetlany w rozkładzie na zielono</span>. Drugą możliwością jest nakazanie czekania określoną liczbę minut. Po tym czasie pociąg zgłosi się ponownie. <span class="czerw">Podczas czekania na mijance, pociąg jest wyświetlany w rozkładzie na czerwono</span>. Na odcinku dojazdowym może się znajdować więcej niż jeden pociąg jednocześnie. Ich ilość ilustrują kolejne cyferki we wcześniej wspomnianym oknie. Oczywiście wszystkie z nich muszą jechać w tym samym kierunku. Okno z pytaniem o pozwolenie zajęcia odcinka pojawia się tylko wtedy, jeżeli istnieje możliwość zajęcia tego odcinka. W przeciwnym przypadku pociąg jest automatycznie opóźniany.</p>
+<p>Po dojeździe do stacji, <span class="nieb">pociąg pojawia się na odpowiednim punkcie wjazdowym z pewnym wyprzedzeniem</span>, tak aby o godzinie określonej w rozkładzie jazdy mógł znaleźć się na peronie. <span class="nieb">W tym samym czasie zostaje on wyświetlony w rozkładzie jazdy kolorem niebieskim</span>. Po zaznaczeniu trasy prowadzącej na peron znika on z okna najbliższych przyjazdów. </p>
+
+<p>Klikając prawym klawiszem myszy dokonujemy wyboru pociągu. W dolnym okienku możemy zobaczyć wybrany pociąg. W przypadku wjazdów na liniach jednotorowych kliknięcie na wjazd może nie spowodować pojawienia się rysunku pociągu w dolnym okienku. Oznacza to, iż pociąg nie zajął jeszcze ostatniego odcinka dojazdowego do naszej stacji. </p>
+<ul class="normal">Widzimy następujące informacje o wybranym pociągu:
+	<li>rodzaj, typ i nazwę lokomotywowni (o ile występuje) lokomotywy; <span class="czerw">jeżeli informacja jest wyświetlona kolorem czerwonym oznacza to, iż lokomotywa jest zepsuta</span>,</li>
+	<li>peron na który pociąg powinien wjechać (cyfry rzymskie),</li>
+	<li>numer pociągu,</li>
+	<li>numer punktu wyjazdowego,</li>
+	<li>godzinę odjazdu pociągu,</li>
+	<li>opóźnienie (o ile występuje),</li>
+	<li>relację.</li>
+</ul>
+<p>Jeżeli powyższe informacje są wyświetlone <span class="kurs">kursywą, oznacza to, iż dany pociąg jest w ruchu lub, że została zatwierdzona dla niego trasa odjazdu</span>.
+Czcionka <span class="pogr">pogrubiona świadczy o procesie rozłączania lub łączenia</span>.
+Kolor <span class="ziel">zielony oznacza pociąg kończący bieg</span>. Taki skład nie może opuścić peronu. Po 5 minutach podpis zmieni kolor na czarny.</p>
+
+<ul class="normal">Po najechaniu myszką na rysunek wagony lub lokomotywy pojawi się dymek z dodatkowymi informacjami. W przypadku lokomotywy będzie to jej rodzaj i nazwa lokomotywowni z której pochodzi. W pozostałych przypadkach będą to następujące informacje:
+	<li>P:__ - numer peronu (cyfry rzymskie)</li>
+	<li>Nr:__ - numer pociągu</li>
+	<li>W:__ - numer wyjazdu</li>
+	<li>Godz:__ - rzeczywista godzina przyjazdu lub odjazdu (godzina planowa+opóźnienie)</li>
+	<li>(_) - kolejność danej grupy wagonów w całym składzie, o ile skład zawiera więcej niż jedną grupę wagonów</li>
+	<li>relacja.</li>
+</ul>
+<p>Taki sam opis pojawi się w "dymku"" na torach postojowych.</p>
+
+
+<p>Aby zaznaczyć trasę dla wybranego pociągu klikamy lewym klawiszem myszy na punkt docelowy. Może to być peron, punkt postojowy, tory postojowe, tory towarowe lub lokomotywownia. Zostaną wówczas wyświetlone wszystkie drogi jakie możemy wybrać. Wyboru dokonujemy poprzez naciśnięcie lewego klawisza myszy na punkcie, który jednoznacznie identyfikuje trasę.<br>
+Jeżeli trasa prowadzi na tory postojowe zostanie wyświetlona dodatkowo okienko, w którym należy wybrać odpowiedni tor.<br>
+Jeżeli chcemy wyjechać składem z torów postojowych klikamy lewym klawiszem myszy na semafor i dalej wybieramy trasę we wcześniej opisany sposób.</p>
+
+<p>Na peronach, torach postojowych i torach towarowych możemy dodatkowo łączyć lub rozłączać składy. Aby tego dokonać należy nacisnąć prawy lub lewy klawisz myszy na rysunku odpowiedniego członu składu. Przyłączenie lokomotywy do składu trwa 3 minuty, a pozostałe operacje 1 minutę. Wybór klawisza myszy określa, czy dana operacja będzie wykonana na początku, czy też na końcu wagonu.</p>
+
+<p>Jeżeli chcemy wysłać pociąg w trasę zaznaczamy dla niego drogę od peronu lub torów towarowych do wyjazdu. Operacja ta jest możliwa na 30 minut przed planową godziną odjazdu pociągu. Po zaznaczeniu trasy pociąg sam odjedzie o planowej godzinie. W przypadku pociągów opóźnionych nastąpi to natychmiast po zaznaczeniu trasy. Pociągi towarowe mogą wyjeżdżać w trasę również z torów towarowych. Po opuszczeniu peronu pociąg zniknie z okienka najbliższych odjazdów. W okienku tym <span class="czerw">pociągi, które powinny już opuścić naszą stację są oznaczone kolorem czerwonym</span>. Kolor <span class="nieb">niebieski sygnalizuje, iż pociąg znajduje się na stacji</span>. Po minięciu punktu wyjazdowego pociąg zajmie odcinek wyjazdowy ze stacji. Dopiero po pokonaniu tego odcinka punkt wyjazdowy zostanie zwolniony. Na liniach jednotorowych pociąg musi dojechać do najbliższego posterunku. Dopiero wówczas inny pociąg jadący w przeciwnym kierunku, może wjechać na szlak. Czasy pokonania wyżej wymienionych odcinków są zależne od konkretnej linii. Parametry danej linii można obejrzeć wybierając z menu Rozkład opcję Wjazdy/Wyjazdy. </p>
+
+<p>Po kliknięciu prawym klawiszem (lub naciśnięciu klawisza 'L') myszy na lokomotywowni widzimy jej zawartość. W przypadku, gdy wjazd lokomotywowni jest zajęty jej stan możemy zobaczyć tylko poprzez skrót klawiszowy. Pierwsza liczba mówi nam o ilości sprawnych lokomotyw danego typu, druga o ilości uszkodzonych, a trzecia o ilości zamawianych lokomotyw. Aby zamówić lokomotywę należy kliknąć na jej rysunku, a następnie wybrać z wyświetlonej listy nazwę lokomotywowni, z której ona pochodzi. Jeżeli wybraliśmy grę bez nazw lokomotywowni, wówczas aby zamówić lokomotywę wystarczy kliknąć na jej rysunku. Po pewnym czasie lokomotywa wyjedzie i będzie można zaznaczyć dla niej trasę.</p>
+
+<p>Skład pociągu wyjeżdżającego z naszej stacji nie może być dowolny. Musi być on zgodny z opisem zawartym w rozkładzie jazdy. Należy pamiętać o odpowiedniej kolejności wagonów, oraz o odpowiedniej lokomotywie.</p>
+<ul class="normal">Reguły dotyczące wagonów:
+	<li>wagony muszą być spięte w takiej kolejności w jakiej występują w rozkładzie;</li>
+	<li>nie wolno spinać wagonów z różnych pociągów w jeden skład.</li>
+</ul>
+<p>Te same reguły obowiązują dla EZT i autobusów szynowych.</p>
+<ul class="normal">Reguły dotyczące lokomotyw:
+	<li>pociąg może być prowadzony przez lokomotywę z lokomotywowni określonej w rozkładzie, lub przez lokomotywę z naszej stacji; </li>
+	<li>jeżeli pociąg przyjedzie z uszkodzoną lokomotywą lub jednostką, podczepiamy do niego lokomotywę z naszej stacji (uszkodzonej lokomotywy nie odczepiamy);</li>
+	<li>do pociągu nie może być podpiętych więcej niż 2 lokomotywy - wyjątek stanowi sytuacja, gdy pociąg przyjeżdża z dwoma popsutymi lokomotywami. W takiej sytuacji podczepiamy na początku lokomotywę z naszej stacji;</li>
+	<li>lokomotywa podczepiona do popsutego składu wróci po jakimś czasie na naszą stację;</li>
+	<li>lokomotywy muszą się znajdować na początku składu;</li>
+	<li>EZT i autobusy szynowe muszą się znajdować na początku składu lub tuż za lokomotywą.</li>
+</ul>
+
+<p>Reguły dotyczące lokomotyw można wyłączyć na początku gry, po wczytaniu stacji i rozkładu. Wówczas program nie sprawdza pochodzenia lokomotyw.</p>
+
+
+</body>
+</html>

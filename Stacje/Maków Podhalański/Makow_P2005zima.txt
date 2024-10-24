@@ -1,0 +1,38 @@
+                         MAKÓW PODHALAÑSKI
+
+Stacja Maków Podhalañski jest po³o¿ona na linii Kraków-Zakopane.
+
+WYJAZDY:
+1-kierunek Kraków P³aszów
+2-kierunek Zakopane
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje siê w Krakowie P³aszowie.
+Ale ze wzglêdu wymagania programu umieœci³em j¹ w Suchej Beskidzkiej.
+Czas zamówienia: 20 minut
+W Suchej Beskidzkiej stacjonuje zawsze pojedyncza lokomotywa 
+elektryczna ET21.
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Widok na uk³ad torów od strony budynku stacji.
+Litery BS na schemacie stacji oznaczaj¹ budynek stacji.
+Litery PLAC na schemacie stacji oznaczaj¹ plac wy³adowczy.
+Litera N na schemacie stacji oznacza nastawnie.
+
+SK£ADY I LOKI:
+Na podstawie w³asnych obserwacji.
+Obiegi jednostek EZT na podstawie dodatku 2D.
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie elektronicznego rozk³adu jazdy
+HAFAS z roku 2005 oraz dodatków 2D i 4B do WRJPT.
+Obejmuje dni tygodnia od poniedzia³ku do piatku.
+
+AUTOR:
+Krzysztof W¹dolny            nmwadoln@imim-pan.krakow.pl
+
+PODZIEKOWANIA:
+Bardzo dziekujê Panu mgr inz. Janowi Mamajko za udostêpnienie rozk³adu
+jazdy poci¹gu towarowego 11573 oraz Paw³owi Okrzesikowi za nades³anie 
+rozk³adów pozosta³ych poci¹gów towarowych.

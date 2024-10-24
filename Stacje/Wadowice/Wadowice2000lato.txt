@@ -1,0 +1,42 @@
+                  WADOWICE dla Kolejarza 1.63
+
+WYJAZD:
+1-kierunek Kalwaria Zebrzydowska Lanckorona
+2-kierunek Bielsko-Bia³a
+3-kierunek Spytkowice
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje sie w Krakowie P³aszowie. 
+Czas oczekiwania na lokomotywe - 80 minut.
+
+UK£AD TOROWY:
+Uk³ad torowy stacji jest napisany z dok³adnoœcia co do rozjazdu.
+Peron pierwszy zosta³ wybudowany na pocz¹tku lat dziewiêdziesi¹tych
+ubieg³ego wieku tylko w po³owie i od toru niezelektryfikowanego 
+oddzielony jest drewniana barierk¹. Natomiast tory w kierunku stacji 
+Kalwaria Zebrzydowska Lackorona zakoñczone sa tylko po³o¿onymi na torach
+podk³adami. Ukoñczenie stacji nie jest kontynuowane w zwi¹zku
+z przewidywan¹ w ci¹gu kilku lat likwidacja lini 117
+Obok wyjazdu pierwszego jest bocznica od kilkunastu lat nieuzywana 
+Widok na uk³ad torów od strony budynku stacji.
+
+SK£ADY I LOKOMOTYWY:
+Jednostki sa autentyczne na postawie obserwacji w³asnych. 
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie sieciowego rozk³adu jazdy pociagów z lata 2000
+Obejmuje dni tygodnia od poniedzia³ku do piatku. Rozk³ad jazdy poci¹gu 
+towarowego z dodatku 4B
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby lokomotywa z lokomotywowni wjecha³a na stacje, nale¿y wybraæ trasê do 
+pierwszego punktu manewrowego od wjazdu pierwszego lub trzeciego (wynika 
+to z faktu, ¿e odleg³oœæ do lokomotywowni jest jednakowa z obu wyjazdów).
+
+AUTOR:
+Krzysztof Wadolny            nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1
+
+PODZIÊKOWANIE:
+Bardzo dziêkujê Paw³owi Okrzesikowi za nades³anie zdjêæ stacji i rysunku 
+proponowanego uk³adu torowego.

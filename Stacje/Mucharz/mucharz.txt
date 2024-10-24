@@ -1,0 +1,36 @@
+                  Mucharz dla Kolejarza 1,63
+
+Mucharz by³ stacj¹ po³o¿on¹ na linii Wadowice - Skawce.
+Linia zosta³a zlikwidowana od rozk³adu 1987/88.
+Natomiast torowisko od stacji Mucharz do Skawiec
+zosta³o rozebrane w 1993 roku.
+ 
+WYJAZDY:
+1-kierunek Wadowice
+2-kierunek Skawce
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajdowa³¹ siê w Suchej Beskidzkiej.
+Czas oczekiwania na parowóz - 30 minut
+
+UK£AD TOROWY:
+Uk³ad torów przedstawiony z dok³adnoœci¹ co do rozjazdu.
+Widok na uk³ad torów od strony budynku stacji.
+
+SK£ADY I LOKOMOTYWY:
+Fikcyjne.
+
+ROZK£AD JAZDY:
+Stacja napisana na podstawie Sieciowego Rozk³adu Jazdy Poci¹gów 
+z roku 1974/75. Poci¹gi towarowe s¹ fikcyjne i maj¹ na celu 
+uaktrakcyjnienie symulacji, gdy¿ dotarcie do materia³ów sprzed
+trzydziestu laty jest praktycznie niemo¿liwe.
+Obejmuje dni tygodnia od poniedzia³ku do pi¹tku.
+
+UWAGI DO RUCHU POCI¥GÓW:
+Aby parowóz wjecha³ na stacje nale¿y wybraæ trase do
+pierwszego punktu manewrowego od wjazdu drugiego.
+
+AUTOR:
+Krzysztof W¹dolny   nmwadoln@imim-pan.krakow.pl
+Przy pisaniu uk³adu torowego stacji korzysta³em z programu Pathfinder 1,1

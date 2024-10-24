@@ -1,0 +1,16 @@
+Stacja Gorlice Zagórzany
+Wersja: 2,10 2003-05-11
+Autor: Rafa³ Kolczyñski
+e-mail: Meteorkkr@wp.pl
+
+Tory wychodz¹ce ze stacji:
+1- kierunek Stró¿e
+2- kierunek Jas³o, Zagórz
+3- kierunek Gorlice
+
+W rzeczywistoœci poci¹gi do Gorlic czekaj¹ na te z kierunku Stró¿y i Jas³a, czyli je¿eli te s¹ opóŸnione to te do Gorlic odje¿d¿aj¹ te¿ opóŸnione (a za to s¹ punkty karne...).
+
+Jest to druga wersja stacji, ju¿ z poci¹gami towarowymi.
+Przy tworzeniu stacji korzysta³em z EdytoraMK oraz PathFindera.
+Dziêkujê za pomoc przy tworzeniu stacji i rozk³adu panu JóŸwickiemu.
+Pozdrawiam wszystkich mi³oœników Kolejarza.

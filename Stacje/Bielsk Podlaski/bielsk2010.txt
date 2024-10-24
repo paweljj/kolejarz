@@ -1,0 +1,21 @@
+                  Bielsk Podlaski 2009/2010
+
+WYJAZD:
+1-kierunek Czeremcha
+2-kierunek Bia³ystok
+
+
+LOKOMOTYWOWNIA:
+Najbli¿sza lokomotywownia znajduje sie w Czeremsze i Bia³ymstoku, ale na potrzeby gry w nag³ych przypadkach umieœci³em j¹ na samym dole stacji
+
+
+UK£AD TOROWY:
+Uk³ad torowy stacji z w wlasnych obserwacji.
+
+SK£ADY I LOKOMOTYWY:
+Autobusy szynowe na postawie obserwacji w³asnych. Towarowe to czysta fikcja, ale poci¹gi towarowe bywaj¹ na stacji,
+najczêsciej w relacji Czeremcha-Bielsk
+
+ROZK£AD JAZDY:
+Stacja napisana na postawie sieciowego rozk³adu jazdy pociagów,obejmuje wszytskie poci¹gi od Pon do Nd
+

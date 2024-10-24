@@ -1,0 +1,11 @@
+Stronie Œl.2002
+Rozk³ad jazdy obowi¹zuj¹cy do 14.12.2002
+
+Przy tworzeniu programu pomog³y nastêpuj¹ce programy:
+StationInfo 1.0
+Edk 2.35
+PathFinder 2.0
+
+Bart³omiej Jasiñski 
+btmtk@poczta.fm
+Bydgoszcz

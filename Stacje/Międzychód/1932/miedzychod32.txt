@@ -1,0 +1,29 @@
+Stacja: Miêdzychód 1932
+Autor: Tomasz Kossowski
+e-mail: tkoss@main.amu.edu.pl
+Rozk³ad jazdy: 1932
+
+Data utworzenia: 28-02-2004.
+
+Wersja dla Kolejarza 1.61.
+
+Stacja Miêdzychód by³a stacj¹ wêz³ow¹ dla kilku niezelektryfikowanych
+drugorzêdnych linii, oraz stacj¹ graniczn¹. Uk³ad torowisk jest oddany w 100%.
+Rozk³ad jazdy osobowych i towarowych odpowiada³ rzeczywistoœci. Sk³ady poci¹gów osobowych
+s¹ oddane wiernie, a towarowych s¹ moj¹ fantazj¹. Poprawne s¹ te¿ obiegi parowozów.
+Szopa mia³a miejsce  dla 2 loków.
+
+Wyjazdy: (1) Poznañ G³. - przez Rokietnicê, (2) Landsberg Warthe i Meseritz - rozga³êzienie
+tych linii znajduje siê 8 km dalej, (3) Szamotu³y, (4) Zb¹szyñ. Wyjazd (2) by³ obs³ugiwany tylko
+przez drezynê Korpusu Ochrony Pogranicza - nie wprowadzono do rozk³adu.
+
+Dane o pociagach oraz ich sk³adach zaczerpniêto z:
+1. Urzêdowy Rozk³ad Jazdy Poci¹gów 1932/1933,
+2. S³u¿bowy Rozk³ad Jazdy Poci¹gów 1932/1933 dla Dyrekcji P.K.P. w Poznaniu
+3. Plan Zestaiwenia i Obiegu Sk³adów Poci¹gów dla Dyrekcji P.K.P. w Poznaniu
+Materia³y te s¹ dostêpne w Bibliotece G³ównej UAM w Poznaniu
+
+Wykorzystano:
+Kostka dla Kolejarza 0.9.1.1 oraz PathFinder 2.0.
+
+W przygotowaniu
